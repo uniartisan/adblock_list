@@ -1,5 +1,5 @@
 [uniartisan's Adblock List Lite]
-! Version: 202212230527
+! Version: 202212230508
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
