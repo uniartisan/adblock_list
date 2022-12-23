@@ -1,0 +1,12 @@
+
+.vscode/launch.json
+.ssh/id_rsa
+*.pub
+.bashrc
+.bash_history
+.gitconfig
+.profile
+.ssh/known_hosts
+.wget-hsts
+scripts/tools/__pycache__/*.pyc
+.vscode/settings.json

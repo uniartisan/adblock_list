@@ -1,0 +1,26 @@
+blog.csdn.net##div.leftPop:nth-child(50)
+zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky:last-child > div > div.Sticky > div.Card.AppBanner:first-child
+icourse163.org###j-activityBanner
+blog.csdn.net##div.leftPop:nth-child(58)
+blog.csdn.net##div.leftPop:nth-child(53)
+icourse163.org###j-learningState-container
+wenku.baidu.com##a.zsj-topbar.mini:first-child
+icourse163.org###wxItemTab > div.hover-content:last-child
+bilibili.com###app > div.international-home > a.contact-help:last-child
+icourse163.org###courseLearn-inner-box > div > div.m-lessonDetail > div.j-lscontent.lscontent:last-child > div.j-unitct.unitct:nth-child(2) > div.m-learnunitUI.f-pr.learn-plan-container:last-child > div.j-unitctBox.unitctBox.f-pr:first-child > div.ux-modal.um-recommend-modal.ux-modal-fadeIn:last-child > div.ux-modal_dialog
+baike.baidu.com###J-declare
+baike.baidu.com##div.header-wrapper.pc-header-new:first-child > div.header:last-child > div.layout > a.topA:last-child
+baike.baidu.com##div.body-wrapper:nth-child(3) > div.content-wrapper:nth-child(2) > div.content > div.side-content:last-child > div.lemmaWgt-promotion-slide:nth-child(4) > div.promotion_viewport
+bbs.360.cn##div.apk-download:nth-child(6)
+icourse163.org###j-sidebar > div.u-sidebar-container > div.u-s-imgRec:last-child > div.s-imgRec-i > div.c-recImg-container
+blog.csdn.net##div.leftPop:nth-child(44)
+blog.csdn.net##div.leftPop:nth-child(55)
+wenku.baidu.com##.one-pan-link-mark.reader-extensin
+||ogs.google.*/widget/callout$subdocument
+gitee.com##.wechat-banner.message.icon.ui
+avgle.com###ps32-container
+jd.com###J_promotional-top > a.promotional-top.one-pan-link-mark
+
+! baidu 热榜，皮肤提示
+baidu.com###s-hotsearch-wrapper
+baidu.com###u1 > div.guide-info:last-child

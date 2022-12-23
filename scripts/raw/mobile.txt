@@ -1,0 +1,4 @@
+! 百度规则
+baidu.com###tab_news_1
+baidu.com###tab_news_1 > div.tab-news-content.water-container:nth-child(2) 
+baidu.com###header > div:last-child > div > a:first-child
