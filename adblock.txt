@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202212261437
+! Version: 202212270240
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26541
+! Lenth = 26544
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -907,7 +907,6 @@
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
-##A[href*="/ky0666.cn"]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##[class][onclick*=".ununxsxs.top"]
@@ -1216,6 +1215,7 @@
 ##a[href*="/ksbz1017.com"]
 ##a[href*="/kt169.com"]
 ##a[href*="/ky010.vip"]
+##a[href*="/ky0666.cn"]
 ##a[href*="/ky1010.cn"]
 ##a[href*="/ky7993.com:"]
 ##a[href*="/ky9897.cn"]
@@ -14438,7 +14438,6 @@ zztt24.com##.no-mask
 ||b.kouke5.com^
 ||b.unjs.com^
 ||b0rbgroup.xyz^
-||b1.027art.com^
 ||b1.51scw.net^
 ||b1.91jucai.com^
 ||b1.b2b168.com^
@@ -16842,6 +16841,7 @@ zztt24.com##.no-mask
 ||ere.wew.92kkdy.cc^
 ||erebor.douban.com^
 ||ergeapp.com^$third-party
+||erhsxv.top^
 ||erna.xyz^
 ||eroo.shop^
 ||erop.store^
@@ -18629,6 +18629,7 @@ zztt24.com##.no-mask
 ||igusoft.com^
 ||ih336.com^*a.js
 ||ihais.com^
+||ihdqpyc.cn^
 ||ihear123.com^
 ||ihhii.xyz^
 ||ihhmh.com/mg/show
@@ -23208,6 +23209,7 @@ zztt24.com##.no-mask
 ||smyarlr.cn^
 ||smzy.com/v1/img/
 ||sn0hb.cn^
+||snbklas.cn^
 ||sniglet.online^
 ||snmi.cn^$third-party
 ||snuoen.com^
@@ -23409,6 +23411,7 @@ zztt24.com##.no-mask
 ||static.jfrft.com/js/main_video.js^$script,redirect=noopjs,domain=dilidili.wang,important
 ||static.jiaquyi.com^
 ||static.meijiacun.com^
+||static.rongkao.com^
 ||static.tianyaui.com^*/stat_20080313.js
 ||static.tohomh123.com/js/funasd.js
 ||static.xshuyaya.com/m/d.js

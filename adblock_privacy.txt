@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202212261437
+! Version: 202212270240
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51288
+! Lenth = 51291
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -9140,6 +9140,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||top.list.ru/jump?from=$domain=pvo.guns.ru
 @@||toplay.biz/log_event$~third-party,xmlhttprequest
 @@||torrentsafe.com/fingerprint2.min.js
+@@||townwork.net/js/AppMeasurement.js$~third-party
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|voici.fr
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
@@ -13843,6 +13844,7 @@ znak.com##.relap
 ||analytics.convertlanguage.com^
 ||analytics.core.retell.cc^
 ||analytics.corusent.com^
+||analytics.crea.ca^
 ||analytics.cyrillus.be^
 ||analytics.cyrillus.ch^
 ||analytics.cyrillus.de^
@@ -46468,6 +46470,7 @@ znak.com##.relap
 ||tracelytics.com^$third-party
 ||tracemyip.org^$third-party
 ||traceprof.com^$third-party
+||tracer.autoscout24.ch^
 ||tracer.jp^$third-party
 ||tracer.perezhilton.com^
 ||traces.sr.roku.com^

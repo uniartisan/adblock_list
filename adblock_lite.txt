@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202212261437
+! Version: 202212270240
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23963
+! Lenth = 23966
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -11860,7 +11860,6 @@ zztt24.com##.no-mask
 ||b.kouke5.com^
 ||b.unjs.com^
 ||b0rbgroup.xyz^
-||b1.027art.com^
 ||b1.51scw.net^
 ||b1.91jucai.com^
 ||b1.b2b168.com^
@@ -14264,6 +14263,7 @@ zztt24.com##.no-mask
 ||ere.wew.92kkdy.cc^
 ||erebor.douban.com^
 ||ergeapp.com^$third-party
+||erhsxv.top^
 ||erna.xyz^
 ||eroo.shop^
 ||erop.store^
@@ -16051,6 +16051,7 @@ zztt24.com##.no-mask
 ||igusoft.com^
 ||ih336.com^*a.js
 ||ihais.com^
+||ihdqpyc.cn^
 ||ihear123.com^
 ||ihhii.xyz^
 ||ihhmh.com/mg/show
@@ -20630,6 +20631,7 @@ zztt24.com##.no-mask
 ||smyarlr.cn^
 ||smzy.com/v1/img/
 ||sn0hb.cn^
+||snbklas.cn^
 ||sniglet.online^
 ||snmi.cn^$third-party
 ||snuoen.com^
@@ -20831,6 +20833,7 @@ zztt24.com##.no-mask
 ||static.jfrft.com/js/main_video.js^$script,redirect=noopjs,domain=dilidili.wang,important
 ||static.jiaquyi.com^
 ||static.meijiacun.com^
+||static.rongkao.com^
 ||static.tianyaui.com^*/stat_20080313.js
 ||static.tohomh123.com/js/funasd.js
 ||static.xshuyaya.com/m/d.js
