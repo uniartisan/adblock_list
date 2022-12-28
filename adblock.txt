@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202212270240
+! Version: 202212280245
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26544
+! Lenth = 26558
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -3672,6 +3672,7 @@ $websocket,domain=5nj.com|cechi8.com
 77mh.cc###bdcotopnew
 7808.cn###float-chat
 7808.cn###force-popup
+789ys.com,domp4.cc##h1[style]
 789ys.com,fffdm.com##ul[style]
 78dm.net###qpgg
 78dm.net##.ad_logor
@@ -14456,6 +14457,7 @@ zztt24.com##.no-mask
 ||b4dg.life/love/
 ||b4jy.top^
 ||b53.xyz^
+||b62.xyz^
 ||b6c4.top^
 ||b7sw62.pingshu8.xyz^
 ||b7yy.com/ad/
@@ -15057,6 +15059,7 @@ zztt24.com##.no-mask
 ||bqzhh.com/rr/
 ||braincf.com^
 ||brand.sogou.com/micro?yyid=
+||brmzopt.cn^
 ||brstke.top^
 ||brysogsiv.uno^
 ||bs.baidu.com/app-ads%
@@ -16414,6 +16417,7 @@ zztt24.com##.no-mask
 ||dongsonn.uno^
 ||dongtian.buzz^
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
+||dongya.org^
 ||doniv.net^$third-party
 ||doremi.ink^
 ||dota.sykty.com^
@@ -17336,6 +17340,7 @@ zztt24.com##.no-mask
 ||gbpofla.cn^
 ||gbzumh.cn^
 ||gccode.gongchang.com^
+||gcihkyd.cn^
 ||gclick.cn^$third-party
 ||gcpvkfe.cn^
 ||gctd.xyz^
@@ -17614,9 +17619,11 @@ zztt24.com##.no-mask
 ||gqdfgyz.cn^
 ||gqvdcek.cn^
 ||gralfusnzpo006.top^
+||gravvxa.cn^
 ||greatnfq.com^
 ||greatnfw.com^
 ||greatwit.cn^
+||grecoi.xyz^
 ||greenadoption.cn^
 ||greenet.cn^*_popu_$popup
 ||greenhouseglobal.cn^
@@ -18617,6 +18624,7 @@ zztt24.com##.no-mask
 ||ifulidh.*/images/xb.jpg
 ||ifunmac.com/wp-content/uploads/*/alipay-
 ||ifvpetu.cn^
+||ifyso.icu^
 ||ig1a.top^
 ||igame2steam.com^
 ||igamepark.biz/ads_output.php
@@ -19396,6 +19404,7 @@ zztt24.com##.no-mask
 ||js0573.com/images/cus/
 ||js1.dadiniu.cn^
 ||js1.haoge500.com^
+||js22f.net^
 ||jsb.qianzhan.com^
 ||jsboom.cn^
 ||jsckjqr.com^$third-party
@@ -19826,6 +19835,7 @@ zztt24.com##.no-mask
 ||kqvkvc3.com^
 ||krkcryk.cn^
 ||krp3g.top^
+||krqole.xyz^
 ||krurkex.com^
 ||krysogsid.uno^
 ||ks2g.top^
@@ -25428,6 +25438,7 @@ zztt24.com##.no-mask
 ||xxl.bt-xd.com^$third-party
 ||xxooos.com/mm/
 ||xxrsxs.cn^
+||xxvkwuk.cn^
 ||xxwd.ltd^
 ||xxzj.pro^
 ||xy98.com.cn^
@@ -26087,6 +26098,7 @@ zztt24.com##.no-mask
 ||zgktxx.com^
 ||zglww.net/jsnew/pfkf.js
 ||zglzkg.com^
+||zgm1.com^
 ||zgmtw.mobi^
 ||zgnlaigq.fun^
 ||zgnz020.mobi^
@@ -26142,6 +26154,7 @@ zztt24.com##.no-mask
 ||zhenben.cc/2000/
 ||zhenbuka*/statics/js/toastr/jquery.toast.js
 ||zhengjie.com/a_d?
+||zhengtong.link^
 ||zhengxiaoliu.top^
 ||zhenjiang365.cn/*/ad_
 ||zhenniu.shop^
@@ -26480,6 +26493,7 @@ zztt24.com##.no-mask
 ||zyl520zh.online^
 ||zymro.com^
 ||zyqtc.cn^
+||zytsbro.cn^
 ||zywhjd.com^
 ||zyyz.pro^
 ||zyzjpx.cn^

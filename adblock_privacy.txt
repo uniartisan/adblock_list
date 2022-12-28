@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202212270240
+! Version: 202212280245
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51291
+! Lenth = 51302
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -8451,6 +8451,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||monetate.net/js/$domain=nike.com
 @@||monetate.net/trk/$domain=consumerreports.org
 @@||mongoosemetrics.com/jsfiles/js-correlation/mm-rules.min.js$domain=subaru.com
+@@||mopar.com/moparsvc/mopar-analytics-state$~third-party
 @@||motherboard.vice.com^*/vmp_analytics.js
 @@||motika.com.mk/wp-content/plugins/ajax-hits-counter/display-hits.rapid.php$~third-party
 @@||moulinex.com/js/xtroi.js
@@ -10248,6 +10249,7 @@ znak.com##.relap
 ||a.bigtennetwork.com^
 ||a.bitmango.com^
 ||a.cdn-hotels.com/cos/travel-pixel/
+||a.centrum.cz^
 ||a.check24.net/misc/click.php?
 ||a.conferencecall.com^
 ||a.ctd.ai^
@@ -15160,6 +15162,7 @@ znak.com##.relap
 ||at-cdn.swisscom.ch^
 ||at-o.net^
 ||at-o.net^$third-party
+||at-s.com^$cookie=_rld_u
 ||at.360.audion.fm^
 ||at.badische-zeitung.de^
 ||at.bhw.de^
@@ -17283,6 +17286,7 @@ znak.com##.relap
 ||chtah.com^*/1x1.gif
 ||chtah.net/a/*/spacer-0.gif$third-party
 ||chtbl.com^$script,third-party,xmlhttprequest
+||chubbycreature.com^
 ||chubbycreature.com^$third-party
 ||chunkycactus.com^
 ||chunkycactus.com^$third-party
@@ -17428,7 +17432,6 @@ znak.com##.relap
 ||click.dracking.com^
 ||click.drizly.com^
 ||click.e.affirm.com^
-||click.e.change.org^
 ||click.e.progressive.com^
 ||click.e.tdbank.com^
 ||click.em.soothe.com^
@@ -22126,6 +22129,7 @@ znak.com##.relap
 ||doubleclick.net^*/trackimp/$third-party
 ||doublepimp.com/Scripts/Analytics/
 ||doubleverify.com^$third-party
+||doubtdrawer.com^
 ||doubtfulrainstorm.com^
 ||doubtfulrainstorm.com^$third-party
 ||doug1izaerwt3.cloudfront.net^
@@ -26478,6 +26482,7 @@ znak.com##.relap
 ||hurtteeth.com^
 ||hurtteeth.com^$third-party
 ||husfly.com^$third-party
+||hushforms.com/visitorid?
 ||husoxn.investors.com^
 ||huuto.net/js/analytic/
 ||hvac.solutions.jci.com^
@@ -27755,6 +27760,7 @@ znak.com##.relap
 ||ip.hivps.xyz^
 ||ip.pichunter.com^
 ||ip.prvtx.net^
+||ip.up66.ru^
 ||ip2c.landscape.co.jp^
 ||ip2c.org^$third-party
 ||ip2location.com^$third-party
@@ -29131,6 +29137,7 @@ znak.com##.relap
 ||liquipedia.net/stats/
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
+||listenlayer.com^$third-party
 ||listrakbi.com^$third-party
 ||lists-tracking.komando.com^
 ||lists.ccmbg.com^
@@ -30933,6 +30940,7 @@ znak.com##.relap
 ||mengis-linden.org^$third-party
 ||mepirtedic.com^$third-party
 ||meqjjl.bubbleroom.dk^
+||mer.stdout.cz^
 ||mercadoclics.com^$third-party
 ||mercadolibre.com/tracks^
 ||mercent.com^$third-party
@@ -36332,6 +36340,7 @@ znak.com##.relap
 ||rel.msn.com^
 ||rel.nextinpact.com^
 ||rel2.nextinpact.com^
+||relaido.jp^$cookie=relaido_uuid
 ||relap.io^$third-party
 ||relay.carte-gr.total.fr^
 ||relay.fiverr.com^
@@ -41600,6 +41609,7 @@ znak.com##.relap
 ||squealingturn.com^$third-party
 ||squeamishspot.com^
 ||squeamishspot.com^$third-party
+||squeezely.tech^$third-party
 ||squid.adart.cc^
 ||squid.antevo.com.au^
 ||squid.dylancastillo.co^
@@ -45118,6 +45128,7 @@ znak.com##.relap
 ||therealreal.com/ev56mY37/init.js
 ||thermstats.com^$third-party
 ||thesearchagency.net^$third-party
+||thesmilingpencils.com^$third-party
 ||thespecialsearch.com^$third-party
 ||thestat.net^$third-party
 ||thestreet.com^$cookie=BCSessionID
@@ -45757,6 +45768,7 @@ znak.com##.relap
 ||tr.business-deal.com.br^
 ||tr.business-deal.nl^
 ||tr.businessdev.younited-credit.es^
+||tr.c-tag.net^
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.cacf.ipsos-surveys.com^
 ||tr.camara.eu.com^
@@ -49557,10 +49569,9 @@ znak.com##.relap
 ||webgains.com^$third-party
 ||webgames.io/imp/
 ||webglstats.com^$third-party
+||webgozar.*/c.aspx*&t=counter
 ||webgozar.com/c.aspx*&t=counter
-||webgozar.com^$third-party
 ||webgozar.ir/c.aspx*&t=counter
-||webgozar.ir^$third-party
 ||webhits.de^$third-party
 ||webid.ad.daum.net^
 ||webim.ru/*/track.php
