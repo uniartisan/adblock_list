@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202212280245
+! Version: 202212290250
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26558
+! Lenth = 26571
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -1166,6 +1166,7 @@
 ##a[href*="/7763349.com/"]
 ##a[href*="/7900y.com?"]
 ##a[href*="/84992020.xyz"]
+##a[href*="/84992323.xyz"]
 ##a[href*="/8616.tech"]
 ##a[href*="/9716t.com"]
 ##a[href*="/?INTR="]
@@ -3244,6 +3245,7 @@ $websocket,domain=5nj.com|cechi8.com
 360.cn###weishi-alert
 360.cn##.ads-pic
 360.cn##.div-adv
+360.cn##.fangcloud
 360.com###channel-game
 360.com###channel-mall
 360.com###festival-mario-screen
@@ -3742,7 +3744,9 @@ $websocket,domain=5nj.com|cechi8.com
 91danji.com##.zlVideTowNav
 91duba.com###leftBar
 91duba.com##.m_guess_like
+91duba.com,iduba.com###m_hot_rec_main > div > .noLikeList
 91duba.com,iduba.com###topBanner
+91duba.com,iduba.com##.jq_notice
 91hs.top,hsex.men##.col-xs-12 > a[target="_blank"]
 91lai.com##.D_guanggaotu11
 91lai.com##.D_guanggaotu2
@@ -9741,9 +9745,9 @@ phpvar.com##.post_content_linkad
 phpvar.com##.qrcode-swiper-container
 pianba.net###jiedoubanban
 pianba.tv,pianba.net##.play-btn > a[target="_blank"]
+pianbb.com,pianmax.com##li[class]:not(.index):not(.hidden-ps):not(.hidden-xs):not(.active)
 pianhd.com###myCarousel
 pianku.me###playad
-pianmax.com##li[class]:not(.index):not(.hidden-ps):not(.hidden-xs):not(.active)
 pianyuan.org###myModal
 pianyuan.org,qixingquan.com##.modal-backdrop
 piaoliang.com##.hot990
@@ -10670,6 +10674,7 @@ sxrom.com##.tmk
 sydneytoday.com##.mygad
 sydneytoday.com##.news-list > .row > .col-xs-12
 sydneytoday.com##div[style$="-144px;top: 115px;"]
+sysin.org##img[src^="/img/promotion"]
 szhk.com###h_banner
 szjjzs.com##a[href^="/pic/tiao/"]
 szonline.net##.ad_1000_90
@@ -14383,6 +14388,7 @@ zztt24.com##.no-mask
 ||avseesee.com/twad
 ||avtej.com^
 ||avvr.club^
+||avxiytq.cn^
 ||avz3.xyz^
 ||aw6s.top^
 ||awifi.cn^$third-party
@@ -16310,6 +16316,7 @@ zztt24.com##.no-mask
 ||dkgmgj.xyz^
 ||dkifl.com^
 ||dkjdnq.cn^
+||dklkxb.xyz^
 ||dktoo.site^
 ||dkudnwb.cn^
 ||dkvuey.xyz^
@@ -16764,6 +16771,7 @@ zztt24.com##.no-mask
 ||eiykmtb.cn^
 ||eiyxjls.cn^
 ||ejieban.com^
+||ejjek.top^
 ||ejktj.com^
 ||ejnjapw.cn^
 ||ejunshi.com^
@@ -21458,6 +21466,7 @@ zztt24.com##.no-mask
 ||ocive.xyz^
 ||oclasrv.com^$third-party
 ||ocxve.xyz^
+||ocyakni.cn^
 ||oddyqw.com^
 ||odfykc.cn^
 ||odghlwo.cn^
@@ -21539,6 +21548,7 @@ zztt24.com##.no-mask
 ||oodcd.cn/pan/config/ad.json
 ||oodcd.cn/pan/config/copy.
 ||oodcd.cn/pan/config/history.
+||ooeogk.xyz^
 ||oomll.cn^
 ||ooo.0o0.ooo/2017/11/03/59fc6b3c5b723.jpg
 ||ooqiu.com/ad_js/
@@ -22675,6 +22685,7 @@ zztt24.com##.no-mask
 ||rtmtgf.xyz^
 ||rtnigaz.cyou^
 ||rtrete.store^
+||rtzhao.site^
 ||ruanyifeng.com/9he/
 ||rugao35.com/Public/config/Couplet/Index
 ||ruguoapp.com^$domain=aixiaoju.com
@@ -22913,6 +22924,7 @@ zztt24.com##.no-mask
 ||sghmvum.cn^
 ||sgk.xyz/static/js/pc.js
 ||sgnlaigb.fun^
+||sgsdqs.xyz^
 ||sgtld.cn^
 ||sgyebd.com^
 ||sh.sina.com.cn/iframe/522/
@@ -24339,6 +24351,7 @@ zztt24.com##.no-mask
 ||uwnvcxb.cn^
 ||uwogldt.top^
 ||uwuzpxt.cn^
+||uxiaaip.cn^
 ||uxlidt.ink^
 ||uxngqd.cn^
 ||uxpolqk.cn^

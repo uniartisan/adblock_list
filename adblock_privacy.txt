@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202212280245
+! Version: 202212290250
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51302
+! Lenth = 51309
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -4939,6 +4939,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /sensor/statistic?
 /sensorsdata-
 /sensorsdata.$domain=~sensorsdata.cn
+/sensorsdata.min.js
 /sentry-browser.
 /sentry.unit-
 /seo-track.
@@ -27772,7 +27773,6 @@ znak.com##.relap
 ||ipapi.co^$third-party
 ||ipapi.tmbi.com^
 ||ipcatch.com^$third-party
-||ipcc-vnp1.vnptmedia.vn^
 ||ipcc.vnpt.com.vn^
 ||ipcheck.blogsys.jp^
 ||ipcount.net^$third-party
@@ -33999,6 +33999,7 @@ znak.com##.relap
 ||page.oceaninsight.com^
 ||page.terguspharma.com^
 ||pagefair.com^$third-party
+||pageid.info^
 ||pageinfo-k8s.motorsport.com/stat/
 ||pagerank-backlink.eu^$third-party
 ||pagerank-linkverzeichnis.de^$third-party
@@ -36424,6 +36425,7 @@ znak.com##.relap
 ||res.public.fr^
 ||res.rbl.ms^
 ||res.rbl.ms^$third-party
+||res.regoo.com^
 ||research-artisan.com^$third-party
 ||research-int.se^$third-party
 ||research-tool.com^$third-party
@@ -36655,6 +36657,7 @@ znak.com##.relap
 ||roblox.com/report
 ||roblox.com/www/e.png?
 ||roblox.com^*/_/1px.gif
+||robotflowermobile.com^
 ||robustbelieve.com^
 ||robustbelieve.com^$third-party
 ||rocket.ivi.ru/event/
@@ -40985,7 +40988,9 @@ znak.com##.relap
 ||snowplow-pixel.tradingview.com^
 ||snowplow.swm.digital^
 ||snowsignal.com^$third-party
+||snowy.bellroy.com^
 ||snprxx.wwfmarket.com^
+||snptrk.com^
 ||snr4.canalplus.com^
 ||snrbox.com/tck/
 ||snuhpz.shopbarcos.jp^
@@ -42250,6 +42255,7 @@ znak.com##.relap
 ||standingsack.com^$third-party
 ||standtrouble.com^
 ||standtrouble.com^$third-party
+||stapadblockuser.art/stat/
 ||stapadblockuser.info/stat/
 ||stape.fun/stat/
 ||stapewithadblock.beauty/stat/
@@ -42735,6 +42741,7 @@ znak.com##.relap
 ||stats.byma.com.br^
 ||stats.cable.tech^
 ||stats.cafepress.com^
+||stats.callnowbutton.com^
 ||stats.cardschat.com^
 ||stats.carecredit.com^
 ||stats.carrot2.org^
@@ -49288,7 +49295,7 @@ znak.com##.relap
 ||wallaby.short1.link^
 ||wallkit.net^*/user/event
 ||wallpoper.com^*/c.js
-||walmart.ca/api/bsp/logger
+||walmart.ca/api/*/logger
 ||walmart.ca/px/PXnp9B16Cq/init.js
 ||walmart.ca^*/beacon-logger
 ||walmart.com/client/api/logs
