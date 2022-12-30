@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202212290250
+! Version: 202212300246
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51309
+! Lenth = 51310
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -15099,7 +15099,7 @@ znak.com##.relap
 ||assessment.nj.betmgm.com^
 ||assessment.vetassess.com.au^
 ||assets-jpcust.jwpsrv.com/*/ping.js
-||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com
+||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net
 ||assets.adsttc.com/insights/form-funnel.min.js
 ||assets.adsttc.com/insights/tracker.js
 ||assets.alicdn.com/g/alilog/aplus_plugin_xwj/index.js
@@ -16423,6 +16423,7 @@ znak.com##.relap
 ||bunchance.com^
 ||bunchance.com^$third-party
 ||bunchbox.co^$third-party
+||bundle.app/js/PushAnalyticsEvent.js
 ||buondua.com/hit/
 ||buondua.com/hit/?
 ||bup.bankofamerica.com^
@@ -27497,6 +27498,7 @@ znak.com##.relap
 ||ingest.make.rvapps.io^$domain=zdnet.com
 ||ingredients.firmenich.com^
 ||ingress.linktr.ee^
+||ingress.pressreader.com/services/track
 ||inhalt.bild.de^
 ||inimbus.com.au^$third-party
 ||inistrack.net^$third-party
@@ -35672,7 +35674,6 @@ znak.com##.relap
 ||pxc.otto.de^
 ||pxchk.net/b/s
 ||pxf.io^$image,script,third-party
-||pxf.io^$third-party
 ||pxgpnp.angara.com^
 ||pxhqoy.clothingshoponline.com^
 ||pxi.pub^$third-party

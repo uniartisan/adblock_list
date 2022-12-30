@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202212290250
+! Version: 202212300246
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23992
+! Lenth = 24009
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -5554,6 +5554,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [c
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [id*="00"]:not(.result):not(.result-op) > div
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [id*="00"]:not(.result):not(.result-op) > tbody
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > [id*="00"]:not(.result):not(.result-op) > ul
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > div:not([class]) > div[data-placeid]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > div:not([id]) > div[id][data-rendered="true"]
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > div[class][style]:not([id])
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > div[id*="00"]:not(.result):not(.result-op) + div[class]:not(.result):not(.result-op)
@@ -8188,7 +8189,7 @@ the-sun.on.cc#@##ContentAd1
 theage.com.au,smh.com.au#@#div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 theav.xyz##div[v-if="is_show()"]
 theav.xyz,69xx.one,theporn.cc#$##alert_windows { display: none !important; }
-theav.xyz,69xx.one,theporn.cc#$#.q-body--prevent-scroll: { position: static !important; }
+theav.xyz,69xx.one,theporn.cc#$#.q-body--prevent-scroll { position: static !important; }
 theav.xyz,69xx.one,theporn.cc#%#//scriptlet("set-constant", "is_show", "false")
 thecatcity.com##.article-page__ad-block
 thenewslens.com##div[class^="help-tnl-"]
@@ -10353,6 +10354,7 @@ zztt24.com##.no-mask
 ||591hx.com/zyrk_dy/gwjl.html
 ||59519.com^$third-party
 ||597txt2.com^*.php
+||5999218ccc.com^
 ||5dmail.net/image/$object
 ||5dmail.net/image/ORF_1000.gif
 ||5dmail.net/image/ad_
@@ -10417,6 +10419,7 @@ zztt24.com##.no-mask
 ||62mao.com/52
 ||62wm.com^
 ||63007.com:82/haodxi.js
+||6318537ccc.com^
 ||6399tp.com^
 ||63ef.com^*.js
 ||63kc.com^$third-party
@@ -10599,6 +10602,7 @@ zztt24.com##.no-mask
 ||70we55s.cn^
 ||7160.com/js/tiaozhuanquanju.js
 ||71sas.com^
+||7239618ccc.com^
 ||72agg.com^
 ||72asa.com^
 ||733.so/template/wap1/js/all_css.js
@@ -12001,6 +12005,7 @@ zztt24.com##.no-mask
 ||baiduyubaidu.com^
 ||baifen.music.baidu.com^
 ||baihbw.cn^
+||baihuwang.com^$third-party
 ||baike.com/iframeheightforad.
 ||baike.com/newtop/news.html
 ||bailinghealth.cn^
@@ -12301,6 +12306,7 @@ zztt24.com##.no-mask
 ||bhny.asia^
 ||bhsvlym.cn^
 ||bhujiwwb.top^
+||bhxgvvk.cn^
 ||bhyddc.com^
 ||bian-min.com/javascript/a/detail.js
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
@@ -13024,6 +13030,7 @@ zztt24.com##.no-mask
 ||cjw123.com/jx/static/picture/
 ||cjwtkm.cn^
 ||cjx111.com/ads/
+||cjxbeyh.cn^
 ||cjy200107152004.ltd^
 ||cjyun.org/assets/js/analytics.js
 ||ck180.net/mitao
@@ -13372,6 +13379,7 @@ zztt24.com##.no-mask
 ||cyl3h68.cn^
 ||cylwwyy.xyz^
 ||cyperjs.cn^
+||cyrwmgy.cn^
 ||cytcm.com^
 ||cytrd0.site^
 ||cz09.com^
@@ -14186,6 +14194,7 @@ zztt24.com##.no-mask
 ||eidccepu.cyou^
 ||eidphap.cn^
 ||eidsign.com.cn^
+||eiinaq.xyz^
 ||eisafniw.space^
 ||eiv.baidu.com^
 ||eiya.net^
@@ -14375,6 +14384,7 @@ zztt24.com##.no-mask
 ||f8dy.tv/template/m1938/js/foot.js
 ||faachen.cn^
 ||fabuye.vip/zhuanfa/
+||facai1588.xyz^
 ||facai383.oss-cn-guangzhou.aliyuncs.com^
 ||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
 ||facebook.com/v2.6/plugins/video.$domain=storm.mg
@@ -17001,6 +17011,7 @@ zztt24.com##.no-mask
 ||k31bpzf.xyz^
 ||k366.com/images/smxs^
 ||k3851.com^$third-party
+||k3gy2.xyz^
 ||k3uihu.xyz^
 ||k67lxl.space^
 ||k99.cc^$third-party
@@ -17234,6 +17245,7 @@ zztt24.com##.no-mask
 ||kojwex.top^
 ||kokofits.com^
 ||kokojia.com^$third-party
+||koksin.fun^
 ||kolsh.cn^$third-party
 ||kolur.top^$third-party
 ||komi168.com^
@@ -17828,6 +17840,7 @@ zztt24.com##.no-mask
 ||lucasyyy.ltd^
 ||lujingyu.fun^
 ||lunhua5.com/images/more.gif
+||lunivr.xyz^
 ||lunt.cx^
 ||luofei38.top^
 ||luolikong.net^$third-party
@@ -19133,6 +19146,7 @@ zztt24.com##.no-mask
 ||pbgcsk3.com^
 ||pbhdwm.cn^
 ||pbmp.ali213.net/js/
+||pbrhblu.cn^
 ||pbtxt.win^
 ||pc.weizhenwx.com/pc/rich-tf.js$script,redirect=noopjs,domain=zhenbuka3.com|zhenbuka2.com|bukaivip.com
 ||pc6.com/img/
@@ -20998,6 +21012,7 @@ zztt24.com##.no-mask
 ||syr66.com.cn^
 ||sysal.cn^
 ||syseen.com/content/uploadfile/*/hongbao.png
+||sysin.org/img/promotion-
 ||sysjazi.cn^
 ||sytcyf.com^
 ||sytsr.com^
@@ -23466,6 +23481,7 @@ zztt24.com##.no-mask
 ||zantainet.com^
 ||zantj.com/diao
 ||zaqedc.top^
+||zasjfget.xyz^
 ||zavporn.net/images/9.gif
 ||zax01.com^
 ||zb7b.top^
@@ -23844,6 +23860,7 @@ zztt24.com##.no-mask
 ||zsnignsq.xyz^
 ||zsnoownmq.fun^
 ||zstjy.com^
+||zswl.so^
 ||zswph.com^
 ||zsyk91.cn^
 ||zsyk91.cn^$third-party
