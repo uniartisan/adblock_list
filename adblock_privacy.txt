@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202212300246
+! Version: 202212310219
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51310
+! Lenth = 51318
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7064,6 +7064,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.taboola.com/libtrc/impl.*.js$domain=welt.de
 @@||cdn.taboola.com/libtrc/vhb-handelsblatt/loader.js$domain=handelsblatt.com
 @@||cdn.taboola.com/libtrc^$domain=msn.com
+@@||cdn.tagcommander.com/1491/tc_LaboutiqueLaPoste_6.js$domain=laposte.fr
 @@||cdn.tagcommander.com/cmp-api/cmp.js$domain=tf1.fr
 @@||cdn.trackjs.com/releases/current/tracker.js$domain=express.com
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
@@ -7283,6 +7284,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||decision.taplytics.com^$domain=royalbank.com
 @@||delet.jhi.pl/bower_components/angular-google-analytics/$script,~third-party
 @@||delivery.satr.jp^$script,domain=mieru-ca.com
+@@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||demdex.net/dest4.html?d_nsid=$subdocument,domain=multipack.com.mx
 @@||deprisa.com/scripts/tracking/tracking.js
 @@||derwesten.de/resources/*/img/transparent_pixel.png$image,~third-party
@@ -23706,6 +23708,7 @@ znak.com##.relap
 ||exd4.destinia.com.au^
 ||exdmarketing.smu.edu.sg^
 ||exe.bid^$third-party
+||execute-api*.amazonaws.com/pixel-prod/
 ||execute-api.*.amazonaws.com/current/events?
 ||execution-ci360.rai.it^
 ||exelator.com/pixel.gif
@@ -24297,6 +24300,7 @@ znak.com##.relap
 ||footprintlive.com^$third-party
 ||footstepsgroup.actonservice.com^
 ||force24.co.uk^$third-party
+||forecast.huffingtonpost.fr^
 ||forecast.io/js/app/analytics.js
 ||forecasttiger.com^
 ||forecasttiger.com^$third-party
@@ -26426,8 +26430,8 @@ znak.com##.relap
 ||hspbotdetection.azurewebsites.net^
 ||hsprzf.shinhwaworld.com^
 ||hssyje.theathletesfoot.com.au^
+||hstats*.hepsiburada.com^
 ||hstats.askmiso.com^
-||hstats.hepsiburada.com^
 ||hstrck.com^$third-party
 ||htiagq.sheplers.com^
 ||htm1.ch^$third-party
@@ -26470,6 +26474,7 @@ znak.com##.relap
 ||humanclick.com^$third-party
 ||humanoid.fr/register-impression?
 ||humanpresence.app^$third-party
+||humanz.com^$third-party
 ||humdrumhat.com^
 ||humdrumhat.com^$third-party
 ||hummingbird.mavencoalition.io^
@@ -26830,6 +26835,7 @@ znak.com##.relap
 ||images.go.vertivco.com^
 ||images.go.vsp.com^
 ||images.go1.lapersonnelle.com^
+||images.hepsiburada.net/*/web-vitals.*.js
 ||images.hepsiburada.net/webtrekk/webtrekk.js
 ||images.holtcat.com^
 ||images.homes.beazer.com^
@@ -28489,6 +28495,7 @@ znak.com##.relap
 ||kokos.click^$third-party
 ||kommersant.ru/a.asp?p=
 ||kommersant.uk/banner_stats
+||komoot.*/api/t/event
 ||kompass.com/logAdvertisements
 ||komtrack.com^$third-party
 ||kon.mediaplatform.group^
@@ -33702,6 +33709,7 @@ znak.com##.relap
 ||optis-world.actonservice.com^
 ||optm.optus.com.au^
 ||optorb.com^$third-party
+||optoutadvertising.com^$third-party
 ||opummf.himiwaybike.com^
 ||oqebsk.voipo.com^
 ||oqidne.itaka.pl^

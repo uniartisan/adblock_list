@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202212300246
+! Version: 202212310219
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26589
+! Lenth = 26614
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -704,6 +704,7 @@
 ##.leftd + .rightd
 ##.leftd1 + .rightd1
 ##.leo-container .ssr1
+##.link > .image[src*=".qhimg.com/"]
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
 ##.listok > a > img[style^="width:980px;height:"]
 ##.loc-home-top-adv-new
@@ -2249,6 +2250,7 @@ $websocket,domain=5nj.com|cechi8.com
 /js/mob/cpc_bottom.js
 /js/pcbook.js?
 /js/pfad.js
+/js/piaofu_bet.
 /js/profit.js$~third-party
 /js/showgg.js
 /js/sjgg.js
@@ -2960,7 +2962,7 @@ $websocket,domain=5nj.com|cechi8.com
 1688.com.au##.ad_300_p
 16888.com##.cardataclass
 168gamer.com,168gamer.net##.b_tad
-16fan.com,jianshen8.com,manwa.life,manwa.site##.index-banner
+16fan.com,jianshen8.com,manwa2.me##.index-banner
 16rd.com###diy_ad_article_right IMG
 16rd.com###diy_bbs_list_right IMG
 16rd.com###quick_pub_form
@@ -4601,6 +4603,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||mail.td^$generichide
 @@||manhua.weibo.com/adv/
 @@||manwa.fun/static/upload/ads/*.gif?$image,~third-party
+@@||manwa.me/static/custom/files/300X250.gif
 @@||masterkong.com.cn/adimages/
 @@||mcbar.cn^$generichide
 @@||mcc.xunliandata.com/mci-reward/static/img/ad.
@@ -8294,7 +8297,7 @@ itdog.cn##.gg_link
 itdog.cn##.link_gg
 itdog.cn##.pic_gg
 itdog.cn##.top_contents
-itdog.cn##div[style="border: 1px solid #dadada;padding: 6px 10px 5px 5px;height: 64px;background-color: #ffffff;"]
+itdog.cn##div[style="border: 1px solid #dadada;padding: 6px 10px 5px 5px;background-color: #ffffff;"]
 itdog.cn#$#.left_link { height: 1px !important; }
 itdog.cn#$#.right-pic { height: 1px !important; }
 itdog.cn#%#//scriptlet("abort-current-inline-script", "_0xodP")
@@ -9075,6 +9078,10 @@ manhuagui.com##div[style^="width: 300px; height: 250px;"]
 manhuaren.com###lb-win
 manmanbuy.com##.app-activity-download
 manmanw.net##.tlads
+manwa.me#$#.ad-area { position: absolute !important; left: -3000px !important; }
+manwa.me#@#.ad-area
+manwa2.me##.ad-area > a
+manwa2.me#@#.ad-area
 maolihui.com##.con-ad
 maomaomom.com###execphp-15
 maomaomom.com###execphp-21
@@ -12669,6 +12676,7 @@ zztt24.com##.no-mask
 ||3qz8c.site^
 ||3r3ijsa.cn^
 ||3v4w.top^
+||3v7c7y.com^
 ||3wk.cc/images/*.gif
 ||3xhmhct.cn^
 ||3xuo.xyz^
@@ -12750,6 +12758,7 @@ zztt24.com##.no-mask
 ||5118.com/g/
 ||512ms.com/webggwhtml/
 ||513575528.com^
+||5137395ccc.com^
 ||516624.com^
 ||51688.cc/ya/
 ||516qq.cn/theme/dd/
@@ -12991,6 +13000,7 @@ zztt24.com##.no-mask
 ||61.164.108.184^*.gif
 ||613711567.com^
 ||614514.com^
+||61586.shop^*.gif
 ||616182863.com^$third-party
 ||62422.cn/ggimg/
 ||627sf.cn^
@@ -13347,6 +13357,7 @@ zztt24.com##.no-mask
 ||8889888.vip^
 ||888dizhi.com/888/
 ||888yh.xyz^
+||88993aaa.com^
 ||88eg.cn^
 ||88kids.mobi^
 ||88liu.com/data/attachment/portal/
@@ -13694,6 +13705,7 @@ zztt24.com##.no-mask
 ||aau6.xyz^
 ||aau8.xyz^
 ||aau9.xyz^
+||aawcky.xyz^
 ||aaz1.xyz^
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
@@ -13809,6 +13821,7 @@ zztt24.com##.no-mask
 ||adblock.sina.cn^
 ||adbot.tw^
 ||adbottw.net^$third-party
+||adbpfnh.cn^
 ||adbxb.com^$third-party
 ||adccoo.cn^
 ||adconfer.com^$third-party
@@ -13915,6 +13928,7 @@ zztt24.com##.no-mask
 ||ah58tc.com^
 ||ah808.com^
 ||ahdyvor.cn^
+||ahe.so^
 ||ahejtw.onelink.me^$third-party
 ||ahfy.me^
 ||ahgame.com/js/new_ad.js
@@ -15169,6 +15183,7 @@ zztt24.com##.no-mask
 ||bytravel.cn/js/ad_
 ||bytravel.cn/js/b_
 ||bytravel.cn/js/s_
+||byytogm.cn^
 ||byznb.xyz^
 ||bzdiao.com/wp-content/uploads/bhOCwJfYleFC/
 ||bzhanyy.com^*.gif
@@ -16109,6 +16124,7 @@ zztt24.com##.no-mask
 ||danlan.org/KFC/
 ||danmeixsw.com/js/mwap.js
 ||daofuw.cn^
+||daogdqw.cn^
 ||daokejs.com^
 ||daqiso.com/ggbl/
 ||darendaisuki.com^
@@ -16291,6 +16307,7 @@ zztt24.com##.no-mask
 ||discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||discuss.com.hk/oath/
 ||discuss.com.hk^*_prod.html
+||discuz.fit^
 ||discuz.gtimg.cn/cloud/scripts/discuz_tips.js
 ||disixs.com/js/app_wap.
 ||disixs.com/js/gg
@@ -16780,6 +16797,7 @@ zztt24.com##.no-mask
 ||eiya.net^
 ||eiykmtb.cn^
 ||eiyxjls.cn^
+||ejbywbs.cn^
 ||ejieban.com^
 ||ejjek.top^
 ||ejktj.com^
@@ -16878,6 +16896,7 @@ zztt24.com##.no-mask
 ||esiws.com^
 ||esjzj.cyou^
 ||eskay.cn^
+||eskowg.xyz^
 ||eslipdd.ltd^
 ||esnignsw.xyz^
 ||esnoownmw.fun^
@@ -18374,6 +18393,7 @@ zztt24.com##.no-mask
 ||huhumh.com/js/
 ||huibaihe.net/js/dddd.js
 ||huibaihe.net/static/730-580.
+||huidaiqing.com^
 ||huigoushop.com^
 ||huigun.top^
 ||huiji-fs.oss-cn-qingdao.aliyuncs.com/huijiad/
@@ -18448,6 +18468,7 @@ zztt24.com##.no-mask
 ||hxcrlt.cn^
 ||hxiak.com^
 ||hxjs.tool.hexun.com$domain=~quote.hexun.com
+||hxles.top^
 ||hxnzyy.com^
 ||hxqu.com^$third-party
 ||hxskjll.cn^
@@ -20115,6 +20136,7 @@ zztt24.com##.no-mask
 ||lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
 ||lenovo.com.cn/lenovo/bid?clientType=
 ||lensdump.com/i/*.gif
+||lepjrh.xyz^
 ||letaojuan68.com^
 ||letong.xyz^
 ||letsread.club^
@@ -20621,10 +20643,9 @@ zztt24.com##.no-mask
 ||manqian.cn/784a6e27-be5b-4442-86e5-9f4adb51894d?
 ||manqian.cn/async/adLocationConfig
 ||manwa.fun/static/upload/ads/$image,redirect=1x1-transparent.gif,important
-||manwa.life/static/upload/ads/$image,redirect=1x1-transparent.gif,~third-party
-||manwa.life/static/upload/ads/$image,rewrite=abp-resource:1x1-transparent-gif,~third-party
-||manwa.site/static/upload/ads/$image,redirect=1x1-transparent.gif,~third-party
-||manwa.site/static/upload/ads/$image,rewrite=abp-resource:1x1-transparent-gif,~third-party
+||manwa.me/static/custom/files/300X250.gif$image,redirect=1x1-transparent.gif,important
+||manwa2.me/static/custom/files/300X250.$image,redirect=1x1-transparent.gif,~third-party
+||manwa2.me/static/custom/files/300X250.$image,rewrite=abp-resource:1x1-transparent-gif,~third-party
 ||mao1.jsnovel.com^
 ||maobujie.com^
 ||maodh.com/admin/up/*.gif
@@ -23368,6 +23389,7 @@ zztt24.com##.no-mask
 ||sqdjg.cn^
 ||sqfh001.xyz^
 ||sqnggnsb.fun^
+||squemi.xyz^
 ||sqvp.online^
 ||sqyx.top^
 ||srbzw.cn^
@@ -24048,6 +24070,7 @@ zztt24.com##.no-mask
 ||ttayy.cn^
 ||ttbc33.com^
 ||ttdds.top^
+||ttfkof.xyz^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
 ||tttxx.cn^$third-party
 ||ttwrhns.cn^
@@ -24181,6 +24204,7 @@ zztt24.com##.no-mask
 ||u1.qyxxpd.com^
 ||u1.shuaiku.com^
 ||u1099.com^
+||u1102.com^
 ||u1557.com^
 ||u1885.com^
 ||u2676.com^
@@ -25557,6 +25581,7 @@ zztt24.com##.no-mask
 ||yaseok.com//static/src/images/loading.gif
 ||yaseok.com/uploads/20*.gif
 ||yatemy.cn^
+||ybgo.xyz^
 ||ybhypt.com^
 ||ybkjap.com^
 ||ybn4.top^
