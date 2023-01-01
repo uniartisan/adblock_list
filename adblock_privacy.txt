@@ -1,5 +1,5 @@
 [uniartisan's Privacy List]
-! Version: 202212310219
+! Version: 202301010246
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
@@ -6583,6 +6583,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a2ip.ru/spacer.gif$image,domain=2ip.ru
 @@||a8.net/svt/$image,domain=samplefan.com
+@@||aachener-zeitung.de/cre-1.0/tracking/call.js$~third-party
 @@||abc.com/b/ss/$image
 @@||about-australia.com/*/clickheat.js
 @@||acb.com/javascripts/jv_feeder_stats.js
@@ -6893,7 +6894,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||britishtelecom.112.2o7.net^$domain=bt.com
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|timesprime.com|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|roomster.com|timesprime.com|womenshealthmag.com
 @@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||browser.sentry-cdn.com^$script,domain=vivareal.com.br
@@ -7810,7 +7811,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|edwardjones.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|edwardjones.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aeromexico.com
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -13552,6 +13553,7 @@ znak.com##.relap
 ||amazonaws.com/searchdiscovery-satellite-production/
 ||amazonaws.com/storejs/a/JKRHRQG/ge.js
 ||amazonaws.com/v1/apps/*/events
+||amazonaws.com^*/prod_analytics
 ||amazy.ru^$third-party
 ||ambasadorky.zenyzenam.cz^
 ||ambassador.godthefatherapparel.com^
@@ -17082,7 +17084,6 @@ znak.com##.relap
 ||cdtm.cdiscount.com^
 ||cdwlxi.cadremploi.fr^
 ||ce-global-track-*.amazonaws.com^
-||ce.lijit.com^
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||cedexis-radar.net^
 ||cedexis.com^
@@ -21282,6 +21283,7 @@ znak.com##.relap
 ||datado.me^$third-party
 ||datadog-service.mvfglobal.com^
 ||datadoghq-browser-agent.com^$third-party
+||datadoghq.eu^$third-party
 ||datadome.co^$third-party
 ||datadome.patreon.com^
 ||datadsk.com^$third-party
@@ -28917,9 +28919,6 @@ znak.com##.relap
 ||lightning.ncaa.com/launch/$script
 ||lightstep.medium.systems^
 ||lightstep.medium.systems^*/reports
-||lijit.com/blog_wijits?*=trakr&
-||lijit.com/ip.php?
-||lijit.com/res/images/wijitTrack.gif
 ||lijit.com^$third-party
 ||likemore-go.imgsmail.ru^$image
 ||limbik.com/static/tracking-script.js
@@ -42382,6 +42381,7 @@ znak.com##.relap
 ||stat.botdetector.ru^
 ||stat.caijing.com.cn^
 ||stat.canal-plus.com^
+||stat.cdngeek.com^
 ||stat.clichehosting.de^
 ||stat.clickfrog.ru^
 ||stat.cncenter.cz^
