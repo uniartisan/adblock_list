@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301010246
+! Version: 202301020233
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 24035
+! Lenth = 24059
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -19,7 +19,7 @@
 *$script,third-party,xmlhttprequest,domain=cnbtspread.xyz
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
-0379home.com,100ec.cn,123.com.cn,159i.com,22vd.com,2345.cn,234fang.com,265g.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landian.vip,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,luo8.com,maxpda.com,mengzhan521.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,tv.sohu.com,u-car.com.tw,weather.com.cn,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com,zjstv.com##.ad
+0379home.com,100ec.cn,123.com.cn,159i.com,22vd.com,2345.cn,234fang.com,265g.com,3gsc.com.cn,52youpiao.com,72g.com,8se.me,acg.bz,acg13.cn,acgbenzi.com,baiduyunpan.net,baike.com,bbs-mychat.com,cdyee.com,ce.cn,chinaqking.com,chinatimes.com,chinatruck.org,chinaz.com,cnforex.com,cnsoftnews.com,codepub.com,cq.xinhuanet.com,cxryun.cn,dav01.com,discuss.com.hk,djwma.com,dmzj.com,dmzj1.com,douban.com,dzwww.com,eastday.com,fengniao.com,focus.cn,fx112.com,gongkong.com,henan100.com,honglingjin.co.uk,house.jschina.com.cn,iciba.com,ifeng.com,ipeen.com.tw,isharebest.com,itavcn.com,jojf.cn,jrj.com.cn,kumi.cn,landian.vip,landiannews.com,lawtv.com.cn,lieyunwang.com,lncn.org,loveshang.com,luo8.com,maxpda.com,mengzhan521.com,mm111.net,moxing.net,mvcat.com,ncdiy.com,neotv.com.cn,newsmth.net,njdaily.cn,pc0359.cn,people.com.cn,pharmnet.com.cn,pixnet.net,pptv.com,ptbus.com,qncye.com,r3sub.com,sogou.com,sozi.cn,tv.sohu.com,u-car.com.tw,weather.com.cn,xchina.fun,xianbao.fun,yawin.cn,yb983.com,ydss.cn,yesky.com,yiche.com,yqxxs.com,zhihu.com,ziyuanyo.com,zjstv.com##.ad
 0439.com###kanfang
 0516city.com,cnpingpang.com,jdbbs.com##.a_h
 0517w.com,1x6666.com,365kl.net,3qled.com,52ch.net,bbs.qbaobei.com,chinafix.com,cnyw.net,cqsq.com,gz0668.com,i5qs.com,mahoupao.com,mcncc.com,qilindao.com,susongbbs.com,xsool.com,xydai.cn###diynavtop
@@ -1172,8 +1172,8 @@
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com##iframe[src$="/fans/ad.php"]
-91porny.com,jiuse205.com,jiuse702.com##.container-fluid.p-0[class*="mb-"]
-91porny.com,jiuse205.com,jiuse702.com##.jsv-g1
+91porny.com,jiuse205.com,jstv7.cc##.container-fluid.p-0[class*="mb-"]
+91porny.com,jiuse205.com,jstv7.cc##.jsv-g1
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -1184,6 +1184,7 @@
 92wy.com##.adhengfu
 9312.net##.pop-up
 939394.xyz###left_layer
+939394.xyz###left_layer_ok
 939394.xyz##a[href*=".yangkeduo.com"]
 939394.xyz##a[href="https://pic.13709394.net/upload/"]
 939394.xyz##a[href^="/"]:not([href*="."]) > img[src*=".gif"]
@@ -1270,6 +1271,7 @@
 :538/attachment/js/
 :538/attachment/xjdb.jpg
 :63666/960x150.
+:6607/qy/$script,third-party
 :701/Pus/pus.js
 :701/gd_xueersi/$popup
 :7701/load.cw.js
@@ -5185,10 +5187,10 @@ hqew.com##.pop-banner
 hqew.com##div[class^="g-ad-"]
 hsex.men###container > div:not([class])
 hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
-htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@##adsbox
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ff-ads
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.google-ads
-htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.pasuAD
-htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.pcd_ad
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.hlol_ad
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.index-wz-ad
 htcui.com##.carousel
 htcui.com##.qqanimate
 htcui.com##.yanshibtn
@@ -7611,6 +7613,8 @@ ruanyifeng.com#%#//scriptlet('prevent-setTimeout', 'checker')
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p + p > img
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p > img
 ruanyifeng.com#@#a > img[src*="wangbase.com/blogimg/asset/"]
+ruanyifeng.com#@?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p + p > img
+ruanyifeng.com#@?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p > img
 ruian.com##.ad_opera
 ruian.com##div[class^="gg_"]
 runningmanzx.com##.guangao
@@ -8761,6 +8765,8 @@ xcar.com.cn###show_car
 xcar.com.cn##div[class^="adset"]
 xchina.co##.push-top
 xchina.co##div[style*="width: 300px;"][style*="height: 455px;"]
+xchina.fun##a[href*="/redirect/ad-"]
+xchina.fun##div[adid]
 xclient.info###pop_business
 xcyy.tv##body > style + [id]
 xcyy.tv##body > style + [id] + img
@@ -11902,6 +11908,7 @@ zztt24.com##.no-mask
 ||b4jy.top^
 ||b53.xyz^
 ||b62.xyz^
+||b67.xyz^
 ||b6c4.top^
 ||b7sw62.pingshu8.xyz^
 ||b7yy.com/ad/
@@ -12360,6 +12367,7 @@ zztt24.com##.no-mask
 ||biquge.homes^
 ||biquge22.com^$third-party
 ||biquge96.com/123.
+||biquge99.cc/js/dj
 ||biqumo.com^*billing
 ||birdmedia.com^$third-party
 ||birdshome.top^
@@ -12813,6 +12821,7 @@ zztt24.com##.no-mask
 ||cehbg.com^
 ||cehbs.com^
 ||ceisip.com/static/js/plugin.js
+||celcxjb.cn^
 ||celestebeverly.com^
 ||cengbalx.fun^
 ||centurys.net/promo_
@@ -14954,6 +14963,7 @@ zztt24.com##.no-mask
 ||gkofzfi.cn^
 ||gkspde.cn^
 ||gl1e.top^
+||glczys.xyz^
 ||glgoo.*/gimage/ad/
 ||gliacloud.com/player/adgeek_teep
 ||gllmh.com/style/js/gd
@@ -16233,6 +16243,7 @@ zztt24.com##.no-mask
 ||imglolo.xyz^
 ||imgme.me/images/*.gif
 ||imgmega.com/i/*.gif$domain=18avhub.com|18avtube.com|mm-cg.com
+||imgopen.vip^
 ||imgroom.net/images/*.gif
 ||imgs.cc/images/ad_
 ||imgs.cc/img/8Pl6FJY.gif
@@ -16440,6 +16451,7 @@ zztt24.com##.no-mask
 ||iytrn.xyz^
 ||iyuedu.cn.com^
 ||iyurw.xyz^
+||iyxuude.cn^
 ||iztwp.com/images/
 ||izuis.com^
 ||izzcwww7.live^
@@ -16466,6 +16478,7 @@ zztt24.com##.no-mask
 ||j4shabt8.cn^
 ||j6zh4g0.cn^
 ||j721s.top^
+||j8377.com^$popup
 ||j8j9.com^$third-party
 ||ja*.gamersky.com^
 ||jab88.com^
@@ -17111,6 +17124,7 @@ zztt24.com##.no-mask
 ||kdkwe.xyz^
 ||kdly.net^$third-party
 ||kdou.com/ad_js.php?adid=
+||kdqika.xyz^
 ||kdslife.com/ui/ad/
 ||kdsnw.today^
 ||kdw*.com/layer/layer.js
@@ -17704,6 +17718,7 @@ zztt24.com##.no-mask
 ||lizhuo.fun^
 ||lizuorl.cn^
 ||ljggc.com^
+||ljhhhhrt.top^
 ||ljk.ink^
 ||ljlg.xyz^
 ||ljmei.com^
@@ -19410,6 +19425,7 @@ zztt24.com##.no-mask
 ||ppsj.com.cn/images/ppsj300.gif
 ||ppt100.site^
 ||pptv.com/game/aplus/client/gamedetail.html
+||ppwrc.xyz^
 ||ppyibei.com^
 ||pqfgtp.cn^
 ||preroot.xyz^
@@ -21174,6 +21190,7 @@ zztt24.com##.no-mask
 ||tbcdn.cn/mm/tanxssp-custom/sina_
 ||tbs1.xyz^
 ||tbtpezs.cn^
+||tbxqbvt.cn^
 ||tc600.com^
 ||tchep.com^
 ||tchpniy.cn^
@@ -21888,6 +21905,7 @@ zztt24.com##.no-mask
 ||vdzzauf.cn^
 ||ve.kj-cy.cn^
 ||veadmin.com^
+||vec4o.top^
 ||vecukb.com^
 ||vedeh.com^
 ||vedvvik.cn^
@@ -22366,6 +22384,7 @@ zztt24.com##.no-mask
 ||woshiyunying.com^
 ||wotmvdc.cn^
 ||wotto.cn^
+||wotui.ltd^
 ||woven.pw^
 ||wowad.wow-classic.com^
 ||wowfan.net/static/js/index.
@@ -22463,6 +22482,7 @@ zztt24.com##.no-mask
 ||wy123.fun^
 ||wy213.com^$popup,third-party
 ||wy520.love^
+||wydfghjjh.live^
 ||wydnbnni.xyz^
 ||wyhzzy.com^
 ||wykw.fun^
@@ -23002,6 +23022,7 @@ zztt24.com##.no-mask
 ||yaseok.com//static/src/images/loading.gif
 ||yaseok.com/uploads/20*.gif
 ||yatemy.cn^
+||ybayck.xyz^
 ||ybgo.xyz^
 ||ybhypt.com^
 ||ybkjap.com^
@@ -23077,6 +23098,7 @@ zztt24.com##.no-mask
 ||ygwdai.cn^
 ||ygyl.xyz^
 ||yhaizy.cn^
+||yhbdrnr.cn^
 ||yhdd1.com^$third-party
 ||yhdm.io/bar/
 ||yhdm.so/bar/
@@ -23099,6 +23121,7 @@ zztt24.com##.no-mask
 ||yifenghuyu.com^
 ||yifuls.com^$third-party
 ||yigao.com^$third-party
+||yigehong.com.cn^
 ||yigesi.top^
 ||yigujin.cn/faaa/
 ||yigujin.cn/img/abc/
@@ -23512,6 +23535,7 @@ zztt24.com##.no-mask
 ||zax01.com^
 ||zb7b.top^
 ||zbcdn.net/__uvjgyw/slb.default.js
+||zbfiupq.cn^
 ||zbjimg.com/static/union/
 ||zbpx.xyz^
 ||zbqmsc.com^
