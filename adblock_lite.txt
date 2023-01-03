@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301020233
+! Version: 202301030209
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 24059
+! Lenth = 24062
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -928,8 +928,6 @@
 52che.com##a[href^="http://count.52che.com/goto.html?"]
 52fx.cn##.nex_index_top_ads
 52fzwg.com,79tao.com,hqol.cn,icabbs.com,k7d.com,kxdao.net,mcncc.com,sunwy.org,twunbbs.com,wnflb.com,wnflb66.com,zn503.com##.GzList
-52ghai.com##.a_xiu_t
-52ghai.com##.yttl_x_g
 52kd.com###frame2cu3VU
 52life.cc##table[style="margin-top:0"]
 52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,cupfox.app,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,htcui.com,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,kuaikan33.com,languang.co,llss.bz,meijutt.net,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,rijutv.co,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
@@ -1062,8 +1060,6 @@
 699pic.com##.winpopbg
 69story.com###main > div[style="margin-top: 15px;"]
 69story.com##aside#secondary > section[id="text-2"]
-69t79.com#%#Object.defineProperty(window, 'picARRAY4', { get: function() { return; } });
-69t79.com#%#Object.defineProperty(window, 'picARRAY5', { get: function() { return; } });
 69vj.com###nta
 69xx.one,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
 6park.com##a[href*=".php?key="]
@@ -1180,6 +1176,8 @@
 91wenmi.com##a[href^="http://www.91wenmi.com/xiezuo/"]
 91wii.com#%#window.ad = window.ads = window.dzad = window.dzads = true;
 920share.com###layui-layer1
+92ghai.com##.a_xiu_t
+92ghai.com##.yttl_x_g
 92sucai.com##.adtg2
 92wy.com##.adhengfu
 9312.net##.pop-up
@@ -3463,7 +3461,7 @@ ci123.com###fixed-recom
 ci123.com##div[onclick^="window.location="]
 cilil.cn,magnet2048.com##.hotwords
 cilimao.co,cilimao.one##div[class^="FixBanner"]
-cjjjs.com,cnblogs.com,fastadmin.net##a[href^="https://promotion.aliyun.com/"]
+cjjjs.com,cnblogs.com,fastadmin.net,ziqiangxuetang.com##a[href^="https://promotion.aliyun.com/"]
 cjn.cn###slidelr
 cjn.cn##.sidebar
 cjw123.com##a[href="http://tb.cjw123.com"]
@@ -4342,6 +4340,8 @@ ettoday.net##div[id^="abp"]
 ettoday.net#@#.iframe-ad
 ettoday.net#@#AMP-AD
 ettoday.net#@#amp-ad
+event.biotherm.com.tw#@##ad1
+event.biotherm.com.tw#@##ad2
 evget.com###popelevencenter
 eweiqi.com##.guoqing
 eworldship.com###d1
@@ -6553,7 +6553,6 @@ mcmod.cn###McmodDonate
 me360.com##.footer-booking-open
 med66.com##.banner
 med66.com##.coach_pic
-medialnk.com##.sidebar.fl.ui_blockbg > div[style$="height:600px;"]
 medsci.cn##.adv1201
 megatime.com.tw###ad_type_9
 megatime.com.tw,pchome.com.tw###sixi
@@ -9012,7 +9011,6 @@ zddream.com##div[style^="width:100%;height:100%;border:2px"]
 zdface.com#@#.top-ad
 zdfans.com##.btn11[onclick]
 zdfans.com##ul[id^="gaosuxiazai"]
-zdqx.com###play-gif
 zealer.com##.buy_container
 zealer.com##.series_app
 zeekmagazine.com##.td-all-devices
@@ -9141,7 +9139,6 @@ zimuku.org###rbad
 zimushe.com###rightFixed
 ziqiangxuetang.com###tutorial_btm
 ziqiangxuetang.com##a[href="/j/coding/"]
-ziqiangxuetang.com##a[href="/j/coding/"] + .w-text-red
 ziyuanwu.com###modules-17
 ziyuanyo.com##.index-ad-text
 zj.com##.adnav
@@ -9182,7 +9179,6 @@ zrblog.net##a[href^="http://u.zrblog.net"]
 zreading.cn##.enhanced-text-widget:nth-child(2)
 zt5.com##.gg_1
 zt5.com##.gg_bt
-zt5.com##.newa
 zuanke8.com##.zuanpw
 zuanke8.com##div[style="padding:0px 0 10px 0;background-color:#F1F1F1;"]
 zuanke8.com##tbody[id^="normalthread_"] + tbody > tr > td[colspan="5"]
@@ -10277,7 +10273,6 @@ zztt24.com##.no-mask
 ||52dytt.net/images/bbs_btn.gif
 ||52dytt.net/img/zlgg.png
 ||52ghai.com/data/attachment/common/ac/
-||52ghai.com/zz/
 ||52jingsai.com/images/huanbao
 ||52kmk.com^
 ||52kp2.com^
@@ -10874,6 +10869,7 @@ zztt24.com##.no-mask
 ||922tp.com/wp-content/uploads/*0x
 ||9284swk.cn^
 ||92dp.com/home/showga?
+||92ghai.com/zz/
 ||92uq.com/Ads/
 ||9304hhh999.vip^
 ||933m.com/1.js
@@ -12468,6 +12464,7 @@ zztt24.com##.no-mask
 ||bobo.com/special/mod-follow/
 ||bobo.com^$third-party
 ||boce.com/statics/img/img27b.png
+||bocvb.xyz^
 ||bodu365.co/t/
 ||bole8dns.com^
 ||bolecdn.com/button/txt.js
@@ -12825,6 +12822,7 @@ zztt24.com##.no-mask
 ||celestebeverly.com^
 ||cengbalx.fun^
 ||centurys.net/promo_
+||ceoqq.xyz^
 ||ceqerq.xyz^
 ||ceseasons.com^
 ||ceshi10.ink^
@@ -13661,6 +13659,7 @@ zztt24.com##.no-mask
 ||dfkd.xyz^
 ||dfncojkle.xyz^
 ||dfokydq.cn^
+||dfpdz.top^
 ||dfseafood.com^
 ||dfsvhv88.com^
 ||dftoutiao.com/dfpcitv/pcitv?jsonpcallback=
@@ -13935,6 +13934,7 @@ zztt24.com##.no-mask
 ||dreamsky.xin^
 ||drebz4f.shop^
 ||drjgjngf.com^
+||drkqjje.cn^
 ||drmcmm.baidu.com^
 ||drmfslx.cn^
 ||drrzzl.cn^
@@ -14706,6 +14706,7 @@ zztt24.com##.no-mask
 ||fxfhjs.com^
 ||fxjs.2541.com^
 ||fxpsyzy.cn^
+||fxx79.pro^
 ||fxxgw.com^$third-party
 ||fxxz.com/skin/know/all.js
 ||fxyg168.com^
@@ -16618,6 +16619,7 @@ zztt24.com##.no-mask
 ||jiaoben.ganji.cn^
 ||jiaoben.jucanw.com^
 ||jiaodong.net/a/js/
+||jiaohezhen.com^
 ||jiaoyiwang.fun^
 ||jiaoyou8.com^$domain=mitbbs.ca|mitbbs.com
 ||jiaoyu.baidu.com/tieba/
@@ -19092,6 +19094,7 @@ zztt24.com##.no-mask
 ||ouyaoxiazai.com/static/img/cqthree.gif
 ||ouyhh.xyz^
 ||ouzhijie.top^
+||ovexui.xyz^
 ||owadakesk.cyou^
 ||owdfxgc.cn^
 ||owogldk.top^
@@ -20510,6 +20513,7 @@ zztt24.com##.no-mask
 ||shuakongbao.com/resource/images/banner/
 ||shuanglequ.xyz^
 ||shuangliu.link^
+||shucc.xyz^
 ||shui5.cn^*/ima/gg
 ||shuihulu.com^$third-party
 ||shujuwu.com^$third-party
@@ -20534,7 +20538,6 @@ zztt24.com##.no-mask
 ||shzq8888.com^
 ||shzuggo.cn^
 ||shzzzz.dftoutiao.com^
-||si.geilicdn.com^$domain=69t79.com
 ||si9377.com^
 ||sicentlife.com^
 ||siduohua.top^
@@ -20707,6 +20710,7 @@ zztt24.com##.no-mask
 ||snbklas.cn^
 ||sniglet.online^
 ||snmi.cn^$third-party
+||snsjiq.xyz^
 ||snuoen.com^
 ||snxyf.com^$third-party
 ||snzfj.net^$third-party
@@ -21029,6 +21033,7 @@ zztt24.com##.no-mask
 ||sxrs.shop^
 ||sxswjkgs.com^
 ||sxtc.wang^
+||sxuheg.xyz^
 ||sxxfmc.com^
 ||sxympy.com^
 ||sxyzhdf.cn^
@@ -21137,7 +21142,6 @@ zztt24.com##.no-mask
 ||taiwandaily.net/wp-content/uploads*_600x100.
 ||taiwannutrition.com/blog/wp-content/plugins/arscode-ninja-popups/
 ||taiwtp1.com^
-||taiwtp1.com^$domain=69t79.com
 ||taixuan.net.cn^
 ||taizexy.com^*.gif
 ||taiztf.cn^
@@ -22758,6 +22762,7 @@ zztt24.com##.no-mask
 ||xixianad.com^$third-party
 ||xiyouence.com^$popup,third-party
 ||xizi.com/js/rotator.js
+||xjeevzv.cn^
 ||xjfyx.com^
 ||xjhjtz.cn^
 ||xjjkxcg.cn^
@@ -23511,7 +23516,6 @@ zztt24.com##.no-mask
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
 ||z2x5c8.com^$image,domain=hihbt.com
-||z4a.net^$domain=69t79.com
 ||z4a.net^$domain=aotu43.com
 ||z4bbs.com/adst/
 ||z66ggsh.top^
@@ -23846,6 +23850,7 @@ zztt24.com##.no-mask
 ||znfg6677.top^
 ||znjj.tv/uploadfiles/abi/ad201
 ||zo6g.top^
+||zobesmu.cn^
 ||zol-img.com.cn/ad/
 ||zol-img.com.cn/detail/js/module/app-download-float/script.js
 ||zol-img.com.cn/star/image/star-banner2.gif
@@ -23890,7 +23895,6 @@ zztt24.com##.no-mask
 ||zqiew.xyz^
 ||zqsj.xyz^
 ||zqslg.cn^
-||zqsx.net/bbs/kehu/
 ||zqwlkj.cn^
 ||zqzq*.com:*/da.aspx
 ||zrblog.net/zanzhu/virpus.gif
@@ -23917,7 +23921,6 @@ zztt24.com##.no-mask
 ||zt-uc-baidu.cc^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
-||zt5.com/statics/img/
 ||zt5g.top^
 ||ztdsp.com^$third-party
 ||ztffac.com^
@@ -24012,7 +24015,6 @@ zztt24.com##.no-mask
 ||zzidc.com/images/1060.jpg
 ||zzidc.com/uploads/pintuan.jpg
 ||zzkj.biz^
-||zzlzl.com/zb_users/theme/Frozen/style/images/banner/
 ||zzmmkj.com^
 ||zzngisyq.xyz^
 ||zzpwwbf.cn^
@@ -24023,6 +24025,7 @@ zztt24.com##.no-mask
 ||zztuu.cn^
 ||zzuzcy.cloud^
 ||zzwzsic.cn^
+||zzxedr.xyz^
 ||zzxhx.com^
 ||zzxxli.club^
 ||zzycj.com^
