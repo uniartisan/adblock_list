@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301030209
+! Version: 202301040224
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51375
+! Lenth = 51381
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -9595,7 +9595,6 @@ home-learn.co.kr#%#//scriptlet("set-constant", "eglc", "noopFunc")
 home-learn.co.kr#%#//scriptlet("set-constant", "eglc.op", "noopFunc")
 hotstuff.com.ua##a[href^="http://top.bigmir.net/report/"]
 hotstuff.com.ua,mobivid.net,theplanet.ws##a[href="http://mycounter.com.ua/"]
-https://github.com/AdguardTeam/AdguardFilters/issues/138964
 imdb.com#%#//scriptlet("set-constant", "doWithAds", "noopFunc")
 infokam.su#?#aside > section.bot-post:-abp-has(> center > a[href^="https://www.liveinternet.ru/"])
 infoorel.ru##a[href="http://www.infoorel.ru/stat/stat.php"]
@@ -23849,6 +23848,7 @@ znak.com##.relap
 ||events.tubecup.org^$third-party
 ||events.turbosquid.com^
 ||events.tvtime.com^
+||events.ubembed.com^
 ||events.virtusize.jp^
 ||events.webdock.io^
 ||events.whisk.com^
@@ -26833,6 +26833,7 @@ znak.com##.relap
 ||idiva.com/analytics_
 ||idlqzb.puntoscolombia.com^
 ||idm.economictimes.indiatimes.com/personalisation/logdata/
+||idm.hit.gemius.pl/gplayer.js$script,redirect=gemius,domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl
 ||idm.skplanet.com/pixel
 ||idntfy.ru^$third-party
 ||idot.cz^$third-party
@@ -27261,6 +27262,7 @@ znak.com##.relap
 ||indeed.com/api/datadog-rum/?
 ||indeed.com/api/v0/initialLog?
 ||indeed.com/api/v0/user/backendLog?
+||indeed.com/cmp/_rpc/flog
 ||indeed.com/hp/log/
 ||indeed.com/indeedapply/tracking/
 ||indeed.com/m/rpc/frontendlogging
@@ -27269,6 +27271,7 @@ znak.com##.relap
 ||indeed.com/rpc/log/
 ||indeed.com/rpc/timing?logEvent=
 ||indeed.com/rpc/vjslog?
+||indeed.com/survey/_/log
 ||index.ru^$third-party
 ||indexsite.ru/online_user.php$third-party
 ||indexstats.com^$third-party
@@ -27981,6 +27984,7 @@ znak.com##.relap
 ||ip2map.com^$third-party
 ||ip2phrase.com^$third-party
 ||ip3-press.com/api/census/RecordHit
+||ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws^
 ||ipada.cafe.naver.com^$xmlhttprequest
 ||ipaddresslabs.com^$third-party
 ||ipapi.co^$third-party
@@ -41371,6 +41375,7 @@ znak.com##.relap
 ||somtrdc.jobstreet.com.sg^
 ||somtrdc.jobstreet.com^
 ||sonar.semantiqo.com^$third-party
+||sonar.viously.com^
 ||sonet-rp.swaxis.com^$third-party
 ||songmeanings.com/*/e.gif?pixels=
 ||songssmoke.com^
@@ -43353,6 +43358,7 @@ znak.com##.relap
 ||stats.studypages.com^
 ||stats.stylight.it^
 ||stats.sublimesecurity.com^
+||stats.suedtirolerjobs.it^
 ||stats.suenicholls.com^
 ||stats.suf.one^
 ||stats.suite101.com^
