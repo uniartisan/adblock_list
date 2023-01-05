@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301040224
+! Version: 202301050228
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25991
+! Lenth = 26004
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -7326,6 +7326,7 @@ ghoffice.com,ksbbs.com,kshot.com##[id^="ads_"]
 ghxi.com###respond + div
 ghxi.com##.ad_single_12
 ghxi.com##div[style^="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index"]
+ghxi.com#$#.wpcom_ad_wrap { position: absolute !important; left: -3000px !important; }
 ghxi.com#@#.social-item
 ghxi.com,mcdulll.com,pixnet.net##div[id*="-ad-"]
 gimy.app##.box-video-text-list + a
@@ -7757,10 +7758,10 @@ hqew.com##.pop-banner
 hqew.com##div[class^="g-ad-"]
 hsex.men###container > div:not([class])
 hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ctm_ad
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ff-ads
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.google-ads
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.hlol_ad
-htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.index-wz-ad
 htcui.com##.carousel
 htcui.com##.qqanimate
 htcui.com##.yanshibtn
@@ -8284,6 +8285,7 @@ itdog.cn##.div-tg
 itdog.cn##.div-top > div:last-child
 itdog.cn##.div-top > script + div
 itdog.cn##.gg_link
+itdog.cn##.lantern_left
 itdog.cn##.link_gg
 itdog.cn##.pic_gg
 itdog.cn##.top_contents
@@ -13921,6 +13923,7 @@ zztt24.com##.no-mask
 ||ahuys.cc/Runtime/js/
 ||ahwangtao.com^
 ||ahwczn.cn^
+||ahwiaw.xyz^
 ||ahxbpm.com^
 ||ahyau.com^
 ||ahylong.cn^
@@ -15767,6 +15770,7 @@ zztt24.com##.no-mask
 ||crazyasia.ml/myupdatelist.
 ||cre99.com^
 ||creaders.net*/ad_func.js
+||creawww.top^
 ||crfrf.com^
 ||crglpt.com^
 ||crleii.xyz^
@@ -18114,6 +18118,7 @@ zztt24.com##.no-mask
 ||hsyipos.com/template/mxone/html_tplmx/vod/*.gif
 ||hsypwju.cn^
 ||hsywzx.cn^
+||htbdvx.xyz^
 ||htft.store^
 ||htg-x.com^$third-party
 ||htgsbk.top^
@@ -18468,6 +18473,7 @@ zztt24.com##.no-mask
 ||ikafan.com/js/novel.js
 ||ikafan.com/upload/image/iqiyi_
 ||ikaka.com/globalad/
+||ikbgika.cn^
 ||ikimhg.xyz^
 ||ikjnwd.xyz^
 ||ikjocef.cn^
@@ -20861,6 +20867,7 @@ zztt24.com##.no-mask
 ||neets.cc/assets/js/dup.js
 ||nehagex.cn^
 ||neihan.co^
+||neipa.xyz^
 ||nen.com.cn/eap/
 ||nen.com.cn/service/js/beitou
 ||neno.ink^
@@ -20962,6 +20969,7 @@ zztt24.com##.no-mask
 ||njhuashidai.cn^
 ||njmbgc.cn^
 ||njq.net^
+||njslx.cn^
 ||njupt-sacc.com^
 ||njvfidke.xyz^
 ||njxczy.com^
@@ -21121,6 +21129,7 @@ zztt24.com##.no-mask
 ||offcn.com/index.php?m=dbsource&c=call&a=get&id=75
 ||offcn.com/index.php?m=dbsource&c=call&a=get&id=77
 ||offcn.com/offcnewm/
+||ofgysy.xyz^
 ||ofqldv.cn^
 ||ofvtpwu.cn^
 ||ofweek.com/pop/ad/
@@ -21606,6 +21615,7 @@ zztt24.com##.no-mask
 ||prtgurh.cn^
 ||prudence.love^
 ||ps123.net/MyFile/
+||ps123.online^
 ||ps557.com/link/
 ||ps886.us/js/*.js
 ||pskzqo.cn^
@@ -22417,6 +22427,7 @@ zztt24.com##.no-mask
 ||sc-gov-cn.website^
 ||sc.csai.cn^
 ||sc126.com^
+||sc4mh.cn^
 ||scardetect.cn^
 ||sccnn.com/SF/zt.jpg
 ||schlaftabletten.cn^
@@ -23801,6 +23812,7 @@ zztt24.com##.no-mask
 ||unionli.com^$third-party
 ||unionsky.cn^$third-party
 ||uniworldgroup.asia^
+||unmnkkq.cn^
 ||unnqyqq.cn^
 ||unpfqc9.com^
 ||unpk41.online^
@@ -23949,6 +23961,7 @@ zztt24.com##.no-mask
 ||vdzzauf.cn^
 ||ve.kj-cy.cn^
 ||veadmin.com^
+||vec4o.fun^
 ||vec4o.top^
 ||vecukb.com^
 ||vedeh.com^
@@ -24930,8 +24943,8 @@ zztt24.com##.no-mask
 ||xxwd.ltd^
 ||xxzj.pro^
 ||xy98.com.cn^
-||xygwh.cc/js/dj
-||xygwh.cc/js/pf
+||xygwh.cc/js/p
+||xygwh.cc/js/x
 ||xyhfc.xyz^
 ||xyhly.xyz^
 ||xyhx.org^
