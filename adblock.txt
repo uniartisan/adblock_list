@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301050228
+! Version: 202301060218
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26004
+! Lenth = 26019
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -3757,6 +3757,7 @@ $websocket,domain=5nj.com|cechi8.com
 9312.net##.pop-up
 939394.xyz###left_layer
 939394.xyz###left_layer_ok
+939394.xyz##DIV[id^="left_layer"]
 939394.xyz##a[href*=".yangkeduo.com"]
 939394.xyz##a[href="https://pic.13709394.net/upload/"]
 939394.xyz##a[href^="/"]:not([href*="."]) > img[src*=".gif"]
@@ -3934,7 +3935,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|fydy8.com|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com|zyshow.net
+@@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=doutula.com|fastadmin.net|toolfk.com|xclient.info
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
@@ -3989,7 +3990,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@_ads_cpc_$domain=90lover.cn
 @@_cpa_cpm_$domain=52xkdy.com
 @@_cpc_cpm/$domain=youranshare.com
-@@_cpc_cpm_$domain=saraba1st.com
+@@_cpc_cpm_$domain=fydy8.com|saraba1st.com
 @@||012.tw^$script,domain=apk.tw
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -7758,6 +7759,7 @@ hqew.com##.pop-banner
 hqew.com##div[class^="g-ad-"]
 hsex.men###container > div:not([class])
 hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.Flagrow-Ads-under-header
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ctm_ad
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ff-ads
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.google-ads
@@ -11043,11 +11045,11 @@ v.qq.com##.nav_link[href^="http"]:not([href*=".qq."])
 v.qq.com##.player-side-ads
 v.qq.com##.site_bg_variety
 v.qq.com##.slider_item[href^="http"]:not([href*=".qq."])
-v.qq.com##.video-card-module > div[dt-params^="ad_creative_id="]
+v.qq.com##.video-card-module > div[dt-params*="ad_creative_id="]
 v.qq.com##a[href*=".renrendai.com"]
 v.qq.com##a[href*=".vip.com"]
 v.qq.com##a[href*="amway.com.cn"]
-v.qq.com#$?#.video-card-module > div[dt-params^="ad_creative_id="] { remove: true; }
+v.qq.com#$?#.video-card-module > div[dt-params*="ad_creative_id="] { remove: true; }
 v.shensgo.com##body > div[id][class*="animated"][style*="position"][style*="z-index"]
 v.shensgo.com##brde[id][style*="height"]
 v.youku.com##.laifeng
@@ -11579,7 +11581,6 @@ zavporn.net##.opt
 zcool.com.cn##.details-advertisement
 zcool.com.cn##.main-wrapper-advlong-top
 zcool.com.cn#@#.advtop
-zddream.com##div[style^="width:100%;height:100%;border:2px"]
 zdface.com#@#.top-ad
 zdfans.com##.btn11[onclick]
 zdfans.com##ul[id^="gaosuxiazai"]
@@ -11779,7 +11780,6 @@ zybang.com##.question-below-text
 zybang.com##.related-question-below-text
 zybang.com##.top_download
 zybang.com##body.m-question > a[href^="https://www.kuaiduizuoye.com/"][target="_blank"] > img
-zysj.com.cn###ad_pc_bottom
 zyue.com##div[id^="divad_"]
 zzbaike.com###topnav
 zzbaike.com###topnav + div[style]
@@ -12668,6 +12668,7 @@ zztt24.com##.no-mask
 ||4-bb.com/new/xxx/
 ||4000bb.com/java/
 ||4006825178.com^
+||401aww.com^
 ||40407.com/plus/rpad/
 ||40407.com/plus_rpad_
 ||407mp3.com/js/*.js
@@ -14128,6 +14129,7 @@ zztt24.com##.no-mask
 ||alivelivevideos.com^
 ||alixixi.com/adsview/
 ||aliys.net^
+||aliyun6969.cn^
 ||aliyuncs.com/ad/jd-smoofit-ad.jpg
 ||aliyuncs.com/gg/
 ||aliyuncs.com/ghdb.gif
@@ -18181,10 +18183,15 @@ zztt24.com##.no-mask
 ||huishij.net^
 ||huishunhang.net^
 ||huitiankuaiji.com^
+||huitoukao.com^
 ||huixiangdou.xyz^
 ||huixianjiaoyuedu.com^
 ||huixiaoqian.com^
+||huiyanzhi.com^
+||huiyelu.com^
+||huiyidui.com^
 ||huiying.shop^
+||huiyueting.com^
 ||huiyutz.cn^
 ||huizai.top^
 ||huizeyoupin.com^
@@ -18665,6 +18672,7 @@ zztt24.com##.no-mask
 ||iqzt3ec.cn^
 ||ir002423.cn^
 ||iroby.com^
+||irygym.xyz^
 ||irzwlux.cn^
 ||is0v39c.cn^
 ||is686.com^$third-party
@@ -19830,6 +19838,7 @@ zztt24.com##.no-mask
 ||lega.store^
 ||legitimate.wang^
 ||leiphone.com/uploads/new/category/pic/*/740x140/
+||leiwo.xyz^
 ||leixigroup.com^
 ||lejlb.com^
 ||lejso.com^
@@ -21393,6 +21402,7 @@ zztt24.com##.no-mask
 ||pcstore.com.tw/adm/psearch_payad_
 ||pcstore.com.tw/css/myacc_init.js
 ||pcvideoyf.titan.mgtv.com/pb/*.mp4
+||pddbtn.xyz^
 ||pdfbook.cn/wp-content/uploads/2017/11/049.jpg
 ||pdkuai.com^
 ||pdqwaan.cn^
@@ -22176,6 +22186,7 @@ zztt24.com##.no-mask
 ||rgfqcly.cn^
 ||rggtt.top^
 ||rgjeow3.com^
+||rglctlo.cn^
 ||rglvbpi.cn^
 ||rgnlaigz.fun^
 ||rhcknl.xyz^
@@ -22393,6 +22404,7 @@ zztt24.com##.no-mask
 ||same*.stockstar.com^
 ||same.chinadaily.com.cn^
 ||same.eastmoney.com^
+||sange20221226.xyz^
 ||sankoup.com^
 ||sanlida.asia^
 ||sanme2.taisantech.com^
@@ -22791,6 +22803,7 @@ zztt24.com##.no-mask
 ||sliuindy.top^
 ||slivindy.top^
 ||slizindy.top^
+||slowbeat.fun^
 ||slshiye.cn^
 ||slsynmlb.fun^
 ||slsyuulb.cam^
@@ -23700,6 +23713,7 @@ zztt24.com##.no-mask
 ||u1.idongde.com^
 ||u1.qyxxpd.com^
 ||u1.shuaiku.com^
+||u1011.com^
 ||u1099.com^
 ||u1102.com^
 ||u1557.com^
@@ -24438,6 +24452,7 @@ zztt24.com##.no-mask
 ||wpdaxue.com/img/*/txy-
 ||wpercent.qwertyuadf.com^
 ||wpib0jr.cn^
+||wpiwoo.xyz^
 ||wples.com/pc/common.js
 ||wpozwh.com^
 ||wpqmiq.cn^
@@ -24538,6 +24553,7 @@ zztt24.com##.no-mask
 ||wzjijia.com^
 ||wzjs.me^
 ||wzjs1.oss-accelerate.aliyuncs.com^
+||wzkxke.xyz^
 ||wzl02.xyz^
 ||wzl03.xyz^
 ||wzl04.xyz^
@@ -25464,6 +25480,7 @@ zztt24.com##.no-mask
 ||yzaosite.com^
 ||yzc35326.top^
 ||yzdh44.com/js/
+||yzgid.cn^
 ||yzh360.com^
 ||yzjihang.cn^
 ||yzjy.pro^
@@ -25735,7 +25752,6 @@ zztt24.com##.no-mask
 ||zimuku.org/sp1.gif
 ||zimushe.com/res/other/
 ||zineworm.com^*&localtype=
-||zinggadget.com/wp-content/*/popup
 ||zipeyrp.cn^
 ||zisafniq.space^
 ||zisu.cn.com^
@@ -25917,7 +25933,6 @@ zztt24.com##.no-mask
 ||zwwooooo.com/images/hengtian.
 ||zx.docin.com^
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
-||zx590.com/assets/style/js/paigu.js
 ||zxhstudy.online^
 ||zxiaochun.site^
 ||zxip.com/2013_ad/

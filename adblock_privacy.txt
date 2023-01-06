@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301050228
+! Version: 202301060218
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51398
+! Lenth = 51411
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -175,6 +175,8 @@ $cookie=adEdition
 $cookie=adcloud
 $cookie=ajs_anonymous_id
 $cookie=anj
+$cookie=atidvisitor
+$cookie=atuserid
 $cookie=audit
 $cookie=bf_lead
 $cookie=bf_visit
@@ -206,6 +208,7 @@ $cookie=everest_g_v2
 $cookie=external_referer
 $cookie=ezds
 $cookie=ezohw
+$cookie=findify
 $cookie=fingerprint,domain=olx.ro|olx.kz|olx.pl|olx.pt|olx.ua|olx.uz|olx.in|olx.com
 $cookie=flocktory-uuid
 $cookie=gaClientId
@@ -299,6 +302,9 @@ $cookie=utag_main
 $cookie=vocuser_uuid,domain=ideal.es|elcorreo.com
 $cookie=wuuid,domain=duolingo.com|duolingo.cn
 $cookie=xf_sam_ad_views
+$cookie=xtant
+$cookie=xtat
+$cookie=xtvrn
 $cookie=yTrackUser
 $cookie=yTrackVisit
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
@@ -1688,6 +1694,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /api/v1/stat?
 /api/v1/streamtelemetry
 /api/v1/track/*
+/api/v2/analytics
 /api/v2/collector
 /api/v2/jsonlogger
 /api/v3/getPageVisits
@@ -5192,6 +5199,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /static/analytics.js
 /static/cache.php?url=https://mc.yandex.com/metrika/*
 /static/cache/?url=https://mc.yandex.ru/*
+/static/javascript/readthedocs-analytics.js
 /static/js/analytics-helper.js
 /static/peg_utils/peg_logger$domain=parship.de|elitepartner.de
 /static/tracking/*
@@ -6454,7 +6462,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 ://email.*/blankpixel.gif
 ://email.*/e/o/
 ://ensighten.
-://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://geoip.*/country.json
 ://ivw.*/get?referrer=
 ://ivwextern.
@@ -6616,7 +6624,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||adobedc.demdex.net/ee/v1/identity/$xmlhttprequest,domain=cibc.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|americanexpress.com|crave.ca|homedepot.ca|nbarizona.com
-@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ralphlauren.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
+@@||adobedtm.com/*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|ing.com.au|ingrammicro.com|kroger.com|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|ralphlauren.com|ssrn.com|telus.com|verizon.com|virginplus.ca|walgreens.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|automobiles.honda.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
@@ -6744,7 +6752,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.curalate.com^$domain=potterybarn.com
 @@||api.cxense.com/document/search?$domain=itmedia.co.jp
 @@||api.cxense.com/document/search?$script,domain=tv-tokyo.co.jp
-@@||api.cxense.com/document/search?$xmlhttprequest,domain=friday.kodansha.co.jp
+@@||api.cxense.com/document/search?$script,xmlhttprequest,domain=friday.kodansha.co.jp|tv-tokyo.co.jp
 @@||api.cxense.com/persisted/execute$domain=nippon.com
 @@||api.cxense.com/persisted/execute$script,domain=nippon.com
 @@||api.cxense.com/public/widget/$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
@@ -6756,11 +6764,10 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.cxense.com/public/widget/data$domain=friday.kodansha.co.jp
 @@||api.cxense.com/public/widget/data$domain=gizmodo.jp
 @@||api.cxense.com/public/widget/data$domain=obozrevatel.com
+@@||api.cxense.com/public/widget/data$script,xmlhttprequest,domain=businessinsider.de|computerbild.de|handelsblatt.com
+@@||api.cxense.com/public/widget/data$script,xmlhttprequest,domain=cyclestyle.net|friday.gold|friday.kodansha.co.jp|mainichi.jp|nippon.com|wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@||api.cxense.com/public/widget/data?$domain=mainichi.jp
-@@||api.cxense.com/public/widget/data?$script,domain=businessinsider.de|handelsblatt.com
-@@||api.cxense.com/public/widget/data?$script,domain=mainichi.jp|nippon.com|wpb.shueisha.co.jp
-@@||api.cxense.com/public/widget/data?$xmlhttprequest,domain=cyclestyle.net
 @@||api.cxense.com/public/widget/data?json$domain=bangkokpost.com
 @@||api.cxense.com/public/widget/data?json$domain=tn.com.ar
 @@||api.cxense.com/public/widget/data?json=$domain=delfi.lt
@@ -6771,7 +6778,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.cxense.com/public/widget/data?json=$domain=wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?json=$domain=wsj.com
 @@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi
-@@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.gold|friday.kodansha.co.jp
 @@||api.dmcdn.net/pxl/cpe/app.min.js$domain=m.sondakika.com
 @@||api.dmcdn.net/pxl/cpe/client.min.js$domain=m.sondakika.com
 @@||api.docodoco.jp^$script,domain=jrtours.co.jp
@@ -6810,7 +6816,9 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||argep.hu/googleanalytics.js
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
 @@||arte.tv^*/xtcore.js
+@@||asadcdn.com/adlib/$domain=computerbild.de
 @@||asadcdn.com/adlib/pages/sport1.js$domain=sport1.de
+@@||asadcdn.com/assets/video/$domain=computerbild.de
 @@||asset.pagefair.com/measure.min.js$domain=www.gamespot.com
 @@||assets.adobedtm.com/*-source.min.js$domain=samsung.com
 @@||assets.adobedtm.com/*/satelliteLib-*.js$domain=docs.nvidia.com
@@ -6980,26 +6988,21 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.crowdtwist.com/img/$image,domain=myperks.catchow.com
 @@||cdn.cxense.com/cx*.js$domain=bangkokpost.com
 @@||cdn.cxense.com/cx*.js$domain=tn.com.ar
-@@||cdn.cxense.com/cx.cce.js$domain=businessinsider.de
 @@||cdn.cxense.com/cx.cce.js$domain=dhnet.be
 @@||cdn.cxense.com/cx.cce.js$domain=journaldemontreal.com
 @@||cdn.cxense.com/cx.cce.js$domain=milenio.com
 @@||cdn.cxense.com/cx.cce.js$domain=president.jp
-@@||cdn.cxense.com/cx.cce.js$domain=tarzanweb.jp
 @@||cdn.cxense.com/cx.cce.js$domain=wsj.com
 @@||cdn.cxense.com/cx.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
-@@||cdn.cxense.com/cx.js$domain=businessinsider.de
 @@||cdn.cxense.com/cx.js$domain=dhnet.be
 @@||cdn.cxense.com/cx.js$domain=itmedia.co.jp
 @@||cdn.cxense.com/cx.js$domain=journaldemontreal.com
 @@||cdn.cxense.com/cx.js$domain=lavoz.com.ar
 @@||cdn.cxense.com/cx.js$domain=milenio.com
 @@||cdn.cxense.com/cx.js$domain=president.jp
-@@||cdn.cxense.com/cx.js$domain=tarzanweb.jp|tv-tokyo.co.jp|wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=tn.com.ar
 @@||cdn.cxense.com/cx.js$domain=wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=wsj.com
-@@||cdn.cxense.com/cx.js$script,domain=handelsblatt.com
 @@||cdn.cxense.com/t_init.min.js$domain=dhnet.be
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
 @@||cdn.dimml.io/dimml.js$domain=consumentenbond.nl
@@ -7245,8 +7248,13 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||currys.co.uk/on/*/js/tracking.js$script,~third-party
 @@||custojusto.pt/smarttag.js
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
+@@||cxense.com/cx.cce.js$domain=businessinsider.de
+@@||cxense.com/cx.cce.js$domain=mainichi.jp|tarzanweb.jp|wpb.shueisha.co.jp
 @@||cxense.com/cx.cce.js$domain=tarzanweb.jp
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
+@@||cxense.com/cx.cce.js$script,domain=handelsblatt.com
+@@||cxense.com/cx.js$domain=businessinsider.de|computerbild.de|handelsblatt.com
+@@||cxense.com/cx.js$domain=cyclestyle.net|mainichi.jp|nippon.com|tarzanweb.jp|tv-tokyo.co.jp|wpb.shueisha.co.jp
 @@||cxense.com/cx.js$domain=mainichi.jp
 @@||cxense.com/cx.js$domain=nlab.itmedia.co.jp
 @@||cxense.com/cx.js$domain=tarzanweb.jp
@@ -8829,12 +8837,10 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||sc.omtrdc.net^$domain=cibc.com
 @@||scdn.cxense.com/cx.cce.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
 @@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp
-@@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp|wpb.shueisha.co.jp
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
 @@||scdn.cxense.com/cx.cce.js$domain=wpb.shueisha.co.jp
 @@||scdn.cxense.com/cx.cce.js$domain=wsj.com
-@@||scdn.cxense.com/cx.cce.js$script,domain=handelsblatt.com
 @@||scdn.cxense.com/cx.js$domain=13.cl
 @@||scdn.cxense.com/cx.js$domain=deadspin.com|theinventory.com|thetakeout.com|splinternews.com|theroot.com|kotaku.com|jezebel.com|gizmodo.com
 @@||scdn.cxense.com/cx.js$domain=delfi.lt
@@ -8848,7 +8854,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||scdn.cxense.com/cx.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.js$domain=sbs.com.au
 @@||scdn.cxense.com/cx.js$domain=wsj.com
-@@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net|mainichi.jp|nippon.com
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
 @@||schlr.cnki.net/detailstatic/js/tracker.js$script,~third-party
 @@||scholar.cnki.net/detailstatic/js/tracker.js$~third-party
@@ -14227,6 +14232,7 @@ znak.com##.relap
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
 ||analytics.sleeknote.com^
+||analytics.slidesai.io^
 ||analytics.snappea.com^
 ||analytics.snaptube.app^
 ||analytics.snidigital.com^
@@ -17059,6 +17065,7 @@ znak.com##.relap
 ||cdn.sgmntfy.com^
 ||cdn.shopify.com/s*/trekkie*.js
 ||cdn.shopify.com/shopifycloud/consent-tracking-api/*/consent-tracking-api.js
+||cdn.shopify.com/shopifycloud/web-pixels-manager/
 ||cdn.sift.com/s.js
 ||cdn.sophi.io^$third-party
 ||cdn.sppoints.xyz^
@@ -19485,6 +19492,7 @@ znak.com##.relap
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1rszqblq924lq.cloudfront.net^
 ||d1rv23qj5kas56.cloudfront.net/js/lib/keen-tracker.min.js
+||d1snv67wdds0p2.cloudfront.net/tracker/
 ||d1snv67wdds0p2.cloudfront.net^
 ||d1stxfv94hrhia.cloudfront^
 ||d1t9uctetvi0tu.cloudfront.net^
@@ -34417,6 +34425,7 @@ znak.com##.relap
 ||parchedsofa.com^$third-party
 ||pardonpopular.com^
 ||pardot.com/pd.js
+||parfuemerie-platen.de/static/version*/frontend/Parfuemerie/BeautyAlliance/de_DE/Smile_ElasticsuiteTracker
 ||parismatch.com/a/p_pm.js
 ||parismatch.com/build/outbrain-tag.*.js
 ||parkdomainreal*.site^$third-party
@@ -36804,6 +36813,7 @@ znak.com##.relap
 ||richreceipt.com^
 ||richrelevance.com/rrserver/tracking?
 ||richstring.com^$third-party
+||ridestore.com^$cookie=/^google-analytics_v4__/
 ||rigelink.com^$third-party
 ||rigghg.candidco.com^
 ||righteouscrayon.com^
@@ -37733,6 +37743,7 @@ znak.com##.relap
 ||sas.nsm-corp.com^
 ||sas15k01.com^$third-party
 ||sasc.solidworks.com^
+||sascdn.com/mh_audience/
 ||sat.public.bd.313.nl^$third-party
 ||sat.sanoma.fi^
 ||satarget.csu.edu.au^
@@ -45803,6 +45814,7 @@ znak.com##.relap
 ||tp88trk.com^$third-party
 ||tpa7.iahorro.com^
 ||tpm.pw^$third-party
+||tpstelemetry.tencent.com^
 ||tpubrk.eobuv.com^
 ||tpucdn.com/js/ga-*.js
 ||tpx.tesseradigital.com^
@@ -49143,6 +49155,7 @@ znak.com##.relap
 ||visitstreamer.com^$third-party
 ||visma.e-conomic.com^
 ||visma.e-conomic.dk^
+||visor.sberbank.ru^
 ||visto1.net^$third-party
 ||visual.ly/track.php?
 ||visualdna.com^$third-party
