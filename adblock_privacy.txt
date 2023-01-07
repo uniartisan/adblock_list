@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301060218
+! Version: 202301070242
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51411
+! Lenth = 51423
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -300,6 +300,9 @@ $cookie=tuuid_lu
 $cookie=uid,domain=motor.ru|quto.ru
 $cookie=utag_main
 $cookie=vocuser_uuid,domain=ideal.es|elcorreo.com
+$cookie=waldo_continent
+$cookie=waldo_country
+$cookie=waldo_region
 $cookie=wuuid,domain=duolingo.com|duolingo.cn
 $cookie=xf_sam_ad_views
 $cookie=xtant
@@ -1138,6 +1141,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /^https?:\/\/www\.halifax-online\.co\.uk\/[A-Za-z0-9]{4,6}\/[A-Za-z0-9]{2}\/[A-Za-z0-9]{2}\//$script,xmlhttprequest,domain=halifax-online.co.uk
 /^https?:\/\/www\.kroger\.com\/content\/{20,}/$script,xmlhttprequest,domain=kroger.com
 /^https?:\/\/www\.myservices\.equifax\.ca\/TSPD\/[0-9a-f]{30,}/$script,domain=equifax.ca
+/_/api/v2/analytics/?
 /_/lite/performance/*
 /_/oh-noes$~third-party,xmlhttprequest
 /_/trace/trace/*
@@ -7260,7 +7264,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cxense.com/cx.js$domain=tarzanweb.jp
 @@||cxense.com/cx.js$script,domain=tv-tokyo.co.jp
 @@||cxense.com^$domain=ikea.com
-@@||d-card.jp/st/common/js/googleTagManager.js
 @@||d.line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
@@ -7292,6 +7295,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|dashboard.getdriven.app|usa.experian.com
 @@||datadome.co/js/$xmlhttprequest,domain=sso.garena.com
 @@||datadome.co/tags.js$domain=sso.garena.com
+@@||dcard.docomo.ne.jp/st/common/js/googleTagManager.js
 @@||dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js$domain=fivethirtyeight.com
 @@||dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js$domain=marvel.com
 @@||dcinfos.abtasty.com/geolocAndWeather.php^$domain=tf1.fr
@@ -8913,8 +8917,10 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
 @@||showheroes.com/playlist/vast3?$xmlhttprequest,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
-@@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
-@@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
+@@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
+@@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
+@@||showheroes.com/spot/$xmlhttprequest,domain=rollingstone.de
+@@||showheroes.com/spot/iframe?$script,domain=rollingstone.de
 @@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||simyo.de/b/ss/$image
@@ -15176,7 +15182,7 @@ znak.com##.relap
 ||assessment.nj.betmgm.com^
 ||assessment.vetassess.com.au^
 ||assets-jpcust.jwpsrv.com/*/ping.js
-||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net
+||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca
 ||assets.adsttc.com/insights/form-funnel.min.js
 ||assets.adsttc.com/insights/tracker.js
 ||assets.alicdn.com/g/alilog/aplus_plugin_xwj/index.js
@@ -30131,6 +30137,7 @@ znak.com##.relap
 ||map.naver.com/*/api/searchAddressById
 ||map.rockwellautomation.com^
 ||mapandroute.de/log.xhr?
+||mapbox.com/www/scripts/analytics.js
 ||mapi-log.qoo*.jp^
 ||maploco.com^$third-party
 ||mapmyuser.com^$third-party
@@ -33408,6 +33415,9 @@ znak.com##.relap
 ||nordicresearch.com^$third-party
 ||nordjyske.tns-gallup.dk^
 ||nordstrom.com/log
+||nordvpn.com^$cookie=CurrentSession
+||nordvpn.com^$cookie=FirstSession
+||nordvpn.com^$cookie=nextbid
 ||northstartravelmedia.com^$third-party
 ||norton.com/service/norton/head?
 ||nos.netease.com/udc-web/*.log.js
@@ -36398,8 +36408,7 @@ znak.com##.relap
 ||readingopera.com^
 ||readingopera.com^$third-party
 ||readnotify.com^$third-party
-||readthedocs.io/_/api/v2/analytics/
-||readthedocs.io/_/static/javascript/readthedocs-analytics.js
+||readthedocs.*/javascript/readthedocs-analytics.js
 ||readymoon.com^$third-party
 ||readysnails.com^
 ||readysnails.com^$third-party
@@ -38017,6 +38026,7 @@ znak.com##.relap
 ||sdk.51.la^$third-party
 ||sdk.airbridge.io^
 ||sdk.appbrain.com/api/
+||sdk.conscent.in^$third-party
 ||sdk.qvol.tv/static/assets/vendor/yandex_metrica.js
 ||sdk.stats-locations.com^
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -47941,12 +47951,14 @@ znak.com##.relap
 ||trilogyed.com^$third-party
 ||trinitymedia.ai/api/collect?
 ||trinklink1.s3.amazonaws.com/trinklink.js
+||tripadvisor.$cookie=TADCID
 ||tripadvisor.*/MetricsAjax
 ||tripadvisor.*/actionrecord
 ||tripadvisor.*/cookiepingback?
 ||tripadvisor.*/garecord
 ||tripadvisor.*/impressionrecord
 ||tripadvisor.*/wm/record
+||tripadvisor.TAUnique
 ||tripadvisor.activate.ensighten.com^
 ||triplewhale-pixel.web.app^
 ||triptease.io^$third-party
