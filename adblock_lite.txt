@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301100712
+! Version: 202301100844
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23472
+! Lenth = 23476
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -12225,6 +12225,7 @@ zzzyk.com###Tinfo
 ||betylife.com^
 ||bf99.com/User*/Ad_
 ||bf99.com/User/Images/bg_Blued.jpg
+||bfdaawe.top^
 ||bfejteb.cn^
 ||bfgg365.com^
 ||bfjl.ink^
@@ -12232,6 +12233,7 @@ zzzyk.com###Tinfo
 ||bfrmye5.com^
 ||bfsqtsn.cn^
 ||bgilefj.cn^
+||bgjjwl.cn^
 ||bgnlaigv.fun^
 ||bh0874.online^
 ||bh2q.fun^
@@ -15231,6 +15233,7 @@ zzzyk.com###Tinfo
 ||hcenc.com^
 ||hchik.com^
 ||hcmyfni.cn^
+||hcqsuqq.cn^
 ||hcwljy.com^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
@@ -15704,6 +15707,7 @@ zzzyk.com###Tinfo
 ||hz-sllace.com^
 ||hz.shouyoutv.com^
 ||hz.youku.com/red/
+||hzcp.fun^
 ||hzcy.ltd^
 ||hzdwjc.com^
 ||hzhyhm.com^
@@ -20788,6 +20792,7 @@ zzzyk.com###Tinfo
 ||tfg2.com/images/upfile/banner/
 ||tfptlgrw.co^
 ||tfptlgrw.live^
+||tg0qu.top^
 ||tgnlaigi.fun^
 ||tgvtlpi.cn^
 ||th-make.com^
@@ -23473,6 +23478,5 @@ zzzyk.com###Tinfo
 ~weibo.com##.con_ad
 ~work.weixin.qq.com,qq.com#%#//scriptlet('json-prune', 'ad')
 ~zhidmai.com##a[href*="https://www.zhidmai.com"]
-v2rayssr.com##a[href*="goii.cc"]
 @@||ssl.o.auspost.com.au
 @@||o.auspost.com.au.ssl.d2.sc.omtrdc.net

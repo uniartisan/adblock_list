@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301100712
+! Version: 202301100844
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26039
+! Lenth = 26043
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -14792,6 +14792,7 @@ zzzyk.com###Tinfo
 ||betylife.com^
 ||bf99.com/User*/Ad_
 ||bf99.com/User/Images/bg_Blued.jpg
+||bfdaawe.top^
 ||bfejteb.cn^
 ||bfgg365.com^
 ||bfjl.ink^
@@ -14799,6 +14800,7 @@ zzzyk.com###Tinfo
 ||bfrmye5.com^
 ||bfsqtsn.cn^
 ||bgilefj.cn^
+||bgjjwl.cn^
 ||bgnlaigv.fun^
 ||bh0874.online^
 ||bh2q.fun^
@@ -17798,6 +17800,7 @@ zzzyk.com###Tinfo
 ||hcenc.com^
 ||hchik.com^
 ||hcmyfni.cn^
+||hcqsuqq.cn^
 ||hcwljy.com^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
@@ -18271,6 +18274,7 @@ zzzyk.com###Tinfo
 ||hz-sllace.com^
 ||hz.shouyoutv.com^
 ||hz.youku.com/red/
+||hzcp.fun^
 ||hzcy.ltd^
 ||hzdwjc.com^
 ||hzhyhm.com^
@@ -23355,6 +23359,7 @@ zzzyk.com###Tinfo
 ||tfg2.com/images/upfile/banner/
 ||tfptlgrw.co^
 ||tfptlgrw.live^
+||tg0qu.top^
 ||tgnlaigi.fun^
 ||tgvtlpi.cn^
 ||th-make.com^
@@ -26040,6 +26045,5 @@ zzzyk.com###Tinfo
 ~weibo.com##.con_ad
 ~work.weixin.qq.com,qq.com#%#//scriptlet('json-prune', 'ad')
 ~zhidmai.com##a[href*="https://www.zhidmai.com"]
-v2rayssr.com##a[href*="goii.cc"]
 @@||ssl.o.auspost.com.au
 @@||o.auspost.com.au.ssl.d2.sc.omtrdc.net
