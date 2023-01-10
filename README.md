@@ -47,12 +47,13 @@
 
 2. **上游列表有误**
 
-反馈英文网站或EasyList或EasyPrivacy或Fanboy's Social Blocking List的问题：请将网址发到easylist.
-subscription@gmail.com并英文描述
+反馈英文网站或 EasyLis t或 EasyPrivacy 或 Fanboy's Social Blocking List的问题：请将网址发到  easylist.subscription@gmail.com 并英文描述
 
-反馈非中英文网站的问题：请查看对应的语言列表https://adblockplus.org/zh_CN/subscriptions
+反馈非中英文网站的问题：请查看对应的语言列表
+https://adblockplus.org/zh_CN/subscriptions
 
 3. **如何提问？**
+
 [提问的艺术（中文版）](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 **请注意，提供此翻译的个人及组织不对本项目负责**

@@ -118,25 +118,26 @@ def deal_with_whitelist(list1, list2):
     """去除 list1 里 list2 的元素"""
     for i in list2:
         print(i)
-        if i in list1:
+        if i in list1 and i.startswith('@@'):
             list1.remove(i)
             list1.append("@@" + i)
+        else:
+            list1.append(i)
     return list1
 
 
 # 排序去重
-result = list(set(result))
-result.sort()
-result = deal_with_whitelist(result, whitelist_rules)
-result_plus = list(set(result_plus))
-result_plus.sort()
-result_plus = deal_with_whitelist(result_plus, whitelist_rules)
-result_privacy = list(set(result_privacy))
-result_privacy.sort()
-result_privacy = deal_with_whitelist(result_privacy, whitelist_rules)
-result_lite = list(set(result_lite))
-result_lite.sort()
-result_lite = deal_with_whitelist(result_lite, whitelist_rules)
+def sort_the_list(input_list, whitelist_rules):
+    tmp = list(set(input_list))
+    tmp.sort()
+    tmp = deal_with_whitelist(tmp, whitelist_rules)
+    return tmp
+
+
+result = sort_the_list(result, whitelist_rules)
+result_plus = sort_the_list(result_plus, whitelist_rules)
+result_privacy = sort_the_list(result_privacy, whitelist_rules)
+result_lite = sort_the_list(result_lite, whitelist_rules)
 
 
 # 时间戳信息
