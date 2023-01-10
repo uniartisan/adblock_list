@@ -117,12 +117,12 @@ for t in range(0, lenth):
 def deal_with_whitelist(list1, list2):
     """去除 list1 里 list2 的元素"""
     for i in list2:
-        print(i)
-        if i in list1 and i.startswith('@@'):
+        if i.startswith('@@'):
+            list1.append(i)
+        elif i in list1:
+            print(i)
             list1.remove(i)
             list1.append("@@" + i)
-        else:
-            list1.append(i)
     return list1
 
 
