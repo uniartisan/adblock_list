@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301100213
+! Version: 202301100712
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26041
+! Lenth = 26039
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -786,7 +786,6 @@
 ##.propa_bottom
 ##.pure-g[onclick*="float"]
 ##.qpdb + a[href]
-##.qq_nr_lad
 ##.qzdhf
 ##.qzhfaaa
 ##.r-ad
@@ -2625,7 +2624,7 @@ $websocket,domain=5nj.com|cechi8.com
 0772fang.com###v_topAD_1
 0772fang.com##.box0
 0772fang.com##.top_blft
-0du123.com,100ec.cn,10besty.com,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,imydl.com,iqiyi.com,jia360.com,jojf.cn,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,woniuyulew.com,xingkbjm.com,zgfznews.com,zyue.com##.banner
+0du123.com,100ec.cn,10besty.com,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,imydl.com,iqiyi.com,jia360.com,jojf.cn,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,woniuyulew.com,xingkbjm.com,zyue.com##.banner
 10086.cn###bottomBigBanner
 10086.cn##.advertisingOther_img
 100bt.com##.aolasidebar__ad1
@@ -11735,7 +11734,6 @@ zuowen.com##.dialogP
 zuoye.baidu.com##dl[class="card related"]
 zuoye.baidu.com,zybang.com###QRinside
 zuoye.baidu.com,zybang.com###aside
-zuoye.baidu.com,zybang.com##.cpro
 zuoyebang.com##DIV[class^="questionQRCodeWrap_"]
 zuoyebang.com##div[class*="moreDialog_"]
 zuoyebang.com##div[class^="adCard_"]
@@ -11743,9 +11741,7 @@ zuoyebang.com##div[class^="answerAnalyzeAd_"]
 zuoyebang.com##img[class^="bottomBanner_"]
 zww.me##.sp-top-img
 zxzjtv.com##.container > .none
-zybang.com###askTeacher-after-adx-wrap
 zybang.com###bottomBannerLink
-zybang.com##.firstBanner
 zybang.com##.navigationBar-below-banner
 zybang.com##.question-below-text
 zybang.com##.related-question-below-text
@@ -25933,7 +25929,6 @@ zzzyk.com###Tinfo
 ||zuopp.com^
 ||zuoss.net^
 ||zuowen.hydcd.com^
-||zuoyebang.cc/static/question/pkg/wap-qb_
 ||zuoyebang.cc/static/question/question/resource/QRCode_
 ||zuoyebang.cc/zyb_4953cbb8a9a2332469592196c056a906.jpg
 ||zupulu.com/scripts/app/app.js
@@ -26045,3 +26040,6 @@ zzzyk.com###Tinfo
 ~weibo.com##.con_ad
 ~work.weixin.qq.com,qq.com#%#//scriptlet('json-prune', 'ad')
 ~zhidmai.com##a[href*="https://www.zhidmai.com"]
+v2rayssr.com##a[href*="goii.cc"]
+@@||ssl.o.auspost.com.au
+@@||o.auspost.com.au.ssl.d2.sc.omtrdc.net
