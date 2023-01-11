@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301100844
+! Version: 202301110254
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50763
+! Lenth = 50768
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -216,6 +216,7 @@ $cookie=findify
 $cookie=fingerprint,domain=olx.ro|olx.kz|olx.pl|olx.pt|olx.ua|olx.uz|olx.in|olx.com
 $cookie=flocktory-uuid
 $cookie=gaClientId
+$cookie=gam_ppid
 $cookie=gckp
 $cookie=gptrackCookie
 $cookie=gptrackPVID
@@ -9565,6 +9566,7 @@ culture.ru###page-error-modal
 customeriomail.com/e/o$image
 cw.com.tw#%#//scriptlet("set-constant", "qg", "noopFunc")
 cyber.dabamos.de#@#img[width="88"][height="31"]
+dealdoktor.de##img[src*="//vg09.met.vgwort.de/"]
 demae-can.com#%#//scriptlet('remove-attr', 'data-trm-action|data-trm-category|data-trm-label', '.trm_event')
 directtrack.*.js
 dizibey.com##.sidebar > #text-19
@@ -9741,6 +9743,7 @@ pryamoj-efir.ru#?#.layout-post-right > h1.playmaker-list:contains(Статист
 pstmrk.it/open$image
 pusatporn18.com###HTML1
 qiita.com#%#//scriptlet("prevent-addEventListener", "load", "navigator")
+qiita.com#?#.p-items_main > div > div[class^="style-"] > div[class^="style-"] > div[id^="logly-"]:upward(2)
 qiita.com#?#div[class^="css"] > div > div[id^="logly-"]:upward(2)
 radioprofusion.com##.revolvermaps
 radioprofusion.com##footer > div.counter
@@ -15256,7 +15259,7 @@ znak.com##.relap
 ||aspservice.jp^$third-party
 ||assessment.vetassess.com.au^
 ||assets-jpcust.jwpsrv.com/*/ping.js
-||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca
+||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com
 ||assets.adsttc.com/insights/form-funnel.min.js
 ||assets.adsttc.com/insights/tracker.js
 ||assets.alicdn.com/g/alilog/aplus_plugin_xwj/index.js
@@ -46552,6 +46555,7 @@ znak.com##.relap
 ||tracker.financialcontent.com^
 ||tracker.giftd.ru^
 ||tracker.gleanview.com^
+||tracker.hdtvcloud.com^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^
 ||tracker.idocdn.com^$third-party
@@ -46628,6 +46632,7 @@ znak.com##.relap
 ||trackicollect.ibase.fr^$third-party
 ||tracking*.euroads.fi^
 ||tracking*.euroads.fi^$third-party
+||tracking-api-4lasu2nlcq-ew.a.run.app^
 ||tracking-api.hotmart.com^
 ||tracking-api.sub100.com.br^
 ||tracking-config-service.glority.com^

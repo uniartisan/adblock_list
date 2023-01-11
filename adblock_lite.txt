@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301100844
+! Version: 202301110254
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23476
+! Lenth = 23496
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -5193,7 +5193,11 @@ hqew.com##.pop-banner
 hqew.com##div[class^="g-ad-"]
 hsex.men###container > div:not([class])
 hsex.men##div[style="margin:0 auto 10px;width:900px;height:250px"]
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@##adsbox
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.Flagrow-Ads-under-header
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.RMss1
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.Text-Advertising
+htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.a_ssk_cn
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ctm_ad
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.ff-ads
 htcomic.top,htmanga.top,wnacg.com,wnacg.org,wnacg.top#@#.google-ads
@@ -6594,6 +6598,7 @@ memexie.com##div[style^="width:9"][style$="#C8E4F0"]
 mengzhan521.com##a[href^="http"]:not([href*="mengzhan"]) > img[src^="http"]
 mg21.com##a[href="https://www.mg21.com/zunjiazq"]
 mgbbs.cn##td[width="960"][height="60"]
+mgnacg.com##a[href^="https://fanqiev2.work/auth/register?code="]
 mgtv.com##.ad-fixed-bar
 mgtv.com##.c-95060-top
 mh160.com###jusha1
@@ -8028,6 +8033,7 @@ speedpan.com###float-window
 speedtest.cn##.aP-box
 speedtest.cn##.advertisingSpace
 speedtest.cn##.index-advertising
+speedtest.cn##.pub-ad
 speedtest.cn##.shade
 speedtest.cn##.speed-bottom-ads
 speedtest.cn##.speed-top-ads
@@ -12721,6 +12727,7 @@ zzzyk.com###Tinfo
 ||centurys.net/promo_
 ||ceoqq.xyz^
 ||ceqerq.xyz^
+||cerfbup.xyz^
 ||ceseasons.com^
 ||ceshi10.ink^
 ||ceshi2.ink^
@@ -16721,6 +16728,7 @@ zzzyk.com###Tinfo
 ||jvyigg.zbzw.la^
 ||jwadakesa.cyou^
 ||jwdhoxw.cn^
+||jwgihca.cn^
 ||jwhfkj.cn^
 ||jwoglda.top^
 ||jwtkw2w.cn^
@@ -17727,6 +17735,7 @@ zzzyk.com###Tinfo
 ||ma3s.top^
 ||maaijun.top^
 ||maccms.info^
+||maccms10.cn^
 ||macd.cn/macd-topads.html
 ||macew.xyz^
 ||macfans.org/vip/
@@ -18029,6 +18038,7 @@ zzzyk.com###Tinfo
 ||mmonly.cc/js/mmonlyAPP.js
 ||mmrrk.top^
 ||mmtalk.net/images/banner
+||mmtcw.cn^
 ||mmxirnadca.com^
 ||mnbfs.xyz^
 ||mnbvbrow.xyz^
@@ -18461,6 +18471,7 @@ zzzyk.com###Tinfo
 ||no1.168abc.net/upload/
 ||noiea.xyz^
 ||nokiadatabooklet.ltd^
+||nonabh.xyz^
 ||nongchanlianhe.top^
 ||nongfumg.com^
 ||nongjih.cn^
@@ -21173,6 +21184,12 @@ zzzyk.com###Tinfo
 ||u1102.com^
 ||u1557.com^
 ||u1885.com^
+||u22011.com^
+||u22033.com^
+||u22055.com^
+||u22066.com^
+||u22077.com^
+||u22088.com^
 ||u2676.com^
 ||u26u.com^$popup,third-party
 ||u5fsqf.com^
@@ -21251,6 +21268,7 @@ zzzyk.com###Tinfo
 ||ujian.cc^$third-party
 ||ujiasm.com^
 ||ukan.online^
+||ukutuy.xyz^
 ||ulfex.cn^$third-party
 ||ulink.cc^$third-party
 ||ulqihfr.cn^
@@ -22260,6 +22278,7 @@ zzzyk.com###Tinfo
 ||xkeo6sleo.cyou^
 ||xkhall.xyz^
 ||xkjxgt.com^$third-party
+||xkqit.com^
 ||xkyn.com/imgs/js/xx.js
 ||xkzzyk.cn^
 ||xl2d.top^
@@ -22331,6 +22350,7 @@ zzzyk.com###Tinfo
 ||xqoekp.cn^
 ||xqzzl1l.cn^
 ||xrecord.xyz^
+||xrewo.xyz^
 ||xrkadslmgg.xyz^
 ||xrn8.xyz^
 ||xroqbkk.cn^
