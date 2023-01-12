@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301110254
+! Version: 202301120245
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50768
+! Lenth = 50785
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -17,6 +17,7 @@
 ##a[href^="https://top.mail.ru/jump"]
 ##amp-embed[type="taboola"]
 ##img[src*="counter.yadro.ru"]
+##img[src^="//counter.ukr.net/"]
 ##img[src^="http://c.bigmir.net/"]
 #%#//scriptlet('set-constant', 'Document.prototype.browsingTopics', 'undefined')
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
@@ -2578,6 +2579,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /dc-storm/aff.
 /dc-storm/track.
 /dc_performance.js
+/dcjs/prod/*
 /dcs.gif?
 /dcs/track.
 /dcs_head.
@@ -4586,6 +4588,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /production/track$domain=note.com
 /profile_tracker.
 /projectpoi.min.js
+/prolist/impression-log
 /promo/impression?
 /promo_tracking.
 /promo_tracking/*
@@ -6178,6 +6181,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /vstrack.
 /vtrack.aspx
 /vtrack.php?
+/vtrack?vid=
 /vtracker.$domain=~vtracker.org
 /vuukle-analytics.
 /vwFiles/analytics/*
@@ -6745,6 +6749,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||analytics.twitter.com^$domain=analytics.twitter.com
 @@||ancestrycdn.com/ui-static/lib/tracking/$domain=ancestry.com
 @@||annuaire.118000.fr/js/xtcore.js
+@@||answers.ros.org/m/default/media/images/$image,~third-party
 @@||anteraja.id/api/api/tracking/api/captchaImg$~third-party
 @@||anteraja.id/api/api/tracking/api/reloadCaptchaImg$~third-party
 @@||anthem.com/includes/foresee/foresee-trigger.js
@@ -7221,6 +7226,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||console.statsig.com/_next/$~third-party
 @@||constantcontact.com/js/WebTracking/
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro
+@@||content.delta.com/content/dam/delta-applications/fresh-air-core/*/js/trackjs.js
 @@||content.gap.com/fp/*.js$script,~third-party
 @@||content.gap.com/fp/check.js$domain=oldnavy.gap.com
 @@||content.gap.com/fp/check.js$script,domain=oldnavy.gap.com
@@ -7842,7 +7848,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|edwardjones.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aeromexico.com
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -8006,6 +8012,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=sloggi.com
 @@||googletagmanager.com/gtm.js$domain=society6.com
 @@||googletagmanager.com/gtm.js$domain=spareroom.co.uk
+@@||googletagmanager.com/gtm.js$domain=spektrum.de
 @@||googletagmanager.com/gtm.js$domain=sport1.de
 @@||googletagmanager.com/gtm.js$domain=square-enix-games.com
 @@||googletagmanager.com/gtm.js$domain=stage.parco.jp
@@ -8448,6 +8455,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mediaworld.it^*/GoogleTagManager.js?
 @@||megafon.ru/static/?files=*/tealeaf.js
 @@||meituan.com^$cookie=device_uuid
+@@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
 @@||metrics.ancestry.com/b/ss/$image
 @@||metrics.bangbros.com/tk.js$~third-party
 @@||metrics.bitdefender.com/b/ss/*$domain=bitdefender.com
@@ -10378,6 +10386,7 @@ znak.com##.relap
 ||a.thelocal.com^
 ||a.thexfactorusa.com^
 ||a.transportgruppen.se^
+||a.utopia.de/a.gif
 ||a.visitefoz.com.br^
 ||a.wa.autodesk.com/asp.js
 ||a.weareknitters.dk^
@@ -17839,6 +17848,7 @@ znak.com##.relap
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
 ||cloudfunctions.net/trackEvent|
+||cloudfunctions.net/vanalytics
 ||cloudhosting-business.vodafone.com^
 ||cloudiq.com^$third-party
 ||cloudsdestruction.com^
@@ -22021,6 +22031,7 @@ znak.com##.relap
 ||dloeloqua.danskespil.dk^
 ||dlqxtm.sssports.com^
 ||dlrdmw.zanui.com.au^
+||dls2s.appsflyer.com^
 ||dlswbr.baidu.com/heicha/mw/abclite-*.js
 ||dlswbr.baidu.com^
 ||dlxpix.net^
@@ -26945,6 +26956,7 @@ znak.com##.relap
 ||img.opentracker.net
 ||img.simply.bwin.com^
 ||img.sportsworldi.com/static/w_sportsworld/common/js/analytics.js
+||img.sputnik.*/min/js/libs/ria.analytics.js
 ||img.sputniknews.com/min/js/plugins/video-counters.js
 ||img.yemeksepeti.com^
 ||img2-digitouch.mncdn.com/include/dynamic_click_tag.js
@@ -35651,6 +35663,7 @@ znak.com##.relap
 ||pywiia.lfmall.co.kr^
 ||pzajdh.guicheweb.com.br^
 ||pzapi-ij.com^
+||pzapi-kg.com^
 ||pzd.rakuten.co.jp^
 ||pzimff.com^
 ||pzscub.prestiter.it^
@@ -38232,6 +38245,7 @@ znak.com##.relap
 ||services.princes-trust.org.uk^
 ||services.reworkbyroe.com^
 ||services.sdiapi.com^
+||services.themarker.com/ds/impression
 ||services.tvn.pl/fpdata.js
 ||services.tvn.pl/gemiuslib.js
 ||services.tvn.pl/gstream.js
@@ -43993,6 +44007,7 @@ znak.com##.relap
 ||t.xtreamarena.com^
 ||t.y8.com^
 ||t.zhipin.com^
+||t.zulily.com^
 ||t0y.toyota.ca^
 ||t1.ask1.co^
 ||t1.benefits.tops.co.th^
@@ -44061,6 +44076,7 @@ znak.com##.relap
 ||tag.hariken.co^$third-party
 ||tag.karte.io^
 ||tag.leadplace.fr^
+||tag.lexer.io^
 ||tag.mtrcs.samba.tv^
 ||tag.myplay.com^
 ||tag.pprl.io^
@@ -48144,6 +48160,7 @@ znak.com##.relap
 ||utils.cedsdigital.it/js/webtrekk.js
 ||utils.global-e.com/set?
 ||utop.umengcloud.com^
+||utopia.de/app/themes/utopiamain/assets/js/wecantrack.js
 ||utrack.buybox.click/analytics.js
 ||utrack.buybox.click/bb4shop.js
 ||utrack.hexun.com^
