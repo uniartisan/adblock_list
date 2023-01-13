@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301120245
+! Version: 202301130234
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50785
+! Lenth = 50790
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -2837,6 +2837,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /events/pixel/*$image
 /events/pixelEvent
 /events/track/*
+/events/view-form-open
 /events/view?
 /events?data=
 /events?rpId=
@@ -3480,7 +3481,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /insights-collector.
 /insights-emitter.
 /insights-emitter/*
-/insights/events/*
 /insitemetrics/*
 /instart.js
 /intellitracker.js
@@ -3880,6 +3880,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /m360lib.js
 /ma.gif?cc=
 /madAnalytics.js
+/magento/page-visit?
 /magento2.js
 /magiq-
 /magnet/render.
@@ -5094,7 +5095,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /smetrics.*/id?
 /smg_tracking/*
 /snowman.gif?p=
-/snowplow.*.js
+/snowplow.*.js$domain=~snowplow.io
 /snowplow.js$script,third-party
 /snowplow/*$script
 /snowplow_$script
@@ -8007,6 +8008,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=shieldsgazette.com
 @@||googletagmanager.com/gtm.js$domain=shop.kyivstar.ua
 @@||googletagmanager.com/gtm.js$domain=shop.mango.com
+@@||googletagmanager.com/gtm.js$domain=shop.sanrio.co.jp
 @@||googletagmanager.com/gtm.js$domain=sk.club.iqos.com
 @@||googletagmanager.com/gtm.js$domain=skoda-auto.pl
 @@||googletagmanager.com/gtm.js$domain=sloggi.com
@@ -9676,8 +9678,7 @@ lurkmore.to###p-counters
 luxhard.com#?##sidebar-primary > .widget-container:-abp-has(a[href^="https://metrika.yandex.ru/stat/"])
 m.card-gorilla.com,pindirectshop.com,dongbanmall.com#%#//scriptlet("set-constant", "kakaoPixel", "undefined")
 m.crank-in.net#?#div[id^="_popIn_trend_ranking"]:upward(1)
-m.dcinside.com#%#document.cookie = `_ga=a; path=/; domain=.dcinside.com; expires=${new Date(new Date().getTime()+1000*60*60*24*365).toGMTString()};`;
-m.dcinside.com,upload.dcinside.com#%#//scriptlet('trusted-set-cookie', '_ga', 'a', '1year')
+m.dcinside.com,upload.dcinside.com#%#//scriptlet('set-cookie', '_ga', 'OK')
 m.lenta.ru##.b-footer_counters
 m24.ru##.b-counters > ul
 mag.osdn.jp##div[id^="logly-lift-"]
@@ -12988,6 +12989,7 @@ znak.com##.relap
 ||adtlgc.com^$third-party
 ||adtm.chip.de^
 ||adtmrs.delti.com^
+||adtonos.com/atr/*/px.gif
 ||adtr.io^$third-party
 ||adtrack.appcpi.net^
 ||adtrack.loracle.jp^
@@ -14351,7 +14353,6 @@ znak.com##.relap
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
 ||analytics.thetab.com^
-||analytics.thevideo.me^
 ||analytics.thingx.tv^
 ||analytics.threedeepmarketing.com^
 ||analytics.ticinolibero.ch^
@@ -15824,6 +15825,7 @@ znak.com##.relap
 ||bc0a.com/api/
 ||bc0a.com/autopilot/
 ||bc0a.com/be_ixf_js_sdk.js
+||bc0a.com/marvel.js
 ||bc34.wijnvoordeel.nl^
 ||bcanl.bca-autoveiling.nl^
 ||bcbits.com/bundle/*/analytics-*.js
@@ -17150,7 +17152,6 @@ znak.com##.relap
 ||cdn.sppoints.xyz^
 ||cdn.stat-track.com^
 ||cdn.static-fra.de/*/tracking/
-||cdn.stroeerdigitalgroup.de^$third-party
 ||cdn.taboola.com/libtrc/animeyttv/loader.js
 ||cdn.tebilisim.com/analytics.js
 ||cdn.teleportapi.com^$third-party
@@ -21780,6 +21781,7 @@ znak.com##.relap
 ||dialogue.nl.mazda.be^
 ||diamages.carte-gr.total.fr^
 ||diariodonordeste.verdesmares.com.br/static/assets/scripts/p_googletag.js
+||diarioregistrado.com/api/v*/analytics
 ||diboji.class101.net^
 ||did-it.com^$third-party
 ||didit.com^$third-party
@@ -22948,6 +22950,7 @@ znak.com##.relap
 ||eloquatracking.iqvia.com^
 ||eloquatracking.mindbody.io^
 ||eloquatracking.relayr.io^
+||elpais.com.uy/google-analytics-*.js
 ||elpais.com/t.gif
 ||elq-lantern.ruggedsolution.getac.com^
 ||elq-tracking.genomes.atcc.org^
@@ -24469,6 +24472,7 @@ znak.com##.relap
 ||fpctraffic2.com^$third-party
 ||fphfdx.partswarehouse.com^
 ||fpjs.io^$third-party
+||fpnpmcdn.net^
 ||fpptmv.mrmarvis.co.uk^
 ||fprfvt.recambioscoches.es^
 ||fprnt.com^$third-party
@@ -29181,6 +29185,7 @@ znak.com##.relap
 ||llama.growthinkers.nl^
 ||llama.mallardbay.com^
 ||llama.moodgym.com.au^
+||llanalytics.com^$third-party
 ||lloogg.com^$third-party
 ||llqutk.skechers.com.au^
 ||llteig.framesdirect.com^
@@ -29359,8 +29364,6 @@ znak.com##.relap
 ||log.targetpush.co.kr^
 ||log.tbs.qq.com^
 ||log.tf.co.kr^
-||log.thevideo.me/logpop^
-||log.thevideo.me^
 ||log.tiktokv.com^
 ||log.tpns.tencent.com^
 ||log.ttbc-hcm.gov.vn^
@@ -29716,6 +29719,7 @@ znak.com##.relap
 ||m1.stadiumgoods.com^
 ||m10.m1029.com^
 ||m1ll1c4n0.com^$third-party
+||m1tm.motor1.com/analytics.js
 ||m365log.com^$third-party
 ||m3ds.subarumetropolitain.com^
 ||m4zoxtrcea1k.controlconceptsusa.com^
@@ -30803,6 +30807,7 @@ znak.com##.relap
 ||meetrics.net^$domain=spiegel.de|stern.de
 ||meetrics.net^$third-party
 ||meetrics.netbb-
+||meetup.com^$cookie=MEETUP_BROWSER_ID
 ||mefo1.zdf.de^
 ||mega-stats.com^$third-party
 ||megadata.co.kr^
@@ -34731,6 +34736,7 @@ znak.com##.relap
 ||pixel.advertising.com^
 ||pixel.ampry.com^
 ||pixel.anyclip.com^
+||pixel.archipro.co.nz^
 ||pixel.archive.
 ||pixel.archive.is^
 ||pixel.archive.ph^
@@ -42954,7 +42960,6 @@ znak.com##.relap
 ||stats.thegoodlineheight.com^
 ||stats.thenewradiance.com^
 ||stats.thermofisher.com^
-||stats.thevideo.me^
 ||stats.thingsthatkeepmeupatnight.dev^
 ||stats.thomasfroese.com^
 ||stats.thomasvitale.com^
