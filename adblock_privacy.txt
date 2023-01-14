@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301130234
+! Version: 202301140226
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50790
+! Lenth = 50808
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -6615,6 +6615,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||a2ip.ru/spacer.gif$image,domain=2ip.ru
 @@||a8.net/svt/$image,domain=samplefan.com
 @@||aachener-zeitung.de/cre-1.0/tracking/call.js$~third-party
+@@||aachener-zeitung.de/cre-1.0/tracking/call.js?serviceid=
 @@||abc.com/b/ss/$image
 @@||about-australia.com/*/clickheat.js
 @@||acb.com/javascripts/jv_feeder_stats.js
@@ -9622,6 +9623,11 @@ gmarket.co.kr#%#//scriptlet("set-constant", "pvprofiler.sendEvt", "noopFunc")
 go.rjmetrics.com$image
 go.toutapp.com$image
 goodwillfinds.com#%#//scriptlet("set-constant", "_etmc", "emptyArr")
+guancha.cn#%#//scriptlet('set-constant', 'sensors', 'emptyObj')
+guancha.cn#%#//scriptlet('set-constant', 'sensors.init', 'noopFunc')
+guancha.cn#%#//scriptlet('set-constant', 'sensors.quick', 'noopFunc')
+guancha.cn#%#//scriptlet('set-constant', 'sensors.registerPage', 'noopFunc')
+guancha.cn#%#//scriptlet('set-constant', 'sensors.track', 'noopFunc')
 guzei.com#@#img[width="88"][height="31"]
 hdreactor.club,hdreactor.su,hdreactor.tv,hdreactor.net#?#.sidebar > div.menu-wrap > div.menu-head:contains(Счетчики)
 hdreactor.club,hdreactor.su,hdreactor.tv,hdreactor.net#?#.sidebar > div.menu-wrap > div.menu-head:contains(Счетчики) + div.menu-head1
@@ -14540,6 +14546,7 @@ znak.com##.relap
 ||annwwu.guitarcenter.com^
 ||anon-stats.eff.org^
 ||anonfiles.com/analytics/collect
+||anonstat.pw^
 ||anonym.data.funkedigital.de^
 ||anormal-tracker.de^$third-party
 ||anrdoezrs.net^$third-party
@@ -15269,7 +15276,7 @@ znak.com##.relap
 ||aspservice.jp^$third-party
 ||assessment.vetassess.com.au^
 ||assets-jpcust.jwpsrv.com/*/ping.js
-||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com
+||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com
 ||assets.adsttc.com/insights/form-funnel.min.js
 ||assets.adsttc.com/insights/tracker.js
 ||assets.alicdn.com/g/alilog/aplus_plugin_xwj/index.js
@@ -18119,6 +18126,7 @@ znak.com##.relap
 ||collect.mxapis.com^
 ||collect.nature.com^
 ||collect.rewardstyle.com^
+||collect.rtl.lu^
 ||collect.serious.li^
 ||collect.state.centrum24.pl^
 ||collect.thunder-io.com^
@@ -24479,6 +24487,7 @@ znak.com##.relap
 ||fpt.microsoft.com^
 ||fpt.shop/fa_tracking.js
 ||fptls.com^
+||fptls2.com^
 ||fpxau.net^
 ||fpxewa.ilmeteo.it^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
@@ -26641,6 +26650,7 @@ znak.com##.relap
 ||icebergindigo.com^
 ||icebergindigo.com^$third-party
 ||icecat.biz/stats/scripts/live-stats.js
+||icgp.ie/overview/js/tracker.php
 ||ichnaea-web.netflix.com^
 ||ichnaea.netflix.com^
 ||iclive.com^$third-party
@@ -35075,6 +35085,7 @@ znak.com##.relap
 ||pluckypocket.com^
 ||pluckypocket.com^$third-party
 ||pluckytaste.com^
+||plug.it/iplug/js/lib/iol/analytics/
 ||plug.it/tracks/
 ||plug.it^*/iol_evnt.
 ||plug.it^*/iol_evnt_
@@ -36658,6 +36669,7 @@ znak.com##.relap
 ||rtb-seller.com^$third-party
 ||rtb.loopa.net.au^$domain=junkmail.co.za
 ||rtb.softcube.com^
+||rtb.wedeo.ru/track?
 ||rtb123.com^$third-party
 ||rtbanalytics.com^
 ||rtbcx.jp.canon.com/bcx/ap/$image
@@ -36884,6 +36896,7 @@ znak.com##.relap
 ||s.shopify.com/visit/record.gif?
 ||s.sick.com^
 ||s.simcoe.com^
+||s.sofoot.com^
 ||s.somos-arts.org^
 ||s.sporks.space^
 ||s.srvsynd.com^
@@ -37402,6 +37415,7 @@ znak.com##.relap
 ||sb.scorecardresearch.com/internal-c2/plugins/streamingtag_plugin_jwplayer.js$script,redirect=noopjs,domain=embed.indiatoday.in,important
 ||sb.voicefive.com^
 ||sbatzb.ebags.com^
+||sbazar.cz/*/hit|$xmlhttprequest
 ||sbbanalytics.com^$third-party
 ||sbc.digitalocean.com/s.js
 ||sbcomniture.focus.de^
@@ -41129,6 +41143,7 @@ znak.com##.relap
 ||sp.thetimesherald.com^
 ||sp.thetowntalk.com^
 ||sp.timesrecordnews.com^
+||sp.tinymce.com^
 ||sp.tinymce.com^$third-party
 ||sp.udimg.com^
 ||sp.usatoday.com^
@@ -43267,6 +43282,7 @@ znak.com##.relap
 ||streamta.site/stat/
 ||streamtape.cc/stat/
 ||streamtape.com/stat/
+||streamtape.to/stat/
 ||streamtapeadblock.art/stat/
 ||streamtapeadblockuser.art/stat/
 ||streamtapeadblockuser.homes/stat/
@@ -43274,6 +43290,7 @@ znak.com##.relap
 ||streamtapeadblockuser.xyz/stat/
 ||streamtheworld.com/imp?
 ||streem.com.au^$third-party
+||streeteasy.com/cZdhF737/init.js
 ||streetmetrics.io^$third-party
 ||stretchsister.com^
 ||stretchsister.com^$third-party
@@ -48191,6 +48208,7 @@ znak.com##.relap
 ||uzd1.madeindesign.com^
 ||uzerly.net^$third-party
 ||uzrating.com^$third-party
+||v*.astar.bz/*/ping.gif
 ||v*.sitecounter.site^$third-party
 ||v-collector.dp.aws.charter.com^
 ||v-h.tv/pixel/

@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301130234
+! Version: 202301140226
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26064
+! Lenth = 26072
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -3757,12 +3757,12 @@ $websocket,domain=5nj.com|cechi8.com
 9312.net##.pop-up
 939394.xyz##.j_r_w
 939394.xyz##.j_r_w + a
-939394.xyz##.wrap.mb8.mt5 + DIV[class]:not(.outer)
-939394.xyz##A[style="display: block;"]
+939394.xyz##.wrap.mb8.mt5 + div[class]:not(.outer)
 939394.xyz##a[href*="base."]
 939394.xyz##a[href="https://pic.13709394.net/upload/"]
 939394.xyz##a[href^="/"]:not([href*="."]) > img[src*=".gif"]
 939394.xyz##a[href^="/"][href$=".html"] > img[src*=".gif"]:not([data-original])
+939394.xyz##a[style="display: block;"]
 939394.xyz##div[id^="left_layer"]
 939394.xyz##div[style*="position: fixed;"]
 939394.xyz##img[src*=".xyz"][src*=".gif"]
@@ -8566,8 +8566,6 @@ jq-school.com##div[style="width:1060px; height:auto; margin:0 auto;overflow:hidd
 jq.131458.com##.soso_02
 jq22.com##.fdad
 jqzb.com.cn##.zk_xf
-jrfz.xyz###hd + .wp
-jrfz.xyz##a[href^="ad."]
 jrj.com.cn###comment > a:first-child
 jrj.com.cn##.bd.pa10.bgn
 jrj.com.cn##.jrj-ad
@@ -14979,6 +14977,7 @@ zzzyk.com###Tinfo
 ||bpimg.com/4851/19f7543667f26682.jpg
 ||bpnhgan.cn^
 ||bptxcg.xyz^
+||bqg16.cc^
 ||bqg99.cc^
 ||bqge.xyz^
 ||bqgw.xyz^
@@ -15000,7 +14999,7 @@ zzzyk.com###Tinfo
 ||bsnignsv.xyz^
 ||bsnoownmv.fun^
 ||bsytkas.cn^
-||bt-tt.com/ad.js
+||bt-tt.com/ad
 ||bt.cn/bbs/newsimg/
 ||bt.cosxcos.com/uploads/mya/$image
 ||bt.ktxp.com/iframe/statistics.js
@@ -16042,6 +16041,7 @@ zzzyk.com###Tinfo
 ||ddgjjj.com^$third-party
 ||ddhtek.com^
 ||ddnzn.xyz^
+||ddqhnjb.cn^
 ||ddshu.net/a_d_code/
 ||ddtx.fun^
 ||dduu.buzz^
@@ -16561,6 +16561,7 @@ zzzyk.com###Tinfo
 ||ebp.renren.com^
 ||ebrun.com/jfile/position/js/*.js
 ||ebuysolar.com^
+||ebzqyow.cn^
 ||eccn.com/js/gg.js
 ||eccn.com/js/popupad_
 ||ecimg.tw/img/xdsys/*/layout/*/sign/channel*/ad_*.jpg
@@ -16831,6 +16832,7 @@ zzzyk.com###Tinfo
 ||fanghua2.cn^
 ||fanghuzhao.co^
 ||fangshan.us^
+||fangyaomin.site^
 ||fangzhixinxi.cn^
 ||fanhaodang.org/Runtime/js/
 ||fanjin.name^
@@ -18755,6 +18757,7 @@ zzzyk.com###Tinfo
 ||itsmore.cn^$third-party
 ||ituba.cc/uploads/allimg/201610/603/
 ||ituoniao.co^
+||ituxzez.cn^
 ||itv.hexun.com
 ||itxinrou.com^
 ||ityou2tcdb.icu^
@@ -19147,6 +19150,7 @@ zzzyk.com###Tinfo
 ||jqdldk.cn^
 ||jqnggnsa.fun^
 ||jqsex.com^
+||jqtzw.xyz^
 ||jquery-cdn.cc^
 ||jquery.envi-met.com.cn^
 ||jrhbhz.com^
@@ -19582,6 +19586,7 @@ zzzyk.com###Tinfo
 ||knmnamr.cn^
 ||knmwrkw.xyz^
 ||knowmore.cc/style/head.js
+||koatkm.xyz^
 ||kocpc.com.tw/adsbyso.js
 ||kohen.biz^
 ||kojwex.top^
@@ -19747,6 +19752,7 @@ zzzyk.com###Tinfo
 ||l6ssx.cn^
 ||l7kuyg.site^
 ||l90.xyz^
+||laafrce.cn^
 ||labuladong.github.io/algo/pictures/ad/
 ||lacerate.club^
 ||lady177.com^$popup
@@ -22475,6 +22481,7 @@ zzzyk.com###Tinfo
 ||sc126.com^
 ||sc4mh.cn^
 ||scardetect.cn^
+||scbt.asia^
 ||sccnn.com/SF/zt.jpg
 ||schlaftabletten.cn^
 ||scibook.cn/tuiguang.
@@ -25939,6 +25946,7 @@ zzzyk.com###Tinfo
 ||ztidu.com^
 ||ztjal.info/wp-content/plugins/kill-adblock/
 ||ztwf8lr.cn^
+||ztwrnpd.cn^
 ||ztxstudy.club^
 ||ztyumn.ifeng.com^
 ||zu3f.top^
