@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301140226
+! Version: 202301150237
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50808
+! Lenth = 50815
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -1702,7 +1702,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /api/v1/stat?
 /api/v1/streamtelemetry
 /api/v1/track/*
-/api/v2/analytics
 /api/v2/collector
 /api/v2/jsonlogger
 /api/v3/getPageVisits
@@ -8536,6 +8535,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||mycokerewards.com^*/webtrends/mcr3-webtrends_POST_$script
 @@||mycommunitynow.com/includes/JI_trafficTracking.js$domain=mycommunitynow.com
+@@||mycourses.pearson.com/shared/static/*/component/ga.min.js$~third-party
 @@||myfamilycominc.tt.omtrdc.net^$domain=ancestry.com|ancestry.co.uk|ancestry.ca|ancestry.de|ancestry.it|ancestry.fr|ancestry.se|ancestry.mx
 @@||mywebar.com/js/tracking_worker.js$~third-party
 @@||n8s.jp^$script,domain=nikkei.com
@@ -14111,6 +14111,7 @@ znak.com##.relap
 ||analytics.kemlu.go.id^
 ||analytics.kerns.co^
 ||analytics.kidoz.net^
+||analytics.kkb.com.tr^
 ||analytics.kkb.com.tr^$third-party
 ||analytics.kongregate.io^
 ||analytics.kraken.com^
@@ -16700,6 +16701,7 @@ znak.com##.relap
 ||c.adroll.com^
 ||c.amazinglybrilliant.com.au^
 ||c.analytics.lego.com^
+||c.bazo.io^
 ||c.bigmir.net
 ||c.bigmir.net^
 ||c.bing.com/c.gif
@@ -22220,6 +22222,7 @@ znak.com##.relap
 ||downtowndirection.com^
 ||dozententag.ni.com^
 ||dp.alma.iltalehti.fi/v1/cookie
+||dp.coinbase.com^
 ||dp.ru/counter.gif?
 ||dp.shoprunner.com^
 ||dp.voocdn.com/statistics/vastTracking?
@@ -33683,6 +33686,7 @@ znak.com##.relap
 ||optimahub.com^$third-party
 ||optimallimit.com^
 ||optimallimit.com^$third-party
+||optimeeze.appspot.com^
 ||optimierung-der-website.de^$third-party
 ||optimisation.coop.co.uk^
 ||optimisation.data.lloydsbankinggroup.com^
@@ -33931,6 +33935,7 @@ znak.com##.relap
 ||p.statp.com^
 ||p.tencentmind.com^
 ||p.tinynewsfeed.com^$third-party
+||p.typekit.net^
 ||p.ura.news^
 ||p.versacommerce.de^
 ||p.victoria.dev^
@@ -35370,6 +35375,7 @@ znak.com##.relap
 ||procroanalytics.com^
 ||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
 ||prod-collector.bigbasket.com^
+||prod-events.nykaa.com^
 ||prod-plague-bacon.miniclippt.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^$third-party
 ||prod.ew.srp.navigacloud.com^
@@ -37659,7 +37665,6 @@ znak.com##.relap
 ||sdkconfig.ad.xiaomi.com^
 ||sdklogs.avocarrot.com^
 ||sdks.stats-locations.com^
-||sdn.cz/*/loader.js
 ||sdpimt.lostgolfballs.com^
 ||sdqoi2d.com^$third-party
 ||sdrive.skoda-auto.com^
@@ -46556,6 +46561,7 @@ znak.com##.relap
 ||trackedlink.net^$third-party
 ||trackedweb.net^$third-party
 ||tracker-api.my.com^
+||tracker-dot-optimeeze.appspot.com^
 ||tracker-rec.smart-bdash.com^
 ||tracker.520call.me^
 ||tracker.77player.xyz^
@@ -50490,6 +50496,7 @@ znak.com##.relap
 ||yottaa.com/rapid.min.js
 ||yottlyscript.com^
 ||you.com/api/events
+||you.com/api/recordEvent
 ||youbora.com^$third-party
 ||youborafds01.com^
 ||youborafds01.com^$third-party
