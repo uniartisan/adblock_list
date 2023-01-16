@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301150237
+! Version: 202301160224
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26095
+! Lenth = 26109
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -3770,7 +3770,7 @@ $websocket,domain=5nj.com|cechi8.com
 939394.xyz##img[src*=".xyz"][src*=".gif"]
 939394.xyz##img[src^="/"]
 939394.xyz##img[src^="\\"]
-939394.xyz#?#:-abp-properties(data)
+939394.xyz#?#:-abp-properties(/fixed|data/)
 939394.xyz#?#a:-abp-has(img[src*=".alicdn."])
 939394.xyz#?#a:-abp-has(img[src*="/ddimg/"])
 94itv.app##a[href="https://leo535.com/"]
@@ -9246,6 +9246,7 @@ moe.best##.alert
 moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
 moe.gov.cn,qspfw.com#@#.ad_title
 moeci.com#%#//scriptlet('prevent-setTimeout', '_0x')
+moegirl.org.cn##.moe-card[region="oversea"]
 moerats.com##div[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
 molure.cn##.adplan
 money18.on.cc#@#.ads-bg
@@ -14236,6 +14237,7 @@ zzzyk.com###Tinfo
 ||aqlife.com/data/attachment/portal/
 ||aqnpbpa.cn^
 ||aqsj.xyz^
+||aqtcw.cn^
 ||aqy103.com/js/aqy/
 ||arealx.com^
 ||arguments.wang^
@@ -16309,6 +16311,7 @@ zzzyk.com###Tinfo
 ||dongtukj.oss-cn-hongkong.aliyuncs.com^
 ||dongya.org^
 ||doniv.net^$third-party
+||doracms.cn^
 ||doremi.ink^
 ||dota.sykty.com^
 ||dota2.uuu9.com^$subdocument
@@ -17005,6 +17008,7 @@ zzzyk.com###Tinfo
 ||foodmate.net/file/script/A
 ||fool.ink^
 ||forestseasons.com.cn^
+||forestwo1f.ltd^
 ||foreveryoung.gz01.bdysite.com^
 ||forex.com.cn/index.php/Invoking/tanchukuang
 ||forex.com.cn/statics/images/ewm.jpg
@@ -18626,6 +18630,7 @@ zzzyk.com###Tinfo
 ||infobbs.xyz^
 ||inhe.*/Uploadfiles/adpublish
 ||inhe.net/Uploadfiles/inhegg2016/
+||inkuae.com^
 ||inlishui.com/index.php?m=poster&
 ||innlzrs.cn^
 ||innvitor.com^
@@ -20060,6 +20065,7 @@ zzzyk.com###Tinfo
 ||lmcraft.pw^
 ||lmjy.us^
 ||lmlmvip.com^
+||lmxzlb.xyz^
 ||lnd.com.cn/sys/real_calc.js
 ||lndayp.com/4567/
 ||lnflfbf.cn^
@@ -20207,6 +20213,7 @@ zzzyk.com###Tinfo
 ||lwlwlw.com/js/FVgg.js
 ||lwobol.cloud^
 ||lwogldl.top^
+||lwpxhr.xyz^
 ||lwtlock.cn^
 ||lwxqaq.club^
 ||lx52168.online^
@@ -20997,6 +21004,7 @@ zzzyk.com###Tinfo
 ||nirentang.com^
 ||nisafnic.space^
 ||nisihu.com.cn^
+||nissifresh.com^
 ||niu07.com/gg/*.js
 ||niuacc.com/static/common/js/145.js
 ||niubiba.com^
@@ -21528,6 +21536,7 @@ zzzyk.com###Tinfo
 ||pic.touleb.cn/banner/
 ||pic.yupoo.com/showflash/
 ||pic1.dianshu119.com^
+||pic123.top^
 ||pic50.pingguolv.com^
 ||picb.cc/uploads/2018/06/26/2zxrsi.jpg
 ||picgd.com/images/*.gif
@@ -21755,6 +21764,7 @@ zzzyk.com###Tinfo
 ||q7tl.icu^
 ||q88j2.top^
 ||qajypx.com^
+||qanduan.com^
 ||qaolyke.cn^
 ||qaops.jgwsmqx.com^$third-party
 ||qapsmny.cyou^
@@ -22818,6 +22828,7 @@ zzzyk.com###Tinfo
 ||sisgirlav.info^
 ||site-bk.oss-cn-shenzhen.aliyuncs.com/img/aliyun/
 ||sitv.com.cn/cookiead.php
+||siuscs.xyz^
 ||sjbaiduadv1.redou.com^
 ||sjcm.fun^
 ||sjeklqx.cn^
@@ -23662,6 +23673,7 @@ zzzyk.com###Tinfo
 ||tu.zx110.org^
 ||tu2.taohuaimg.com^$third-party
 ||tuangou.pro^
+||tuape.xyz^
 ||tucao.cam/uploadfile/*/300-86.
 ||tufsjnk.cn^
 ||tugflmw.cn^
@@ -24292,6 +24304,7 @@ zzzyk.com###Tinfo
 ||wdasa.top^
 ||wdbtiwn.cn^
 ||wdjptto.cn^
+||wdmdejd.cn^
 ||wdread.pub^
 ||wdswgjn.cn^
 ||wduwvjd.cn^
@@ -25218,6 +25231,7 @@ zzzyk.com###Tinfo
 ||yhkiain.cn^
 ||yhkt.online^
 ||yhp4an7.cn^
+||yhsfsdv03.com^
 ||yhsmk.com^
 ||yht7.com/web/assets/js/right.js
 ||yhz18.com^

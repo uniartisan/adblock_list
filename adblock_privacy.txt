@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301150237
+! Version: 202301160224
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50815
+! Lenth = 50818
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -12051,6 +12051,7 @@ znak.com##.relap
 ||ablinksuni.a.grubhub.com^
 ||ablinksuni.a.seamless.com^
 ||ablsrv.com^$third-party
+||ablyft.com^$third-party
 ||abmail.test.iheart.com^
 ||abmail2.e.hungryjacks.com.au^
 ||abmeldung.information.whatsappsim.de^
@@ -18120,6 +18121,7 @@ znak.com##.relap
 ||collect.feefo.com^$third-party
 ||collect.helsana-preprod.ch^
 ||collect.helsana.ch^
+||collect.hollisterco.com^
 ||collect.igodigital.com^
 ||collect.iteam-dress.com^
 ||collect.lngtd.com^
@@ -42887,6 +42889,7 @@ znak.com##.relap
 ||stats.rymawby.com^
 ||stats.sa-as.com^
 ||stats.safeway.com^
+||stats.sandberg.world^
 ||stats.savethemothers.org^
 ||stats.sawlive.tv^
 ||stats.scailable.net^
