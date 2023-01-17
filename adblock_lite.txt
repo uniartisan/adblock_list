@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301160224
+! Version: 202301170258
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23537
+! Lenth = 23547
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -9988,6 +9988,7 @@ zzzyk.com###Tinfo
 ||36pn.com^
 ||36yoo.net^
 ||373nn.com/java/
+||375772rug.com^
 ||377zt.cn^
 ||3798.com^$third-party
 ||37tek.fun^
@@ -11698,6 +11699,7 @@ zzzyk.com###Tinfo
 ||asuijm.cn^
 ||asukahan.xyz^
 ||asunbc.cn^
+||aswtai.xyz^
 ||asycxtz.cn^
 ||asyy6.com/dm/
 ||aszswyd.cn^
@@ -15024,6 +15026,7 @@ zzzyk.com###Tinfo
 ||gushiwen.org/getTicket.aspx
 ||gutouwang.net^
 ||gv4e.top^
+||gvqrclx.cn^
 ||gw069.com^
 ||gwaaz.cn^
 ||gwbnsh.net.cn/hd/unicom/ad.html
@@ -17841,6 +17844,7 @@ zzzyk.com###Tinfo
 ||mbazhaheix.top^
 ||mbepa.xyz^
 ||mbmqgo.cn^
+||mbqwwa.cn^
 ||mbtpzcb.cn^
 ||mbveryu.top^
 ||mbxsku.cn^
@@ -18348,6 +18352,7 @@ zzzyk.com###Tinfo
 ||ncoeqz.today^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndfqoqo.cn^
+||neaqi.top^
 ||necmdow.cn^
 ||neets.cc/assets/js/dup.js
 ||nehagex.cn^
@@ -18555,6 +18560,7 @@ zzzyk.com###Tinfo
 ||nweon.com/wp-content/repo/ad/
 ||nwhvceb.cn^
 ||nwogldc.top^
+||nwrazu.cn^
 ||nwxs5.com/js/
 ||nxdfg.xyz^
 ||nxflv.com/nxflv.js
@@ -20841,6 +20847,7 @@ zzzyk.com###Tinfo
 ||tfptlgrw.live^
 ||tg0qu.top^
 ||tgnlaigi.fun^
+||tgryfh.xyz^
 ||tgvtlpi.cn^
 ||th-make.com^
 ||th21333.com^
@@ -22186,6 +22193,7 @@ zzzyk.com###Tinfo
 ||xhflovezyy.asia^
 ||xhhy.online^
 ||xhiteam.club^
+||xhjxkgc.cn^
 ||xhkvff.cn^
 ||xhl161.com^
 ||xhmybanjia.cn^
@@ -23337,6 +23345,7 @@ zzzyk.com###Tinfo
 ||zn46.com/images/*0x
 ||zndsssp.dangbei.net^
 ||znfg6677.top^
+||znktkt.cn^
 ||zo6g.top^
 ||zobesmu.cn^
 ||zol-img.com.cn/ad/
@@ -23364,6 +23373,7 @@ zzzyk.com###Tinfo
 ||zougg.com^
 ||zoujitea.hk^
 ||zoukankan.com^$csp=script-src 'self' * 'unsafe-eval'
+||zoute.cyou^
 ||zouxinyan.xyz^
 ||zovgdpj.cn^
 ||zp0737.com^
