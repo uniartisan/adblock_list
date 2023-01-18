@@ -1,14 +1,15 @@
 [uniartisan's Privacy List]
-! Version: 202301170258
+! Version: 202301180248
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51253
+! Lenth = 51275
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
 ##.embed-responsive-trendmd
+##.ninja-recommend-block
 ##.plugin-daily_count
 ##a[href^="http://click.hotlog.ru/"]
 ##a[href^="http://hitcounter.ru/top/stat.php"]
@@ -9545,8 +9546,11 @@ bizjournals.com##.c1-ad-sticky
 bl-1.com$image
 blog.fc2.com#?#.side-menu > div.sidebar-style > script[src^="//counter1.fc2.com/"]:upward(2)
 blog.fc2.com#?#div[class$="_outline"] > div > div.plugin-counter:upward(2)
+blog.jp,vipstyle.tokyo#?#.plugin-memo > div.side > div.ninja-recommend-block:upward(2)
 blog.livedoor.jp##a[href="http://analyzer.fc2.com"]
+blog.livedoor.jp#?#.plugin-memo > div.side > div.ninja-recommend-block:upward(2)
 blogovo.ru##.metrika_sapaclick
+blogterest.net#?#.blockSide > div.blockWrapper > div > div.ninja-recommend-block:upward(2)
 bulletin.sntba.com#%#//scriptlet("set-constant", "returnCitySN", "emptyObj")
 business.nikkei.com##.cbCxense
 business.nikkei.com#?#.l-content_footer.recommendesInfomation:contains(あなたにオススメ)
@@ -9688,6 +9692,8 @@ m.crank-in.net#?#div[id^="_popIn_trend_ranking"]:upward(1)
 m.dcinside.com,upload.dcinside.com#%#//scriptlet('set-cookie', '_ga', 'OK')
 m.lenta.ru##.b-footer_counters
 m24.ru##.b-counters > ul
+m4ex.com###footer-widget
+m4ex.com##.plugin-counter
 mag.osdn.jp##div[id^="logly-lift-"]
 mailfoogae.appspot.com$image
 mailstat.us/tr$image
@@ -9730,6 +9736,7 @@ novate.ru#?##right > div.bordered:-abp-has(> script:contains(relap))
 novate.ru#?##right > h2:contains(Рекомендуем)
 ntp.msn.com#%#AG_defineProperty("navigator.getBattery",{value:function(){return Promise.resolve({addEventListener:EventTarget.prototype.addEventListener.bind(window),removeEventListener:EventTarget.prototype.removeEventListener.bind(window),dispatchEvent:EventTarget.prototype.dispatchEvent.bind(window),charging:!0})}});
 ntp.msn.com#@%#navigator.getBattery = undefined;
+nukeruerodouga.com#?##main-right > div.right_area > div.ninja-recommend-block:upward(2)
 nytimes.com#%#//scriptlet("set-constant", "Navigator.prototype.joinParakeetInterestGroup", "noopFunc")
 oceans-nadia.com##.gtm-bnr-rensai
 otekomachi.yomiuri.co.jp###_popIn_right
@@ -14711,6 +14718,7 @@ znak.com##.relap
 ||apeagle.io^
 ||apenterprise.io^
 ||apester.com/event^
+||apetite.index.hr^
 ||apexstats.com^$third-party
 ||apextag.com^$third-party
 ||apextwo.com^$third-party
@@ -17257,6 +17265,7 @@ znak.com##.relap
 ||cdn.odoscope.cloud^
 ||cdn.omuz.com.tr/connect/pub-min.js
 ||cdn.one.store/javascript/dist/1.0/jcr-widget.js$domain=hificentre.com
+||cdn.panelbear.com/analytics.js
 ||cdn.pmweb.com.br/df/tag.js
 ||cdn.preciso.net^$third-party
 ||cdn.privacy-mgmt.com/wrapper/metrics$important
@@ -18118,6 +18127,7 @@ znak.com##.relap
 ||cnnx.io^*/tracker.js
 ||cnnx.io^*/tracking.js
 ||cnnx.link/roi/
+||cnobi.jp/*/recommend/
 ||cnobi.jp^*/js/imp.
 ||cnpapers.com/scripts/library/
 ||cns-service.actonservice.com^
@@ -18265,6 +18275,7 @@ znak.com##.relap
 ||collect.meilleurtaux.com^
 ||collect.mxapis.com^
 ||collect.nature.com^
+||collect.rebelmouse.io^
 ||collect.rewardstyle.com^
 ||collect.rtl.lu^
 ||collect.serious.li^
@@ -23075,6 +23086,7 @@ znak.com##.relap
 ||eicyds.qoo10.jp^
 ||eiftfa.fashionette.de^
 ||eiga.k-img.com/javascripts/td.js?1578981009
+||eighten-bloc-party.thebrowser.company/script.js
 ||eiorzm.orvis.com^
 ||eit3.destinia.nl^
 ||eitkrg.loriblu.com^
@@ -23838,6 +23850,7 @@ znak.com##.relap
 ||event.shl.com^
 ||event.syndigo.cloud^
 ||event.thermofisher.com^
+||event.togothermany.com^
 ||event.trove.com^
 ||event.victorops.com^
 ||event.webcollage.net^
@@ -23921,6 +23934,7 @@ znak.com##.relap
 ||events.mikescerealshack.co^
 ||events.mobile.optimizely.com^
 ||events.mywd.com^
+||events.mz.unity3d.com^
 ||events.newsroom.bi^
 ||events.niit-mts.com^
 ||events.ocdn.eu^
@@ -29792,6 +29806,7 @@ znak.com##.relap
 ||logs.gshopper.com^
 ||logs.hotstar.com^
 ||logs.insight.rapid7.com^
+||logs.ironsrc.mobi^
 ||logs.jobs.com/impression_trackingv*.min.js
 ||logs.juspay.in
 ||logs.naukri.com^
@@ -31081,6 +31096,7 @@ znak.com##.relap
 ||mediaplex.com^$third-party
 ||mediaplex.com^*?mpt=
 ||mediaplus.fm/cntr.php?
+||mediapvx.com^
 ||mediapxv.com^
 ||mediaquark.com/tracker.js
 ||mediarithmics.com^$third-party
@@ -33742,6 +33758,7 @@ znak.com##.relap
 ||olacontent.schwab.com^$script
 ||olaplog.smartmediarep.com^
 ||olcwzr.resocia.jp^
+||oldevent.togothermany.com^
 ||olgtex.com^$third-party
 ||olivia.actonservice.com^
 ||olklgn.jh-profishop.de^
@@ -35942,6 +35959,7 @@ znak.com##.relap
 ||push.delivery^$third-party
 ||push.m.youku.com/collect-api/
 ||push.soft-com.biz/api/ui/metrics
+||push.zhanzhang.baidu.com^
 ||push2check.com^$third-party
 ||push4site.com^$third-party
 ||push7.jp^$third-party
@@ -36252,6 +36270,7 @@ znak.com##.relap
 ||qzxmtyy.com^$third-party
 ||qzzr.com/_uid.gif
 ||r-ad.ne.jp^$script,third-party
+||r-log.dable.io^
 ||r.bbci.co.uk^
 ||r.blidz.com^
 ||r.blidzdeal.com^
@@ -43651,6 +43670,7 @@ znak.com##.relap
 ||streetmetrics.io^$third-party
 ||stretchsister.com^
 ||stretchsister.com^$third-party
+||stretchsquirrel.com^
 ||stringsmile.com^
 ||stripchat.com^$cookie=stripchat_com_affiliateId
 ||stripchat.com^$cookie=stripchat_com_guestId
@@ -44865,6 +44885,7 @@ znak.com##.relap
 ||te.your-look-for-less.se^
 ||teach.graduateprogram.org^
 ||tealand.cmcm.com^
+||tealium.cbsnews.com^
 ||tealiumiq.com^$domain=autobild.de|metal-hammer.de|musikexpress.de|transfermarkt.de
 ||tealiumiq.com^$third-party
 ||team-rec.jp^$third-party
@@ -46998,6 +47019,7 @@ znak.com##.relap
 ||tracker.cauly.co.kr^
 ||tracker.cdn-moneysmart.com^
 ||tracker.cdnbye.com^
+||tracker.citicsinfo.com^
 ||tracker.comagic.ru^
 ||tracker.convead.io^$third-party
 ||tracker.cpapath.com^
