@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301180248
+! Version: 202301190222
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51275
+! Lenth = 51284
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -12430,6 +12430,7 @@ znak.com##.relap
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-fam.com^$third-party
 ||ad-log.dable.io^
+||ad-log.wemakeprice.com^
 ||ad-plus.com.tr^$third-party
 ||ad-score.com^$third-party
 ||ad-shield.io^$third-party
@@ -13903,6 +13904,7 @@ znak.com##.relap
 ||analytics-ingress-global.bitmovin.com^
 ||analytics-ingress.bitmovin.com^
 ||analytics-lgs.corebridgefinancial.com^
+||analytics-mkt.wemakeprice.com^
 ||analytics-production.hapyak.com^
 ||analytics-proxy.springboard.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -14469,6 +14471,7 @@ znak.com##.relap
 ||analytics.tver.jp^
 ||analytics.twitter.com/i/adsct?
 ||analytics.twitter.com^
+||analytics.ubports.com^
 ||analytics.ubs.com^
 ||analytics.unand.ac.id^
 ||analytics.underarmour.com^
@@ -19711,6 +19714,10 @@ znak.com##.relap
 ||dailymail.co.uk/geo/edgedata.html
 ||dailymail.co.uk/rta2/
 ||dailymail.co.uk/tracking/
+||dailymail.co.uk^$cookie=_pbjs_userid_consent_data
+||dailymail.co.uk^$cookie=latest-article-count
+||dailymail.co.uk^$cookie=mol.ads.visits
+||dailymail.co.uk^$cookie=mol.ads.visitsExpire
 ||dailymotion-ams.gravityrd-services.com^
 ||dailymotion.com/gravity/report
 ||dailymotion.com/logger/
@@ -44902,6 +44909,7 @@ znak.com##.relap
 ||technorati.com/technoratimedia-pixel.js
 ||techpowerup.com/__botcheck
 ||techprovider.intel.com^
+||techraptor.net/sites/default/files/google_analytics/gtag.js
 ||techservices.trapptechnology.com^
 ||techstage.de/ivw-bin/ivw/CP^
 ||techstage.de/js/techstage/webtrekk_scrollposition.js
@@ -47024,6 +47032,7 @@ znak.com##.relap
 ||tracker.convead.io^$third-party
 ||tracker.cpapath.com^
 ||tracker.data-vp.com^
+||tracker.dcdn.baidu.com^
 ||tracker.departapp.com/api/collect?
 ||tracker.departapp.com^
 ||tracker.digitalcamp.co.kr^

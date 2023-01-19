@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301180248
+! Version: 202301190222
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23561
+! Lenth = 23571
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -910,7 +910,7 @@
 526bt.com,daniao.org,eroacg.com,laod.cn,myqqjd.com,ninpang.com,zhujiceping.com##.tg-site
 526bt.com,guojitv.com###slider
 5278.cc##.pct > div[style="width: 600px;"]
-5278.cc#%#//scriptlet("prevent-window-open", "1", "88p2p.com")
+5278.cc#%#//scriptlet("prevent-window-open", "88p2p.com")
 5278.cc#%#//scriptlet('remove-attr', 'onclick', 'a')
 5278.cc,hboav.com#%#//scriptlet('prevent-setTimeout', '/ad block stop|warm_msg/')
 528500.com###wp > div[align="center"]
@@ -1168,8 +1168,8 @@
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com##iframe[src$="/fans/ad.php"]
-91porny.com,jiuse205.com,jstv7.cc##.container-fluid.p-0[class*="mb-"]
-91porny.com,jiuse205.com,jstv7.cc##.jsv-g1
+91porny.com,jiuse205.com,jiuse390.xyz##.container-fluid.p-0[class*="mb-"]
+91porny.com,jiuse205.com,jiuse390.xyz##.jsv-g1
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -9468,6 +9468,7 @@ zzzyk.com###Tinfo
 ||120askimages.com/ask/js/askfrom.js
 ||120askimages.com/ask/js/q
 ||120askimages.com/ask/zhenshi/templates/pub/js/loadPart.js
+||121.204.246.13^
 ||121.40.25.88^
 ||121.43.114.38:8087/advs.js
 ||121zou.com^$subdocument
@@ -12019,6 +12020,7 @@ zzzyk.com###Tinfo
 ||bashiyy.com/static/js/plugin.js
 ||batiao20221209.xyz^
 ||bavei.com/img/*.png
+||bavxxf.xyz^
 ||bayil.cn^
 ||bayno.cn^
 ||bazhangda.shop^
@@ -14556,6 +14558,7 @@ zzzyk.com###Tinfo
 ||fypcy.cyou^
 ||fyvvm.com^
 ||fyyqq.top^
+||fyzbvwb.cn^
 ||fz2c.top^
 ||fz8g.top^
 ||fzbm.com/bbs/static/js/bma.js
@@ -15137,6 +15140,7 @@ zzzyk.com###Tinfo
 ||haiyunx.com^$third-party
 ||haizirv.cn^
 ||handanxinkai.com^
+||hangchen.icu^
 ||hangoutairbags.com^
 ||hanjutv2020.com/index.php?c=dudu_
 ||hanjutv2020.com/statics/skin/*/js/plus.js
@@ -15623,6 +15627,7 @@ zzzyk.com###Tinfo
 ||huihemou.com^
 ||huiji-fs.oss-cn-qingdao.aliyuncs.com/huijiad/
 ||huijiamei.cn^
+||huijizhen.com^
 ||huilianji.com^
 ||huimee.com^$third-party
 ||huimee.net^
@@ -15966,6 +15971,7 @@ zzzyk.com###Tinfo
 ||imall.cctv.com^
 ||imall.cntv.cn^
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
+||imassg.xyz^
 ||imdvisual.ltd^
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
@@ -18557,6 +18563,7 @@ zzzyk.com###Tinfo
 ||numnxwvv.ink^
 ||nuqqcgb.cn^
 ||nuslzkb.cn^
+||nuyqiolnc.cyou^
 ||nv43.com^
 ||nveuiqh.cn^
 ||nvqhbij.cn^
@@ -19838,6 +19845,7 @@ zzzyk.com###Tinfo
 ||ruwei.me^
 ||ruxianke.com^
 ||ruyig.com/730x76.png
+||ruyqiolnz.cyou^
 ||rvbztg.cn^
 ||rvyjbwr.cn^
 ||rwadakesz.cyou^
@@ -23112,6 +23120,7 @@ zzzyk.com###Tinfo
 ||zdktgps.cn^
 ||zdnet.com.cn/js/pv.js
 ||zdqx.com/statics/v1/images/gif/
+||zdrvtmj.cn^
 ||zdryg.com^
 ||zdtvfpu.cn^
 ||zdw.w8.com.cn/p.ht?
@@ -23483,6 +23492,7 @@ zzzyk.com###Tinfo
 ||zxptw.cn^$third-party
 ||zxse43.com^
 ||zxsmxt.com^
+||zxtkfvm.cn^
 ||zxw51.com^$third-party
 ||zxycxk.love^
 ||zxzjtv.com/slade

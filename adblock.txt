@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301180248
+! Version: 202301190222
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26137
+! Lenth = 26149
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -1161,6 +1161,7 @@
 ##a[href*="/7699j.com:"]
 ##a[href*="/7763349.com/"]
 ##a[href*="/7900y.com?"]
+##a[href*="/832106.top"]
 ##a[href*="/84992020.xyz"]
 ##a[href*="/84992323.xyz"]
 ##a[href*="/8616.tech"]
@@ -1588,6 +1589,7 @@ $websocket,domain=5nj.com|cechi8.com
 .com:2516/code/
 .com:91/Runtime/js/psCreat.js
 .com:9120/discor_list.js
+.cyou/*_*_an*js?$script,third-party
 .cyou/*_*_u*js?$script,third-party
 .eu/ads/
 .fun/*_*_rony.js
@@ -3489,7 +3491,7 @@ $websocket,domain=5nj.com|cechi8.com
 526bt.com,daniao.org,eroacg.com,laod.cn,myqqjd.com,ninpang.com,zhujiceping.com##.tg-site
 526bt.com,guojitv.com###slider
 5278.cc##.pct > div[style="width: 600px;"]
-5278.cc#%#//scriptlet("prevent-window-open", "1", "88p2p.com")
+5278.cc#%#//scriptlet("prevent-window-open", "88p2p.com")
 5278.cc#%#//scriptlet('remove-attr', 'onclick', 'a')
 5278.cc,hboav.com#%#//scriptlet('prevent-setTimeout', '/ad block stop|warm_msg/')
 528500.com###wp > div[align="center"]
@@ -3747,8 +3749,8 @@ $websocket,domain=5nj.com|cechi8.com
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com##iframe[src$="/fans/ad.php"]
-91porny.com,jiuse205.com,jstv7.cc##.container-fluid.p-0[class*="mb-"]
-91porny.com,jiuse205.com,jstv7.cc##.jsv-g1
+91porny.com,jiuse205.com,jiuse390.xyz##.container-fluid.p-0[class*="mb-"]
+91porny.com,jiuse205.com,jiuse390.xyz##.jsv-g1
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -12044,6 +12046,7 @@ zzzyk.com###Tinfo
 ||120askimages.com/ask/js/askfrom.js
 ||120askimages.com/ask/js/q
 ||120askimages.com/ask/zhenshi/templates/pub/js/loadPart.js
+||121.204.246.13^
 ||121.40.25.88^
 ||121.43.114.38:8087/advs.js
 ||121zou.com^$subdocument
@@ -14595,6 +14598,7 @@ zzzyk.com###Tinfo
 ||bashiyy.com/static/js/plugin.js
 ||batiao20221209.xyz^
 ||bavei.com/img/*.png
+||bavxxf.xyz^
 ||bayil.cn^
 ||bayno.cn^
 ||bazhangda.shop^
@@ -17132,6 +17136,7 @@ zzzyk.com###Tinfo
 ||fypcy.cyou^
 ||fyvvm.com^
 ||fyyqq.top^
+||fyzbvwb.cn^
 ||fz2c.top^
 ||fz8g.top^
 ||fzbm.com/bbs/static/js/bma.js
@@ -17713,6 +17718,7 @@ zzzyk.com###Tinfo
 ||haiyunx.com^$third-party
 ||haizirv.cn^
 ||handanxinkai.com^
+||hangchen.icu^
 ||hangoutairbags.com^
 ||hanjutv2020.com/index.php?c=dudu_
 ||hanjutv2020.com/statics/skin/*/js/plus.js
@@ -18199,6 +18205,7 @@ zzzyk.com###Tinfo
 ||huihemou.com^
 ||huiji-fs.oss-cn-qingdao.aliyuncs.com/huijiad/
 ||huijiamei.cn^
+||huijizhen.com^
 ||huilianji.com^
 ||huimee.com^$third-party
 ||huimee.net^
@@ -18542,6 +18549,7 @@ zzzyk.com###Tinfo
 ||imall.cctv.com^
 ||imall.cntv.cn^
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
+||imassg.xyz^
 ||imdvisual.ltd^
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
@@ -21133,6 +21141,7 @@ zzzyk.com###Tinfo
 ||numnxwvv.ink^
 ||nuqqcgb.cn^
 ||nuslzkb.cn^
+||nuyqiolnc.cyou^
 ||nv43.com^
 ||nveuiqh.cn^
 ||nvqhbij.cn^
@@ -22414,6 +22423,7 @@ zzzyk.com###Tinfo
 ||ruwei.me^
 ||ruxianke.com^
 ||ruyig.com/730x76.png
+||ruyqiolnz.cyou^
 ||rvbztg.cn^
 ||rvyjbwr.cn^
 ||rwadakesz.cyou^
@@ -25688,6 +25698,7 @@ zzzyk.com###Tinfo
 ||zdktgps.cn^
 ||zdnet.com.cn/js/pv.js
 ||zdqx.com/statics/v1/images/gif/
+||zdrvtmj.cn^
 ||zdryg.com^
 ||zdtvfpu.cn^
 ||zdw.w8.com.cn/p.ht?
@@ -26059,6 +26070,7 @@ zzzyk.com###Tinfo
 ||zxptw.cn^$third-party
 ||zxse43.com^
 ||zxsmxt.com^
+||zxtkfvm.cn^
 ||zxw51.com^$third-party
 ||zxycxk.love^
 ||zxzjtv.com/slade
