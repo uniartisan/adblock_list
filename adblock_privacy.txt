@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301190222
+! Version: 202301200240
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51284
+! Lenth = 51294
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -5426,6 +5426,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /tc_logging.js
 /tc_prixtel_
 /tccl.min.js
+/tck/gif/*
 /td-pageviews.
 /teal-chartbeat-
 /teal-comscore-
@@ -7625,7 +7626,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js$domain=hanime.tv
 @@||google-analytics.com/analytics.js$domain=haz.de
 @@||google-analytics.com/analytics.js$domain=hdmoviezone.net
-@@||google-analytics.com/analytics.js$domain=hepsiburada.com
 @@||google-analytics.com/analytics.js$domain=highsnobiety.com
 @@||google-analytics.com/analytics.js$domain=home24.de
 @@||google-analytics.com/analytics.js$domain=independent.co.uk
@@ -7736,7 +7736,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/gtm/js?id=$domain=citethisforme.com
 @@||google-analytics.com/gtm/js?id=$domain=easycredit.de
 @@||google-analytics.com/gtm/js?id=$domain=haz.de
-@@||google-analytics.com/gtm/js?id=$domain=hepsiburada.com
 @@||google-analytics.com/gtm/js?id=$domain=home24.de
 @@||google-analytics.com/gtm/js?id=$domain=independent.co.uk
 @@||google-analytics.com/gtm/js?id=$domain=joblo.com
@@ -7762,7 +7761,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/plugins/ua/ec.js$domain=earthclassmail.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=eldorado.com.ua
 @@||google-analytics.com/plugins/ua/ec.js$domain=flyingv.cc
-@@||google-analytics.com/plugins/ua/ec.js$domain=hepsiburada.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=m.n11.com
 @@||google-analytics.com/plugins/ua/ec.js$domain=m.papajohns.ru
 @@||google-analytics.com/plugins/ua/ec.js$domain=mediamarkt.com.tr
@@ -9090,7 +9088,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||svtrd.com^$domain=moneyou.de|ns.nl
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||switch.atdmt.com/iaction/$subdocument,domain=bestbuy.com
-@@||switchfly.com/static/108f088/resources/shopping/.build/scripts/analytics-$script,domain=reise-services.americanexpress.de|travel.americanexpress.co.uk|viaggi.americanexpress.it
+@@||switchfly.com/static/*/resources/shopping/.build/scripts/analytics-$script,domain=reise-services.americanexpress.de|travel.americanexpress.co.uk|viaggi.americanexpress.it
 @@||swr3.de/static/swrplayer/web/plugins/ivw/ivw.js
 @@||szukajka.tv/jsverify.php$~third-party,xmlhttprequest
 @@||szukajka.tv/szukaj|$~third-party,xmlhttprequest
@@ -9537,6 +9535,7 @@ artmoney.ru##a[href^="http://www.one.ru"]
 artmoney.ru##noindex > a
 athabascau.ca#%#//scriptlet("set-constant", "WURFL", "emptyObj")
 audiobb.com##.sidebar > #custom_html-4
+augsburger-allgemeine.de,nikkansports.com##div[id^="cx_"]
 automesseweb.jp#?##_popIn_ranking:upward(.code_php_in_widget)
 b.kyodo.co.jp##.banner-area-entry + h3.category-title
 bcnretail.com###_popIn_recommend
@@ -9726,7 +9725,6 @@ news.webike.net###custom_html-5
 newsdig.tbs.co.jp#?#.l-contents-wrap > div[v-scope^="Recommend"]:upward(1)
 newslab.ru##.r-recommend
 newslab.ru##.sharing
-nikkansports.com##div[id^="cx_"]
 nine.com.au#%#(()=>{window.tracking={setConfig(){},trackPage(){},trackVideoAutoFail(){}}})();
 nine.com.au#%#//scriptlet('prevent-element-src-loading', 'script', 'share.9cdn.net/share/long_cache/js/tracking/tracking')
 nlab.itmedia.co.jp##div[id^="logly-"] + div.h10px.colBoxClear
@@ -10381,6 +10379,7 @@ znak.com##.relap
 ||a.perfumesclub.com^
 ||a.perfumesclub.fr^
 ||a.perfumesclub.nl^
+||a.pikabu.ru^
 ||a.poki.com/observer/$script
 ||a.popin.cc^
 ||a.pourquoidocteur.fr^
@@ -14401,6 +14400,7 @@ znak.com##.relap
 ||analytics.sports.ru^
 ||analytics.springboardvideo.com^
 ||analytics.sprint.com^
+||analytics.spun.com.br^
 ||analytics.ss88.us^
 ||analytics.stanby.com^
 ||analytics.staticiv.com^
@@ -15384,7 +15384,7 @@ znak.com##.relap
 ||aspservice.jp^$third-party
 ||assessment.vetassess.com.au^
 ||assets-jpcust.jwpsrv.com/*/ping.js
-||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com
+||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk|spiegel.de|hp.com|deutschepost.de|thebay.com|s.shufoo.net|tsn.ca|tabelog.com|euronews.com|newshub.co.nz
 ||assets.adsttc.com/insights/form-funnel.min.js
 ||assets.adsttc.com/insights/tracker.js
 ||assets.alicdn.com/g/alilog/aplus_plugin_xwj/index.js
@@ -19221,6 +19221,7 @@ znak.com##.relap
 ||cs.hot.net.il^
 ||cs.nakanohito.jp^$third-party
 ||cs.nexttv.co.il^
+||cs.pikabu.ru/apps/*/analytics.js
 ||cs.pikabu.ru/apps/ub/*/main/analytics.js
 ||cs0010sbeda.theory-clinic.com^
 ||cs0010sbeda.theory-diet.com^
@@ -24893,6 +24894,7 @@ znak.com##.relap
 ||frontier.musical.ly^
 ||frontlineshop.com/ev/co/frontline?*&uid=
 ||fronttoad.com^
+||froomle.com/api/*/events
 ||froomle.com^$third-party
 ||frosmo.com^$third-party
 ||fruitflan.com^$third-party
@@ -25166,6 +25168,7 @@ znak.com##.relap
 ||gcm.ksmobile.com^
 ||gcm.ksmobile.net^
 ||gcoiys.cutsclothing.com^
+||gct.americanexpress.com^
 ||gcudsn.tradetested.co.nz^
 ||gcwubi.happypancake.fi^
 ||gd-stats.jpush.cn^
@@ -29580,6 +29583,7 @@ znak.com##.relap
 ||log-player.arte.tv^
 ||log-sg.bytegsdk.com^
 ||log-stats.weathercn.com^
+||log-tb.isnssdk.com^
 ||log-tb.sgsnssdk.com^
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.hoyoverse.com^
@@ -29642,6 +29646,7 @@ znak.com##.relap
 ||log.hypebeast.com^
 ||log.idnes.cz^
 ||log.invodo.com^
+||log.isnssdk.com^
 ||log.iyunmai.com^
 ||log.kibboko.com^
 ||log.krs-ix.ru^
@@ -29851,6 +29856,7 @@ znak.com##.relap
 ||loloclicks.biz^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lomadee.com/loc/$third-party
+||lomadee.com^$third-party
 ||longertail.pl^$third-party
 ||longinglettuce.com^
 ||longinglettuce.com^$third-party
@@ -32392,6 +32398,7 @@ znak.com##.relap
 ||mieru-ca.com^$third-party
 ||mightyspiders.com^
 ||mightyspiders.com^$third-party
+||migros.com.tr^$cookie=VSTR_ID
 ||militaryverse.com^
 ||militaryverse.com^$third-party
 ||milligazete.com.tr/stats^
@@ -32620,6 +32627,7 @@ znak.com##.relap
 ||mon-va.byteoversea.com^$third-party
 ||mon.domdog.io^
 ||mon.ingservices.nl^
+||mon.isnssdk.com^
 ||mon.snssdk.com^
 ||mon.tiktokv.com^
 ||mon.us.tiktokv.com^
@@ -34987,6 +34995,7 @@ znak.com##.relap
 ||pi.technik3d.com^
 ||pia.jp/akam/$script
 ||pia.jp/images/pt.gif$image
+||piano.io/publisher/fusion/lucid/data/
 ||piano.io/tracker/
 ||piano.io/tracker/$domain=inc42.com,important
 ||piano_log.kingsoft.jp^
@@ -45370,6 +45379,7 @@ znak.com##.relap
 ||tkykzv.polisorb.com^
 ||tl.tradetracker.net^
 ||tl813.com^$third-party
+||tla.traderlink.com^
 ||tlctv.com.tr/ajax/item/hitImage?
 ||tlctv.com.tr/assets/default/images/pixel.gif
 ||tlm.adp.ca^

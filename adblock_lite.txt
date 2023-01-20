@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301190222
+! Version: 202301200240
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23571
+! Lenth = 23583
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -6352,6 +6352,7 @@ loldk.com##.tools-recommend
 loldk.com##a[href$=".html?from=video_right"]
 loldk.com##a[href^="http://www.esportsclub.cn/home/"]
 lolshipin.com##.box2
+longjin123.com##.fc_foot
 longzhu.com##.chatroom-ap
 longzhu.com##.pop-up-button
 longzhu.com##.recommend-pop-up
@@ -11396,6 +11397,7 @@ zzzyk.com###Tinfo
 ||aizhan.com/imagesa/
 ||aj4j.icu^
 ||ajiez.com^
+||ajkcdpm.cn^
 ||ajwssds.com^
 ||ajxukah.cn^
 ||ajzs.xyz^
@@ -12484,6 +12486,7 @@ zzzyk.com###Tinfo
 ||bupb.xyz^
 ||business.92wy.com^
 ||bust3koop.cyou^
+||buttn.cyou^
 ||buy.sina.com.tw/js/sina_popup.php
 ||buydee.org^
 ||buyihao.com^
@@ -13531,6 +13534,7 @@ zzzyk.com###Tinfo
 ||dfepm.xyz^
 ||dfes68.com^
 ||dfggq.com^
+||dfghaqea.xyz^
 ||dfjbgfldsjdsnldksjalld1235.cn^
 ||dfkd.xyz^
 ||dfncojkle.xyz^
@@ -13756,6 +13760,7 @@ zzzyk.com###Tinfo
 ||doubleadv.com^$third-party
 ||doublechen.online^
 ||doubleclick.ctfile.com^
+||doubleclicks.biz^
 ||douguo.net/upload/post/d/
 ||doujl.cn^
 ||doumobhaia.site^
@@ -14312,6 +14317,7 @@ zzzyk.com###Tinfo
 ||fd173.cn^$third-party
 ||fd7c.com^
 ||fdasew.top^
+||fdbskb.cn^
 ||fdc.com.cn^*adv
 ||fdc.my0511.com^$script
 ||fdfghgfdd.yunqishi.net^
@@ -16530,6 +16536,7 @@ zzzyk.com###Tinfo
 ||jkvbiry.cn^
 ||jkxtd77.com^
 ||jkxty.mobi^
+||jkxvvv.xyz^
 ||jl1130.com^
 ||jlhygy.com^
 ||jlmhk.com/images/data/
@@ -18856,6 +18863,7 @@ zzzyk.com###Tinfo
 ||pansoso.com^*pss.
 ||panyh123456.cn^
 ||paohao.com^
+||paongfh.cn^
 ||paopaoche.net/public/bd/article_inc.js
 ||paopaoche.net/skins/count.js
 ||paopic.com/imguang/
@@ -19570,9 +19578,11 @@ zzzyk.com###Tinfo
 ||qvyzdox.cn^
 ||qwadakesy.cyou^
 ||qwblog.cn/localfile/20200612230036.gif
+||qwcqqw.xyz^
 ||qwe0231141.bj.bcebos.com^
 ||qwertyuadf.com^
 ||qwogldy.top^
+||qwrot.cyou^
 ||qwsad.com^
 ||qwxcs.com^$third-party
 ||qx3g.top^
@@ -20740,6 +20750,7 @@ zzzyk.com###Tinfo
 ||t22g.icu^
 ||t34kk9.top^
 ||t3nlink.com^$third-party
+||t3p58.com^
 ||t4sb9dq7.site^
 ||t57.cn/cert.php
 ||t5wm.cc^
@@ -22981,6 +22992,7 @@ zzzyk.com###Tinfo
 ||yuntue.com/zb_users/plugin/MoreLinks*.php
 ||yuntuiguang.co^
 ||yunupload.net/jsa/
+||yunwu.red^
 ||yunzhan365.com/resourceFiles/js/weixin-share.js
 ||yunzuowen.com^$third-party
 ||yupei.love^
