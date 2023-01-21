@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301200240
+! Version: 202301210253
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51294
+! Lenth = 51301
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -112,6 +112,7 @@ $cookie=__gads
 $cookie=__gfp_64b
 $cookie=__gpi
 $cookie=__igaw__adid
+$cookie=__kla_id
 $cookie=__pvi
 $cookie=__qca
 $cookie=__stid
@@ -4576,8 +4577,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /prnx_track.
 /pro-ping.php?
 /probance_tracker.
-/processUserCookie.htm?
-/processUserCookie?
 /prod-analytics.
 /prod-client-js-logger/*
 /prod-dataroid.
@@ -6657,7 +6656,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||adobedtm.com^*/mbox-contents-$script,domain=fcbarcelona.jp|sony.jp
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crave.ca|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hellobank.fr|hgtv.com|hrw.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crave.ca|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hellobank.fr|hgtv.com|hrw.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
 @@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn
 @@||adobedtm.com^*/satelliteLib-$script,domain=conad.it|ilsole24ore.com|laredoute.it
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|fcbarcelona.cat|fcbarcelona.es|laredoute.es|vtr.com
@@ -7978,6 +7977,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=pcjisaku.com
 @@||googletagmanager.com/gtm.js$domain=pcmag.com
 @@||googletagmanager.com/gtm.js$domain=petlebi.com
+@@||googletagmanager.com/gtm.js$domain=pointmall.rakuten.co.jp
 @@||googletagmanager.com/gtm.js$domain=portsmouth.co.uk
 @@||googletagmanager.com/gtm.js$domain=prego.ua
 @@||googletagmanager.com/gtm.js$domain=programme-tv.net
@@ -8274,7 +8274,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.datadome.co/tags.js^$domain=hermes.com
 @@||js.dmtry.com/channel.js$domain=zillow.com
-@@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
+@@||js.monitor.azure.com/scripts/$script,domain=microsoft.com|rubex.efilecabinet.net
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=remoteassistance.support.services.microsoft.com
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
@@ -8663,6 +8663,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ovp.piksel.tech/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
 @@||ozone.ru/assets/analytics.$script,~third-party
+@@||p.typekit.net/p.css$stylesheet,domain=browserstack.com|bungie.net
 @@||p11.techlab-cdn.com^$domain=wizzair.com
 @@||packagetrackr.com/api/v1/track/detecting.json$~third-party
 @@||pagure.io/static/issues_stats.js$~third-party
@@ -9190,7 +9191,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||torrentsafe.com/fingerprint2.min.js
 @@||townwork.net/js/AppMeasurement.js$~third-party
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
-@@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|voici.fr
+@@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|capital.fr|voici.fr
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
 @@||track.atom-data.io/report$domain=russian.rt.com
 @@||track.atom-data.io/|$xmlhttprequest,domain=globes.co.il
@@ -18863,6 +18864,7 @@ znak.com##.relap
 ||coral.defygravity.co^
 ||coral.diks.fi/assets/js/count.js
 ||coralogix.com^$third-party
+||coralproject.net/assets/js/count.js
 ||core-cen-54.com^$third-party
 ||core.airbridge.io^
 ||core.bunchbox.co/geo.js^
@@ -19499,6 +19501,7 @@ znak.com##.relap
 ||d1733r3id7jrw5.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net/js/appier-track-
 ||d17m68fovwmgxj.cloudfront.net^
+||d17tqr44y57o31.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
@@ -27458,6 +27461,7 @@ znak.com##.relap
 ||infamousstream.com^
 ||inferclick.com^$third-party
 ||infinigraph.com^$third-party
+||infinity-tracking.com^$third-party
 ||infinity-tracking.net^$third-party
 ||infinityid.condenastdigital.com^
 ||inflectionpointmedia.com^$third-party
@@ -42596,6 +42600,7 @@ znak.com##.relap
 ||static.hepsiburada.net/scripts/webtrekk*.js
 ||static.herr.io^$third-party
 ||static.iqiyi.com/js/pingback/
+||static.iris.informa.com/widgets/*/iris-t.js
 ||static.iyzipay.com/buyer-protection/assets/js/analytics.js
 ||static.karte.io^$third-party
 ||static.klaviyo.com/onsite/js/klaviyo.js
@@ -44510,6 +44515,7 @@ znak.com##.relap
 ||tag.goadopt.io^$third-party
 ||tag.goldenbees.fr^
 ||tag.hariken.co^$third-party
+||tag.imagino.com^
 ||tag.karte.io^
 ||tag.leadplace.fr^
 ||tag.lexer.io^
@@ -48804,6 +48810,7 @@ znak.com##.relap
 ||vendri.io^$third-party
 ||venetrigni.com^$third-party
 ||vengefulgrass.com^
+||vengefulgrass.com^$third-party
 ||venlog-1542946650.us-west-2.elb.amazonaws.com^*/beacon.gif?
 ||ventivmedia.com^$third-party
 ||ventunotech.com/beacon/

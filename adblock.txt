@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301200240
+! Version: 202301210253
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26163
+! Lenth = 26184
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -356,6 +356,7 @@
 ###wrapper > div[style="padding:3px;"] > #pic
 ###xinnxi
 ###xqad
+###xqad1
 ###xqad[style="margin-bottom: 5px;"]
 ##.AD_TAC_BOX
 ##.AdTop
@@ -2449,6 +2450,7 @@ $websocket,domain=5nj.com|cechi8.com
 /static/ad/*
 /static/adsview/*
 /static/common/js/djlib_
+/static/images/ky888.gif
 /static/js/a22082021.
 /static/js/aall.js
 /static/js/fuo_3.js
@@ -2472,6 +2474,7 @@ $websocket,domain=5nj.com|cechi8.com
 /td_ads_ckbeck.js
 /template/*/adm/*
 /template/*/ads/*
+/template/*/lele36.html
 /template/1/images/t2.gif
 /template/bingfeng/statics/js/pingbi.js
 /template/chiav/img/*.mp4
@@ -7093,7 +7096,7 @@ flight.qunar.com##.l_rside > .b_fly_ban_b:nth-child(2)
 flighty.cn###searchBox + #sidebarBox
 flyblog.cc###links > div[id] > div.hslice:not(#search):not(#counter):not(#category):not(#calendar):not([id*="-article"]):not(#latest-comment)
 flyblog.cc##.pixnavbar__top-bar__main-sites
-flyblog.cc#?#.article-body > div[style]:-abp-has(> div[style] > div[id] > ins.adsbyfalcon)
+flyblog.cc,maxfoodfun.com#?#.article-body > div[style]:-abp-has(> div[style] > div[id] > ins.adsbyfalcon)
 flyzy2005.com##.baidu_ad
 flyzy2005.com##.widget_kratos_ad
 fmdisk.com##div[style="width: 960px; margin: 0 auto; height:900px; color: #F00; font-size: 14px; text-align:left;"] > p
@@ -7598,6 +7601,7 @@ hao4k.cn##.lineC_right
 haoduoyun.cc#?#.ebookRight > div.tb_cell.mb10:-abp-has(> div.listcell > div.lc_head >h2:contains(课本赞助商))
 haojiyou.la##.iqshwad-div
 haorooms.com##.right_guanggao
+haose5.vip##div[style="text-align: center"]
 haosou.com###haosou-banner-left
 haosou.com###so_feb
 haosou.com,so.com###bottom_ask
@@ -9120,7 +9124,6 @@ materialtools.com#@#.ad-center
 mati.hk##.banner_middle
 matongwu.com.cn##div[style="height:90px;clear:both;"]
 maxfoodfun.com###links > div[id] > div.hslice:not(#search):not(#qrcode):not(#category):not([id*="-article"]):not(#latest-comment)
-maxfoodfun.com#?#.article-body > div[style]:-abp-has(> div[style] > div[id] > ins.adsbyfalcon)
 maxthon.cn###festival-bottom-wrapper
 maxthon.cn###festival-center-wrapper
 maxthon.cn###festival-fix-bottom
@@ -12016,6 +12019,7 @@ zzzyk.com###Tinfo
 ||1118cctv.ltd^
 ||111cn.net/gg_ad/
 ||111cn.net/js/downc*.js
+||1129555.com^
 ||113.105.248.169^
 ||113.17.188.*.js
 ||1133.cc^$third-party
@@ -12035,6 +12039,7 @@ zzzyk.com###Tinfo
 ||118114.cn^$third-party
 ||1188.com^$third-party
 ||119.29.207.87^
+||1190555.com^
 ||1198194.com^
 ||119xiazai.com^$subdocument
 ||11img.com/ad/
@@ -12548,6 +12553,7 @@ zzzyk.com###Tinfo
 ||360kan.com/v1/block?blockid=544&
 ||360xs.com/templates/html5/js/djtop.js
 ||362728tdg.com^
+||3633a.com^
 ||363lm.com^
 ||36500.net^$third-party
 ||365339.top^
@@ -13276,6 +13282,7 @@ zzzyk.com###Tinfo
 ||833761.com^
 ||8341.store^
 ||8456.xyz^
+||8499136.com^
 ||8499223.com^
 ||8499683.com^
 ||8500.pro^
@@ -13495,6 +13502,7 @@ zzzyk.com###Tinfo
 ||99zuowen.com^*/gg.js
 ||9ads.net^$third-party
 ||9as3.xyz^
+||9cgms.xyz^
 ||9duw.com/js/sj
 ||9duw.com/pic/
 ||9ead.com^$third-party
@@ -16523,6 +16531,7 @@ zzzyk.com###Tinfo
 ||e3c7.com/love/
 ||e3ol.com/inc/
 ||e5yx.com^$popup
+||e5z14.icu^
 ||e66gg.com^$third-party
 ||e6g804q.cn^
 ||e7001.com^
@@ -17147,6 +17156,7 @@ zzzyk.com###Tinfo
 ||fyzbvwb.cn^
 ||fz2c.top^
 ||fz8g.top^
+||fzbkgni.cn^
 ||fzbm.com/bbs/static/js/bma.js
 ||fzckwij.cn^
 ||fzlol.com/images/$script
@@ -17586,6 +17596,7 @@ zzzyk.com###Tinfo
 ||guasim.top^
 ||gucheng.com/2016/ggimg/
 ||guess.h.qhimg.com^
+||guge.red^
 ||gugulm.net^
 ||guhai.com.cn/AD/
 ||guifun.com/psptool/ad/
@@ -19337,6 +19348,7 @@ zzzyk.com###Tinfo
 ||juyqiolna.cyou^
 ||juzi6.com/js/dp.js
 ||juzi6.com/js/gd.js
+||juzwrl.xyz^
 ||jvpook.cn^
 ||jvyigg.biqugeq.com^
 ||jvyigg.zbzw.la^
@@ -19909,7 +19921,6 @@ zzzyk.com###Tinfo
 ||leju.com/scripts/app/pc/indexlayer/v1/indexlayer.js
 ||leju.com^*=abs.processReqChange
 ||lele36.com/p/*.gif
-||lele36.com/template/*/lele36.html
 ||lelekan.com/sp/fmt.js
 ||leleketang.com/dat/a/
 ||lemoncai.xyz^
@@ -20575,6 +20586,7 @@ zzzyk.com###Tinfo
 ||micaitu.net/js/dibu.js
 ||michaelianice.com^
 ||micreative-china.cn^
+||micrhfk.cn^
 ||microcontrol.cn/HomeImages/AD/
 ||micropage.cn/images/ad_
 ||midenterprise.com^
@@ -21450,6 +21462,7 @@ zzzyk.com###Tinfo
 ||papathp.cn^
 ||paperfree.cx^
 ||paqpq.com^
+||paradisemall.net^
 ||partieseclipse.com^
 ||partner.googleadservices.com^$third-party
 ||pb.shuxigua.com^
@@ -21861,6 +21874,7 @@ zzzyk.com###Tinfo
 ||qgbtd.com^
 ||qgcbht.xyz^
 ||qgdvyvd.cn^
+||qgermm.xyz^
 ||qgfdqjf.cn^
 ||qgfwets.cn^
 ||qgjapp.com^
@@ -23079,6 +23093,7 @@ zzzyk.com###Tinfo
 ||ssgg.chazidian.com^
 ||ssh.*.com^*!$script,third-party
 ||ssio6xepo.cyou^
+||ssjiancai.com^
 ||ssjv1.com/dm/
 ||ssjy.shop^
 ||ssl.css.cdn120.com/js/application.js
@@ -23369,6 +23384,7 @@ zzzyk.com###Tinfo
 ||tangli.ltd^
 ||tangxiaodou.top^
 ||tangyaols.com^
+||tanseb.com/vads/
 ||tanshan.site^
 ||tanwanyx.com^$third-party
 ||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
@@ -23571,6 +23587,7 @@ zzzyk.com###Tinfo
 ||tjiaa.com^
 ||tjj.com^
 ||tjqonline.cn^
+||tjxafmo.cn^
 ||tjys88.com^
 ||tk.504pk.com^
 ||tkd777.cn^
@@ -23761,6 +23778,7 @@ zzzyk.com###Tinfo
 ||twadakesi.cyou^
 ||twavtv.com/js/jquery.colorbox
 ||twcczhu.com^$third-party
+||twlcyc.cn^
 ||twn2e.cn^
 ||twnb.xyz^
 ||two.fsylr.com^
@@ -23805,6 +23823,7 @@ zzzyk.com###Tinfo
 ||tzjovzs.cn^
 ||tzlit.cn^
 ||tzngisyi.xyz^
+||tzsvodu.cn^
 ||u-q.net.cn^
 ||u.63kc.com^
 ||u.ctrip.com/showcaseadvertisementsit/
@@ -24703,6 +24722,7 @@ zzzyk.com###Tinfo
 ||wzl05.xyz^
 ||wzngisye.xyz^
 ||wzqbte.xyz^
+||wzrdbwf.cn^
 ||wzsygdl.com^
 ||x-resource05.com/media_orange/server-img/*_1200_120.
 ||x.aigobook.com^
@@ -25276,6 +25296,7 @@ zzzyk.com###Tinfo
 ||yhdm.so/bar/
 ||yhilnc.cn^
 ||yhjccj.cn^
+||yhjh04.com^
 ||yhkiain.cn^
 ||yhkt.online^
 ||yhp4an7.cn^
