@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301210253
+! Version: 202301220255
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23601
+! Lenth = 23615
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -1776,7 +1776,7 @@
 @@||dlkoo.com^$generichide
 @@||dmhy.b168.net^$generichide
 @@||dnbus.com.tw/AD/tab_route.html
-@@||dnsgom.net/public/$domain=jingwubook.com
+@@||dnsgom.net/public/$domain=jingwubook.com|xwdsc.com
 @@||dnspod.cn/static/common/js/analytics.js
 @@||doc110.com^*/ad.css?$stylesheet
 @@||douban.com/popup/login?
@@ -10736,6 +10736,7 @@ zzzyk.com###Tinfo
 ||885842.com^
 ||8861203.com^
 ||8881919.cc^
+||8881img.com^
 ||8889888.vip^
 ||888dizhi.com/888/
 ||888yh.xyz^
@@ -10880,6 +10881,7 @@ zzzyk.com###Tinfo
 ||9869936.com^
 ||988aiai.com/static/js/common.js
 ||9898c.com^
+||98dvu.fun^
 ||9906g.com/js/jquery.js
 ||991019.top^
 ||9938.net/video/tvg/footer.js
@@ -14299,6 +14301,7 @@ zzzyk.com###Tinfo
 ||farm-cn.plista.com^
 ||fashionabacus.com^
 ||fashou.wang^
+||fast8.cc/skin/default/images/630652.png
 ||fast8.com/skin/default/images/63065.png
 ||fast8.com/skin/default/js/jquery.filetree
 ||fastadmin.net/uploads/store/aliyun
@@ -16242,6 +16245,7 @@ zzzyk.com###Tinfo
 ||ivy.pconline.com.cn^
 ||iwanad.baidu.com^
 ||iwansf.com^
+||iwjgwis.cn^
 ||iwqetbj.cn^
 ||iwrzdwi.cn^
 ||iwurexs.com/hello/
@@ -16326,6 +16330,7 @@ zzzyk.com###Tinfo
 ||jbazhaheia.top^
 ||jbnmuye.cn^
 ||jbplm.com^
+||jbuzacg.cn^
 ||jbyy010.com^
 ||jbzyw.com/Application/M/adv/
 ||jc001.cn/ci/jad/fix.
@@ -18141,6 +18146,7 @@ zzzyk.com###Tinfo
 ||mongoosejs.net/docs/images/lagoujika.jpeg
 ||mongsonv.uno^
 ||monnsutogatya.com/himg/monst/
+||monts.cyou^
 ||monzexn.cn^
 ||moonbbs.com/data/attachment/portal/
 ||moonight.ltd^
@@ -19101,6 +19107,7 @@ zzzyk.com###Tinfo
 ||ponymi.xyz^
 ||pop.wioau.com^$third-party
 ||pop800.com^$third-party
+||porjjhu.cn^
 ||porlsbll.cyou^
 ||porn87.com/static/stream_ads/
 ||pos.baidu.com^
@@ -19675,6 +19682,7 @@ zzzyk.com###Tinfo
 ||readysugerfree.top^
 ||rebdy.com^
 ||rebies.xyz^
+||rebunb.xyz^
 ||record.kuai.xunlei.com^
 ||redmix.me^
 ||redmx.cn^$third-party
@@ -19884,6 +19892,7 @@ zzzyk.com###Tinfo
 ||rzgvdm5.com^
 ||rzijjeb.cn^
 ||rzlib.net^
+||rzlp.xyz^
 ||rzngisyz.xyz^
 ||s-msn.com/portal/js/vendor/manto/
 ||s-msn.com/portal/xiatui.js
@@ -20300,6 +20309,7 @@ zzzyk.com###Tinfo
 ||site-bk.oss-cn-shenzhen.aliyuncs.com/img/aliyun/
 ||sitv.com.cn/cookiead.php
 ||siuscs.xyz^
+||sixarwr.cn^
 ||sjbaiduadv1.redou.com^
 ||sjcm.fun^
 ||sjeklqx.cn^
@@ -20461,6 +20471,7 @@ zzzyk.com###Tinfo
 ||souid.com/templets/js/sougg.js
 ||souka.me/ad/
 ||soulplp.com^
+||soulsoul.xyz^
 ||soulu365.com/images/zhuce.jpg
 ||southmoney.com/page/pc/
 ||southmoney.com/page/top
@@ -21565,6 +21576,7 @@ zzzyk.com###Tinfo
 ||vfcwij.cn^
 ||vflzdrv.cn^
 ||vfqnhif.cn^
+||vfsdgjrr.xyz^
 ||vgao.xyz/images/*.gif
 ||vggzftw.cn^
 ||vgimer.cn^
@@ -22911,6 +22923,7 @@ zzzyk.com###Tinfo
 ||ypuicbs.cn^
 ||yqakcdg.cn^
 ||yqgjq.com^
+||yqgpic.xyz^
 ||yqrta.xyz^$third-party
 ||yqw88.com^
 ||yqxs.xyz^
@@ -23174,6 +23187,7 @@ zzzyk.com###Tinfo
 ||zeroao.cn^
 ||zfood029.com^
 ||zfs.cn/8th/
+||zfykvns.cn^
 ||zg.mmyuer.com^
 ||zgbtw.mobi^
 ||zgchaye123.com^

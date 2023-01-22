@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301210253
+! Version: 202301220255
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51301
+! Lenth = 51303
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7288,6 +7288,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||d2dq2ahtl5zl1z.cloudfront.net/analytics.js/*/analytics.min.js$domain=architizer.com
 @@||d2pe20ur0h0p8p.cloudfront.net/identity/*/wapo_identity_full.js$domain=washingtonpost.com
 @@||d2pe20ur0h0p8p.cloudfront.net/identity/*/wapo_jskit_addon.js$domain=washingtonpost.com
+@@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js$script,domain=einthusan.tv|tlk.io
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
 @@||d2zv6vzmaqao5e.cloudfront.net/css/foodticket/*_google_analytics.js
@@ -12451,8 +12452,9 @@ znak.com##.relap
 ||ad.kddi-fs.com^
 ||ad.kinozal.website^
 ||ad.magokoro-care-shoku.com^
+||ad.mail.ru/*.gif?rnd=$third-party
 ||ad.mail.ru/static/sync-loader.js
-||ad.mail.ru^$image
+||ad.mail.ru^$image,~third-party
 ||ad.ordersuit.info^
 ||ad.plus^$third-party
 ||ad.rejichoice.jp^
@@ -13068,7 +13070,7 @@ znak.com##.relap
 ||adtracker.jpchd.veraxen.com^
 ||adtracker.mkjigsaw.com^
 ||adtracker.oilpainting.colorbynumber.veraxen.com^
-||adtrackers.net^$third-party
+||adtrackers.net^$~script,third-party
 ||adtracking.smartmediarep.com^
 ||adtraction.com^$third-party
 ||adtraxx.de^$third-party
@@ -27956,7 +27958,6 @@ znak.com##.relap
 ||integrations.syncmedia.io^
 ||intel-trk.informa.com^
 ||intel-trk.lloydslistintelligence.com^
-||intel.*/content/dam/www/global/wap/tms.sync.js
 ||intelevance.com^$third-party
 ||intelimet.com^$third-party
 ||intelli-direct.com^$third-party
@@ -29576,7 +29577,6 @@ znak.com##.relap
 ||log*.vietnamplus.vn^
 ||log-*.previewnetworks.com^
 ||log-api.aillis.net^
-||log-api.newrelic.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-collector.shopee.
 ||log-global.aliyuncs.com^
@@ -33268,6 +33268,7 @@ znak.com##.relap
 ||newelements.de/tracker/
 ||newlog.overwolf.com^
 ||newmail.carte-gr.total.fr^
+||newrelic.com^$third-party
 ||newrrb.bid^$third-party
 ||news.animesilo.live^
 ||news.arcb.com^
@@ -34074,6 +34075,7 @@ znak.com##.relap
 ||optimove.net^$third-party
 ||optin-machine.com^$third-party
 ||optinproject.com/rt/visit/
+||optistats.ovh^
 ||optorb.com^$third-party
 ||optoutadvertising.com^$third-party
 ||opus.2lifecommunities.org^
