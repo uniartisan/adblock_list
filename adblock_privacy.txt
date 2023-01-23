@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301220255
+! Version: 202301230245
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51303
+! Lenth = 51304
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -6782,7 +6782,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.cxense.com/public/widget/data$domain=gizmodo.jp
 @@||api.cxense.com/public/widget/data$domain=obozrevatel.com
 @@||api.cxense.com/public/widget/data$script,xmlhttprequest,domain=businessinsider.de|computerbild.de|handelsblatt.com
-@@||api.cxense.com/public/widget/data$script,xmlhttprequest,domain=cyclestyle.net|friday.gold|friday.kodansha.co.jp|mainichi.jp|nippon.com|wpb.shueisha.co.jp
+@@||api.cxense.com/public/widget/data$script,xmlhttprequest,domain=cyclestyle.net|friday.gold|friday.kodansha.co.jp|mainichi.jp|nippon.com|shueisha.co.jp
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
 @@||api.cxense.com/public/widget/data?$domain=mainichi.jp
 @@||api.cxense.com/public/widget/data?json$domain=bangkokpost.com
@@ -6792,7 +6792,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.cxense.com/public/widget/data?json=$domain=lavoz.com.ar
 @@||api.cxense.com/public/widget/data?json=$domain=milenio.com
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
-@@||api.cxense.com/public/widget/data?json=$domain=wpb.shueisha.co.jp
+@@||api.cxense.com/public/widget/data?json=$domain=shueisha.co.jp
 @@||api.cxense.com/public/widget/data?json=$domain=wsj.com
 @@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi
 @@||api.dmcdn.net/pxl/cpe/app.min.js$domain=m.sondakika.com
@@ -7018,7 +7018,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.cxense.com/cx.js$domain=milenio.com
 @@||cdn.cxense.com/cx.js$domain=president.jp
 @@||cdn.cxense.com/cx.js$domain=tn.com.ar
-@@||cdn.cxense.com/cx.js$domain=wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=wsj.com
 @@||cdn.cxense.com/t_init.min.js$domain=dhnet.be
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
@@ -7273,9 +7272,10 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
 @@||cxense.com/cx.cce.js$script,domain=handelsblatt.com
 @@||cxense.com/cx.js$domain=businessinsider.de|computerbild.de|handelsblatt.com
-@@||cxense.com/cx.js$domain=cyclestyle.net|mainichi.jp|nippon.com|tarzanweb.jp|tv-tokyo.co.jp|wpb.shueisha.co.jp
+@@||cxense.com/cx.js$domain=cyclestyle.net|mainichi.jp|nippon.com|shueisha.co.jp|tarzanweb.jp|tv-tokyo.co.jp
 @@||cxense.com/cx.js$domain=mainichi.jp
 @@||cxense.com/cx.js$domain=nlab.itmedia.co.jp
+@@||cxense.com/cx.js$domain=shueisha.co.jp
 @@||cxense.com/cx.js$domain=tarzanweb.jp
 @@||cxense.com/cx.js$script,domain=tv-tokyo.co.jp
 @@||cxense.com^$domain=ikea.com
@@ -37814,6 +37814,7 @@ znak.com##.relap
 ||sawfish.johnbraun.blog^
 ||sawfish.loqbooq.app^
 ||sawpf.com/1.0.js$third-party
+||say.ac^$third-party
 ||sayac.tmgrup.com.tr^
 ||saymedia.com/latest/tetrapak.js
 ||saysidewalk.com^
