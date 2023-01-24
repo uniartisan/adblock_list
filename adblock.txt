@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301230245
+! Version: 202301240251
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26203
+! Lenth = 26211
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -3034,7 +3034,6 @@ $websocket,domain=5nj.com|cechi8.com
 18comic.*##div[data-height="90"][data-width="728"]
 18comic.*#?#body .bot-per
 18comic.*#@#img[style*="300px"]
-18comic.org##div[data-height="250"][data-width="300"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
@@ -3046,8 +3045,8 @@ $websocket,domain=5nj.com|cechi8.com
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#@?#:-abp-has(>script[src*=".realsrv.com"])
 18comic.vip##div[data-group^="skyscraper_"]
-18comic.vip##div[data-height="250"][data-width="300"]
 18comic.vip#?#.thumb-overlay-albums > div[class][data-group^="photo_center_games_"]:-abp-has(> a[target="_blank"] > img)
+18comic.vip,18comic.org##div[data-height="250"][data-width="300"]
 18h.avmimi.com##body > p[align="center"]:first-child
 18h.avmimi.com##body > table[width="100%"]:nth-child(2)
 18moe.org##.alignnone[alt="恰饭广告"]
@@ -3593,8 +3592,8 @@ $websocket,domain=5nj.com|cechi8.com
 58b.tv#$#.playmar > .playl { visibility: hidden!important; }
 58b.tv#$#.playmar > .playr { visibility: hidden!important; }
 58b.tv#?#.datal.main:-abp-has(> table div[id^="revive_zoneid_"])
-58b.tv,8fun.tv##div[style^="width:300px;height:250px;"]
 58b.tv,8fun.tv#?#.datal.clear:-abp-has(> table div[id^="revive_zoneid_"])
+58b.tv,8fun.tv,99kubo.tv##div[style^="width:300px;height:250px;"]
 58cam.com###append_parent
 58cam.com###huyou_nologin
 58cam.com##.syads
@@ -3798,7 +3797,6 @@ $websocket,domain=5nj.com|cechi8.com
 99danji.com,eeyy.com##.top-bg
 99kubo.tv##.main > div[class="datal clear"]
 99kubo.tv##div[style="width:970px; height:250px;"]
-99kubo.tv##div[style^="width:300px;height:250px;"]
 99kubo.tv##table[width="970"][height="260"]
 99kubo.tv##table[width^="9"][height="90"]
 99kubo.tv#?#div[style*="width"]:-abp-has(> div[style] > img[src="/static/img/adsfree.png"])
@@ -5261,6 +5259,7 @@ avtb01.com,beauty321.com,aotu43.com,csdn.net##.ads
 avtb2022.com###menu-main-content > li:nth-child(n+5)
 awaker.cn###jiji + div[style="padding: 20px"]
 awaker.cn##.good-price
+awaliwa.com##.bottomAdsBox
 axiang.cc###photo-sliders + .widget_text
 axios-js.com###lagou-vip
 axios-js.com##.lessonlist
@@ -6199,7 +6198,6 @@ cnyes.com###full_ad-popup
 cnyes.com###full_ad-screen
 cnyes.com##a[data-proj-ga-category="FloatingBTN"]
 co188.com##.suspen
-coco01.net##.scupioadslot
 cocomanga.com#%#//scriptlet('prevent-setTimeout', 'loadErrorTip')
 cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("prevent-setTimeout", "checkSiteNormalLoad")
 cocomanga.com,ohmanhua.com,onemanhua.com#%#//scriptlet("set-constant", "NativeAd", "noopFunc")
@@ -6245,7 +6243,7 @@ cool3c.com##.sticky-inner > [class="board board-side board-cool3c-homepage-TR300
 cool3c.com##div[id^="gpt-c3c_all_side_"]
 cool3c.com##div[style="width:98%;border:1px solid #ddd;padding:5px;margin-top:5px;"]
 coolaler.com###hd
-coolhii.com###bottommob
+coolhii.com,lkyw.net###bottommob
 coolinet.com##.section-banner
 coolpc.com.tw##TD[onclick="cancelBubble()"]
 coolsaid.com##iframe[src="http://coolsaid.com/gmifr_lei.html"]
@@ -8130,7 +8128,6 @@ infoq.cn##.live-fixed-bar
 infoq.cn##.widget-slide-weekly
 infoq.com###psa-note
 infoq.com##.ab_detect
-inmywordz.com##.acca-block
 inmywordz.com,ants.tw##.acca-block
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
@@ -8841,12 +8838,12 @@ league-funny.com##.google_more
 league-funny.com##.more2ad_bb
 league-funny.com##.player_bb
 league-funny.com##.right > .fansCard
-league-funny.com##.scupioadslot
 league-funny.com##.w336center
 league-funny.com##.widgetBox.w300600
 league-funny.com##.widgetBox.w728Bottom
 league-funny.com##div[class^="dan_pmp"]
 league-funny.com#%#//scriptlet("prevent-setTimeout", "ad_num_show")
+league-funny.com,coco01.net##.scupioadslot
 leiling.org##.ad__single-double-rectangle-wrap
 leiphone.com,sina.com.cn##.top-banner
 lenniu.com##.caClass
@@ -9774,6 +9771,7 @@ php.cn##.layui-show > UL > .top-img
 php.cn##.wwads-cn
 php.cn##.zwwad
 php.cn##a[href*="/go."]:not([href*="Fwww.php"])
+php.cn,v2ex.com,233tw.com##.wwads-cn
 phpvar.com##.aliPic
 phpvar.com##.post_content_linkad
 phpvar.com##.qrcode-swiper-container
@@ -11098,7 +11096,6 @@ v2ex.com#?##Rightbar > .box:-abp-has(> .inner > .adsbygoogle)
 v2ex.com#?##Rightbar > .box:-abp-has(> .inner > div > span:contains(Sponsored by))
 v2ex.com#?##Rightbar > div.box:-abp-has(> div.inner a[target="_blank"] > img[src*="cdn.v2ex.com/assets/sidebar/"])
 v2ex.com#?#.box:-abp-has(>.inner>div>span[style]:-abp-contains(Sponsored))
-v2ex.com,233tw.com##.wwads-cn
 v2rayssr.com###b2-widget-html-12
 v2rayssr.com###gg-box
 v2rayssr.com##.slider-4-box1
@@ -12230,6 +12227,7 @@ zzzyk.com###Tinfo
 ||192.151.218.66^$third-party
 ||19216811.la/net/advert
 ||19273817.com^
+||194.59.220.161^
 ||195315.com/storage/tpl/tj.js
 ||19719197.com^
 ||19811231.me^
@@ -17315,6 +17313,7 @@ zzzyk.com###Tinfo
 ||gfnormal07ae.com^
 ||gfqfjau.cn^
 ||gfqquls.cn^
+||gfqsded.cn^
 ||gfvip06ab.com^
 ||gfvip06af.com^
 ||gfvip06al.com^
@@ -17630,6 +17629,7 @@ zzzyk.com###Tinfo
 ||guqu.net/Cooperate/
 ||gushiwen.org/getTicket.aspx
 ||gutouwang.net^
+||guyu8855.club^
 ||gv4e.top^
 ||gvqrclx.cn^
 ||gw069.com^
@@ -17648,6 +17648,7 @@ zzzyk.com###Tinfo
 ||gxkfmjk.cn^
 ||gxkj.ink^
 ||gxklsftz.cn^
+||gxkoci.xyz^
 ||gxmbr.cn^
 ||gxms.vip^
 ||gxnews.com.cn/clientscript/index_duilian_
@@ -17914,6 +17915,7 @@ zzzyk.com###Tinfo
 ||hellohang.love^
 ||helloweb.vip^
 ||helloworldisbeautiful.net^
+||hellu.cyou^
 ||helpinfo.cn^
 ||hemkwnz.cn^
 ||henan.sina.com.cn/iframe/7/
@@ -19594,6 +19596,7 @@ zzzyk.com###Tinfo
 ||kivo.fun^
 ||kiwi8.top/media/plugins/jquery_confirm/
 ||kiwihk.net^$third-party
+||kiymowg.cn^
 ||kj-gov.cn^
 ||kjanfwss.xyz^
 ||kjbwuq.cn^
@@ -19642,6 +19645,7 @@ zzzyk.com###Tinfo
 ||kmu.gwmrb.cn^
 ||kmvbre.com^
 ||kmwqxqh.com^
+||kmzayrt.cn^
 ||kneadface.com^
 ||knja123.top^
 ||knk95.cn^
@@ -19698,6 +19702,7 @@ zzzyk.com###Tinfo
 ||kt51.com/bjl666.gif
 ||kt51.com/images/kt51.gif
 ||kt51.com/wz.jpg
+||ktbelts.cn^
 ||ktdlsb.com^
 ||ktggbk.com^
 ||ktkkt.com/js/tvb/
@@ -21200,6 +21205,7 @@ zzzyk.com###Tinfo
 ||nyaa.fun/static/js/*_costcheck_a.js
 ||nyahentai.pw/js/check_cat.js
 ||nychinaren.com/houbei/
+||nykoubk.cn^
 ||nymnt.top^
 ||nypswiu.cn^
 ||nypyzx.xyz^
@@ -23463,6 +23469,7 @@ zzzyk.com###Tinfo
 ||techritual.com/wp-content/uploads/*/HDcource_
 ||techsolutions.com.tw^$third-party
 ||tencent-cloud.com/s9m1/12f70718c866ea3e5f22c68e6a34c54f.
+||tencent-cloud.com/s9m1/54cb71aff82cfd690619065f2e31c346.
 ||tengbaiwan.com^
 ||tengfangyun.com/attachment/*/w_1200
 ||tengfun.com/attachment/*/w_1200
@@ -25974,6 +25981,7 @@ zzzyk.com###Tinfo
 ||zkjh.info^
 ||zkqfrti.cn^
 ||zkwsdf.com^
+||zlfthh.xyz^
 ||zlgame.top^
 ||zli.wang^
 ||zljycst.cn^
