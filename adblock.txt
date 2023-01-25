@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301240251
+! Version: 202301250214
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26211
+! Lenth = 26222
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -4055,6 +4055,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||4399sj.com^*/adview_pic_
 @@||4gtv.tv/4gtv/Data/GetAD.ashx
 @@||4horlover.com^$generichide
+@@||519.best^$generichide
 @@||51hanhua.com/2013/brtxt.js
 @@||51img1.com/??*/adsys.
 @@||51zxw.net/getvutf.asp?$domain=51zxw.net
@@ -9204,6 +9205,7 @@ miercn.com##.color-box
 miercn.com##.hongbao
 miercn.com##.show-img-box
 mikanani.me##a[href][onclick*="'ad'"] > img[src^="/images/Masha/"]
+miliav.com##.b300
 minecraftzw.com##.e3lan-top
 mingpao.com###photo_transition
 minhangcidian.com##div[id^="googleAd"]
@@ -15227,6 +15229,7 @@ zzzyk.com###Tinfo
 ||ccdm*/Scripts/ccMedia.js
 ||ccement.com/index/index/fetchAd
 ||ccement.com/js/ccement_new/open.js
+||ccemqe.cn^
 ||ccio6rope.cyou^
 ||ccjudian.com^
 ||cckb.online^
@@ -18163,6 +18166,7 @@ zzzyk.com###Tinfo
 ||hslyqs.com^
 ||hsmkj.net^$third-party
 ||hsnsdqd.cn^
+||hspffjx.cn^
 ||hssapp.shop^
 ||hssebb.xyz^
 ||hsswcei.cn^
@@ -18290,6 +18294,7 @@ zzzyk.com###Tinfo
 ||huyccuy.cn^
 ||hv740pyh.cn^
 ||hvddf44.top^
+||hvhudp.xyz^
 ||hw6.com^
 ||hwanjia.com^
 ||hwuzrko.cn^
@@ -18836,6 +18841,7 @@ zzzyk.com###Tinfo
 ||iwyuaqs.cn^
 ||ixbccrp.cn^
 ||ixcgvh.cn^
+||ixelcpo.cn^
 ||ixihet.cn^
 ||ixiunv.com^$third-party
 ||ixnrmco.com^
@@ -20066,6 +20072,7 @@ zzzyk.com###Tinfo
 ||liuxue86.com/css/liuxue_output.js
 ||liuxue86.com/js/ideng/liuxue-show
 ||liuyangyang.cn^
+||liuye.club^
 ||liuzhen.love^
 ||liuziqiu.cn^
 ||liuzishen.com^
@@ -20255,6 +20262,7 @@ zzzyk.com###Tinfo
 ||lvxingzhe.store^
 ||lvytzpu.cn^
 ||lvzi.store^
+||lw0mp.fun^
 ||lw54.com/js/
 ||lw88.site^
 ||lw881.com/public/js/gw.js
@@ -21267,6 +21275,7 @@ zzzyk.com###Tinfo
 ||ognlaigk.fun^
 ||ogs.google.*/widget/callout$subdocument
 ||oh100.com/js/pubuliu.
+||ohmpyq.xyz^
 ||oi1b.top^
 ||oicchina.com^$third-party
 ||oicode.com^
@@ -22527,6 +22536,7 @@ zzzyk.com###Tinfo
 ||s9w.cc^
 ||sa.sina.cn^
 ||sa669.com^$popup
+||saccac11.com^
 ||sadobo.com^
 ||sadwqdi.cn^
 ||safe524.xyz^$third-party
@@ -24701,6 +24711,7 @@ zzzyk.com###Tinfo
 ||ww9874.com/asset/playerInit.js
 ||wwads.cn^$third-party
 ||wwggnaw.xyz^
+||wwnyubs.cn^
 ||wwoglde.top^
 ||www-dnwx-com.anquanbao.cn/pic
 ||www-sina-cn-com.com^
