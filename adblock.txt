@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301250214
+! Version: 202301260218
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26222
+! Lenth = 26201
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -2596,12 +2596,10 @@ $websocket,domain=5nj.com|cechi8.com
 /yunfile/offline_banner/*
 /yy_transv/js/cmp.js
 /z.zolapp.
-/zahuishi/images/show38070.js
 /zcool-analytics.js
 /zz/*_box2.txt
 /zz/wenzi2.txt
 /zz/zuoxia2.txt
-/zzhzgg.js
 /zzzz/assets/js/common/discor_list.js
 012.tw#@#.ad728
 020job.com##A[href^="/Click.aspx?AdPageID="]
@@ -2888,7 +2886,7 @@ $websocket,domain=5nj.com|cechi8.com
 159i.com#?#:-abp-has(> img[src*="gif"])
 159i.com#?#div:-abp-has(> img+a)
 159i.com,china.com.cn##.ab
-159i.com,movieffm.net,zhaopin.com#@#.adsBox
+159i.com,movieffm.net#@#.adsBox
 15w.com###rec
 160.com###w-advertisement
 160.com###w-btn-advertisement
@@ -4939,8 +4937,6 @@ $websocket,domain=5nj.com|cechi8.com
 @@||yunjiema.top/static/js/wpsafelink.js
 @@||yygsz.com^$generichide
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
-@@||zhaopin.cn/js/app/popShow.
-@@||zhaopin.cn^*/adbox_
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||zpmobi.cn^*/ad.css?$stylesheet
@@ -5655,10 +5651,6 @@ bitauto.com#@#a[href^="http://ad.doubleclick.net/"]
 bixia.org##dd[style*="bottom:"]
 biz.ifeng.com##.header
 biz.ifeng.com##.riodel
-biz.zjol.com.cn##.bot
-biz.zjol.com.cn##.rBlok1[style=" margin-bottom:10px;"]
-biz.zjol.com.cn##.zsFooterBox + .close
-biz.zjol.com.cn,cgown.com,taohuayun.cn##img[width="980"]
 biznetvigator.com#@##container_ad
 bjcxqd.com##.box-vdgd
 bjd.com.cn##.bjd-advertisement
@@ -5892,6 +5884,7 @@ centoschina.cn##a[href="https://www.linuxprobe.com/"]
 cesafe.com,kkpan.com,yxdj.com.cn##.m-a-linktwo
 cgown.com##.banner-gg
 cgown.com##.breadcrumb-gg
+cgown.com,taohuayun.cn##img[width="980"]
 chacuo.net###mailtooltipss
 chacuo.net##.a96090
 chaicp.com###activity-web
@@ -7014,7 +7007,7 @@ feng.com##.header
 feng.com##div[class^="ad_90"]
 fenghuo.in##.mimi
 fengniao.com###ad-head
-fengniao.com##div[id^="AD"]
+fengniao.com,zhiding.cn##div[id^="AD"]
 fffdm.com##[style^="width"][style*="height"]
 ffxiv.xin,fotor.com.cn,weiyun.com,youdao.com#@#.icon-share
 fh21.com.cn###lbzxM
@@ -11606,10 +11599,6 @@ yzl333.com##a[href^="https://jump.9118ads.com/"]
 yzl333.com#?#.row > div.col-sm-6:-abp-has(> div.well > a[href^="https://jump.9118ads.com/"])
 yzpsb.net###fc_foot
 yzz.cn###video_ff
-zahuishi.com##.index950x90
-zahuishi.com##.index960x90
-zahuishi.com##.show2960x90
-zaobao.com###block-views-zb2016-freefrom-block-1
 zavporn.net##.opt
 zcool.com.cn##.main-wrapper-advlong-top
 zcool.com.cn#@#.advtop
@@ -11641,7 +11630,6 @@ zhibo8.cc##a[href*=".rd-game."]
 zhibo8.cc##a[href*=".wanjiashe."]
 zhibo8.cc##div[class*="advert"]
 zhibo8.cc#@##ad_box
-zhiboba.org##a[href^="igg."]
 zhicheng.com##.mad_top
 zhicheng.com##.normal-banner
 zhicheng.com##.sf_1
@@ -11654,7 +11642,6 @@ zhidao.baidu.com##div[class^="cms-slide"] > p[class="cms-link-title"]
 zhidao.baidu.com#?#.wgt-ads
 zhideqiang.com##A[href*="quan.zhideqiang.com"]
 zhiding.cn###MgBox
-zhiding.cn##.headads
 zhidiy.com###festival_float_bottom
 zhifang.com##.sytl
 zhihu.com###root > div > main.App-main:nth-child(3) > div.QuestionPage > div.Question-main:last-child > div.Question-sideColumn.Question-sideColumn--sticky:last-child > div > div.Sticky > div.Card.AppBanner:first-child
@@ -11721,15 +11708,11 @@ zol.com.cn##.supervalue
 zol.com.cn##.zol-eshop
 zol.com.cn##.zolapp
 zol.com.cn##div[style="width: 300px; height: 250px; position: fixed; right: 0px; bottom: 0px; z-index: 9999; display: block;"]
-zongheng.com###\36 roomRecommend
-zongheng.com###index_game
-zongheng.com##div[alog-group="index_04_game"]
 zqzq.com###wAdTop1
 zqzq.com###wAdTop2
 zrblog.net###top_nav
 zrblog.net##.ad_h
 zrblog.net##a[href^="http://u.zrblog.net"]
-zreading.cn##.enhanced-text-widget:nth-child(2)
 zt5.com##.gg_1
 zt5.com##.gg_bt
 zuanke8.com##.zuanpw
@@ -11764,7 +11747,7 @@ zzbaike.com##.left > .bottom[style]
 zzbaike.com##.link2
 zzkdhb.com##li[style*="important;"]
 zzkdhb.com##p[style^="width: 100%; margin: 0px;"]
-zznews.cn##.ad:not([style])
+zznews.cn#@#.ad-wrapper
 zztt24.com##.no-mask
 zzzyk.com###Tinfo
 |.gif$domain=fashangji.com
@@ -14471,6 +14454,7 @@ zzzyk.com###Tinfo
 ||baidu.com/api/wikiui/directad?
 ||baidu.com/api/wikiui/getasp?
 ||baidu.com/api/wikiui/guesslike?
+||baidu.com/article/ajax/getmarticlestepdata?
 ||baidu.com/baidu.php?url=$popup
 ||baidu.com/brands/yxtg/source/yxCoupletsAd.js
 ||baidu.com/cms/lemmaconfig/baikeDynamic.
@@ -17958,6 +17942,7 @@ zzzyk.com###Tinfo
 ||hf365.com/0/14/60/93/14609355_921128.jpg
 ||hf365.com/0/15/64/87/15648725_922274.jpg
 ||hfawdgz.cn^
+||hfjsbf.xyz^
 ||hflssy.com^
 ||hfoyjg.cn^
 ||hfrytno.cn^
@@ -18687,6 +18672,7 @@ zzzyk.com###Tinfo
 ||inoreader.com/adv/$domain=inoreader.com
 ||inping.com^$third-party
 ||inpnjq.cn^
+||inscan.cn^
 ||instreet.cn^$third-party
 ||inszu.com/js/qian/
 ||inte.sogou.com^
@@ -21360,6 +21346,7 @@ zzzyk.com###Tinfo
 ||oqshoyd.cn^
 ||orays.co^
 ||orientalocean.mobi^
+||oronwg.xyz^
 ||ortwywr.cn^
 ||orysogsik.uno^
 ||orzx.im/Document/recommend/flashpoint.html
@@ -22542,6 +22529,7 @@ zzzyk.com###Tinfo
 ||safe524.xyz^$third-party
 ||sahara.work^
 ||saimone.com^
+||sairy.cyou^
 ||sakuraquant.com^
 ||salangane.asia^
 ||salary.xiao84.com^
@@ -22747,6 +22735,7 @@ zzzyk.com###Tinfo
 ||shfq.com/wuyue
 ||shhaiya.com^
 ||shhcc.top^
+||shidaiheima.ltd^
 ||shidailw.com^
 ||shigl.top^
 ||shiguangyx.cn^
@@ -25542,6 +25531,7 @@ zzzyk.com###Tinfo
 ||yrqwnc.cn^
 ||yrr56.com/mp4/pt_720.
 ||yrrcc.top^
+||yruvnmn.cn^
 ||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
 ||ys2727.xyz^
@@ -25634,6 +25624,7 @@ zzzyk.com###Tinfo
 ||yunzuowen.com^$third-party
 ||yupei.love^
 ||yupoo.com/dapenti/5cfa8673/c6045c69.jpeg
+||yupphsl.cn^
 ||yuqingby.fun^
 ||yuquad.com^
 ||yuretb.site^
@@ -25842,7 +25833,6 @@ zzzyk.com###Tinfo
 ||zhaovip.site^
 ||zhaoyafang.cn^
 ||zhaoyiqi.ltd^
-||zhaozi.cn/d/js/mini/extended
 ||zhcps.cn^
 ||zhe8000.pw^
 ||zhekoudajie.com^
@@ -25862,7 +25852,6 @@ zzzyk.com###Tinfo
 ||zhiai.space^
 ||zhibo128x2.xyz^
 ||zhibo8.cc/js/adv-slide-toggle.js
-||zhiboba.org/gg_js/
 ||zhiboiot.cn^
 ||zhibok8.com/images/*.gif
 ||zhibok8.com/js/di
@@ -25922,13 +25911,9 @@ zzzyk.com###Tinfo
 ||zhuhaiqilu.cn^
 ||zhuishubox.com/js/after-rain.js
 ||zhuji.net/2007_ad/
-||zhujiangroad.com/js/alltop.js
 ||zhujiwiki.com/ad/
 ||zhulang.com/zlpv.php
 ||zhulong.com/detail/floorOneAd?
-||zhulong.com/poster/get?*_960
-||zhulong.com/poster/get?positions_name=ZY_JZ_300_02
-||zhulong.com/poster/get?positions_name=ZY_SP_300
 ||zhululm.com^$third-party
 ||zhuomengwangluo.cn^
 ||zhuomengwangluo.com^
@@ -25972,11 +25957,9 @@ zzzyk.com###Tinfo
 ||zjhim.com^
 ||zjjhfc.com/js/zt.js
 ||zjjrlx4.com^
-||zjjzx.cn*/push/
 ||zjkssw.com^
 ||zjlfqf.com^
 ||zjliloveyou.ixiunv.com^
-||zjol.com.cn/www/zzhzbd/
 ||zjsdsports.cn^
 ||zjst.net/3.gif
 ||zjttaqx.cn^
@@ -26033,12 +26016,8 @@ zzzyk.com###Tinfo
 ||zol.com.cn/pvn/
 ||zol.com/index.php?c=ZolShopIndex
 ||zolsky.com^*ad/*.js
-||zongheng.com/ajax/recommend.game.
-||zongheng.com/upload/ad/
 ||zongheng.com/upload/hzds/
 ||zongheng.com/upload/recommend/game/
-||zongheng.com/v2014/js/mod/bad.js
-||zongheng.com/zhuanti/2014/active/js/active.js
 ||zoom.zshu.net^
 ||zoosnet.net^$third-party
 ||zoossoft.cn^$third-party

@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301250214
+! Version: 202301260218
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50931
+! Lenth = 50936
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -183,6 +183,7 @@ $cookie=adEdition
 $cookie=adcloud
 $cookie=ajs_anonymous_id
 $cookie=anj
+$cookie=anonDeviceId
 $cookie=atidvisitor
 $cookie=atuserid
 $cookie=audit
@@ -241,6 +242,7 @@ $cookie=logglytrackingsession
 $cookie=muidn
 $cookie=nQ_cookieId
 $cookie=nQ_userVisitId
+$cookie=nxt_last_visit
 $cookie=obuid
 $cookie=omni_visit_id
 $cookie=optimizelyEndUserId
@@ -3348,7 +3350,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /hs_track.
 /hsc/trk/*
 /hstrck-detect.
-/html/js/iter-libraries/iter-statistics.js*$domain=eluniversal.com.co|elcolombiano.com
+/html/js/iter-libraries/iter-statistics.js*$domain=eluniversal.com.co|elcolombiano.com|vanguardia.com.mx
 /hubspot_tracking.
 /i.gif?
 /i.gif?pageEvent=
@@ -4134,7 +4136,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /newrelic.min.js
 /newrelicKpis-
 /newrelicKpisFooter-
-/news-portlet/html/counter-portlet/*$domain=eluniversal.com.co|elcolombiano.com
+/news-portlet/html/counter-portlet/*$domain=eluniversal.com.co|elcolombiano.com|vanguardia.com.mx
 /newscount/*
 /newsletter/log/*$image
 /newsletter/read?s=$image
@@ -16304,6 +16306,8 @@ znak.com##.relap
 ||bg.promo.skf.com^
 ||bgevqy.moschino.com^
 ||bgpng.me^$third-party
+||bgr.in^$cookie=traffic_medium
+||bgr.in^$cookie=traffic_source
 ||bgupcq.westfalia.de^
 ||bgusct.jessops.com^
 ||bhcumsc.com^
@@ -21858,6 +21862,7 @@ znak.com##.relap
 ||deafeningdock.com^$third-party
 ||deagostinipassion.it/collezioni/analytics.js
 ||deal.trk.agency^
+||dealabs.com^$cookie=f_v
 ||dealer.com/off-platform/pix-at.min.js^
 ||dealer.com^*/tracker/
 ||dealer.com^*/tracking/
@@ -24646,6 +24651,7 @@ znak.com##.relap
 ||flimsythought.com^
 ||flimsythought.com^$third-party
 ||flipboard.com/api/v2/reporting
+||flipboard.com/api/v2/reporting/datadog
 ||flipboard.com/usage?
 ||flipkart.com/api/3/data/collector/
 ||flipkart.net/*/*/tracker/
@@ -34644,6 +34650,7 @@ znak.com##.relap
 ||perfiliate.com^$third-party
 ||perfops.io^$third-party
 ||perfops.net/rom3/
+||performance.radar.cloudflare.com/beacon.js
 ||performanceanalyser.net^$third-party
 ||performancefirst.jp^$third-party
 ||performanceplay.co.kr^
@@ -35298,7 +35305,6 @@ znak.com##.relap
 ||pornhublive.com/api/metrics
 ||pornolupo.org/track.js
 ||pornozot.com/js/tracker.min.js
-||pornscum.com*&action=js_stats
 ||porntube.com^*/track
 ||porpoise.azettl.net^
 ||porpoise.fruittreecottage.com.au^
@@ -43085,7 +43091,6 @@ znak.com##.relap
 ||stats.zone-telechargement.
 ||stats.zotabox.com^
 ||stats01.20min.ch^
-||stats1.tune.pk^
 ||stats1.wpmudev.com^
 ||stats2.*.fdnames.com^
 ||stats2.agilecrm.com^$third-party
