@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301260218
+! Version: 202301270237
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50936
+! Lenth = 50952
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -312,6 +312,11 @@ $cookie=vocuser_uuid,domain=ideal.es|elcorreo.com
 $cookie=waldo_continent
 $cookie=waldo_country
 $cookie=waldo_region
+$cookie=wt3_eid
+$cookie=wt3_sid
+$cookie=wt_eid
+$cookie=wt_nbg_Q3
+$cookie=wt_sid
 $cookie=wuuid,domain=duolingo.com|duolingo.cn
 $cookie=xf_sam_ad_views
 $cookie=xtant
@@ -6490,6 +6495,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 ://metrika.*/analytics.
 ://mint.*/?js
 ://piwik.$domain=~matomo.org|~piwik.pro
+://ply.*/?v=$image,third-party
 ://r.i.ua^
 ://segment-api.
 ://segment-cdn.
@@ -6812,7 +6818,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.ipify.org^$xmlhttprequest,domain=offering-flower.com
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
-@@||api.ipstack.com^$domain=ride.guru
+@@||api.ipstack.com^$domain=meteo365.es|ride.guru
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
 @@||api.mixpanel.com/track/*$domain=etcher.io
 @@||api.mixpanel.com/track/?data=$xmlhttprequest,domain=deezer.com
@@ -6918,6 +6924,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||blocket.se^*/xtcore.js
 @@||bloctel.gouv.fr/assets/scripts/smarttag.js
 @@||bluecare.express/js/tracking/$script,~third-party
+@@||bluesky-soft.com/common/script/ga.js$script,~third-party
 @@||bnc.lt/a/key_live$domain=pinterest.co.kr|pinterest.com|pinterest.de|pinterest.com.au|pinterest.com.mx|pinterest.es|pinterest.jp|pinterest.it|pinterest.ca|pinterest.co.uk|pinterest.ru|pinterest.ch|pinterest.fr|pinterest.cl|pinterest.at|pinterest.pt|pinterest.nz|pinterest.dk|pinterest.se|pinterest.ie|pinterest.ph|pinterest.info
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bolha.com/clicktracker/
@@ -8955,6 +8962,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||simyo.de/b/ss/$image
+@@||sisal.it/etc.clientlibs/sisal-fullresponsive/clientlibs/tealium.js$script,~third-party
 @@||siteanalytics.compete.com^$~third-party
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
@@ -14067,6 +14075,7 @@ znak.com##.relap
 ||analytics.agoda.com^
 ||analytics.aimtell.com^
 ||analytics.aita.gov.vn^
+||analytics.aklamio.com^
 ||analytics.algolia.com^
 ||analytics.allovoisins.com^
 ||analytics.amakings.com^
@@ -23992,6 +24001,7 @@ znak.com##.relap
 ||eventful.com/apps/generic/$image,third-party
 ||eventgateway.soundcloud.com^
 ||eventgw.twilio.com^
+||eventiavversinews.it/wp-json/vinkmag/*/visitortrack/
 ||eventlog.inspsearch.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
@@ -25528,6 +25538,7 @@ znak.com##.relap
 ||github.com/_stats
 ||github.com/hydro_browser_events
 ||github.com/notifications/beacon/$important
+||gitpod.io/api/collect-data
 ||gixmo.dk^$third-party
 ||giy0v1igdqc1.crystalmathlabs.com^
 ||gizmodo.com/x-kinja-static/assets/*/trackers.
@@ -29183,6 +29194,7 @@ znak.com##.relap
 ||lecho.be/fb2?
 ||lecho.be/tag/tag-
 ||lecho.be/track/
+||lecturas.com/Content/*/js/trackPopup.js
 ||lederer.nl/incl/stats.js.php?
 ||ledger-enquirer.com/lz-isbnoyo/pdp.gif?
 ||leech.fuchsegg.at^
@@ -35324,6 +35336,7 @@ znak.com##.relap
 ||postageapp.com/receipt/$third-party
 ||postback.affiliateport.eu/track.js
 ||postback.rockerzroom.com^
+||postbank.de/etc/*/clientlib-postbank-webtrekk
 ||postgraduate.smu.edu.sg^
 ||postgraduate2.smu.edu.sg^
 ||postguam.com/shared-content/art/stats/common/tracker.js
@@ -44261,6 +44274,7 @@ znak.com##.relap
 ||tanx.com/t/tanxclick.js
 ||tanx.com/t/tanxcollect.js
 ||tanx.com^$third-party
+||tao.barstoolsports.com^
 ||taobao.com/tracker.
 ||tapad.app^$third-party
 ||tapad.com^$third-party
@@ -46418,6 +46432,7 @@ znak.com##.relap
 ||track.mp4.center^
 ||track.mrgugu.com^
 ||track.mustforhome.com^
+||track.my1elitclub.com^
 ||track.mycliplister.com^
 ||track.mycointainer.com^
 ||track.myli.io^
@@ -49022,6 +49037,7 @@ znak.com##.relap
 ||wcs.naver.com^
 ||wcs.naver.com^$image
 ||wct-1.com/wct.js
+||wct-2.com^
 ||wdatatats.net.zooplus.com^
 ||wdfl.co^
 ||wdfl.co^$third-party

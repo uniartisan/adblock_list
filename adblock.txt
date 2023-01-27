@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301260218
+! Version: 202301270237
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26201
+! Lenth = 26216
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -1509,6 +1509,7 @@ $websocket,domain=5nj.com|cechi8.com
 .co/ads/
 .co/js/ads/
 .com*/ps/psCreat.js
+.com/0gg/gg*.js
 .com/?Intr=$popup,third-party
 .com/?aff=$popup,third-party
 .com/Public/js/duileft.js
@@ -3852,6 +3853,7 @@ $websocket,domain=5nj.com|cechi8.com
 :12443/*/*-*-*.$script,third-party
 :18443/*/*-*-*.html$subdocument,third-party
 :18443/*/*-*-*.js$third-party
+:18443/ylqq/
 :2048/b.js
 :2048/jsb?
 :4443/ty/x-$script,third-party
@@ -4216,6 +4218,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||baidu.com^*&cb=BaiduSuggestion.
 @@||baixing.net/combine/*,/css/ad-
 @@||banma.com/statics/js/??
+@@||battlecats-db.com^$generichide
 @@||bbs.tgfcer.com^$generichide
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=31xiaoshuo.com|biququ.info|jingwubook.com
@@ -4684,6 +4687,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=m.twfanti.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
+@@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||panjiachen.github.io^$generichide
 @@||papalah.com^$generichide
 @@||papi-service.jd.com/ads/
@@ -9544,6 +9548,7 @@ niutuku.com##.listAD
 niutuku.com##.sideAD
 niutuku.com,sina.cn##.bannerAD
 nlc.gov.cn###lovexin12xx
+nmgk2.com,zzkdhb.com##li[style*="important"]
 nmgnews.com.cn###div_ad4
 nobugin.com##.td-a-rec
 nodejs.cn###biz_center
@@ -10739,6 +10744,7 @@ talkfx.co##.slidebox
 tangdoucdn.com#%#//scriptlet("adjust-setInterval", ".s--", "", "0.02")
 tangdoucdn.com#%#//scriptlet("set-constant", "Object.prototype.ad_switch", "0")
 tangdoucdn.com#@#.video-ad
+tangrenjie.tv##div[class$="_acmsd"] > a[target="_blank"] > img
 taobao.com###J_ActivityOut
 taobao.com###J_shopkeeper
 taobao.com###J_shopkeeper_bottom
@@ -10810,6 +10816,7 @@ thinbug.com###inktokad
 thinkphp.cn##.a6
 thmz.com###floatdivids
 thwiki.cc##.on-right > .swiper-container
+tianqi.com##.xcx_erweima
 tianshui.com.cn##td[height="420"]
 tiantianzhibo.com###sliderb_container
 tiantianzhibo.com##.apprecomm
@@ -11745,7 +11752,6 @@ zzbaike.com##.imglistbg-ad
 zzbaike.com##.imglistbg_ad
 zzbaike.com##.left > .bottom[style]
 zzbaike.com##.link2
-zzkdhb.com##li[style*="important;"]
 zzkdhb.com##p[style^="width: 100%; margin: 0px;"]
 zznews.cn#@#.ad-wrapper
 zztt24.com##.no-mask
@@ -16105,6 +16111,7 @@ zzzyk.com###Tinfo
 ||dfcfw.com/public/js/left.js
 ||dfcfw.com/tg/
 ||dfcfw.com/zndh/
+||dfdaaa12.com^
 ||dfepm.xyz^
 ||dfes68.com^
 ||dfggq.com^
@@ -16601,6 +16608,7 @@ zzzyk.com###Tinfo
 ||edison.love^
 ||edmontonchina.*/pic/
 ||edo5.com^
+||edu-30130.sz.gfp.tencent-cloud.com^*.gif
 ||edu.jiukang.org^
 ||eduad.baidu.com^
 ||educity.cn/self_text/text_disp.aspx?id=
@@ -17922,6 +17930,7 @@ zzzyk.com###Tinfo
 ||herky.com.cn^
 ||herman.ink^
 ||herogame.com^$subdocument,domain=gamer.com.tw
+||hertzbeat.cn^
 ||heshun365.cn^
 ||hexin.city^
 ||hexp.xyz^
@@ -21714,6 +21723,7 @@ zzzyk.com###Tinfo
 ||ppcwzry.cn^
 ||ppj338.cn^
 ||ppjipuk.cn^
+||ppltxv.xyz^
 ||ppshk.com^*banner/
 ||ppsj.com.cn/images/ppsj300.gif
 ||ppt100.site^
@@ -23403,6 +23413,7 @@ zzzyk.com###Tinfo
 ||tanggoushequ.xyz^
 ||tangkai.ltd^
 ||tangli.ltd^
+||tangrenjie.tv/gg/$image
 ||tangxiaodou.top^
 ||tangyaols.com^
 ||tanseb.com/vads/
@@ -24383,6 +24394,7 @@ zzzyk.com###Tinfo
 ||wbiao.cn/common/adapi/
 ||wbiao.cn/common/newsbannerAds/
 ||wbiao.co/src2/js/expand/fudong/
+||wbqosw.xyz^
 ||wbshu.com^$third-party
 ||wchh.online^
 ||wcknxoy.cn^
@@ -24451,6 +24463,7 @@ zzzyk.com###Tinfo
 ||weimeiwangluo.site^
 ||weio6nkoe.cyou^
 ||weipapa.top^
+||weiqu.cyou^
 ||weiv1fl.cn^
 ||weix.xyz^
 ||weixinhuoyuan.com^
@@ -25157,6 +25170,7 @@ zzzyk.com###Tinfo
 ||xxwd.ltd^
 ||xxzj.pro^
 ||xy98.com.cn^
+||xyblm.xyz^
 ||xygwh.cc/js/p
 ||xygwh.cc/js/x
 ||xyhfc.xyz^
@@ -25735,6 +25749,7 @@ zzzyk.com###Tinfo
 ||zantj.com/diao
 ||zasjfget.xyz^
 ||zavporn.net/images/9.gif
+||zawqwpajq.club^
 ||zb7b.top^
 ||zbcdn.net/__uvjgyw/slb.default.js
 ||zbfiupq.cn^
