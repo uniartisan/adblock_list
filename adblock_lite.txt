@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202301270237
+! Version: 202301280202
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23634
+! Lenth = 23652
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -750,6 +750,7 @@
 3dmgame.com##.dj_warp_e
 3dmgame.com##.downl_list + script + div
 3dmgame.com##.fell_left_advertisement
+3dmgame.com##.mb30.warp_f
 3dmgame.com##.modAD
 3dmgame.com##.tonglona_1
 3dmgame.com##.tonglona_2
@@ -9971,6 +9972,7 @@ zzzyk.com###Tinfo
 ||36dm.club/images/00
 ||36dm.club/images/tb
 ||36dm.club/images/top
+||36dm.club/javascripts/apsidemoot.js
 ||36dm.club/js/nu
 ||36dm.com/images/0
 ||36dm.com/images/36dm
@@ -11679,6 +11681,7 @@ zzzyk.com###Tinfo
 ||as-oss2.com^
 ||as1.m.hao123.com^
 ||as1.wenku.baidu.com^
+||asd8900.oss-*.aliyuncs.com^
 ||asdqwe.ltd^
 ||asdsdvd4.com^
 ||asf56165.xyz^
@@ -12238,6 +12241,7 @@ zzzyk.com###Tinfo
 ||bh0874.online^
 ||bh2q.fun^
 ||bhaoea.cn^
+||bharalhallahs.com^
 ||bhcwr.cn^
 ||bhicxb.cn^
 ||bhj691.com^
@@ -12426,6 +12430,7 @@ zzzyk.com###Tinfo
 ||bqtwbx.xyz^
 ||braincf.com^
 ||brand.sogou.com/micro?yyid=
+||brkxgfs.cn^
 ||brmzopt.cn^
 ||brstke.top^
 ||brysogsiv.uno^
@@ -13515,6 +13520,7 @@ zzzyk.com###Tinfo
 ||deya.ink^
 ||deyangs.com/img/
 ||deyidesign.com^
+||df-long.cn^$third-party
 ||df5b.top^
 ||df77.com^
 ||df888.eastday.com^
@@ -13564,6 +13570,7 @@ zzzyk.com###Tinfo
 ||dhyns.cn^
 ||di2y21.top/jian/jiansshu.js
 ||diamax.hk^
+||dian.brecm.xyz^
 ||dian500.com^$third-party
 ||dianchao.me^
 ||diandongchetoukui.com^
@@ -14096,6 +14103,7 @@ zzzyk.com###Tinfo
 ||eloer.cn^
 ||elomf.xyz^
 ||elsbfby.com^$popup,third-party
+||elsmom.xyz^
 ||elsynmlw.fun^
 ||elsyuulw.cam^
 ||em1g.top^
@@ -15223,6 +15231,7 @@ zzzyk.com###Tinfo
 ||haoyundm.com^
 ||haoyundmtaotao.com^
 ||hapic1.zhuangxiu22.com^
+||happi.cyou^
 ||happycastle.me^
 ||happyhongkong.com/images/client/
 ||happyhs.club^
@@ -15481,6 +15490,7 @@ zzzyk.com###Tinfo
 ||hnltcw.com^
 ||hnmucsm.cn^
 ||hnnuange.com^
+||hnrjign.cn^
 ||hnruisheng.cn^
 ||hnshangzhongxia.com^
 ||hnsyjaeger.site^
@@ -15839,6 +15849,7 @@ zzzyk.com###Tinfo
 ||ideng.com^$third-party
 ||idhorqa.cn^
 ||idkdoxp.cn^
+||idkqtaa.cn^
 ||idmee.cn^
 ||idqpawg.cn^
 ||idv.st/dns/bar.htm
@@ -16670,6 +16681,7 @@ zzzyk.com###Tinfo
 ||js.ruiwen.com^
 ||js.shangxueba.com^
 ||js.spreton.com^
+||js.tianmel.xyz^
 ||js.tlt.cn/js/
 ||js.ubaike.cn^
 ||js.union123.me^$third-party
@@ -16754,6 +16766,7 @@ zzzyk.com###Tinfo
 ||junkucm.com^
 ||junnew.com^$third-party
 ||junshizhanlue.com^$third-party
+||juntaijiancai.com^
 ||junwjwl.com^
 ||jupi.cc^*.gif
 ||juqingw.com/js/tad
@@ -17599,6 +17612,7 @@ zzzyk.com###Tinfo
 ||lovecat.online^
 ||lovek01.com/gif/97-
 ||loveshang.com/api.php?mod=ad&adid=custom_
+||lpaehxw.cn^
 ||lpasdfgwer.com^
 ||lpaysfr.cn^
 ||lpjgr.top^
@@ -19094,6 +19108,7 @@ zzzyk.com###Tinfo
 ||plkjia.top^
 ||plkmd.com^
 ||plokr.com^
+||plyuwqq.cn^
 ||pm.poqwua.cn^
 ||pm2b.top^
 ||pm8lw.xyz^
@@ -19857,6 +19872,7 @@ zzzyk.com###Tinfo
 ||rssblgb.cn^
 ||rst2.y3600.cn^
 ||rsykksw.cn^
+||rtcegcp.cn^
 ||rtkyvd.xyz^
 ||rtmtgf.xyz^
 ||rtnigaz.cyou^
@@ -22609,6 +22625,7 @@ zzzyk.com###Tinfo
 ||xzhcedu.cn^
 ||xzji.com/data/block_js/softShow_
 ||xzl200107151017.ltd^
+||xznrtl.xyz^
 ||xztms.com^
 ||xzvfd.xyz^
 ||xzwk.hk^
@@ -22637,6 +22654,7 @@ zzzyk.com###Tinfo
 ||yan007.com/js/sss/ad.js
 ||yanbenji.cn^
 ||yang123.ltd^
+||yang17.xyz^
 ||yangchunblog.club^
 ||yanghuaer.mobi^
 ||yanglangkk.cn^
