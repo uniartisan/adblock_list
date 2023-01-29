@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301280202
+! Version: 202301290235
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50966
+! Lenth = 50968
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -4972,6 +4972,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /semsocial/*/analytics.js
 /send-impressions.html
 /sendLogs?cid
+/senddata?site=inpage
 /sendmail.backerupdate.com/t/*
 /sensefuel/tracking/*
 /sensor.modern.ncl.
@@ -18931,6 +18932,7 @@ znak.com##.relap
 ||cookchalk.com^
 ||cookie-guard-erdee.ey.r.appspot.com^
 ||cookie.amerigas.com^
+||cookie.codemarketing.cloud^
 ||cookie.cynch.com^
 ||cookie.fuel451.com^
 ||cookie.myamerigas.com^

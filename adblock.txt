@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301280202
+! Version: 202301290235
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26235
+! Lenth = 26232
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -770,6 +770,7 @@
 ##.pagecon + .ad1
 ##.partialViewSlider-outerwrapper
 ##.pasuAD
+##.pc_acmsd
 ##.pcd_ad
 ##.pcgg
 ##.photo-two > a[onclick^="_czc."]
@@ -1259,6 +1260,7 @@
 ##a[href*="://4"][href*="/vod."]
 ##a[href*="://mgzs.cdn.bcebos.com/"]
 ##a[href*=":10443/"] > img[src$="gif"]
+##a[href*=":7888/?register="]
 ##a[href*="?channelCode="] > img[src*=".com"]
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
@@ -3296,7 +3298,7 @@ $websocket,domain=5nj.com|cechi8.com
 360zbz.com#@#.rightad
 365xuet.com##.cd-items
 36dm.club,36dm.com,acgsou.com##.clear.text_center
-36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href^="show-"]
+36dm.club,36dm.com,acgsou.com##a[style="color:red;"][href*="show-"]
 36dm.club,36dm.com,acgsou.com##img[width="250"][height="250"]
 36dm.club,36dm.com,acgsou.com##img[width="700"][height="60"]
 36kr.com##.home-ad-flow-banner
@@ -12551,19 +12553,7 @@ zzzyk.com###Tinfo
 ||365rich.cn/ba.aspx
 ||365xuet.com/assets/web/js/main.jsr_
 ||36dfsa.com^
-||36dm.*/images/680acgsou.gif
-||36dm.club/images/00
-||36dm.club/images/tb
-||36dm.club/images/top
 ||36dm.club/javascripts/apsidemoot.js
-||36dm.club/js/nu
-||36dm.com/images/0
-||36dm.com/images/36dm
-||36dm.com/images/l0
-||36dm.com/images/ny0
-||36dm.com/images/tb
-||36dm.com/images/top
-||36dm.com/js/nu
 ||36kr.com/pp/api/ap/plan?
 ||36pn.com^
 ||36yoo.net^
@@ -13228,6 +13218,7 @@ zzzyk.com###Tinfo
 ||7mmtv.tv/js/ad_js/
 ||7mmtv.tv/u_banner/
 ||7moor.com^$third-party
+||7nekc.icu^
 ||7pvk.xyz^
 ||7scs.com/Public/img/list-
 ||7sqa.icu^
@@ -13719,9 +13710,6 @@ zzzyk.com###Tinfo
 ||acgnz.cn/static/b.js
 ||acgnz.cn/static/i.js
 ||acgshenshicha.cn^$third-party
-||acgsou.com/images/ac
-||acgsou.com/images/tb
-||acgsou.com/images/top
 ||achicih.gitee.io^$third-party
 ||acode.b2b.cn/JS/
 ||acodes.b2b.cn^
@@ -16797,6 +16785,7 @@ zzzyk.com###Tinfo
 ||ev4f.top^
 ||evbb.xyz^
 ||everyonepiano.cn/Public/*0x
+||evunmc.xyz^
 ||ew740.cn^
 ||ewadakesw.cyou^
 ||ewmvim.xyz^
@@ -17633,6 +17622,7 @@ zzzyk.com###Tinfo
 ||guqu.net/Cooperate/
 ||gushiwen.org/getTicket.aspx
 ||gutouwang.net^
+||guuds.cyou^
 ||guyu8855.club^
 ||gv4e.top^
 ||gvqrclx.cn^
@@ -19166,6 +19156,7 @@ zzzyk.com###Tinfo
 ||jmking.cn^
 ||jmkxinfekxa.com^
 ||jmm8a.xyz^
+||jmqmbsn.cn^
 ||jmulab.cn^
 ||jmw.com.cn/m_v2/js/active.js
 ||jmwant.co^
@@ -19685,6 +19676,7 @@ zzzyk.com###Tinfo
 ||koolearn.com/v2/js/wxewm.js
 ||koolearn.com/www/subject/script/subject_form.js
 ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
+||korydwf.cn^
 ||kostool.cn/screenshot/
 ||koudaiyundong.com^$third-party
 ||koukou7.com^
@@ -21894,6 +21886,7 @@ zzzyk.com###Tinfo
 ||qdp.qidian.com^
 ||qdross.com/vip/
 ||qdsfzz.cn^
+||qdutmef.cn^
 ||qdvideo.xyz^
 ||qdwght.com^
 ||qdxrhg.com^$third-party
@@ -22608,6 +22601,7 @@ zzzyk.com###Tinfo
 ||scardetect.cn^
 ||scbt.asia^
 ||sccnn.com/SF/zt.jpg
+||scfh9.cn^
 ||schlaftabletten.cn^
 ||scibook.cn/tuiguang.
 ||sciencenet.cn/field/js/news.
@@ -23558,6 +23552,7 @@ zzzyk.com###Tinfo
 ||tiankongzudui.com^
 ||tianlans.xyz^
 ||tianmaogroup.cn^
+||tianmel.xyz^
 ||tianmenshan.top^
 ||tianmu.com/DA201
 ||tianning.xyz^
@@ -25016,6 +25011,7 @@ zzzyk.com###Tinfo
 ||xjhjtz.cn^
 ||xjjkxcg.cn^
 ||xjpphoto.com^
+||xjpsrb.xyz^
 ||xjsq.xyz^
 ||xjwrq.com^
 ||xk3b.top^
@@ -25638,6 +25634,7 @@ zzzyk.com###Tinfo
 ||yun-pdm2000.cn^
 ||yun-pdm5000.cn^
 ||yun.baidu.com/act/api/activityentry?
+||yuncaizhijia.ltd^
 ||yunchong6.cn^
 ||yundaquan.com/data/attachment/portal/
 ||yundaxue.love^
