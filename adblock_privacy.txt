@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301290235
+! Version: 202301300204
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 50968
+! Lenth = 50991
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -1773,6 +1773,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /async/stat|
 /asyncggtracking.
 /async~sentry-
+/at-composer.js
 /at.gif?
 /atapixel.js
 /atatus.js
@@ -7868,7 +7869,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aeromexico.com
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -8173,7 +8174,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||herokuapp.com/api/analytics$domain=madeincookware.com
 @@||heute.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
 @@||hhgregg.com/wcsstore/MadisonsStorefrontAssetStore/javascript/Analytics/AnalyticsTagDataObject.js
-@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|hardware.fi
+@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|findance.com|hardware.fi
 @@||highscreen.ru/bitrix/templates/highscreen/js/counters.js
 @@||hirosystems.vscode-unpkg.net/*/clarity-lsp/$domain=github.dev|vscode.dev
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
@@ -9373,6 +9374,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||wcs.naver.net/wcslog.js$domain=ciokorea.com|adpiamall.com|live.joins.com|naver.com|jbe.go.kr|privatenote.co.kr|dabangapp.com|kyobobook.co.kr
 @@||web.dev/patterns/web-vitals-$~third-party
 @@||web.snrbox.com/*?tracker=$domain=carrefourpl.snrpage.com
+@@||web.snrbox.com/rtom-proxy/rtom/configs/getPublicConfigForContext$domain=komputronik.pl
+@@||web.snrbox.com/tck/$xmlhttprequest,redirect=nooptext,domain=komputronik.pl
 @@||webapp.simplisafe.com^*/angulartics-ga.min.js$script,~third-party
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
 @@||webcenter.tiscali.it/distribuzione/_script/audience_science.js$domain=mail.tiscali.it
@@ -16239,6 +16242,7 @@ znak.com##.relap
 ||behance.net/v2/an/pv
 ||behave.noen.at^
 ||behave.sn.at^
+||behavior.tongdun.net^
 ||behavioralengine.com^$third-party
 ||beinsports.com/hitcountservice^
 ||bekannt-im-web.de^$third-party
@@ -17252,6 +17256,7 @@ znak.com##.relap
 ||carte.fleet-page.total.fr^
 ||carts.guru^$third-party
 ||cartstack.com^$third-party
+||carvecakes.com^$third-party
 ||carview.co.jp/include_api/log/
 ||carzbz.braincandy.net^
 ||carzbz.triviatoday.com^
@@ -17785,6 +17790,7 @@ znak.com##.relap
 ||clck.yandex.ru^$other
 ||cleananalytics.com^$third-party
 ||cleantalk.org/pixel/
+||clear.wallapop.com^
 ||clearbit.com/*/fingerprint
 ||clearbit.com^$third-party
 ||clearbitjs.com^$third-party
@@ -18147,6 +18153,7 @@ znak.com##.relap
 ||cloudfunctions.net/conversionEventCondition|
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
+||cloudfunctions.net/trackEvent
 ||cloudfunctions.net/trackEvent|
 ||cloudfunctions.net/vanalytics
 ||cloudhosting-business.vodafone.com^
@@ -19693,6 +19700,7 @@ znak.com##.relap
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^$rewrite=abp-resource:blank-js,domain=voici.fr
 ||d1z9vm58yath60.cloudfront.net^
+||d1zxg9iar5y3ur.cloudfront.net^
 ||d2-apps.net/*/impressions/log
 ||d2-apps.net/js/tr.js
 ||d2-apps.net^$third-party
@@ -24610,6 +24618,7 @@ znak.com##.relap
 ||firefly.daroncreative.co^
 ||firefly.maier.tech^
 ||fireworkanalytics.com^$third-party
+||firstblackphase.com^
 ||firstfrogs.com^
 ||firstfrogs.com^$third-party
 ||firstparty.alloyio.com^
@@ -30070,6 +30079,7 @@ znak.com##.relap
 ||ltnico.fnac.com^
 ||ltsveh.wetteronline.at^
 ||ltsveh.wetteronline.de^
+||ltwebstatic.com/she_dist/libs/devices/fpv2.
 ||ltwebstatic.com^*/libs/sensors/
 ||ltzpth.sephora.fr^
 ||luaqlg.blissy.com^
@@ -31130,6 +31140,7 @@ znak.com##.relap
 ||meadowlark.psynapse.no^
 ||meadowlark.tempus.im^
 ||meapk.com^
+||measlymiddle.com^$third-party
 ||measure.ameblo.jp^
 ||measure.ensighten.com^
 ||measure.jstor.org^
@@ -31255,6 +31266,7 @@ znak.com##.relap
 ||melodicminute.com^
 ||melodicminute.com^$third-party
 ||melonstube.com/js/analytics
+||meltmilk.com^
 ||members.simplicity.coop^
 ||membership.mortonarb.org^
 ||memecounter.com^$third-party
@@ -35306,8 +35318,12 @@ znak.com##.relap
 ||pop.dmglobal.com^
 ||pop.jokanime.online^
 ||popfilmeshd.net/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js
+||popin.cc/PopinService/Logs/
 ||popin.cc/conversion2.js
-||popin.cc/td_js_
+||popin.cc/iframe/piuid.html
+||popin.cc/retarget/
+||popin.cc/test/popin_img_m.js
+||popin.cc/test/popin_send_cookie_set_fail.js
 ||popin.cc^$cookie=_ss_pp_id
 ||popin.cc^$cookie=_td
 ||popin.cc^$cookie=uid
@@ -36540,6 +36556,7 @@ znak.com##.relap
 ||ressources.promoneuve.fr^
 ||rest.wildstar-online.com^
 ||restisbench.com^$third-party
+||restrainstorm.com^
 ||restrainstorm.com^$third-party
 ||resu.io/scripts/resclient.min.js
 ||resulticks.com^$third-party
@@ -38483,6 +38500,7 @@ znak.com##.relap
 ||sheego.de/request/pvp.php
 ||sheep.vesperix.io^
 ||sheeta.nrj-play.fr^
+||shein.com/image/cookieId.html
 ||shemsfm.net/ar/setStats/
 ||shemsfm.net/fr/setStats/
 ||shenghuo.xiaomi.com^
@@ -38664,6 +38682,7 @@ znak.com##.relap
 ||sitecatalysts.saisoncard.co.jp^
 ||sitecats.troweprice.com^
 ||sitecompass.com^$third-party
+||sitecounter.site^
 ||sitedataprocessing.com^
 ||sitefinity.com/collect/
 ||siteimprove.com^$third-party
@@ -44634,6 +44653,7 @@ znak.com##.relap
 ||telemetry.tradingview.com^
 ||telemetry.voxeet.com^
 ||teleport.soom.la^
+||telerama.fr/*&ptag=
 ||teletarget.ru^$third-party
 ||telize.com^$third-party
 ||teljari.is^$third-party
@@ -48103,6 +48123,7 @@ znak.com##.relap
 ||unbecomingbikes.com^
 ||unbecominghall.com^
 ||unbecominghall.com^$third-party
+||unbecominglamp.com^
 ||unblog.fr/cu.js
 ||uncmbg.timberland.de^
 ||uncn.jp^$third-party
@@ -48270,6 +48291,7 @@ znak.com##.relap
 ||urs.metacritic.com^
 ||urstats.de^$third-party
 ||urxbvw.tui.nl^
+||us-central1-markuphero.cloudfunctions.net^
 ||us-events.api.iheart.com^
 ||us-now.experian.com^
 ||us-tracking.nextdoor.com^
@@ -49181,6 +49203,7 @@ znak.com##.relap
 ||web.slimjoy.se^
 ||web.slimjoy.sk^
 ||web.snrbox.com/*?tracker=
+||web.snrbox.com/tck/$domain=komputronik.pl
 ||web.snrbox.com/tck/$xmlhttprequest,redirect=nooptext
 ||web.solesource.com^
 ||web.ssl-raw-emailvision.net.zooplus.nl^

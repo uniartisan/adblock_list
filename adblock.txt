@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202301290235
+! Version: 202301300204
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26232
+! Lenth = 26239
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -3993,7 +3993,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com
+@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share/js/*$domain=yunpanjingling.com
 @@/show_ad_$domain=wb.qq.com
@@ -5053,8 +5053,6 @@ ahtv.cn##body > table[style^="text-align:center; width:960px;"]
 ahtv.cn,duhama.tv,frdic.com,huasing.net,it168.com,qinbing.cn###ads
 ahtv.cn,sexbarss.net##.l1
 ahtv.cn,sexbarss.net##.r1
-ahuys.cc##.vddb + a
-ahuys.cc##.vddb2 + a,.vddb_qq
 ahzwx.com##script + div[style]
 aibing.cc##a[href^="https://aibing.cc/go/"]
 aibing.cc,htcui.com##.adsense
@@ -11910,7 +11908,6 @@ zzzyk.com###Tinfo
 ||1.ajiyuming.com^
 ||1.arpun.com^
 ||1.bh5.com.cn^
-||1.ccutu.com^
 ||1.cjcp.cn^
 ||1.codesdq.com^
 ||1.codezh.com^
@@ -12695,6 +12692,7 @@ zzzyk.com###Tinfo
 ||4tdbbs.cn^
 ||4vml0.cn^
 ||4wens.org^
+||5.ccutu.com^
 ||5.gzfenda.com^
 ||50039tk.com^
 ||500img.com^
@@ -13637,6 +13635,7 @@ zzzyk.com###Tinfo
 ||aa9z.cn^
 ||aaa.tumanyi.com^
 ||aaaa8.top^
+||aaaesme.cn^
 ||aaaf.info^$script
 ||aaaimg.com/images*.gif
 ||aaan.xyz^
@@ -13894,12 +13893,10 @@ zzzyk.com###Tinfo
 ||ahp9.site^
 ||ahrefa.com^
 ||ahtj365.com^
-||ahtt.cc/Runtime/js/
-||ahu.cc/Runtime/js/
 ||ahuac.com^
 ||ahuang.site^
 ||ahuano.com^
-||ahuys.cc/Runtime/js/
+||ahuys.net/Runtime/js/
 ||ahwangtao.com^
 ||ahwczn.cn^
 ||ahwiaw.xyz^
@@ -16096,6 +16093,7 @@ zzzyk.com###Tinfo
 ||df77.com^
 ||df888.eastday.com^
 ||df9377.com^$third-party
+||dfadas13.com^
 ||dfcfw.com/EMFloatFrame/
 ||dfcfw.com/js/*/emfloatmedia_
 ||dfcfw.com/js/default/left_
@@ -17084,6 +17082,7 @@ zzzyk.com###Tinfo
 ||ftdmfxq.cn^
 ||ftfnewu.cn^
 ||ftimg.net/s?z=
+||ftrtnr.xyz^
 ||fttxt.com/static/mh
 ||fu68.com^
 ||fugufeimaotui.cn^
@@ -17520,6 +17519,7 @@ zzzyk.com###Tinfo
 ||greenxiazai.com/d/js/v/
 ||gridsumdissector.cn/gs.gif?
 ||grjasq.com^
+||grndhkd.cn^
 ||grsea.cn^
 ||grtimed.com/material/*_960x110_
 ||grubfast.com^
@@ -20576,6 +20576,7 @@ zzzyk.com###Tinfo
 ||mfagqah.cn^
 ||mfav88.com/yinzi/
 ||mffdn.xyz^
+||mfwlis.xyz^
 ||mg.32r.com^
 ||mg.glwxw.net^
 ||mg.listc.cn^$third-party
@@ -20787,6 +20788,7 @@ zzzyk.com###Tinfo
 ||mrjfsc.cn^
 ||mrksys.com^
 ||mrrw.xyz^
+||mryshl.com^
 ||mrysogsix.uno^
 ||mrzhao.life^
 ||ms.cnbanbao.com^
@@ -20855,6 +20857,7 @@ zzzyk.com###Tinfo
 ||mvcat.com/sitefiles/services/cms/adv/
 ||mvcat.com/wx/follow.js
 ||mvdwq.xyz^
+||mvfrcio.cn^
 ||mvlkvth.cn^
 ||mvo.g45td.xyz^
 ||mvusq.xyz^
@@ -21246,6 +21249,7 @@ zzzyk.com###Tinfo
 ||obetxuv.cn^
 ||obgbok.com^
 ||obj9.cn^
+||obmpp.com^
 ||obnpazq.cn^
 ||ocexikc.cn^
 ||ocive.xyz^
@@ -21339,6 +21343,7 @@ zzzyk.com###Tinfo
 ||op7s.top^
 ||opalaix.cn^
 ||opapxq.com^
+||opeem.cyou^
 ||open8.cn^$third-party
 ||opengam.com^
 ||openinstall.io^$third-party
@@ -25097,6 +25102,7 @@ zzzyk.com###Tinfo
 ||xrkadslmgg.xyz^
 ||xrn8.xyz^
 ||xroqbkk.cn^
+||xryjyfb.cn^
 ||xs.houyi.baofeng.net^
 ||xs8.cn/qreport?
 ||xsafdsv.cn^
@@ -25404,6 +25410,7 @@ zzzyk.com###Tinfo
 ||yingyeping.com^
 ||yiniyiwo.org^
 ||yinlt.com^
+||yinming.online^
 ||yinmofun.com^
 ||yinoo.cn^$third-party
 ||yinshuahangyewang.mobi^
