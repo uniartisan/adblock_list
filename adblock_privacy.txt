@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202301310210
+! Version: 202302010243
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53869
+! Lenth = 53881
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -67,11 +67,11 @@ $cookie=/^wisepops/
 $cookie=/dwac_/
 $cookie=/dwanonymous_/
 $cookie=/mp_.*_mixpanel/
-$cookie=ACac2,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=ACac2,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=AMP_TOKEN
 $cookie=AnalyticsSyncHistory
-$cookie=BDh,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=BDhs,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=BDh,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=BDhs,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=BrowserId_sec
 $cookie=CN_ad_block
 $cookie=CN_xid
@@ -89,13 +89,13 @@ $cookie=IDE
 $cookie=MUIDB
 $cookie=MgidStorage
 $cookie=PUBMDCID
-$cookie=PWA_adbd,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=PWA_adbd,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=SC_ANALYTICS_GLOBAL_COOKIE
-$cookie=STabid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=STabnoid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=STac,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=STpage,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=STvisit,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=STabid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=STabnoid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=STac,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=STpage,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=STvisit,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=TAPID
 $cookie=TRADEDOUBLER
 $cookie=TestIfCookieP
@@ -103,11 +103,11 @@ $cookie=TicimaxReferer
 $cookie=TradeDoublerGUID
 $cookie=UserMatchHistory
 $cookie=VtexFingerPrint
-$cookie=WPabs,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=WPci,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=WPdp,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=WPpds,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=WPtcs2,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=WPabs,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=WPci,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=WPdp,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=WPpds,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=WPtcs2,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=__ae_uid_sess_id
 $cookie=__auc
 $cookie=__gads
@@ -162,7 +162,7 @@ $cookie=_opt_utmc
 $cookie=_parrable_id
 $cookie=_parsely_session
 $cookie=_parsely_visitor
-$cookie=_pbjs_userid_consent_data,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=_pbjs_userid_consent_data,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=_pcid
 $cookie=_pubcid
 $cookie=_tb_sess_r
@@ -194,12 +194,12 @@ $cookie=audit
 $cookie=bf_lead
 $cookie=bf_visit
 $cookie=bitmovin_analytics_uuid
-$cookie=c,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=c,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=cX_G
 $cookie=cX_LSS
 $cookie=cX_P
 $cookie=cX_S
-$cookie=camps,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=camps,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=clRequestId
 $cookie=clVisitorId
 $cookie=cqcid
@@ -281,7 +281,7 @@ $cookie=s_pltp
 $cookie=s_ppv
 $cookie=s_sq
 $cookie=s_vi
-$cookie=sa31,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=sa31,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=sbjs_current
 $cookie=sbjs_current_add
 $cookie=sbjs_first
@@ -289,8 +289,8 @@ $cookie=sbjs_first_add
 $cookie=sbjs_migrations
 $cookie=sbjs_session
 $cookie=sbjs_udata
-$cookie=sgVisitId,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
-$cookie=sgv,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=sgVisitId,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=sgv,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=siteMetrics
 $cookie=sophiTrackerid.a05e
 $cookie=sophiTrackerses.a05e
@@ -303,7 +303,7 @@ $cookie=ss_cpvisit
 $cookie=ss_cvisit
 $cookie=ss_cvr
 $cookie=ss_cvt
-$cookie=statid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=statid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=t_gid
 $cookie=taboola_fp_td_user_id
 $cookie=tb_click_param
@@ -312,7 +312,7 @@ $cookie=tqsdk_ssn
 $cookie=tqsdk_visitor
 $cookie=trackThisPage
 $cookie=trc_cookie_storage
-$cookie=ttlStatid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl
+$cookie=ttlStatid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=tuuid
 $cookie=tuuid_lu
 $cookie=uid,domain=motor.ru|quto.ru
@@ -4600,6 +4600,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /prod-client-js-logger/*
 /prod-dataroid.
 /prod/log_preprocess
+/prod/ncg/*
 /prod/ping?
 /prodtracker?
 /production/analytics.
@@ -8815,6 +8816,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||recommender.scarabresearch.com/merchants/$domain=nkd.com|stiefelparadies.de
 @@||recommender.scarabresearch.com/merchants^$domain=digikala.com
 @@||recs.richrelevance.com/rrserver/$domain=askul.co.jp
+@@||recs.richrelevance.com/rrserver/api/find/$domain=lojasrenner.com.br
 @@||recs.richrelevance.com/rrserver/p13n_generated.js$domain=bergfreunde.de
 @@||recs.richrelevance.com/rrserver/p13n_generated.js$domain=drogaraia.com.br
 @@||redbull.com/gtm.js$~third-party
@@ -8939,6 +8941,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||secure-dcr.imrworldwide.com/novms/js/*/ggcmb*.js$domain=crackle.com
 @@||secure-dcr.imrworldwide.com/novms/js/*/ggcmb*.js$domain=sonycrackle.com
 @@||secure-it.imrworldwide.com/novms/js/2/ggcmb390.js$domain=tv.liberoquotidiano.it
+@@||secure.ehc.com/design/lib/analytics/google-tag-manager/
 @@||secure.info.seek.com/b/ss/
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
 @@||secure.logmein.com/scripts/Tracking/Tracking.js$domain=logmein.com
@@ -9812,6 +9815,7 @@ returnpath.net/pixel.gif$image
 reuters.com###taboola-recirc
 reuters.com#%#//scriptlet('set-local-storage-item', 'ajs_anonymous_id', 'null')
 revv.co.in#%#(()=>{window.google_optimize={get(){}}})();
+russianbeauties.jp###secondary-column > div.text-recommend
 salesforceiq.com/t.png$image
 scarfilm.org##.footer-col-3
 screenov.eu#?#.container > div.box:-abp-has(> a[href^="https://www.liveinternet.ru/click"])
@@ -22902,6 +22906,7 @@ znak.com##.relap
 ||dloeloqua.danskespil.dk^
 ||dlqxtm.sssports.com^
 ||dls2s.appsflyer.com^
+||dlsdk.appsflyer.com^
 ||dlswbr.baidu.com/heicha/mw/abclite-*.js
 ||dlswbr.baidu.com^
 ||dlxpix.net^
@@ -28318,6 +28323,7 @@ znak.com##.relap
 ||in.unext.jp^
 ||inaftracker.com^$third-party
 ||inapps.appsflyer.com^
+||inapps.appsflyersdk.com^
 ||inaudium.com^$third-party
 ||inbound-analytics.pixlee.co^
 ||inbox.lv^*/ga.js
@@ -30733,6 +30739,7 @@ znak.com##.relap
 ||log.hitsteps.com^$third-party
 ||log.hypebeast.com^
 ||log.idnes.cz^
+||log.intellimize.co^
 ||log.invodo.com^
 ||log.isnssdk.com^
 ||log.iyunmai.com^
@@ -35512,6 +35519,8 @@ znak.com##.relap
 ||ot.obi.pl^
 ||ot.obi.si^
 ||ot.obi.sk^
+||otakufr.co^$cookie=_uc_referrer
+||otakufr.co^$cookie=session_id
 ||otclick-adv.ru^$third-party
 ||otik.de^$third-party
 ||otoshiana.com/ufo/
@@ -38372,6 +38381,7 @@ znak.com##.relap
 ||richmetrics.com^$third-party
 ||richreceipt.com^
 ||richrelevance.com/rrserver/tracking?
+||richrelevance.com^$cookie=uc
 ||richstring.com^$third-party
 ||ridestore.com^$cookie=/^google-analytics_v4__/
 ||rigelink.com^$third-party
@@ -47401,6 +47411,7 @@ znak.com##.relap
 ||timeturk.com/sayac^
 ||timetwig.com^
 ||timetwig.com^$third-party
+||timeweb.cloud^$cookie=aors_fc
 ||timinternet.it/timmobilestatic/img/*.gif?
 ||timinternet.it/timmobilestatic/jsPrivacy/gdl_function_cookie.js
 ||tinb.net^$third-party
@@ -50568,7 +50579,7 @@ znak.com##.relap
 ||twc.net/device/ovp/logger?
 ||twcount.com^$third-party
 ||twcouponcenter.com^$third-party
-||tweakers.net/*/?$image
+||tweakers.net/*/?url$image
 ||tweakers.net/*/event-tracking/
 ||tweakers.net/ajax/$ping
 ||tweakers.net/x/build/wedonttrack.
@@ -52521,6 +52532,7 @@ znak.com##.relap
 ||wsj.com/asset/amt.js
 ||wsknow.net/jssdk/track/
 ||wsmcdn.audioeye.com^
+||wsmetrics.batch.com^
 ||wspisp.net/logger.php
 ||wssgmstats.vibbo.com^
 ||wsstats.coches.net^
