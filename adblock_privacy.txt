@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302010243
+! Version: 202302020219
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53881
+! Lenth = 53897
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -108,6 +108,8 @@ $cookie=WPci,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania
 $cookie=WPdp,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=WPpds,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=WPtcs2,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=___nrbi
+$cookie=___nrbic
 $cookie=__ae_uid_sess_id
 $cookie=__auc
 $cookie=__gads
@@ -202,6 +204,7 @@ $cookie=cX_S
 $cookie=camps,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=clRequestId
 $cookie=clVisitorId
+$cookie=compass_uid
 $cookie=cqcid
 $cookie=cric_adid,domain=gazeta.pl|sport.pl|tokfm.pl
 $cookie=cric_pubid,domain=gazeta.pl|sport.pl|tokfm.pl
@@ -5113,6 +5116,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /smetrics.*/b/ss/*
 /smetrics.*/id?
 /smg_tracking/*
+/smi/fp.min.js
 /snowman.gif?p=
 /snowplow.*.js$domain=~snowplow.io
 /snowplow.js$script,third-party
@@ -7216,6 +7220,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||codicefl.shinystat.com/cgi-bin/getswf.cgi?*PolymediaShow$domain=corriereadriatico.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|leggo.it|quotidianodipuglia.it
 @@||cognition-va.bytedance.com/api/knowledge/$xmlhttprequest,domain=ads.tiktok.com
 @@||cohesionapps.com/cohesion/$script,subdocument,domain=frontier.com
+@@||cohesionapps.com/cohesion/cohesion-latest.min.js$xmlhttprequest,domain=bankrate.com
 @@||cohesionapps.com/preamp/$subdocument,xmlhttprequest,domain=frontier.com
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|goodwillfinds.com|samash.com|vitalsource.com|wilsonparking.com.au
@@ -8693,7 +8698,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ovp.piksel.tech/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
 @@||ozone.ru/assets/analytics.$script,~third-party
-@@||p.typekit.net/p.css$stylesheet,domain=browserstack.com|bungie.net|robertsspaceindustries.com
+@@||p.typekit.net/p.css$stylesheet,domain=browserstack.com|bungie.net|business.untappd.com|robertsspaceindustries.com
 @@||p11.techlab-cdn.com^$domain=wizzair.com
 @@||packagetrackr.com/api/v1/track/detecting.json$~third-party
 @@||pagure.io/static/issues_stats.js$~third-party
@@ -9348,7 +9353,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||vivocha.com^*/vivocha.js?$script,domain=kartell.com
 @@||vizio.com/resources/js/vizio-module-tracking-google-analytics.js
 @@||vlscppe.microsoft.com/fp/tags.js$domain=microsoft.com
-@@||vod.midas-i.com^$media,domain=pandora.tv
 @@||vod.olympics2010.msn.com/beacon?
 @@||vod.universalsports.com/beacon?
 @@||vodafonelimited.tt.omtrdc.net^
@@ -9410,6 +9414,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de
 @@||wikia.nocookie.net^*/AnalyticsEngine/js/analytics_prod.js
 @@||willhaben.apa.net/clientscript/xtcore.js
+@@||wipe.de/wa.js$domain=dasoertliche.de
 @@||wishpost.cn/api/tracking/
 @@||wix-dashboard.visitor-analytics.net/backoffice/restricted-demo$domain=wix.com
 @@||wix.com/_api/*count?type$~third-party
@@ -12806,6 +12811,7 @@ znak.com##.relap
 ||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
+||adblocktape.store/stat/
 ||adbmetrics.abc.es^
 ||adbmetrics.blogasturias.com^
 ||adbmetrics.canal10tv.com^
@@ -17096,6 +17102,7 @@ znak.com##.relap
 ||brille24.de/fileadmin/tracking
 ||brilliantcollector.com^$third-party
 ||bringg.actonservice.com^
+||bringmethehats.com^
 ||briskeagle.io^
 ||briskpelican.io^
 ||britepool.com^$third-party
@@ -17727,6 +17734,7 @@ znak.com##.relap
 ||cdn.contx.net/collect.js
 ||cdn.cr.org/etc/designs/electronics/clientlibs/tracking.js
 ||cdn.cubki.jp/shopping_tracker.js
+||cdn.czx5eyk0exbhwp43ya.biz^
 ||cdn.d2-apps.net/js/tr.js
 ||cdn.daenischesbettenlager.de/analytics.js
 ||cdn.ddmanager.ru^$third-party
@@ -17771,6 +17779,7 @@ znak.com##.relap
 ||cdn.panelbear.com/analytics.js
 ||cdn.pdst.fm/ping.min.js
 ||cdn.pmweb.com.br/df/tag.js
+||cdn.pranmcpkx.com^
 ||cdn.preciso.net^$third-party
 ||cdn.privacy-mgmt.com/wrapper/metrics$important
 ||cdn.raekdata.com^
@@ -17807,6 +17816,7 @@ znak.com##.relap
 ||cdn.usefathom.com^
 ||cdn.ustatik.com/vendor/metrica/watch.js
 ||cdn.webeyo.com/ipinfo|
+||cdn.wgchrrammzv.com^
 ||cdn.wootric.com/wootric-sdk.js
 ||cdn.zx-adnet.com^$third-party
 ||cdn1.edgedatg.com/aws/abc/scripts/adobe-analytics2.js
@@ -19829,6 +19839,7 @@ znak.com##.relap
 ||cts.businesswire.com^$third-party
 ||cts.vresp.com^$third-party
 ||cttracking02.com^$third-party
+||ctusolution.com^$third-party
 ||ctv.by/sites/default/files/googleanalytics/analytics.js
 ||ctwqxs.autoscout24.at^
 ||ctx.citiservi.es^
@@ -23344,6 +23355,7 @@ znak.com##.relap
 ||e.gettyimages.nl^
 ||e.gettyimages.pt^
 ||e.kc-education.com^
+||e.legalstart.fr^
 ||e.m6web.fr/events
 ||e.metarouter.io^
 ||e.nicklauschildrens.org^
@@ -25776,6 +25788,7 @@ znak.com##.relap
 ||fw.tv/embed/impressions
 ||fwix.com/ref.js
 ||fwix.com^*/trackclicks_
+||fwmrm.net^$cookie=_fwex_doubleclick.net_IDE
 ||fwpixel.com^$third-party
 ||fwvgek.supportpets.com^
 ||fxbqag.znak.com^
@@ -30258,7 +30271,6 @@ znak.com##.relap
 ||lfmhcb.sefamerve.com^
 ||lfov.net^$third-party
 ||lfqyah.pureformulas.com^
-||lg.tr.pandora.tv^
 ||lgbdxo.azazie.com^
 ||lgm.averydennison.com^
 ||lgzkzp.bauhaus.at^
@@ -30417,7 +30429,6 @@ znak.com##.relap
 ||linkedin.com/collect/
 ||linkedin.com/countserv/count/$third-party
 ||linkedin.com/emimp/
-||linkedin.com/li/track^
 ||linkedin.com/litms/utag/
 ||linkedin.com/pixel/
 ||linkedin.com/platform-telemetry/
@@ -30795,7 +30806,6 @@ znak.com##.relap
 ||log.snssdk.com^
 ||log.strm.yandex.ru^
 ||log.suumo.jp^
-||log.sv.pandora.tv^
 ||log.tagtic.cn^
 ||log.targetpush.co.kr^
 ||log.tbs.qq.com^
@@ -34424,6 +34434,7 @@ znak.com##.relap
 ||nature.com/platform/track/
 ||naukatv.ru/nauka/statistics/
 ||naukrigulf.com/ni/nibms/bms_display.php
+||navdmp.com^$cookie=nid
 ||navdmp.com^$third-party
 ||nave.foone.com.br^$third-party
 ||navegg.com^$third-party
@@ -36174,6 +36185,10 @@ znak.com##.relap
 ||pastoralcorn.com^
 ||pastoralcorn.com^$third-party
 ||pastoralroad.com^$third-party
+||patched.to^$cookie=mybb[lastactive]
+||patched.to^$cookie=mybb[lastvisit]
+||patched.to^$cookie=mybb[threadread]
+||patched.to^$cookie=sid
 ||path.autosaverinc.com^
 ||path.lifesavingsinfo.com^
 ||path.secretsavingsusa.com^
@@ -37135,7 +37150,6 @@ znak.com##.relap
 ||prism.app-us1.com^$script,third-party
 ||prism.buerokrucker.ch^
 ||prism.drivingkyoto.com^
-||prism.pandora.tv^
 ||prism.raumgleiter.com^
 ||prism.singapouring.com^
 ||prisma-tr.prismamedia.com^
@@ -37318,6 +37332,7 @@ znak.com##.relap
 ||pt.balluff.com^
 ||pt.crossmediaservices.com^
 ||pt.ispot.tv^
+||pt.legalstart.fr^
 ||ptadsrv.de^$third-party
 ||ptarmigan.goudieworks.co^
 ||ptarmigan.q-free.com^
@@ -39625,6 +39640,7 @@ znak.com##.relap
 ||sdk.airbridge.io^
 ||sdk.appbrain.com/api/
 ||sdk.conscent.in^$third-party
+||sdk.mrf.io/statics/marfeel-sdk.js
 ||sdk.qvol.tv/static/assets/vendor/yandex_metrica.js
 ||sdk.stats-locations.com^
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -50579,7 +50595,6 @@ znak.com##.relap
 ||twc.net/device/ovp/logger?
 ||twcount.com^$third-party
 ||twcouponcenter.com^$third-party
-||tweakers.net/*/?url$image
 ||tweakers.net/*/event-tracking/
 ||tweakers.net/ajax/$ping
 ||tweakers.net/x/build/wedonttrack.
@@ -53845,6 +53860,7 @@ znak.com##.relap
 ||ztgblo.vidaxl.lt^
 ||ztoash.cyberpuerta.mx^
 ||ztqnls.lojasrenner.com.br^
+||ztrack.online^
 ||ztrck.me^
 ||ztsrv.com^$third-party
 ||zucks.net^$third-party
