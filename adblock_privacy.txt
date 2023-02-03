@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302020219
+! Version: 202302030233
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53897
+! Lenth = 53905
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7392,6 +7392,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
 @@||docs.amplify.aws^*/platform/js/autotrack.json$~third-party
 @@||docs.google.com/*/viewdata$~third-party
+@@||docs.telemetry.mozilla.org^$domain=docs.telemetry.mozilla.org
 @@||doctorzerenia.com/home/bower_components/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||dodge.com.br/etc/clientlibs/wisdom/base/analytics.min.js$domain=dodge.com.br
 @@||dominos.com^*/assets/build/js/modules/dpz.tealium.js$script
@@ -8312,7 +8313,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=remoteassistance.support.services.microsoft.com
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
-@@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
+@@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||js.vpro.nl/vpro/*/statcounter.js?
 @@||jsainsbury.*.qualtrics.com/jfe/form/$subdocument
 @@||jsdelivr.net^*/keen-tracking.min.js$domain=nextquotidiano.it
@@ -9415,6 +9416,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||wikia.nocookie.net^*/AnalyticsEngine/js/analytics_prod.js
 @@||willhaben.apa.net/clientscript/xtcore.js
 @@||wipe.de/wa.js$domain=dasoertliche.de
+@@||wipe.de/wa.js$domain=dastelefonbuch.de
 @@||wishpost.cn/api/tracking/
 @@||wix-dashboard.visitor-analytics.net/backoffice/restricted-demo$domain=wix.com
 @@||wix.com/_api/*count?type$~third-party
@@ -9588,9 +9590,7 @@ bizjournals.com##.c1-ad-sticky
 bl-1.com$image
 blog.fc2.com#?#.side-menu > div.sidebar-style > script[src^="//counter1.fc2.com/"]:upward(2)
 blog.fc2.com#?#div[class$="_outline"] > div > div.plugin-counter:upward(2)
-blog.jp,vipstyle.tokyo#?#.plugin-memo > div.side > div.ninja-recommend-block:upward(2)
 blog.livedoor.jp##a[href="http://analyzer.fc2.com"]
-blog.livedoor.jp#?#.plugin-memo > div.side > div.ninja-recommend-block:upward(2)
 blogovo.ru##.metrika_sapaclick
 blogterest.net#?#.blockSide > div.blockWrapper > div > div.ninja-recommend-block:upward(2)
 bulletin.sntba.com#%#//scriptlet("set-constant", "returnCitySN", "emptyObj")
@@ -9750,6 +9750,8 @@ maxpark.com###listOfCounters
 mebelkmk.ru#%#window.yaCounter27017517 ={ reachGoal: function() {} };
 megalifez.net##img[height="40"][width="88"]
 megatorrents.kg##a[href^="http://www.net.kg/stat.php"]
+member.neofinancial.com#%#//scriptlet('set-constant', '__fpjs_p_l_b', 'emptyObj')
+member.neofinancial.com#%#//scriptlet('set-constant', '__fpjs_p_l_b.load', 'noopFunc')
 mirrormedia.mg#%#//scriptlet("set-constant", "dataLayer", "emptyArr")
 mltrk.io/pixel$image
 moeimg.net###pickup-header_frame
@@ -9774,6 +9776,7 @@ nine.com.au#%#(()=>{window.tracking={setConfig(){},trackPage(){},trackVideoAutoF
 nine.com.au#%#//scriptlet('prevent-element-src-loading', 'script', 'share.9cdn.net/share/long_cache/js/tracking/tracking')
 nlab.itmedia.co.jp##div[id^="logly-"] + div.h10px.colBoxClear
 nnmclub.ro,nnm-club.t0r.xyz,nnmclub.to#@#img[width="88"][height="31"]
+norisoku.com###random
 notonthehighstreet.com#%#//scriptlet('set-constant', 'window.DD_RUM.init', 'noopFunc')
 novate.ru#?##right > div.bordered:-abp-has(> script:contains(relap))
 novate.ru#?##right > h2:contains(Рекомендуем)
@@ -9787,6 +9790,7 @@ otekomachi.yomiuri.co.jp##.p-ads
 ouminews.net#@#img[width="88"][height="31"]
 outrch.com/api/mailings/opened$image
 overclockers.ru#%#AG_onLoad(function() { window.trackOutboundLink = window.open; });
+pachinkopachisro.com,blog.livedoor.jp,blog.jp,vipstyle.tokyo#?#.plugin-memo > div.side > div.ninja-recommend-block:upward(2)
 park.ajinomoto.co.jp##.bottomMenu
 petyado.com##.font12[height="184"]
 petyado.com##center > table[width="100%"][cellpadding="0"] + table[width="700"][cellspacing="0"][cellpadding="0"]:not([height])
@@ -25544,6 +25548,7 @@ znak.com##.relap
 ||fpctraffic2.com^$third-party
 ||fphfdx.partswarehouse.com^
 ||fpjs.io^$third-party
+||fpnpmcdn.net/v*/*/loader_*.js$script,redirect=noopjs,domain=member.neofinancial.com
 ||fpnpmcdn.net^
 ||fpptmv.mrmarvis.co.uk^
 ||fprfvt.recambioscoches.es^
@@ -27778,6 +27783,7 @@ znak.com##.relap
 ||ia.ekstrabladet.dk^
 ||iabgvi.usadosbr.com^
 ||iabusprivacy.pmc.com^
+||iad.anm.co.uk^
 ||iadvize.com/collector/
 ||iam-agof-app.irquest.com^
 ||ianimes.org/img/tracker.gif
@@ -53265,6 +53271,8 @@ znak.com##.relap
 ||xhxmhs.ounass.ae^
 ||xiaohongshu.com/api/collect
 ||xiaohongshu.com/api/v2/collect
+||xiaohongshu.com^$cookie=xhsTrackerId
+||xiaohongshu.com^$cookie=xhsTrackerId.sig
 ||xiaohuangshu.me/visit.php
 ||xiaomi.com/js/mstr.js?
 ||xing.com/collect/
