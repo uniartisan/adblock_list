@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302030233
+! Version: 202302040235
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53905
+! Lenth = 53917
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -311,6 +311,8 @@ $cookie=t_gid
 $cookie=taboola_fp_td_user_id
 $cookie=tb_click_param
 $cookie=tint-anonymous-uid,domain=leichtathletik.de
+$cookie=tmr_lvid
+$cookie=tmr_lvidTS
 $cookie=tqsdk_ssn
 $cookie=tqsdk_visitor
 $cookie=trackThisPage
@@ -6788,6 +6790,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||apc-pli.com/api/tracking/$~third-party,xmlhttprequest
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-js.datadome.co/js/$domain=sso.garena.com
+@@||api-stg.ensonhaber.com/data/ilginizi-cekebilir.json$domain=ensonhaber.com
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
 @@||api.apolomedia.com/static/libs/event-tracking.min.js$script
 @@||api.babbel.io/gamma/v1/$ping,domain=my.babbel.com
@@ -7071,7 +7074,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.optimizely.com/datafiles/*.json$domain=talktalk.co.uk
 @@||cdn.optimizely.com/datafiles/*.json/tag.js$domain=nike.com
 @@||cdn.optimizely.com/js/$domain=zdnet.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com
 @@||cdn.optimizely.com/js/*.js$domain=foxsports.com
 @@||cdn.optimizely.com/js/*.js$domain=ns.nl|compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com|olx.ua|casper.com|dubizzle.com|pullandbear.com
 @@||cdn.optimizely.com/js/*.js$domain=ruggable.com
@@ -9065,6 +9068,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||stat.safeway.com/b/ss/$image
 @@||stat.sports.ru/*.json$domain=sports.ru
 @@||stat.sputnik.ru/cnt.js$domain=krskstate.ru
+@@||stat.tiara.kakao.com/track?d=*%22%3A%22go_*%22%$domain=map.kakao.com
 @@||stat24.com/crossdomain.xml$domain=ipla.tv
 @@||statcounter.com/css/packed/statcounter-$stylesheet,~third-party
 @@||statcounter.com/js//fusioncharts.charts.js
@@ -9330,6 +9334,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||varagesale.com/assets/analytics-$script,~third-party
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vattastic.com/js/fp2/fingerprint2.min.js
+@@||vefir.mms.is^*/static/analytics.js$~third-party
 @@||verizon.com/images/track/track.gif?track=load&$xmlhttprequest
 @@||viamichelin.*/jQuery/ntpagetag.js
 @@||viamichelin.*/ntpagetag_vm.js
@@ -12754,6 +12759,7 @@ znak.com##.relap
 ||ad-srv-track.com^$third-party
 ||ad-track.jp^$third-party
 ||ad-track.paravi.jp^
+||ad-tracker-api.luizalabs.com^
 ||ad.aim-universe.co.jp^
 ||ad.aloodo.com^
 ||ad.antventure.com/pixel
@@ -18768,6 +18774,7 @@ znak.com##.relap
 ||collect.allianz.ch^
 ||collect.allianzcinema.ch^
 ||collect.allianzdriveincinema.ch^
+||collect.alphastream.io^
 ||collect.asics.com^
 ||collect.babybus.com^
 ||collect.banggood.com^
@@ -29548,6 +29555,8 @@ znak.com##.relap
 ||jscdndel.com^$third-party
 ||jscoinminer.com^
 ||jscounter.com^$third-party
+||jscrambler.com/api/statistics
+||jscrambler.com/bc.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||jscss.kdslife.com/club/html/count/PChome_Count.js
 ||jsdelivr.net/*/fp.min.js$domain=~cuevana2.io
@@ -30688,6 +30697,7 @@ znak.com##.relap
 ||log-api.aillis.net^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-collector.shopee.
+||log-gateway.zoom.us^
 ||log-hl.snssdk.com^
 ||log-ird.outbrain.com^
 ||log-live.direct.ly^
@@ -40245,6 +40255,7 @@ znak.com##.relap
 ||serie-vostfr.com^$third-party
 ||serious-partners.com^$third-party
 ||sermoncloud.com/logger/
+||serpentshampoo.com^
 ||serv-ac.com^$third-party
 ||serv.tooplay.com/analyse
 ||serv1swork.com^
@@ -44423,6 +44434,7 @@ znak.com##.relap
 ||stat.altalex.com^
 ||stat.analytiall.com^
 ||stat.api.2gis.ru^
+||stat.arzamas.academy^
 ||stat.bankiros.ru^
 ||stat.bdc.ca^
 ||stat.bill.harding.blog^
