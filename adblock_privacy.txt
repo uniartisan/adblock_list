@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302040235
+! Version: 202302050221
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53917
+! Lenth = 53927
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7600,6 +7600,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||globalnews.ca/b/ss/
 @@||globecharge.com/images/ping.gif?
 @@||gls-info.nl/Scripts/tracking.js$~third-party
+@@||gls-us.com/api/tracking/$~third-party
 @@||gminazamosc.pl/wp-content/plugins/wp-google-analytics-events/js/ga-scroll-events.js?
 @@||go.com/b/ss/$image
 @@||go.com/stat/dolwebanalytics.js
@@ -8798,6 +8799,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||prod.office.ch.locatee.com/internal/api/analytics/v1/systempropertys$~third-party,xmlhttprequest
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
+@@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
 @@||puch-ersatzteile.at^*/google-analytics.min.js
 @@||push2check.com/stats.php
 @@||pv.sohu.com/cityjson$domain=bulletin.cebpubservice.com
@@ -9630,6 +9632,7 @@ cw.com.tw#%#//scriptlet("set-constant", "qg", "noopFunc")
 cyber.dabamos.de#@#img[width="88"][height="31"]
 dealdoktor.de##img[src*="//vg09.met.vgwort.de/"]
 demae-can.com#%#//scriptlet('remove-attr', 'data-trm-action|data-trm-category|data-trm-label', '.trm_event')
+diamond.jp###main-column > article > div.main-special
 directtrack.*.js
 dizibey.com##.sidebar > #text-19
 dokonline.com###Counters
@@ -10091,6 +10094,7 @@ znak.com##.relap
 ||1to1.bbva.com^
 ||1und1.met.vgwort.de^
 ||1uwcex4qf9z.test-115.dapp.ml^
+||1worldsync.com/log?
 ||1xejnhs1zd1.staging.aporia.com^
 ||1y10lvb64mr.www.freecodecamp.dev^
 ||1ywk8ynty.benediktkick.com^
@@ -27235,6 +27239,7 @@ znak.com##.relap
 ||hello.wiziq.com^
 ||hellobar.com/ping?
 ||helloextend.com/tracking
+||helloretail.com/serve/collect/
 ||hellosherpa.com^$third-party
 ||helpcollar.com^
 ||helpgrid1.ksmobile.com^
@@ -30810,6 +30815,7 @@ znak.com##.relap
 ||log.propermessage.io^
 ||log.pvpgang.com^
 ||log.quora.com^
+||log.rabobank.nl^
 ||log.radiko.jp^
 ||log.reformal.ru^
 ||log.ren.tv^
@@ -32791,6 +32797,7 @@ znak.com##.relap
 ||metrics.bakeryinfo.co.uk^
 ||metrics.bangbros.com^
 ||metrics.bankinter.com^
+||metrics.bankmonitor.hu^
 ||metrics.barclaycardus.com^
 ||metrics.base.be^
 ||metrics.baseballsavings.com^
@@ -37457,6 +37464,7 @@ znak.com##.relap
 ||pushpushgo.com^$third-party
 ||pushspring.com^$third-party
 ||pushsquare.com/blank.gif
+||pushwize.com^$third-party
 ||pushwoosh.com^$third-party
 ||pussy.org^*.cgi?pid=
 ||pussy.org^*/track.php
@@ -38427,6 +38435,7 @@ znak.com##.relap
 ||rihappy.com.br/api/sessions?items
 ||riluwt.voxcinemas.com^
 ||rimxqx.slickdeals.net^
+||ring.staticmoly.me^
 ||ringplant.com^
 ||ringplayground.com^$third-party
 ||ringsrecord.com^
@@ -51637,6 +51646,7 @@ znak.com##.relap
 ||vstat.borderlessbd.com^
 ||vstats.co^$third-party
 ||vstats.digitaltrends.com^
+||vstats.me^
 ||vsxuu0t8okks.kvest.ee^
 ||vszucv.hallhuber.com^
 ||vt.mak.com^
