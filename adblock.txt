@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302050221
+! Version: 202302060203
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26338
+! Lenth = 26357
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -976,6 +976,7 @@
 ##a[href*=".aiyouxi31.com"]
 ##a[href*=".aiyouxi56.com"]
 ##a[href*=".app003.biz"]
+##a[href*=".app003.cc"]
 ##a[href*=".apple1818.net"]
 ##a[href*=".asada-kairyo.com/"]
 ##a[href*=".ax10a.com/"]
@@ -1179,6 +1180,7 @@
 ##a[href*="/682kg.com"]
 ##a[href*="/7267224.com/"]
 ##a[href*="/7699j.com:"]
+##a[href*="/7756ky.com:"]
 ##a[href*="/7757ky.com:"]
 ##a[href*="/7763349.com/"]
 ##a[href*="/7900y.com?"]
@@ -1203,6 +1205,7 @@
 ##a[href*="/b6314.com:"]
 ##a[href*="/bibo149.com:"]
 ##a[href*="/blfanss.com"]
+##a[href*="/bli2a.com/"]
 ##a[href*="/bucd.icu/"]
 ##a[href*="/cslpldyc.me"]
 ##a[href*="/ctyitopo17.com"]
@@ -1255,6 +1258,7 @@
 ##a[href*="/ppffj.me/"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/shishangta.cn"]
+##a[href*="/sm27z.net"]
 ##a[href*="/t4078.com:"]
 ##a[href*="/t4741.com"]
 ##a[href*="/tg.602.com/"]
@@ -1266,6 +1270,7 @@
 ##a[href*="/wns8499608.xyz"]
 ##a[href*="/x5092.com"]
 ##a[href*="/x5123.cc"]
+##a[href*="/x7458.cc"]
 ##a[href*="/xapps5.xyz"]
 ##a[href*="/xchina.fun/redirect/ad"]
 ##a[href*="/yb6277.vip"]
@@ -1447,6 +1452,7 @@
 ##script + #coupletBox
 ##script + #rbbox
 ##script + #strl
+##script + #strl + div[style]
 ##script + [id][style="width:100%;height:auto;min-height:120px;position:relative;display:block;"]
 ##script + a[href] > img[src*="lbsugc.cdn.bcebos.com"]
 ##script + a[href^="https://l.hyenadata.com/"]
@@ -3780,8 +3786,8 @@ $websocket,domain=5nj.com|cechi8.com
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com##iframe[src$="/fans/ad.php"]
-91porny.com,jiuse205.com,jiuse390.xyz##.container-fluid.p-0[class*="mb-"]
-91porny.com,jiuse205.com,jiuse390.xyz##.jsv-g1
+91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz##.container-fluid.p-0[class*="mb-"]
+91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz##.jsv-g1
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -4097,6 +4103,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||520cc.cc/api/jspopunder.
 @@||520cc.cc/jspopunder.
 @@||520cc.cc^*/ad.php
+@@||520click.com/ad.php
 @@||5278.cool^$generichide
 @@||52zy.com/gg/
 @@||58.com/adJump?adType=
@@ -4917,6 +4924,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||valf.atm.youku.com/vf?site=1&rst=mp4&
 @@||vast.btrll.com^$domain=hinet.net
 @@||video.520cc.cc/ad.php|
+@@||video.520cc.cc/ad/$script
 @@||video.520cc.cc^$generichide
 @@||vipstatic.com/img/share/blank.png
 @@||viu.com^*/tracking/
@@ -13971,6 +13979,7 @@ zzzyk.com###Tinfo
 ||airouba.com/public/js/global.js
 ||aisastore.club^
 ||aisdd.xyz^
+||aishan.shop^
 ||aishangcan.com^
 ||aisixiang.com/images/*-20
 ||aisy19.com/dm/
@@ -15136,6 +15145,7 @@ zzzyk.com###Tinfo
 ||byznb.xyz^
 ||byzt8.top^
 ||bzdiao.com/wp-content/uploads/bhOCwJfYleFC/
+||bzdntl.xyz^
 ||bzhanyy.com^*.gif
 ||bzngisyv.xyz^
 ||bzyunduan.cn^
@@ -18988,6 +18998,7 @@ zzzyk.com###Tinfo
 ||jcrb.com/ZYW$subdocument
 ||jcreje.com^
 ||jcsppgv.cn^
+||jcvty.cyou^
 ||jczzjx.com^
 ||jd-bbs.com^*/gif/
 ||jd.com/bottom/cps
@@ -20163,6 +20174,7 @@ zzzyk.com###Tinfo
 ||lkjrx.xyz^
 ||lknmnnr.xyz^
 ||lksdj.com^
+||lktmgvw.cn^
 ||lktxelg.cn^
 ||ll.gxsky.com^
 ||ll.hudong.com^
@@ -21897,6 +21909,7 @@ zzzyk.com###Tinfo
 ||pwssuj.com^
 ||pxerw.xyz^
 ||pxfeiws.cn^
+||pxrs6.cn^
 ||pxx.tnklrs.cn^$third-party
 ||py.cn/src/img/pyy/
 ||py.cn/static/images/advert/
@@ -21972,6 +21985,7 @@ zzzyk.com###Tinfo
 ||qdzyspjx.com^
 ||qectme.xyz^
 ||qeptzff.cn^
+||qerbert78.xyz^
 ||qf1d.top^
 ||qfcdgy.cn^
 ||qfgall.cn^
@@ -22067,6 +22081,7 @@ zzzyk.com###Tinfo
 ||qingtian.love^
 ||qingzhencai.net^
 ||qinhang.pro^
+||qinkuai.top^
 ||qinlingshui.com^
 ||qinlu.ink^
 ||qinongyouxuan.cn^$third-party
@@ -22129,6 +22144,7 @@ zzzyk.com###Tinfo
 ||qkobbgs.cyou^
 ||qksapp.net/gif/
 ||ql.uzuzuz.com^
+||qliiom.xyz^
 ||qling.com^$third-party
 ||qlogo.cn^$domain=250dgj.ga
 ||qlogo.cn^$domain=chichiav1.xyz
@@ -22655,6 +22671,7 @@ zzzyk.com###Tinfo
 ||sanqian.press^
 ||sanqianxingxuan.icu^
 ||sansrl.cn/mir300/attachment/portal/
+||santou20230127.live^
 ||saohu*.com/config/json/cctv.json?
 ||sapsmnb.cyou^
 ||sasadown.cn/ad/
@@ -23629,6 +23646,7 @@ zzzyk.com###Tinfo
 ||thisav.video/v3/nb/
 ||thishare.com^
 ||thlnbzi.cn^
+||thpte.cn^
 ||thraerqol.com^
 ||threzeins.com^
 ||thsrh.xyz^
@@ -24010,6 +24028,7 @@ zzzyk.com###Tinfo
 ||u26u.com^$popup,third-party
 ||u5fsqf.com^
 ||u5ree6.com^
+||u644.fun^
 ||u756fvjp.cn^
 ||u88.cn^$third-party
 ||u8hdqyug.co^
