@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202302060203
+! Version: 202302070249
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23743
+! Lenth = 23760
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -1407,7 +1407,7 @@
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
+@@/sensorsdata.$domain=fenbi.com|36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share/js/*$domain=yunpanjingling.com
 @@/show_ad_$domain=wb.qq.com
@@ -5554,6 +5554,8 @@ infoq.com##.ab_detect
 inmywordz.com,ants.tw##.acca-block
 instrument.com.cn###leftFlash
 instrument.com.cn,tool.lu##.swiper-container
+investing.com##div[class*="adBlock"]
+investing.com##div[class*="overlay_overlay"]
 ip.cn##.well > p > a
 ipcfun.com###crumb_r
 ipcfun.com###sidebar > ul > div[style]
@@ -7842,6 +7844,7 @@ sina.com.cn##.zhongce
 sina.com.cn##:not(.BigPic) > a[href*="sax.sina.com.cn/click?"]
 sina.com.cn##A[href*="/comfinanceweb."]
 sina.com.cn##A[href="https://touzi.sina.com.cn/"]
+sina.com.cn##DIV[class^="side-btns-jifen"]
 sina.com.cn##[data-info^="ad_"]
 sina.com.cn##div[class*="farmpop"]
 sina.com.cn##p + .article-video
@@ -8806,6 +8809,7 @@ xchina.co##div[style*="width: 300px;"][style*="height: 455px;"]
 xchina.co#@#.banner_ad
 xchina.fun##a[href*="/redirect/ad-"]
 xchina.fun##div[adid]
+xchina.fun#@#.banner_ad
 xclient.info###pop_business
 xcyy.tv##body > style + [id]
 xcyy.tv##body > style + [id] + img
@@ -9408,6 +9412,7 @@ zzzyk.com###Tinfo
 ||107.187.122.172^
 ||107cine.com/front/js/layer.js
 ||108.171.248.234^
+||109218er.xyz^
 ||1095.mobi^
 ||10fang.com/static/skin/tfy/layer/layer.js
 ||10gustis.xyz^
@@ -13447,6 +13452,7 @@ zzzyk.com###Tinfo
 ||darghinruskin.com^
 ||darren01.oss-cn-beijing.aliyuncs.com^
 ||darwk.com^
+||darzkrx.cn^
 ||dashet.com^
 ||daspic.top^
 ||dat1.jzjxmj.com^$third-party
@@ -13560,6 +13566,7 @@ zzzyk.com###Tinfo
 ||dftoutiao.com/dfpcitv/pcitv?type=
 ||dftoutiao.com/jrdftt/static/javascript/ad/
 ||dftoutiao.com/ssp/
+||dfvvx58.com^
 ||dfwskw7.com^
 ||dfzv25.com^
 ||dgaoz.com^
@@ -13882,6 +13889,7 @@ zzzyk.com###Tinfo
 ||dvaxyqp.cn^
 ||dvmsmm.cn^
 ||dvr8.com^
+||dvrnszf.cn^
 ||dvs.china.com^
 ||dvser.china.com^
 ||dvvnhwm.cn^
@@ -14618,6 +14626,7 @@ zzzyk.com###Tinfo
 ||g1.taijuba.com^
 ||g1c5.com^
 ||g1f5.com^
+||g2qb.top^
 ||g3f3.com/love/
 ||g3user.com^$third-party
 ||g9o.cn^
@@ -16205,6 +16214,7 @@ zzzyk.com###Tinfo
 ||isso.com.cn^*/A-D/
 ||istcg.com^$third-party
 ||istreamsche.com^$third-party
+||isuiguk.cn^
 ||iswgnn.com^
 ||it028.net.cn^
 ||it165.net/index.php?m=poster&
@@ -16576,6 +16586,7 @@ zzzyk.com###Tinfo
 ||jiyingdm.com/js/loadingshow.html
 ||jiyuanzhiwensuo.cn^
 ||jizy.cn^*/ysshare?
+||jjfopb.xyz^
 ||jjj*.com/static/js/common.js
 ||jjjgame.com/images/ad11.jpg
 ||jjwxc.net/adsmanage.
@@ -18699,6 +18710,7 @@ zzzyk.com###Tinfo
 ||o1.jyjyj.cn^
 ||o2vcb5uw.site^
 ||o6rc.xyz^
+||o87mnf.xyz^
 ||oa-panther.data.aliyun.com^$third-party
 ||oa.hinews.cn/work/img/
 ||oaepnba.cn^
@@ -18797,6 +18809,7 @@ zzzyk.com###Tinfo
 ||oniekg.top^
 ||onx8.com/theme/tange/add/
 ||onx8.com/zb_users/theme/ydgreen/style/ad/
+||oocie.cn^
 ||oodcd.cn/pan/config/ad.json
 ||oodcd.cn/pan/config/copy.
 ||oodcd.cn/pan/config/history.
@@ -19680,6 +19693,7 @@ zzzyk.com###Tinfo
 ||quxiangkeji.cn^$third-party
 ||qvbwras.cn^
 ||qvfkiwf.cn^
+||qvkjkc.xyz^
 ||qvpublish.com^
 ||qvqcfau.cn^
 ||qvxhgni.cn^
@@ -19926,6 +19940,7 @@ zzzyk.com###Tinfo
 ||rscxwmj.cn^
 ||rsdkk26.xyz^
 ||rsdown.cn/statics/images/rs-banner.jpg
+||rsmdlk.cn^
 ||rsnignsz.xyz^
 ||rsnoownmz.fun^
 ||rss9f.top^
@@ -21959,6 +21974,7 @@ zzzyk.com###Tinfo
 ||weicang.me^
 ||weicun.xyz^
 ||weidianyuedu.com^$third-party
+||weieo.cyou^
 ||weifengi.xyz^
 ||weige666.asia^
 ||weiguanwang888.com^
@@ -23424,6 +23440,7 @@ zzzyk.com###Tinfo
 ||zhiqi.pub^
 ||zhiqingchun.top^
 ||zhisuyunonline.cn^
+||zhiwan.club^
 ||zhixiuchang.com^
 ||zhiyoo.com/mplus/images/banner.jpg
 ||zhizhizhizhi.oss-*.aliyuncs.com^
