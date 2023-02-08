@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302070249
+! Version: 202302080252
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51505
+! Lenth = 51511
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -8481,6 +8481,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mealty.ru/js/ga_events.js$~third-party
 @@||mec.ca/media/javascript/resxclsx.js
 @@||media-imdb.com^*/clickstream.js
+@@||media.aws.alkomprar.com/resources/assets/alkosto/_ui/responsive/common/js/modules/algolia/widgets/analytics.js$domain=alkosto.com
 @@||media.bnd.com/mistats/finalizestats.js
 @@||media.bnd.com/mistats/micb.js
 @@||media.bnd.com/mistats/products/escenic_s_code.js
@@ -9568,6 +9569,7 @@ _wiselog_
 _xiti_js-
 abp?type=js&session$domain=prosieben.de|sat1.de|kabeleins.de|sixx.de|prosiebenmaxx.de
 accountkiller.com#%#window.ga = function(){var a = arguments[5];a&&a.hitCallback&&a.hitCallback();}
+adseek.site#$##primary { display: block !important; }
 aena.es#%#//scriptlet("set-constant", "window.digitalChange", "noopFunc")
 agronews.com##a[alt="Яндекс.Метрика"]
 alternative.me,justjaredjr.com,r-graph-gallery.com#%#//scriptlet('remove-attr', 'onclick', 'a[href][onclick*="getOutboundLink"]')
@@ -27393,6 +27395,7 @@ znak.com##.relap
 ||iheart.com/events
 ||iherb.com/VtidNbtC/init.js
 ||ihfwer.aboutyou.com^
+||ihg.com/logging/
 ||ihgfdc.miu-star.com.tw^
 ||ihmnnz.flo.com.tr^
 ||iiajtl.zeit.de^
@@ -29229,6 +29232,7 @@ znak.com##.relap
 ||lastpass.com/m.php/proxy_tracker
 ||latam.thomsonreuters.com^
 ||latest.azureultra.com^
+||latestly.com^$cookie=personalization_id
 ||latimes.activate.ensighten.com^
 ||laughablecopper.com^
 ||laughablecopper.com^$third-party
@@ -36548,6 +36552,7 @@ znak.com##.relap
 ||reg.informationweek.com^
 ||reg.interop.com^
 ||reg.nojitter.com^
+||region1.analytics.google.com^$third-party
 ||regist.fotoable.net/regist/
 ||register.appsflyer.com^
 ||register.dnv.com^
@@ -43466,7 +43471,6 @@ znak.com##.relap
 ||stats.video.search.yahoo.com^
 ||stats.videodelivery.net^
 ||stats.videoseyred.in^
-||stats.videoseyredin.net^
 ||stats.vidyome.com^
 ||stats.viqeo.tv^
 ||stats.visions.ch^
@@ -43991,6 +43995,7 @@ znak.com##.relap
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/w$third-party
 ||svcs.ebay.com/delstats/imp/rtm
+||sve.online.sberbank.ru/metrics/partners
 ||svi.online.sberbank.ru^
 ||svibeacon.onezapp.com^
 ||svmarketing.destinationtoronto.com^
@@ -49234,6 +49239,7 @@ znak.com##.relap
 ||visma.e-conomic.com^
 ||visma.e-conomic.dk^
 ||vismaturva.visma.fi^
+||visor.sberbank.ru/get
 ||visor.sberbank.ru^
 ||visto1.net^$third-party
 ||visual.ly/track.php?
