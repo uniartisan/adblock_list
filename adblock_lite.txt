@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202302080252
+! Version: 202302090217
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23245
+! Lenth = 23264
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -2114,7 +2114,6 @@
 @@||pchomepay.com.tw/share/js/
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
-@@||pgcm58.com/files/h5/app.js
 @@||photopea.com/ads.js
 @@||piaotian.com/scripts/readindex/tongji.js
 @@||piaotian5www.cdn.bcebos.com^$script,domain=piaotian5.net
@@ -2163,6 +2162,7 @@
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||renfei.net^$generichide
 @@||right.com.cn/forum/*300*250$image
+@@||rltdxt.com/files/h5/app.js
 @@||rm.sina.com.cn/minisite/*/css/art_normal.css$domain=client.sina.cn
 @@||rmdown.com/ads.js
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
@@ -8996,7 +8996,8 @@ youku.com##.pop-prompt-box
 youku.com##.videolist_s_body > div.common_container > div[id^="ab_"]
 youku.com##div[data-adext]
 youku.com##div[name="m_pos"] > #FullPromotion
-youku.com#%#//scriptlet("adjust-setTimeout", "r--", "", "0.02")
+youku.com#%#//scriptlet('adjust-setTimeout', 'e-', '', '0.02')
+youku.com#%#//scriptlet('adjust-setTimeout', 'r--', '', '0.02')
 youmelive.com###b2-widget-html-2
 youneed.win#%#//scriptlet("abort-on-property-read", "daau_app")
 youranshare.com#%#//scriptlet("abort-current-inline-script", "$", "adskilltest")
@@ -9795,6 +9796,7 @@ zzzyk.com###Tinfo
 ||293870.com^
 ||29525187.com^
 ||297892531.com^
+||2982a.com^
 ||29873398.com^
 ||2999.store^
 ||29spp.com/js/tj.js
@@ -10854,6 +10856,7 @@ zzzyk.com###Tinfo
 ||99zuowen.com^$third-party
 ||99zuowen.com^*/gg.js
 ||9as3.xyz^
+||9bph.top^
 ||9cgms.xyz^
 ||9duw.com/js/sj
 ||9duw.com/pic/
@@ -12161,6 +12164,7 @@ zzzyk.com###Tinfo
 ||bhj691.com^
 ||bhj699.com^
 ||bhny.asia^
+||bhpprfk.cn^
 ||bhsvlym.cn^
 ||bhujiwwb.top^
 ||bhxgvvk.cn^
@@ -13747,6 +13751,7 @@ zzzyk.com###Tinfo
 ||duyixpy.top^
 ||dvaimso.cn^
 ||dvaxyqp.cn^
+||dvbuxcl.cn^
 ||dvmsmm.cn^
 ||dvr8.com^
 ||dvrnszf.cn^
@@ -14322,6 +14327,7 @@ zzzyk.com###Tinfo
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmzcdvx.cn^
 ||fmzxing.pw^
+||fnkio.cyou^
 ||fo.iphonevip.cn^$third-party
 ||fobshanghai.com/bbsad/
 ||focusonus.top^
@@ -15264,6 +15270,7 @@ zzzyk.com###Tinfo
 ||hikari.website^
 ||hinet.net/product/promotion/$popup
 ||hinet.net/radio/getAdcode.do
+||hiqrnyn.cn^
 ||hisnote.cc^$third-party
 ||histock.tw/ad/
 ||hitime5.com/skin/css/*.js
@@ -15319,6 +15326,7 @@ zzzyk.com###Tinfo
 ||hmyangshengji.com^
 ||hnasd.com^
 ||hnbhrt.xyz^
+||hndhas.com^
 ||hndshop.cn^
 ||hnfxty.cn^
 ||hngezj.com^
@@ -16650,6 +16658,7 @@ zzzyk.com###Tinfo
 ||k2215.cn^
 ||k2n0f.cn^$third-party
 ||k31bpzf.xyz^
+||k34jj.xyz^
 ||k366.com/images/smxs^
 ||k3851.com^$third-party
 ||k3gy2.xyz^
@@ -16872,6 +16881,7 @@ zzzyk.com###Tinfo
 ||knmnamr.cn^
 ||knmwrkw.xyz^
 ||knowmore.cc/style/head.js
+||knr1.xyz^
 ||knyjes.xyz^
 ||koatkm.xyz^
 ||kocpc.com.tw/adsbyso.js
@@ -17504,6 +17514,7 @@ zzzyk.com###Tinfo
 ||lyjz001.com^
 ||lylfj.cn^
 ||lylifa.com^
+||lymtreg.cn^
 ||lynr.com^
 ||lyrfyti.cn^
 ||lysq.com/data/attachment/portal/
@@ -18353,6 +18364,7 @@ zzzyk.com###Tinfo
 ||ntwaafv.cn^
 ||ntxiru.com^
 ||ntyrt.top^
+||nuiekka.cn^
 ||nujian.asia^
 ||nulltm.com/adv.js
 ||numnxwvv.ink^
@@ -18380,6 +18392,7 @@ zzzyk.com###Tinfo
 ||nxl791.com^
 ||nxlidc.ink^
 ||nxwly.com^
+||nxxyjn.com^
 ||nxyerol.cn^
 ||ny5159.com^$third-party
 ||nyaa.*/static/js/ccheck.js
@@ -18738,7 +18751,6 @@ zzzyk.com###Tinfo
 ||pfskzj.cn^
 ||pg-ad-b1.nosdn.127.net^
 ||pg88cdn.com^
-||pgcm58.com/files/h5/
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pgl7.cn^
 ||pgpkrrk.cn^
@@ -19438,6 +19450,7 @@ zzzyk.com###Tinfo
 ||rcyl-uni.com^
 ||rdance.cn^
 ||rdbd.xsread.com^
+||rdjnjz.xyz^
 ||rdoybkd.cn^
 ||rdsmod.cc^
 ||rdsvsh.com^
@@ -19546,6 +19559,7 @@ zzzyk.com###Tinfo
 ||rlojitu.xyz^
 ||rlsynmlz.fun^
 ||rlsyuulz.cam^
+||rltdxt.com/files/h5/
 ||rm4b.top^
 ||rmbsmxz.cn^
 ||rmgmggg.cn^
@@ -19779,6 +19793,7 @@ zzzyk.com###Tinfo
 ||sdd.hi1718.com^
 ||sdfafds6.com^
 ||sdfjtwp.com^
+||sdfxv57.com^
 ||sdgmyj.cn^
 ||sdhjqz.com^
 ||sdhongjia.com^
@@ -19907,6 +19922,7 @@ zzzyk.com###Tinfo
 ||shihuo.cn/alibtn_
 ||shijiezhidao.com^
 ||shijixinrui.cn^
+||shikongbb.com^
 ||shili.downxia.com^
 ||shili.wanyx.com^
 ||shilian168.cn^$third-party
@@ -22260,6 +22276,7 @@ zzzyk.com###Tinfo
 ||xxkacrc.cn^
 ||xxl.bt-xd.com^$third-party
 ||xxooos.com/mm/
+||xxp123.live^
 ||xxrsxs.cn^
 ||xxsmcps.com^
 ||xxvkwuk.cn^
@@ -22350,6 +22367,7 @@ zzzyk.com###Tinfo
 ||yaseok.com/uploads/20*.gif
 ||yatemy.cn^
 ||ybayck.xyz^
+||ybfljs.com^
 ||ybgo.xyz^
 ||ybhypt.com^
 ||ybkjap.com^
@@ -22610,6 +22628,7 @@ zzzyk.com###Tinfo
 ||yp868.com/js/54h/
 ||yping.online^
 ||ypmob.com^
+||ypoiea.xyz^
 ||ypojie.com/wp-content/uploads/*.js
 ||yptqys.tianqistatic.com^
 ||ypuicbs.cn^

@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302080252
+! Version: 202302090217
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51511
+! Lenth = 51515
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -294,6 +294,8 @@ $cookie=sbjs_session
 $cookie=sbjs_udata
 $cookie=sgVisitId,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=sgv,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
+$cookie=sharedId
+$cookie=sharedid
 $cookie=siteMetrics
 $cookie=sophiTrackerid.a05e
 $cookie=sophiTrackerses.a05e
@@ -7537,7 +7539,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||gaanacdn.com/*_social_tracking.js$domain=gaana.com
 @@||gahu.hit.gemius.pl/gplayer.js$domain=mafab.hu
-@@||galt.hit.gemius.pl/gplayer.js$domain=lrt.lt
 @@||game-tsutaya.tsite.jp/pc/common/scripts/analytics/s_code_ggame.js
 @@||gameplayer.io^*/EventTracker.js
 @@||gamerch.com/s3-assets/library/js/fingerprint2.min.js
@@ -8943,6 +8944,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||scripts.neemu.com/casasbahia/neemu-autocomplete.css$domain=casasbahia.com.br
 @@||scripts.neemu.com/casasbahia/neemu_plugin.js$domain=casasbahia.com.br
 @@||scv.band.us/jackpotlog/*/logs$domain=m.cafe.naver.com
+@@||sdk.privacy-center.org^$domain=recup.paylib.fr
 @@||se.monetate.net/js/*/custom.js$domain=debenhams.com
 @@||se.monetate.net/js/*/entry.js$domain=debenhams.com
 @@||se.visilabs.net/Target.js$domain=boyner.com.tr
@@ -26387,7 +26389,6 @@ znak.com##.relap
 ||gpr.hu^$third-party
 ||gpxion.weidezaun.info^
 ||gpzhcc.lapeyre.fr^
-||gq.com^$cookie=/^CN_/
 ||gqhfjr.sizeofficial.es^
 ||gqjppj.rentcafe.com.cdn.cloudflare.net^
 ||gqjppj.rentcafe.com^
@@ -33601,6 +33602,7 @@ znak.com##.relap
 ||odc.1und1.de^
 ||odjdpy.jobware.de^
 ||odnaknopka.ru/stat.js
+||odnoklassniki.ru/dk?cmd=videoStatNew
 ||odoscope.cloud^$third-party
 ||odoscope.com^$third-party
 ||odysee.com/api/v1/metric/
@@ -38923,10 +38925,9 @@ znak.com##.relap
 ||skypack.dev/@amplitude/
 ||skyrock.net/stats/
 ||skysa.com/tracker/
+||skyscanner.*/*/collector
+||skyscanner.*/*/metrics/
 ||skyscanner.*/slipstream/view
-||skyscanner.com.br/*/collector
-||skyscanner.com.tr/*/collector
-||skyscanner.com.tr/*/metrics/
 ||sl-ct5.com^$third-party
 ||sl-h-statistics-ch-1.storeland.ru^
 ||slack-edge.com/bv1-10/slack_beacon.
@@ -45460,6 +45461,7 @@ znak.com##.relap
 ||tm.jsuol.com.br^
 ||tm.jsuol.com.br^$third-party
 ||tm.msgs.jp^$third-party
+||tm.swp.de^
 ||tm.tradetracker.net^
 ||tm.uol.com.br^
 ||tm.urssaf.fr^
@@ -47083,6 +47085,7 @@ znak.com##.relap
 ||track.swoleaf.com^
 ||track.t-twocollectives.com^
 ||track.tagesanzeiger.ch/cre*/static/tracking^
+||track.tappx.com^
 ||track.tcppu.com^
 ||track.td3x.com^
 ||track.techadorestrabajosempresa.com^
@@ -47242,6 +47245,7 @@ znak.com##.relap
 ||tracker.durasite.net^
 ||tracker.euroweb.net^
 ||tracker.fengkongcloud.com^
+||tracker.files.fm^
 ||tracker.financialcontent.com^
 ||tracker.giftd.ru^
 ||tracker.gleanview.com^
