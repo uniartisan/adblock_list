@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302090217
+! Version: 202302100220
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51515
+! Lenth = 51524
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -9641,7 +9641,6 @@ directtrack.*.js
 dizibey.com##.sidebar > #text-19
 dokonline.com###Counters
 dokonline.com###Counters + div[class="block"]
-donnerwetter.de#?#.col-xs-12 > div.block.prepend-top[-ext-has='> div.blocktitle-brand > h2 > span.blocktitle-brand:contains(weitere Wetter-Nachrichten)']
 dreamprogs.net##td[width="88"][height="31"]
 dripemail2$image
 drive2.ru##.js-page > * > .dv-post-header > [class] > [class] > [id] > [class][id]
@@ -9718,7 +9717,6 @@ jiji.com##.RecommendUnderlayer
 jin115.com#?#.plugin-memo > div.side > script[src*="ziyu.net/"]:upward(2)
 jisin.jp#?##main-articles > section.post-group > div[data-gmoad]:upward(1)
 jolie.de/sites/default/files/google_tag/google_tag_manager/google_tag.script.js
-journal-plaza.net#?#.rightside div.block.bnavi[-ext-has="h3.dtitle:contains(Счетчик)"]
 kanobu.ru##a[href^="https://www.liveinternet.ru/click"]
 kartell.com#%#//scriptlet('prevent-element-src-loading', 'script', 'vivocha.js')
 kerch.com.ru,kerch.net##a[href^="http://www.kerch.net/counter/"]
@@ -9734,7 +9732,6 @@ kuow.org#?#.story-content-wrapper > div.embed_block:-abp-has(> script:contains(w
 kuruma-news.jp##.recommend-container
 laprovence.com#%#//scriptlet("set-constant", "refresh_xiti", "noopFunc")
 laprovence.com#%#//scriptlet("set-constant", "xt_click", "noopFunc")
-latino-serialo.tv#?##sidebar-left > div.block[-ext-has="> div.box > h2:contains(Счетчик)"]
 launchbit.com/taz-pixel$image
 lcwaikiki.com#%#//scriptlet("set-constant", "dataLayer", "emptyArr")
 ldblog.jp#?#.plugin-memo > div.side > a[href$="ziyu.net/"]:upward(2)
@@ -9765,6 +9762,7 @@ megalifez.net##img[height="40"][width="88"]
 megatorrents.kg##a[href^="http://www.net.kg/stat.php"]
 member.neofinancial.com#%#//scriptlet('set-constant', '__fpjs_p_l_b', 'emptyObj')
 member.neofinancial.com#%#//scriptlet('set-constant', '__fpjs_p_l_b.load', 'noopFunc')
+mesyuu.com#?#div[class$="_outline"] > div > div.plugin-freearea > div.ninja-recommend-block:upward(3)
 mirrormedia.mg#%#//scriptlet("set-constant", "dataLayer", "emptyArr")
 mltrk.io/pixel$image
 moeimg.net###pickup-header_frame
@@ -9906,7 +9904,6 @@ vesti-ua.net,udaff.com##.counters
 via.intercom.io/o$image
 vidak.icu,pb.wtf,piratbit.*##a[href="//www.liveinternet.ru/click"]
 viva.ua##.footer-counters
-vol.az#?##footer > .column-one-fourth[-ext-has=".line > span:contains(Sayğac)"]
 vse42.ru##.ya-metrika
 vulture.com##div[data-uri="www.vulture.com/_components/clay-space/instances/taboola@published"]
 w-kino.ru,kinotochka.club,legend.az##.counts
@@ -26682,6 +26679,7 @@ znak.com##.relap
 ||hbfpvm.comolib.com^
 ||hbo.com/events/
 ||hbo5.concours-pass.com^
+||hbwrapper.com^$third-party
 ||hbx.df-srv.de^
 ||hby7.destinia.it^
 ||hc-analytics.idp.clogin.att.com^
@@ -28403,6 +28401,8 @@ znak.com##.relap
 ||ir.ebaystatic.com/rs/c/makeebayfasterscript-src-scripts-logger-cbdc5549.js
 ||iraiser.eu/analytics.js
 ||irecommend.ru/collect/
+||irishtimes.com^$cookie=blaize_session
+||irishtimes.com^$cookie=blaize_tracking_id
 ||iro.iperceptions.com^
 ||ironbeast.io^$third-party
 ||irqewz.vilebrequin.com^
@@ -29899,7 +29899,6 @@ znak.com##.relap
 ||log.nordot.jp^
 ||log.nordot.jp^$xmlhttprequest
 ||log.nordot.jp^$~script
-||log.ohmynews.com^
 ||log.ohou.se^
 ||log.olark.com^
 ||log.outbrain.com^
@@ -29936,6 +29935,7 @@ znak.com##.relap
 ||log.tf.co.kr^
 ||log.tiktokv.com^
 ||log.tpns.tencent.com^
+||log.trackingio.com^
 ||log.ttbc-hcm.gov.vn^
 ||log.umsns.com^
 ||log.vava.com^
@@ -30358,6 +30358,7 @@ znak.com##.relap
 ||magacin.tns-gallup.dk^
 ||maggieeatstheangel.com^
 ||magicaljoin.com^
+||magicaljoin.com^$third-party
 ||magicalmonth.com^
 ||magicpixel.io^$third-party
 ||magiq.com^$third-party
@@ -31426,6 +31427,7 @@ znak.com##.relap
 ||metaffiliation.com^*^mclic=
 ||metalyzer.com^$third-party
 ||metaprom.ru/top100/counter.php
+||metarouter.io^$third-party
 ||metaversn.site^
 ||metaversn.site^$third-party
 ||metcon.hulu.com^
@@ -33656,6 +33658,8 @@ znak.com##.relap
 ||ohcohz.stroeerdp.de^
 ||ohjrxj.personalizationmall.com^
 ||ohm-dot-hackster-io.appspot.com^
+||ohmynews.com/NWS_Web/Common/JS/GoogleAnalytics
+||ohmynews.com/NWS_Web/Common/JS/TagManage
 ||ohmystats.com^$third-party
 ||ohnorobot.com/verify.pl?
 ||ohrdit.kfzteile24.de^
@@ -37512,6 +37516,7 @@ znak.com##.relap
 ||sales.avis.com^
 ||sales.bestelectronic.de^
 ||sales.disneylandparis.com^
+||salescs.com/liveagent/scripts/track.js
 ||salesforce.com/sfga.js
 ||salesgenius.com^$third-party
 ||salesloft.com/sl.js
@@ -42457,6 +42462,7 @@ znak.com##.relap
 ||stat.4u.pl^
 ||stat.4u.pl^$third-party
 ||stat.5-tv.ru^
+||stat.absolutist.com^
 ||stat.acca.it^
 ||stat.adguard.com^
 ||stat.adultium.com^
@@ -44539,6 +44545,7 @@ znak.com##.relap
 ||ta.sbird.xyz^$third-party
 ||ta.taxslayer.com^
 ||ta.trs.cn^
+||tabi.chunichi.co.jp/js/analyticstracking.js
 ||taboola.com.cn^$third-party
 ||taboola.com/?uid=
 ||taboola.com/libtrc/
@@ -48340,6 +48347,7 @@ znak.com##.relap
 ||tulip18.com^$third-party
 ||tumblebirds.com^
 ||tumblebirds.com^$third-party
+||tumbleicicle.com^
 ||tumblr.com/analytics.html?
 ||tumblr.com/impixu?
 ||tumblr.com/pop/js/modern/sentry-
@@ -49789,6 +49797,7 @@ znak.com##.relap
 ||webcounter.co.za^$third-party
 ||webcounter.goweb.de^
 ||webcounter.ws^$third-party
+||webd.home.news.cn/1.gif?
 ||webdashboard.net.zooplus.com^
 ||webdissector.com^$third-party
 ||webdock.io^$cookie=Webdock-Internal-Ad-Tracker
