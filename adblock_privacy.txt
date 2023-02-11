@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302100220
+! Version: 202302110216
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51524
+! Lenth = 51531
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -4297,6 +4297,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /other-analitycs/*
 /otlp/traces
 /ouibounce.min.js
+/outLoging.js
+/outLoging2.js
 /outbrainClientPixels.
 /output-stats-
 /ovstats.
@@ -6803,6 +6805,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.cxense.com/persisted/execute$domain=nippon.com
 @@||api.cxense.com/persisted/execute$script,domain=nippon.com
 @@||api.cxense.com/public/widget/$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
+@@||api.cxense.com/public/widget/$domain=cdn.cxpublic.com
 @@||api.cxense.com/public/widget/$domain=nippon.com
 @@||api.cxense.com/public/widget/$domain=president.jp
 @@||api.cxense.com/public/widget/$domain=tn.com.ar
@@ -7043,6 +7046,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.cxense.com/cx.cce.js$domain=president.jp
 @@||cdn.cxense.com/cx.cce.js$domain=wsj.com
 @@||cdn.cxense.com/cx.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
+@@||cdn.cxense.com/cx.js$domain=cdn.cxpublic.com
 @@||cdn.cxense.com/cx.js$domain=dhnet.be
 @@||cdn.cxense.com/cx.js$domain=itmedia.co.jp
 @@||cdn.cxense.com/cx.js$domain=journaldemontreal.com
@@ -7634,7 +7638,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js$domain=cheatengine.org
 @@||google-analytics.com/analytics.js$domain=chess24.com
 @@||google-analytics.com/analytics.js$domain=chocotv.com.tw
-@@||google-analytics.com/analytics.js$domain=chowhound.com
 @@||google-analytics.com/analytics.js$domain=citethisforme.com
 @@||google-analytics.com/analytics.js$domain=cmoa.jp
 @@||google-analytics.com/analytics.js$domain=code.tutsplus.com
@@ -7865,7 +7868,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$domain=zf1.tohoku-epco.co.jp
 @@||googletagmanager.com/gtag/js$script,domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|devclass.com|ejgiftcards.com|herculesstands.com|honeystinger.com|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com|virginplus.ca|winefolly.com
-@@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp|nihontsushin.com|zf1.tohoku-epco.co.jp
+@@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp|game.anymanager.io|nihontsushin.com|zf1.tohoku-epco.co.jp
+@@||googletagmanager.com/gtag/js$script,domain=game.anymanager.io
 @@||googletagmanager.com/gtag/js$script,domain=hostingvergelijker.nl
 @@||googletagmanager.com/gtag/js$script,domain=modehasen.de
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
@@ -8154,6 +8158,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js^$domain=tn.com.ar
 @@||googletagmanager.com^$domain=addons.opera.com
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com
+@@||googletagservices.com/tag/js/gpt.js$domain=fukuishimbun.co.jp
 @@||googletagservices.com/tag/js/gpt.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||googletagservices.com/tag/js/gpt.js$domain=imgur.com
 @@||googletagservices.com/tag/js/gpt.js$domain=news.tvb.com
@@ -8904,6 +8909,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||sbg.hit.gemius.pl/gplayer.js$domain=play.nova.bg
 @@||sc.omtrdc.net^$domain=cibc.com
 @@||scdn.cxense.com/cx.cce.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
+@@||scdn.cxense.com/cx.cce.js$domain=cdn.cxpublic.com
 @@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
@@ -8941,8 +8947,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
 @@||script.ownpage.fr/v1/ownpage.js?$script,domain=lci.fr
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
-@@||scripts.neemu.com/casasbahia/neemu-autocomplete.css$domain=casasbahia.com.br
-@@||scripts.neemu.com/casasbahia/neemu_plugin.js$domain=casasbahia.com.br
 @@||scv.band.us/jackpotlog/*/logs$domain=m.cafe.naver.com
 @@||sdk.privacy-center.org^$domain=recup.paylib.fr
 @@||se.monetate.net/js/*/custom.js$domain=debenhams.com
@@ -9195,6 +9199,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||tc.bankofamerica.com/c?
 @@||tccrestify-dot-tcc-cloud.appspot.com/tracking/$domain=tcc.com.co
 @@||tchibo.de^*/webtrekk_$xmlhttprequest
+@@||tealium.cbsnews.com/site/prod/utag.js$domain=cbsnews.com
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||technical-service.net/api?$domain=n-tv.de|vip.de|rtl.de
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de|rtl.de|vip.de
@@ -12744,6 +12749,7 @@ znak.com##.relap
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
 ||adblocktape.store/stat/
+||adblocktape.wiki/stat/
 ||adbmetrics.abc.es^
 ||adbmetrics.blogasturias.com^
 ||adbmetrics.canal10tv.com^
@@ -33092,7 +33098,6 @@ znak.com##.relap
 ||nedstatpro.net^$third-party
 ||needle.com/pageload?
 ||needle.com/pageupdate?
-||neemu.com^$third-party
 ||neeva.com/logql/Log
 ||neeva.com/logql/log
 ||neg.by/include/ajax/counters.php
@@ -47480,6 +47485,7 @@ znak.com##.relap
 ||tracking.emerse.com^
 ||tracking.emsmobile.de^
 ||tracking.engineering.cloud.seek.com.au^
+||tracking.ensonhaber.com^
 ||tracking.epicgames.com^
 ||tracking.epredia.com^
 ||tracking.erfahreneladies.de^
@@ -50042,6 +50048,7 @@ znak.com##.relap
 ||whitepixel.com^$third-party
 ||whoaremyfriends.com^$third-party
 ||whoaremyfriends.net^$third-party
+||whois.com/js/gtmDataLayer.js
 ||whoisonline.net^$third-party
 ||whoisvisiting.com^$third-party
 ||whooshkaa.com/identify

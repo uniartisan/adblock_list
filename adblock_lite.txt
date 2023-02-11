@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202302100220
+! Version: 202302110216
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23278
+! Lenth = 23290
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -893,7 +893,7 @@
 51zxw.net#%#//scriptlet("adjust-setTimeout", "adCountDown", "", "0.02")
 520call.me#%#//scriptlet("set-constant", "all520dddaaa2022aaa", "undefined")
 520call.me#%#//scriptlet("set-constant", "all520dddaaa2022ccc", "true")
-520call.me,yocoolnet.in###inplayer
+520call.me,av99.us,yocoolnet.in###inplayer
 520cc.cc#%#//scriptlet("prevent-setTimeout", "location.href", "3000")
 520cc.cc#%#//scriptlet('prevent-setTimeout', 'myModal')
 520cc.cc#%#//scriptlet('set-constant', 'all520dddaaa2022ccc', 'true')
@@ -2648,7 +2648,6 @@ av.movie##.pop-up-a
 av.movie##.video-banner
 av1868.com###totalStationAD
 av1868.com,edc1014070.pixnet.net###banner
-av99.us###inplayer
 avbebe.com###content > div.single-post > div[align="center"]
 avbebe.com###wrapper > div[align="center"]
 avbebe.com##.sidebar > .xoxo > li[id^="execphp-"]
@@ -9304,6 +9303,7 @@ zzzyk.com###Tinfo
 ||0rg.pw^
 ||0s6s0.top^
 ||0smg.top^
+||0vkkf.cn^
 ||0xxd.com^
 ||1.01fy.cn^
 ||1.07swz.com^
@@ -11601,6 +11601,7 @@ zzzyk.com###Tinfo
 ||aqsj.xyz^
 ||aqtcw.cn^
 ||aqy103.com/js/aqy/
+||aqylmil.cn^
 ||arealx.com^
 ||arejug.xyz^
 ||arguments.wang^
@@ -11619,6 +11620,7 @@ zzzyk.com###Tinfo
 ||ashow.pcpop.com^
 ||asjsbew.cn^
 ||askfsh.cn^
+||asoeasy.cn^
 ||asp300.*/2012adimg/
 ||asp300.*/2012js/
 ||asp300.*/2017js/
@@ -14078,6 +14080,7 @@ zzzyk.com###Tinfo
 ||etf88.com/swf/
 ||etg98.com^
 ||etgameshop.com^
+||etkht.cn^
 ||etongxs.com/mb/meng/
 ||etrckeh.cn^
 ||ettoday.net/ad/*_action.js
@@ -14489,6 +14492,7 @@ zzzyk.com###Tinfo
 ||g2qb.top^
 ||g3f3.com/love/
 ||g3user.com^$third-party
+||g8ld.fun^
 ||g9o.cn^
 ||ga1.3dmgame.com^
 ||gadscc.xyz^
@@ -14759,6 +14763,7 @@ zzzyk.com###Tinfo
 ||gold678.com/news/js/layer/layer.js
 ||goldenlee.cn^
 ||gome.com.cn/flight?
+||gomhn.cn^
 ||gongshe99.com/d/js/gongshe/gsw
 ||gongwuyuan.name^
 ||gongxifc.com^
@@ -17922,6 +17927,7 @@ zzzyk.com###Tinfo
 ||mo-tuo.com^
 ||mo.vlpyj.xy^$third-party
 ||mobads.baidu.com^$third-party
+||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mobile.sina.cn/public/files/image/600x150_
 ||mobile.sina.cn/public/files/image/620x300_
 ||mobile01.com/groupbuying.php
@@ -18599,6 +18605,7 @@ zzzyk.com###Tinfo
 ||ovexui.xyz^
 ||owadakesk.cyou^
 ||owdfxgc.cn^
+||owihyg.xyz^
 ||owogldk.top^
 ||ox11.com^
 ||oxmun.com^
@@ -19161,6 +19168,7 @@ zzzyk.com###Tinfo
 ||qinger.name^
 ||qingfeng.homes^
 ||qingfengxq.com^
+||qingganlan.ltd^
 ||qingkai.com/2009/html/top.htm
 ||qingkai.com/gg_img/
 ||qingkong.net/skin/htcs/images/980.jpg
@@ -20917,6 +20925,7 @@ zzzyk.com###Tinfo
 ||ttwwy.top^
 ||ttxs8.xyz^
 ||ttz.com^$third-party
+||ttzhongbao.com^
 ||ttzw.tv/tz/h.js
 ||ttzw.tv/tz/true.js
 ||tu.7j813.cn^$third-party
@@ -22749,6 +22758,7 @@ zzzyk.com###Tinfo
 ||yuqingby.fun^
 ||yuquad.com^
 ||yuretb.site^
+||yurti.cyou^
 ||yuske2.xyz^
 ||yusnw.cc^
 ||yuvvddt.cn^
@@ -23060,6 +23070,7 @@ zzzyk.com###Tinfo
 ||zk6c.top^
 ||zk789.cn/Res/Scripts/Show/NetSys/Show.ashx
 ||zkczbti.cn^
+||zkdmdf.xyz^
 ||zkgvsoo.cn^
 ||zkjh.info^
 ||zkqfrti.cn^
@@ -23197,6 +23208,7 @@ zzzyk.com###Tinfo
 ||zwrj999.cn^
 ||zx.docin.com^
 ||zx123.cn/templates/zx123cs/theme-2015/js/right_xh.js
+||zxfas56.com^
 ||zxhstudy.online^
 ||zxiaochun.site^
 ||zxjjzx.com^
