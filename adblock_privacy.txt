@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302110216
+! Version: 202302120245
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51531
+! Lenth = 51534
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -16738,6 +16738,7 @@ znak.com##.relap
 ||blushingbeast.com^$third-party
 ||blushingboundary.com^
 ||blushingboundary.com^$third-party
+||blushingbread.com^
 ||blushingwar.com^
 ||blushingwar.com^$third-party
 ||blvdstatus.com^$third-party
@@ -24500,6 +24501,7 @@ znak.com##.relap
 ||experienceplatform.avaya.com^
 ||experiences.cibc.com^
 ||experiencia.coopecaja.fi.cr^
+||experiments.sparanoid.net^
 ||expert.nl/daix.js
 ||experts.cutter.com^
 ||explore-123.com^$third-party
@@ -48448,6 +48450,7 @@ znak.com##.relap
 ||twus-mms.theweek.com^
 ||txfryh.terra.com.br^
 ||txoskz.milanorepublicfurniture.com.au^
+||txrx.bol.com^
 ||txt.eu^$third-party
 ||txv0.destinia.hu^
 ||txvoin.with2.net^

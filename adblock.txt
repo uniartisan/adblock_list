@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302110216
+! Version: 202302120245
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25888
+! Lenth = 25903
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -26,6 +26,7 @@
 ###aaheadtop
 ###aatop.top_box
 ###aatop[class^="top_box"]
+###ad > #h2_player_prevideo
 ###ad > .pre-img
 ###ad-SNSSplashAd
 ###ad-box
@@ -1242,6 +1243,7 @@
 ##a[href*="/ppffj.me/"]
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/shishangta.cn"]
+##a[href*="/sm003r.tv"]
 ##a[href*="/sm033v.tv"]
 ##a[href*="/sm27z.net"]
 ##a[href*="/t4078.com:"]
@@ -1256,6 +1258,7 @@
 ##a[href*="/x5092.com"]
 ##a[href*="/x5123.cc"]
 ##a[href*="/x7458.cc"]
+##a[href*="/x9658.cc"]
 ##a[href*="/xapps5.xyz"]
 ##a[href*="/xchina.fun/redirect/ad"]
 ##a[href*="/yb6277.vip"]
@@ -11692,6 +11695,7 @@ zhihu.com##.TopstoryItem--advertCard
 zhihu.com##.WeiboAd-wrap
 zhihu.com##div[data-type="ad"]
 zhihu.com#?#.TopstoryItem:-abp-has(.Popover > .TopstoryItem-advertButton)
+zhihu.com#@#.FollowButton
 zhijia.com###QPhiddenLayer
 zhijia.com##.adb
 zhiyoo.com###body-bg
@@ -11884,6 +11888,7 @@ zzzyk.com###Tinfo
 ||0772fang.com/assets/js/lffoi.js
 ||07908.com/images/
 ||0798ls.com^
+||07xm.fun^
 ||080644.com^
 ||085cczz.com^
 ||0885.net^$third-party
@@ -12666,6 +12671,7 @@ zzzyk.com###Tinfo
 ||4go.cc^
 ||4gtv.tv/4gTV_OTT.json
 ||4hw.com.cn/js/common.js
+||4iksy.cn^
 ||4jffu.cn^
 ||4jfggh.com^
 ||4k123.com/data/attachment/portal/201712/20/194208ao9pevvvg0xr0n1p.jpg
@@ -14818,6 +14824,7 @@ zzzyk.com###Tinfo
 ||bitauto.com/bglog.gif?
 ||bitauto.com/js/sense*.js
 ||bitscn.com/js/a2
+||bitu.fun^
 ||bivgiokd0y.cn^
 ||bixingjia.com/js/hf.
 ||bixjf.com/*/ad/*.mp4
@@ -15746,6 +15753,7 @@ zzzyk.com###Tinfo
 ||ctlmufv.cn^
 ||ctlweb.site^
 ||ctoabc.xyz^
+||ctoyb.cyou^
 ||ctrhfd.top^
 ||ctrip.com/Domestic/tool/AjaxGetCPTList.ashx?advpositioncode=
 ||ctrip.com/amd/*960x90.
@@ -18092,6 +18100,7 @@ zzzyk.com###Tinfo
 ||hubpd.com/hubpd/images/dingtong
 ||hucang.cloud^
 ||hudong.com/11/85/26100000005581147339859649123.jpg
+||hufkzv.xyz^
 ||hugo3c.tw^$csp=script-src 'self' * 'unsafe-inline'
 ||huhai.cdwz8.cn^
 ||huhuhiiuio.com^
@@ -21071,6 +21080,7 @@ zzzyk.com###Tinfo
 ||ogcyshr.cn^
 ||ogeyut.cn^
 ||oghdnp.cn^
+||ogkfuw.xyz^
 ||ognlaigk.fun^
 ||ogs.google.*/widget/callout$subdocument
 ||oh100.com/js/pubuliu.
@@ -21364,6 +21374,7 @@ zzzyk.com###Tinfo
 ||pfskzj.cn^
 ||pg-ad-b1.nosdn.127.net^
 ||pg88cdn.com^
+||pgccaoy.cn^
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pgl7.cn^
 ||pgpkrrk.cn^
@@ -21705,6 +21716,7 @@ zzzyk.com###Tinfo
 ||qhdbfjx.com^
 ||qhdlz.net/ssyyss/m.js
 ||qhdlz.net/uploads/glxs/980x120.jpg
+||qheoy.cn^
 ||qhimg.com/clk.gif?
 ||qhimg.com/js/iwt.js
 ||qhimg.com/ssl/20212c7594890e1c.js
@@ -23130,6 +23142,7 @@ zzzyk.com###Tinfo
 ||szqifu.com^
 ||szwjzl.cn^$third-party
 ||szwyyl.com^
+||szxljdsb.com/tl
 ||szycvkt.cn^
 ||szyepu8.com/data/AADDimg/
 ||szyhqj.com/js/
@@ -25443,6 +25456,7 @@ zzzyk.com###Tinfo
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
 ||z2x5c8.com^$image,domain=hihbt.com
+||z4a.net^
 ||z4a.net^$domain=aotu43.com
 ||z66ggsh.top^
 ||z82v0.icu^
@@ -25672,6 +25686,7 @@ zzzyk.com###Tinfo
 ||zkgvsoo.cn^
 ||zkjh.info^
 ||zkqfrti.cn^
+||zktqzyz.cn^
 ||zkwsdf.com^
 ||zlfthh.xyz^
 ||zlgame.top^
