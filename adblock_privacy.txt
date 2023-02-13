@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302120245
+! Version: 202302130210
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 51534
+! Lenth = 51538
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -8435,6 +8435,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||logi5.xiti.com/go.click$domain=schneider-electric.com
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||login.ingbank.pl^*/satelliteLib-$script
+@@||logistics.costco.com/innovel-services/api/tracking/$~third-party
 @@||logmein.com/js/tracking.js$domain=logme.in|logmein.com
 @@||logo.clearbit.com^$image,third-party
 @@||longtailvideo.com/5/googlytics/googlytics-1.js$domain=arte.tv
@@ -14369,6 +14370,7 @@ znak.com##.relap
 ||analytics.daasrv.net^
 ||analytics.daasrv.net^$third-party
 ||analytics.dap-networks.de^
+||analytics.dashboard.fingerprint.com^
 ||analytics.data.lloydsbankinggroup.com^
 ||analytics.datahc.com^
 ||analytics.datasavannah.com^
@@ -24871,6 +24873,7 @@ znak.com##.relap
 ||findmatches.com/t/tr/lp/intg.js?
 ||findmatches.com/tri?tid=
 ||findme.ru/Counter$third-party
+||fingerprint.com/events/
 ||fingerprinter-production.herokuapp.com^
 ||fingerprintjs.com/visitors/
 ||finn.no/clientstats.html
@@ -31253,6 +31256,7 @@ znak.com##.relap
 ||meadowlark.bump.sh^
 ||meadowlark.psynapse.no^
 ||meapk.com^
+||measlymiddle.com^
 ||measlymiddle.com^$third-party
 ||measure.ameblo.jp^
 ||measure.ensighten.com^
