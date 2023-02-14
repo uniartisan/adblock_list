@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302130210
+! Version: 202302140220
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25918
+! Lenth = 25934
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -4700,6 +4700,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||omtrdc.net/m2/hsbcbankhase/mbox/ajax?$domain=hangseng.com
 @@||online.unionpay.com/ads/$script
 @@||orientaldaily.on.cc/js/oncc-ad.js
+@@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
@@ -12652,6 +12653,7 @@ zzzyk.com###Tinfo
 ||4399.com/loadimg/loading.htm
 ||4399sj.com^*/mask-ad
 ||4438x*.com/Runtime/js/
+||44629.com^
 ||4480dy.net^
 ||44j4oo2a.cn^
 ||44pd.com^*xds/
@@ -13955,6 +13957,7 @@ zzzyk.com###Tinfo
 ||aksfrxd.cn^
 ||akuziti.com/tu/*.js
 ||al.newxue.com^
+||albertabelen.com^
 ||albyprd.cn^
 ||aldtop.com/scrtips/
 ||alexa.cn/upfile/images/
@@ -16519,6 +16522,7 @@ zzzyk.com###Tinfo
 ||ebioweb.com/newsf/js/news_top_banner.js
 ||eblnzoq.cn^
 ||ebp.renren.com^
+||ebpu2.top^
 ||ebrun.com/jfile/position/js/*.js
 ||ebzqyow.cn^
 ||eccn.com/js/gg.js
@@ -16595,6 +16599,7 @@ zzzyk.com###Tinfo
 ||ejktj.com^
 ||ejnjapw.cn^
 ||ejunshi.com^
+||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekhnbwe.cn^
 ||ekwibgl.cn^
@@ -17207,6 +17212,7 @@ zzzyk.com###Tinfo
 ||geili.co^
 ||geili201911.ink^
 ||geilicdn.com/img*_960_60.
+||gejulm1314.com^
 ||geomon.top^
 ||geoparker.net^
 ||geotmt.com^$third-party
@@ -18041,6 +18047,7 @@ zzzyk.com###Tinfo
 ||hqtlw.cn^
 ||hqycr.cn^
 ||hr44.com^
+||hrecsxu.cn^
 ||hrjg.com.cn^$third-party
 ||hrrbc.top^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
@@ -19828,6 +19835,7 @@ zzzyk.com###Tinfo
 ||lgnlaigl.fun^
 ||lgugsnp.cn^
 ||lh168.net^*/attachment/portal/
+||lh54.top^
 ||lhare.xyz^
 ||lhippac.cn^
 ||lhot.xyz^
@@ -19910,6 +19918,7 @@ zzzyk.com###Tinfo
 ||liunxgroup.top^
 ||liupan.asia^
 ||liushuaib.xyz^
+||liutou20230203.live^
 ||liutt.online^
 ||liuxiangxiang.top^
 ||liuxue86.com/css/liuxue_output.js
@@ -20806,6 +20815,7 @@ zzzyk.com###Tinfo
 ||nbhotpo.com^
 ||nchte.com^
 ||ncoeqz.today^
+||ncvkzz.cn^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndfqoqo.cn^
 ||neaqi.top^
@@ -21516,6 +21526,7 @@ zzzyk.com###Tinfo
 ||poereawer.top^
 ||poewage.top^
 ||pofang.com^
+||pojjtt.xyz^
 ||poke88.com^
 ||pokeryun.site^
 ||polflq.cn^
@@ -23960,6 +23971,7 @@ zzzyk.com###Tinfo
 ||verycleaner.cn^
 ||vesdsp.com^
 ||veugcz8.com^
+||vewdk.cyou^
 ||vfcwij.cn^
 ||vflzdrv.cn^
 ||vfqnhif.cn^
@@ -24157,6 +24169,7 @@ zzzyk.com###Tinfo
 ||wanwan.sina.com.cn/sinasupersport/back/
 ||wanwan.sina.com.cn/third_party/
 ||wanzikeji.com^
+||waoeou.xyz^
 ||wap.hfoyjg.cn^$third-party
 ||wap001.bytravel.cn^
 ||wap1.laogu.wang^
@@ -24469,8 +24482,10 @@ zzzyk.com###Tinfo
 ||wumii.cn/ext/relatedItemsWidget
 ||wumnxwvg.ink^
 ||wurnbx.xyz^
+||wusuliriver.com^
 ||wutaixian.shop^
 ||wutian01.cc^
+||wutou20230201.live^
 ||wuwaii.com^
 ||wuxiann.top^
 ||wuxibus.com/Image/title
@@ -24656,6 +24671,7 @@ zzzyk.com###Tinfo
 ||xiaodongrui.com^
 ||xiaodutv.com/xda?
 ||xiaohui.ink^
+||xiaohui668.club^
 ||xiaokenan.net^
 ||xiaoli.video^
 ||xiaoma.com/kf.php?arg=
