@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202302140220
+! Version: 202302150209
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23331
+! Lenth = 23344
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -9822,6 +9822,7 @@ zzzyk.com###Tinfo
 ||2g2h.com^
 ||2gb8fnh.cn^
 ||2gvuukm1lm.com^
+||2hfby.top^
 ||2hvl4.fun^
 ||2i0da8u7.cn^
 ||2i1m.xyz^
@@ -9835,6 +9836,7 @@ zzzyk.com###Tinfo
 ||2ppgsmeh.cn^
 ||2pwja.cn^
 ||2r45.cn^
+||2r6.cn^
 ||2ujj.com/js/bo.js
 ||2x8l63l0.cn^
 ||2yjw.com/statics/js/jquery.min.
@@ -10176,6 +10178,7 @@ zzzyk.com###Tinfo
 ||520cc.tw/AD/
 ||520meirenyu.com^
 ||520myjj.xyz^
+||520xingyun.com/images/*.gif$domain=mcpcourse.com
 ||520xs.la/js/dianrui-
 ||520z-2.com/uploadfile/sucai/
 ||521000.com/co/
@@ -12168,6 +12171,7 @@ zzzyk.com###Tinfo
 ||bgcnhux.cn^
 ||bgilefj.cn^
 ||bgjjwl.cn^
+||bglbsb.cn^
 ||bgnlaigv.fun^
 ||bh0874.online^
 ||bh2q.fun^
@@ -13999,6 +14003,7 @@ zzzyk.com###Tinfo
 ||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekhnbwe.cn^
+||ekqfkk.xyz^
 ||ekwibgl.cn^
 ||elecfans.com/images/*/675x90.
 ||elecfans.com/skin-*/images/banner_ad
@@ -14272,6 +14277,7 @@ zzzyk.com###Tinfo
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
 ||fetm.xin^
+||fewsvuh.cn^
 ||fexiaen.com^
 ||ff.guidaye.com^
 ||ff.meikanguo.com^
@@ -16682,6 +16688,7 @@ zzzyk.com###Tinfo
 ||jzrzpump.com^
 ||jzzd.ink^
 ||jzzuwdn.cn^
+||k0lksy.xyz^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||k11designstore.club^
@@ -17848,6 +17855,7 @@ zzzyk.com###Tinfo
 ||miaozhen.com^$third-party
 ||miatip.cn^
 ||micaitu.net/js/dibu.js
+||micfu.cyou^
 ||michaelianice.com^
 ||micreative-china.cn^
 ||micrhfk.cn^
@@ -19839,6 +19847,7 @@ zzzyk.com###Tinfo
 ||sdd.hi1718.com^
 ||sdfafds6.com^
 ||sdfjtwp.com^
+||sdfv66.com^
 ||sdfxv57.com^
 ||sdgmyj.cn^
 ||sdhjqz.com^
@@ -20155,6 +20164,7 @@ zzzyk.com###Tinfo
 ||skfjd1.xyz^
 ||skfjdf.xyz^
 ||skfqxkk.cn^
+||skiyvwu.cn^
 ||skmtyaw.cn^
 ||skzlz.cn^
 ||sl6.top^
@@ -20481,6 +20491,7 @@ zzzyk.com###Tinfo
 ||supfree.net^$xmlhttprequest
 ||suqiguoji.wang^
 ||suukcn.com^
+||suyuhao233.xyz^
 ||svlzckw.cn^
 ||svm6ryo.cn^
 ||svnfgib.cn^
@@ -21499,6 +21510,7 @@ zzzyk.com###Tinfo
 ||vxlysbz.cn^
 ||vxotu.com/i/*.gif
 ||vxsnk.com^
+||vykeavz.cn^
 ||vyps.fun^
 ||vyrhxfi.cn^
 ||vyule.com^
@@ -22353,6 +22365,7 @@ zzzyk.com###Tinfo
 ||xyimg.net^$domain=~xy.com
 ||xyj321.com/static/xyj/js/foot_slide_bar_
 ||xyj321.com/static/zx/js/zx-con-jsq_
+||xylkpj.xyz^
 ||xylmdm.top^
 ||xyonbib.cn^
 ||xypksuk.cn^

@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302140220
+! Version: 202302150209
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53092
+! Lenth = 53102
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7412,7 +7412,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||dpm.zebestof.com/*/tag.js$domain=commentcamarche.net
 @@||dpm.zebestof.com/*/tag.js$domain=sante.journaldesfemmes.fr
 @@||drivetrain.ai/drive/*/metrics/$~third-party
-@@||dropboxstatic.com/static/js/modules/clean/ux_analytics/$script,domain=dropbox.com
+@@||dropboxstatic.com/static/metaserver/static/js/ux_analytics/$script,domain=dropbox.com
 @@||dsb.yahoo.co.jp/api/v1/stream$xmlhttprequest,domain=gyao.yahoo.co.jp
 @@||dtdc.in/tracking^
 @@||dtp.tv3cloud.com/amc/beacon?$domain=telekomtvgo.hu
@@ -7474,6 +7474,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ensighten.com^*/scode/$script,domain=norton.com
 @@||ensighten.com^*/serverComponent.php?$script
 @@||epicgames.com/id/api/analytics$~third-party,xmlhttprequest
+@@||epson.com.cn/common/new/js/tracking_code.js$~third-party
 @@||epub.ekh.no/*/static/analytics.js
 @@||equifaxps.122.2o7.net^
 @@||eservice.nationalgeneral.com/service/lib/gtm.js$~third-party
@@ -9920,6 +9921,7 @@ westnews.com.ua##a[href="http://www.bigmir.net/"]
 woman.excite.co.jp#%#//scriptlet('remove-attr', 'data-woman-ex', 'a[href][data-woman-ex]')
 www.google.*#%#//scriptlet('remove-attr', 'ping', 'div[id="search"] a[data-ved][ping]')
 yamm-track.appspot$image
+zch-vip.com##.plugin-access
 zdnet.com###taboola-below-home-thumbnails-homepage
 znak.com##.relap
 |http://a.pr-cy.ru^$third-party
@@ -14058,6 +14060,7 @@ znak.com##.relap
 ||ali.idkexipurenow.website^
 ||ali8.alinea.fr^
 ||alias.cloud-marketing.dimensiondata.com^
+||aliasanvil.com^$third-party
 ||aliasdmc.fr/js/general_sts.js
 ||alibaba.com/js/beacon_
 ||alibaba.com/ts?
@@ -19001,6 +19004,7 @@ znak.com##.relap
 ||combbit.com^
 ||combclover.com^
 ||combclover.com^$third-party
+||comcast.net/measurements/
 ||comeon.com/tracking.php
 ||comet.sputniknews.com^
 ||comet.yahoo.com^
@@ -19757,6 +19761,7 @@ znak.com##.relap
 ||cqbbpf.geewiz.co.za^
 ||cqcounter.com^$third-party
 ||cqishr.mobile.de^
+||cqloud.com/measurements/
 ||cqpmvc.capital.fr^
 ||cqpmvc.cuisineactuelle.fr^
 ||cqpmvc.femmeactuelle.fr^
@@ -19772,6 +19777,7 @@ znak.com##.relap
 ||cqz6fn6aox.aporia.com^
 ||cr-eec.etp-prod.com^$domain=crunchyroll.com
 ||cr-nielsen.com^$third-party
+||cra.hum.works^$third-party
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
 ||crabbychin.com^
@@ -22950,7 +22956,6 @@ znak.com##.relap
 ||disabled.owa.betaarketing.net.zooplus.fr^
 ||disabled.owa.prod.net.zooplus.fr^
 ||disabled.owademo.net.zooplus.fr^
-||discord.com/api/*/science
 ||discord.com/api/v*/science
 ||discover-metrics.cloud.seek.com.au^
 ||discover-path.com^$third-party
@@ -23596,6 +23601,7 @@ znak.com##.relap
 ||easy-hit-counter.com^$third-party
 ||easy-hit-counters.com^$third-party
 ||easy.lv^$third-party
+||easycompute.systems^
 ||easycounter.com^$third-party
 ||easydmp.net/collect_
 ||easydmp.net/etag.
@@ -25791,6 +25797,7 @@ znak.com##.relap
 ||fundraising.centuryresources.com^
 ||funn.graphiq.com^
 ||funneld.com^$third-party
+||funnelserv.systems^
 ||funnelytics.io^$third-party
 ||funnyairplane.com^
 ||funnyairplane.com^$third-party
@@ -29975,6 +29982,7 @@ znak.com##.relap
 ||leparking-moto.fr/jsV155/Tracker.js
 ||leparking.fr/*/Tracker.js
 ||lepodownload.mediatek.com^
+||lepoint.fr/img-l/$image
 ||les-experts.com^$third-party
 ||leserservice-tracking.de^$third-party
 ||let1.devialet.com^
@@ -30691,6 +30699,7 @@ znak.com##.relap
 ||logz.ru^$third-party
 ||lokalavisen.tns-gallup.dk^
 ||lokalleads-cci.com^$third-party
+||lokalwerben.t-online.de^
 ||loloclicks.biz^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lomadee.com/loc/$third-party
@@ -31901,6 +31910,7 @@ znak.com##.relap
 ||maz.zba.jp^
 ||mazu.sec.miui.com^
 ||mb-srv.com^$third-party
+||mb-tracking.com^
 ||mb.mtvnservices.com/data/collect/
 ||mb4a.com^$third-party
 ||mbainfo.ust.hk^

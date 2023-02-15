@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302140220
+! Version: 202302150209
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25934
+! Lenth = 25952
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -601,6 +601,7 @@
 ##.common_ad
 ##.con_search + #carousel-example-generic[style^="max-width: 1170px;"]
 ##.con_section > .da
+##.conch-ads-box
 ##.container > .index-ad
 ##.container > .slide-baidu
 ##.container > a.mid-wrapper
@@ -1150,6 +1151,7 @@
 ##a[href*="/2486090.com/"]
 ##a[href*="/265201.com:"]
 ##a[href*="/296256.com:"]
+##a[href*="/2996m.com:"]
 ##a[href*="/2e9c9aa9.com/"]
 ##a[href*="/326519.com:"]
 ##a[href*="/331.run"]
@@ -1167,6 +1169,7 @@
 ##a[href*="/682kg.com"]
 ##a[href*="/7267224.com/"]
 ##a[href*="/7699j.com:"]
+##a[href*="/7727ky.com:"]
 ##a[href*="/7756ky.com:"]
 ##a[href*="/7757ky.com:"]
 ##a[href*="/7763349.com/"]
@@ -1199,6 +1202,7 @@
 ##a[href*="/d27.tv"]
 ##a[href*="/ddtz5.com"]
 ##a[href*="/ftyvrfy05.com"]
+##a[href*="/g3656.com:"]
 ##a[href*="/h91.tv"]
 ##a[href*="/hhybd.wiki"]
 ##a[href*="/htbet1536.com"]
@@ -2032,6 +2036,7 @@ $websocket,domain=5nj.com|cechi8.com
 /common/ad_
 /common/cf/*$image,object,domain=~dahuaiji.com
 /conch/asset/js/atop.js
+/conch/asset/js/open-vb.
 /content.php?id=148&type=g|$xmlhttprequest
 /content/clyscontent.js
 /contentAd.
@@ -12425,6 +12430,7 @@ zzzyk.com###Tinfo
 ||2g2h.com^
 ||2gb8fnh.cn^
 ||2gvuukm1lm.com^
+||2hfby.top^
 ||2hvl4.fun^
 ||2i0da8u7.cn^
 ||2i1m.xyz^
@@ -12438,6 +12444,7 @@ zzzyk.com###Tinfo
 ||2ppgsmeh.cn^
 ||2pwja.cn^
 ||2r45.cn^
+||2r6.cn^
 ||2ujj.com/js/bo.js
 ||2x8l63l0.cn^
 ||2yjw.com/statics/js/jquery.min.
@@ -12779,6 +12786,7 @@ zzzyk.com###Tinfo
 ||520cc.tw/AD/
 ||520meirenyu.com^
 ||520myjj.xyz^
+||520xingyun.com/images/*.gif$domain=mcpcourse.com
 ||520xs.la/js/dianrui-
 ||520z-2.com/uploadfile/sucai/
 ||521000.com/co/
@@ -14771,6 +14779,7 @@ zzzyk.com###Tinfo
 ||bgcnhux.cn^
 ||bgilefj.cn^
 ||bgjjwl.cn^
+||bglbsb.cn^
 ||bgnlaigv.fun^
 ||bh0874.online^
 ||bh2q.fun^
@@ -16602,6 +16611,7 @@ zzzyk.com###Tinfo
 ||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekhnbwe.cn^
+||ekqfkk.xyz^
 ||ekwibgl.cn^
 ||elecfans.com/images/*/675x90.
 ||elecfans.com/skin-*/images/banner_ad
@@ -16875,6 +16885,7 @@ zzzyk.com###Tinfo
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
 ||fetm.xin^
+||fewsvuh.cn^
 ||fexiaen.com^
 ||ff.guidaye.com^
 ||ff.meikanguo.com^
@@ -19285,6 +19296,7 @@ zzzyk.com###Tinfo
 ||jzrzpump.com^
 ||jzzd.ink^
 ||jzzuwdn.cn^
+||k0lksy.xyz^
 ||k1.dancihu.com^
 ||k1.wanwenwan.cn^
 ||k11designstore.club^
@@ -20451,6 +20463,7 @@ zzzyk.com###Tinfo
 ||miaozhen.com^$third-party
 ||miatip.cn^
 ||micaitu.net/js/dibu.js
+||micfu.cyou^
 ||michaelianice.com^
 ||micreative-china.cn^
 ||micrhfk.cn^
@@ -22442,6 +22455,7 @@ zzzyk.com###Tinfo
 ||sdd.hi1718.com^
 ||sdfafds6.com^
 ||sdfjtwp.com^
+||sdfv66.com^
 ||sdfxv57.com^
 ||sdgmyj.cn^
 ||sdhjqz.com^
@@ -22758,6 +22772,7 @@ zzzyk.com###Tinfo
 ||skfjd1.xyz^
 ||skfjdf.xyz^
 ||skfqxkk.cn^
+||skiyvwu.cn^
 ||skmtyaw.cn^
 ||skzlz.cn^
 ||sl6.top^
@@ -23084,6 +23099,7 @@ zzzyk.com###Tinfo
 ||supfree.net^$xmlhttprequest
 ||suqiguoji.wang^
 ||suukcn.com^
+||suyuhao233.xyz^
 ||svlzckw.cn^
 ||svm6ryo.cn^
 ||svnfgib.cn^
@@ -24102,6 +24118,7 @@ zzzyk.com###Tinfo
 ||vxlysbz.cn^
 ||vxotu.com/i/*.gif
 ||vxsnk.com^
+||vykeavz.cn^
 ||vyps.fun^
 ||vyrhxfi.cn^
 ||vyule.com^
@@ -24956,6 +24973,7 @@ zzzyk.com###Tinfo
 ||xyimg.net^$domain=~xy.com
 ||xyj321.com/static/xyj/js/foot_slide_bar_
 ||xyj321.com/static/zx/js/zx-con-jsq_
+||xylkpj.xyz^
 ||xylmdm.top^
 ||xyonbib.cn^
 ||xypksuk.cn^
