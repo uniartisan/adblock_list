@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302150209
+! Version: 202302160242
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53102
+! Lenth = 53116
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -333,6 +333,7 @@ $cookie=wt3_sid
 $cookie=wt_eid
 $cookie=wt_nbg_Q3
 $cookie=wt_sid
+$cookie=wtstp_sid
 $cookie=wuuid,domain=duolingo.com|duolingo.cn
 $cookie=xf_sam_ad_views
 $cookie=xtant
@@ -1160,6 +1161,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /\.com\/[-_0-9a-zA-Z]{4,}\/[-\/_0-9a-zA-Z]{25,}$/$script,~third-party,domain=gu-global.com|uniqlo.com
 /\/(public|resources|static|assets)\/([a-f0-9]){28,31}$/$script,xmlhttprequest,~third-party
 /\/js\/[a-z]{3}\d\.js$/$script,~third-party,domain=eegg.fun
+/^https:\/\/[0-9a-z]{7,25}\.com\/v2(?:\/0\/)?(?=[0-9a-z_-]{0,84}[A-Z])(?=[a-zA-Z_-]{0,84}[0-9])[0-9a-zA-Z_-]{54,85}(#\?v=[0-9a-f]{32})?$/$ping,script,xmlhttprequest,third-party,match-case
 /^https:\/\/cdn\.jsdelivr\.net\/npm\/([a-z]|-|_){4,22}@latest\/dist\/script\.min\.js$/$domain=mathbang.net|ujnews.co.kr|mediatoday.co.kr|hankyung.com|tgd.kr|loawa.com|ygosu.com|inven.co.kr|ppss.kr|dailymagazine.co.kr|dailian.co.kr|socialvalue.kr|usjournal.kr|basketkorea.com|jumpball.co.kr|joynews24.com|inews24.com|hobbyen.co.kr|thespike.co.kr|siminilbo.co.kr|mdtoday.co.kr|clien.net|ujeil.com|starnnews.com|sportsw.kr|enewstoday.co.kr|readersnews.com|algumon.com|1412.rest|twicenest.com|feedclick.net|tistory.com|sportalkorea.com|minelist.kr|donga.com
 /^https?:\/\/fdts\.ebay-kleinanzeigen\.de\/[a-z0-9]{13,18}\.js\?/$script,domain=ebay-kleinanzeigen.de
 /^https?:\/\/nav\.sciencedirect\.com\/[a-zA-Z0-9]{14,}\.js/$script,domain=sciencedirect.com
@@ -1871,6 +1873,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /banner-tracker.
 /banner.stats?
 /banners-stat.
+/base/es5/bundle.js
 /base/es6/bundle.js
 /basesdc.js
 /basicMetricsTracking.
@@ -6816,7 +6819,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.cxense.com/public/widget/data$domain=obozrevatel.com
 @@||api.cxense.com/public/widget/data$script,xmlhttprequest,domain=businessinsider.de|computerbild.de|handelsblatt.com
 @@||api.cxense.com/public/widget/data$script,xmlhttprequest,domain=cyclestyle.net|friday.gold|friday.kodansha.co.jp|mainichi.jp|nippon.com|shueisha.co.jp
-@@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
+@@||api.cxense.com/public/widget/data?$domain=bizjournals.com|cxpublic.com|marketwatch.com|wsj.com
 @@||api.cxense.com/public/widget/data?$domain=mainichi.jp
 @@||api.cxense.com/public/widget/data?json$domain=bangkokpost.com
 @@||api.cxense.com/public/widget/data?json$domain=tn.com.ar
@@ -6963,7 +6966,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|roomster.com|timesprime.com|womenshealthmag.com
-@@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
+@@||browser.sentry-cdn.com^$domain=marshmallow-qa.com|spacemarket.com
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||browser.sentry-cdn.com^$script,domain=vivareal.com.br
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
@@ -7079,7 +7082,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.optimizely.com/datafiles/*.json$domain=talktalk.co.uk
 @@||cdn.optimizely.com/datafiles/*.json/tag.js$domain=nike.com
 @@||cdn.optimizely.com/js/$domain=zdnet.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com|tcgplayer.com
 @@||cdn.optimizely.com/js/*.js$domain=foxsports.com
 @@||cdn.optimizely.com/js/*.js$domain=ns.nl|compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com|olx.ua|casper.com|dubizzle.com|pullandbear.com
 @@||cdn.optimizely.com/js/*.js$domain=ruggable.com
@@ -7294,6 +7297,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||csid.com/wp-content/plugins/bwp-minify/min/?*/google-analyticator/$script
 @@||csm.cxpublic.com/President.js$domain=president.jp
 @@||csm.cxpublic.com/Shueisha.js$domain=wpb.shueisha.co.jp
+@@||csm.cxpublic.com/nikkansports.js$domain=nikkansports.com,script
 @@||csm.cxpublic.com^$script,domain=mainichi.jp
 @@||csm.cxpublic.com^$script,domain=tarzanweb.jp
 @@||csoonline.com/js/demandbase.js
@@ -8912,6 +8916,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||sc.omtrdc.net^$domain=cibc.com
 @@||scdn.cxense.com/cx.cce.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
 @@||scdn.cxense.com/cx.cce.js$domain=cdn.cxpublic.com
+@@||scdn.cxense.com/cx.cce.js$domain=cxpublic.com
 @@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
@@ -9647,6 +9652,7 @@ directtrack.*.js
 dizibey.com##.sidebar > #text-19
 dokonline.com###Counters
 dokonline.com###Counters + div[class="block"]
+doorblog.jp,pachinkopachisro.com,blog.livedoor.jp,blog.jp,vipstyle.tokyo#?#.plugin-memo > div.side > div.ninja-recommend-block:upward(2)
 dreamprogs.net##td[width="88"][height="31"]
 dripemail2$image
 drive2.ru##.js-page > * > .dv-post-header > [class] > [class] > [id] > [class][id]
@@ -9807,7 +9813,6 @@ otekomachi.yomiuri.co.jp##.p-ads
 ouminews.net#@#img[width="88"][height="31"]
 outrch.com/api/mailings/opened$image
 overclockers.ru#%#AG_onLoad(function() { window.trackOutboundLink = window.open; });
-pachinkopachisro.com,blog.livedoor.jp,blog.jp,vipstyle.tokyo#?#.plugin-memo > div.side > div.ninja-recommend-block:upward(2)
 park.ajinomoto.co.jp##.bottomMenu
 petyado.com##.font12[height="184"]
 petyado.com##center > table[width="100%"][cellpadding="0"] + table[width="700"][cellspacing="0"][cellpadding="0"]:not([height])
@@ -13503,6 +13508,7 @@ znak.com##.relap
 ||advancedmp3players.co.uk/support/visitor/index.php?
 ||advangelists.com^
 ||advangelists.com^$third-party
+||advantage.digitalsunray.com^
 ||advantage.rsabroker.ca^
 ||advantages.americanexpress.com^
 ||advconversion.com^$third-party
@@ -16584,6 +16590,7 @@ znak.com##.relap
 ||beacon.tingyun.com^
 ||beacon.toyota.co.jp^
 ||beacon.tws.toyota.jp^
+||beacon.unext.jp^
 ||beacon.vertebrae-axis.com^
 ||beacon.viewlift.com^
 ||beacon.walmart.ca^
@@ -23359,6 +23366,7 @@ znak.com##.relap
 ||du2k.bhv.fr^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
+||dualstack-logs.amap.com^
 ||dubox.com/api/analytics
 ||dubox.com/statistics^
 ||duckdns.org^$third-party,websocket
@@ -24350,6 +24358,7 @@ znak.com##.relap
 ||engageya.com^$third-party
 ||engagio.com^$third-party
 ||engine.mobileapptracking.com^
+||engine.traceparts.com^
 ||engine212.com^$third-party
 ||engine64.com^$third-party
 ||enginey.altex.ro/events/
@@ -29026,6 +29035,7 @@ znak.com##.relap
 ||istatistik.trthaber.com^
 ||istats.nl^$third-party
 ||istlandoll.com^$third-party
+||istoe.com.br/@nave/gateway/reply?navtrackdata=
 ||istories.media^$cookie=latest_viewed_material
 ||istrack.com^$third-party
 ||it-mktg.vodafone.com^
@@ -30440,6 +30450,7 @@ znak.com##.relap
 ||log.adap.tv^
 ||log.adplex.co.kr^
 ||log.adtimaserver.vn^
+||log.affiliate.rakuten.co.jp^
 ||log.aimtell.com^
 ||log.ajunews.com^
 ||log.aliyuncs.com^
@@ -44972,6 +44983,8 @@ znak.com##.relap
 ||statsbox.info^
 ||statsbox.nl^$third-party
 ||statscol.pond5.com^
+||statscollector-1.agora.io^
+||statscollector.sd-rtn.com^
 ||statsd.zmags.com^
 ||statse-omtrdc.deka.de^
 ||statsevent.com^$third-party
@@ -48086,6 +48099,7 @@ znak.com##.relap
 ||tracelog.www.alibaba.com^
 ||tracelytics.com^$third-party
 ||tracemyip.org^$third-party
+||traceparts.com/logs
 ||traceprof.com^$third-party
 ||tracer.autoscout24.ch^
 ||tracer.jp^$third-party
