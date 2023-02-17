@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302160242
+! Version: 202302170254
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53116
+! Lenth = 53126
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7223,7 +7223,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cnet.com/*/video-player/*/lib/tracking/comscore/comscore.streaming.*.min.js
 @@||cnet.com/a/video-player/uvpjs-rv/$script,~third-party
 @@||cntcerber.rambler.ru/counter.js$domain=id.rambler.ru
-@@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|diabetes-ratgeber.net|kaguma.com|krombacher.de
+@@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|kaguma.com|krombacher.de
 @@||codesoom.com/assets/js/google-analytics.js
 @@||codicebusiness.shinystat.com/cgi-bin/getcod.cgi?USER=panoramait&P=2$script,domain=panorama.it
 @@||codicefl.shinystat.com/cgi-bin/getserver.cgi?$script,domain=3bmeteo.com|quotidiano.net
@@ -8241,7 +8241,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||identity.mparticle.com^$xmlhttprequest
 @@||idfcbank.com/static/features/*/scripts/FingerPrint.js$script,~third-party
 @@||ikea.com/cdn/googleanalytics/$~third-party,xmlhttprequest
-@@||images*.engageya.com^$image,domain=popmech.ru
 @@||images.apple.com/metrics/scripts/s_code_h.js$domain=apple.com
 @@||images.news18.com^*/comscore.min.js$script,~third-party
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
@@ -8299,6 +8298,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||iocdn.coremetrics.com^*/io_config.js?ts=$domain=adidas.de
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
+@@||itmedia.co.jp^$cookie=cX_G
 @@||itv.1tv.ru/stat.php?
 @@||itworld.com/elqnow/elq*.js
 @@||ivwbox.de/2004/01/survey.js$domain=stylished.de|t-online.de
@@ -8558,6 +8558,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mpsnare.iesnare.com/script/logo.js$domain=lenovo.com
 @@||mpsnare.iesnare.com/snare.js$domain=lenovo.com
 @@||mpsnare.iesnare.com/snare.js$domain=rossmann.de
+@@||mpsnare.iesnare.com/snare.js$domain=welcome.cryptothrills.io
 @@||mpsnare.iesnare.com/snare.js$script,domain=power.fi|verkkokauppa.com
 @@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|enmasse.com|equifax.ca|jbhifi.com.au|login.skype.com|princessauto.com|usbank.com|vitacost.com|westernunion.com
 @@||msecnd.net/scripts/jsll-$script,domain=forms.microsoft.com|office.com|sharepoint.com|teams.microsoft.com
@@ -9451,6 +9452,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ws.skoda-auto.com/sap/*_piwik/Piwik.js
 @@||ws.webcaster.pro^$websocket
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
+@@||wurfl.io/wurfl.js$domain=adshnk.com
 @@||wwa.wipe.de/wwa.js$domain=mobil.dasoertliche.de
 @@||wwe.com/sites/all/modules/wwe/wwe_analytics/s_wwe_code.js
 @@||www.googletagmanager.com^$domain=onlineshop.smt.docomo.ne.jp
@@ -9719,6 +9721,8 @@ intercom-mail-100.com/o$image
 intercom-mail.com/q/$image
 intercom-mail.com/via/o?$image
 israelnationalnews.com,insider.com##.taboola
+itmedia.co.jp#$##ulCommentWidget[style*="display"] { display: block !important; }
+itmedia.co.jp#%#//scriptlet('set-cookie', 'cX_G', '1')
 itsu.com#%#//scriptlet('set-constant', 'AtreemoTrackingLbr', 'noopFunc')
 ixbt.com##.block__recommend
 j-cast.com###cxRelatedEntry
@@ -9826,7 +9830,6 @@ pizzakiosk.ee#@#img[width="88"][height="31"]
 politring.com##a[href="https://metrika.yandex.ru/"]
 polymail.io/v2/z$image
 popin.cc#%#//scriptlet('set-local-storage-item', '_ss_pp_id', '')
-popmech.ru#%#AG_onLoad(function() { window.POPMECH.increaseCounters = function() {} });
 portaltele.com.ua##.td-footer-template-9
 ppomppu.co.kr#%#AG_onLoad(() => { if (/^https:\/\/(www\.|m\.|)ppomppu\.co\.kr\/(new\/|)hotdeal\//g.test(document.location.href) && document.querySelector(".hotDeal_goods > ul#hotdeal")) { var k = (n) => { if(/\/\/click\.linkprice\.com\/click\.php\?/.test(n)) { return new URLSearchParams(n).get("tu") } else { return n } }; new MutationObserver((o) => { Array.from(o[0].addedNodes).filter(e => /[0-9]{7,9}$/.test(e.className) && /ppomppu\.co\.kr\/(new\/|)hotdeal\/\?/.test(e.querySelector(".view > a").href)).forEach((e) => { e.querySelector(".view > a").href = e.querySelector("p > a[href]:not([class])").href = k(new URLSearchParams(e.querySelector(".view > a").href).get("url"))})}).observe(document.querySelector(".hotDeal_goods > ul#hotdeal"), { childList: true })}});
 ppomppu.co.kr#%#AG_onLoad(() => { if (/m\.ppomppu\.co\.kr\/new\/bbs_view\.php\?/.test(location.href) || /ppomppu\.co\.kr\/zboard\/view\.php\?/.test(location.href)) { Array.from(document.querySelectorAll("a[href][target='_blank']")).filter(e => /^https:\/\/s\.ppomppu\.co\.kr(\/|)\?idno=/.test(e.href)).forEach((o) => { o.href = atob(new URLSearchParams(o.href).get("target").replace("\\", ""))})}});
@@ -15368,9 +15371,11 @@ znak.com##.relap
 ||api.safedk.com^
 ||api.safegraph.com^
 ||api.salesmachine.io/*/track/event
+||api.sec.intl.miui.com^
 ||api.sec.miui.com^
 ||api.segment.io^
 ||api.segment.io^$third-party
+||api.setting.intl.miui.com^
 ||api.share.mob.com^
 ||api.simeji.me/*/sessionLog
 ||api.smbeat.jp^
@@ -16148,6 +16153,7 @@ znak.com##.relap
 ||auth.be.sec.miui.com^
 ||auth.bz^$third-party
 ||auth.carte-gr.total.fr^
+||authbe.sec.intl.miui.com^
 ||authedwebmine.cz^$third-party,domain=~webmine.cz
 ||authorinsights.com^$third-party
 ||authsmtp.carte-gr.total.fr^
@@ -17803,6 +17809,7 @@ znak.com##.relap
 ||ccgateway.net^$third-party
 ||cclink.carfax.com^
 ||ccmd.coveredca.com^
+||ccp.digitaltrends.com/scripts/cc-tracking.js
 ||ccpa.psg.nexstardigital.net^
 ||ccpa.sp-prod.net/ccpa.js
 ||ccrtvi.com^$third-party
@@ -22298,6 +22305,7 @@ znak.com##.relap
 ||data.resources.ringcentral.com^
 ||data.ricaud.com^
 ||data.rmsocio.realmadrid.com^
+||data.sec.intl.miui.com^
 ||data.sec.miui.com^
 ||data.securemetrics-apple.com^
 ||data.segugio.it^
@@ -25352,6 +25360,7 @@ znak.com##.relap
 ||flamingo.stacking-club.com^
 ||flare-analytics.com^$third-party
 ||flash-counter.com^$third-party
+||flash.sec.intl.miui.com^
 ||flashadengine.com^$third-party
 ||flashb.id^$third-party
 ||flashstats.libsyn.com^
@@ -25479,6 +25488,7 @@ znak.com##.relap
 ||force24.co.uk^$third-party
 ||forecast.huffingtonpost.fr^
 ||forecast.io/js/app/analytics.js
+||forecast.lemonde.fr^
 ||forecasttiger.com^
 ||forecasttiger.com^$third-party
 ||foregoingfowl.com^
@@ -28962,7 +28972,7 @@ znak.com##.relap
 ||ipkasp.nissan.co.jp^
 ||iplist.cc^$third-party
 ||iplocationtools.com^$third-party
-||iplogger.org^$third-party
+||iplogger.org^$third-party,domain=~iplogger.com
 ||iplsc.com/inpl.log/
 ||ipmeta.io^$third-party
 ||ipnoid.com^$third-party
@@ -33395,6 +33405,7 @@ znak.com##.relap
 ||mkzpqu.sungboon.com^
 ||mkztpk.invictastores.com^
 ||ml-attr.com^$third-party
+||ml-sys.xyz^
 ||ml.com/enterprisetagging/
 ||ml314.com/csync.ashx^
 ||ml314.com^$third-party
@@ -36573,7 +36584,6 @@ znak.com##.relap
 ||popin.cc^$cookie=_ss_pp_id
 ||popin.cc^$cookie=_td
 ||popin.cc^$cookie=uid
-||popmech.ru^$cookie=popmech_nuid
 ||popsample.com^$third-party
 ||popt.in^$third-party
 ||popt.in^$third-party,domain=~poptin.com
@@ -39599,7 +39609,7 @@ znak.com##.relap
 ||secureoutreach.unisys.com^
 ||securepaths.com^$third-party
 ||secureprovide1.com/*=tracking$image
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~golf.com|~today.line.me|~inmuebles24.com|~inside.com.tw
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~golf.com|~today.line.me|~inmuebles24.com|~inside.com.tw|~investing.com
 ||secureserver.net/t/
 ||securestats.callawaygolf.com^
 ||securestats.odysseygolf.com^
