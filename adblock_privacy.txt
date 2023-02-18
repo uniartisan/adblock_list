@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302170254
+! Version: 202302180214
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53126
+! Lenth = 53121
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -6340,7 +6340,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /wp-content/plugins/asmb-tracking/*
 /wp-content/plugins/confection/bridge.php
 /wp-content/plugins/google-analytics-dashboard-for-wp/*$domain=xpornass.com|vitacig.eu.com
-/wp-content/plugins/google-analytics-for-wordpress/*
+/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend*.js
 /wp-content/plugins/google-analytics-premium/*
 /wp-content/plugins/pageviews/pageviews.js
 /wp-content/plugins/pb-ga-google-analytics/*$domain=~wordpress.org
@@ -7688,7 +7688,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js$domain=ligtv.com.tr
 @@||google-analytics.com/analytics.js$domain=line.me
 @@||google-analytics.com/analytics.js$domain=linetv.tw
-@@||google-analytics.com/analytics.js$domain=m.chosun.com
 @@||google-analytics.com/analytics.js$domain=m.investing.com
 @@||google-analytics.com/analytics.js$domain=m.kinomax.ru
 @@||google-analytics.com/analytics.js$domain=m.n11.com
@@ -7704,7 +7703,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js$domain=mobile.tvnow.de
 @@||google-analytics.com/analytics.js$domain=moniteurautomobile.be
 @@||google-analytics.com/analytics.js$domain=morhipo.com
-@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com
+@@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru|teddyfood.com|tribuna.com
 @@||google-analytics.com/analytics.js$domain=ndtv.com
 @@||google-analytics.com/analytics.js$domain=nehannn.com
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
@@ -7906,7 +7905,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=beleuchtung.de
 @@||googletagmanager.com/gtm.js$domain=benesse-style-care.co.jp
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua
-@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com|tribuna.com
 @@||googletagmanager.com/gtm.js$domain=besplatnyeprogrammy.ru|softobase.com|freeversion.ru|softmen.ru|freeversions.ru|moiprogrammy.net
 @@||googletagmanager.com/gtm.js$domain=bestradio.fm
 @@||googletagmanager.com/gtm.js$domain=beterbed.nl
@@ -9096,16 +9095,12 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=lenovo.com|officedepot.com|shop.lego.com
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=officedepot.com|shop.lego.com
 @@||static.chartbeat.com/crossdomain.xml
-@@||static.chartbeat.com/js/chartbeat.js$domain=m.chosun.com
 @@||static.chartbeat.com/js/chartbeat_mab.js$domain=ny1.com
 @@||static.chartbeat.com/js/chartbeat_mab.js$domain=usatoday.com
 @@||static.chartbeat.com/js/chartbeat_video.js$domain=gamespot.com
 @@||static.criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.homeplus.kr/escrow-web/*/static/js/common/ga.js
-@@||static.klaviyo.com/onsite/js/klaviyo.js$domain=bunkerbranding.com
-@@||static.klaviyo.com/onsite/js/klaviyo.js$domain=complyfoam.com
-@@||static.klaviyo.com/onsite/js/klaviyo.js$domain=productionmusiclive.com
 @@||static.lci.fr/assets/scripts/common/tracker.js?$script,~third-party
 @@||static.lci.fr/assets/scripts/common/user-agent-analyzer.js$script,~third-party
 @@||static.lci.fr/assets/scripts/vendors/smarttag-prod.js
@@ -9957,7 +9952,6 @@ znak.com##.relap
 ||01net.com/e3/nrtv/?u=
 ||01net.com/track/
 ||02.net.zooplus.de^
-||03c844c9-d265-4006-a39d-400e6cb40bb7.xyz^
 ||07.net.zooplus.de^
 ||09-internal.net.zooplus.nl^
 ||09-marketing.09-marketing.net.zooplus.nl^
@@ -10099,7 +10093,6 @@ znak.com##.relap
 ||1cros.net^
 ||1ctc.sfr.fr^
 ||1dmp.io^$third-party
-||1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz^
 ||1freecounter.com^$third-party
 ||1gr.cz/log^
 ||1hb4jkt1u2d.probemas.com^
@@ -16308,6 +16301,7 @@ znak.com##.relap
 ||b.iheart.southwest.com^
 ||b.itravel.southwest.com^
 ||b.iwanna.southwest.com^
+||b.karte.io^
 ||b.koodomobile.com^
 ||b.law.com^
 ||b.lyst.com^
@@ -16329,6 +16323,7 @@ znak.com##.relap
 ||b.travel-assets.com/travel-pixel-js/
 ||b.wal.co/rum.js$domain=samsclub.com
 ||b.your.rewardsemail.dominos.ca^
+||b0.yahoo.co.jp^
 ||b0e8.com^$third-party
 ||b16.nakanohito.jp^$third-party
 ||b1img.com^$third-party
@@ -32157,6 +32152,7 @@ znak.com##.relap
 ||mediator.imgsmail.ru^
 ||mediator.mail.ru^$third-party
 ||mediatraffic.com.ua^$third-party
+||mediatrend.kr/aiDataScript.js
 ||mediatrend.kr/aiDataTrigger?uri=
 ||mediav.com^$third-party
 ||mediawatch.tns-gallup.dk^
@@ -34310,6 +34306,7 @@ znak.com##.relap
 ||niftymaps.com^$third-party
 ||nigelmidnightrappers.com^
 ||nik.io^$third-party
+||nikaraw.com/load_adb
 ||nike.com*/trackingConfig?
 ||nikkei.*/SC/
 ||nikkei.*/SC2/
@@ -34369,6 +34366,7 @@ znak.com##.relap
 ||noa0.compteczam.fr^
 ||nocowanie.pl/plugin/tracking/
 ||nocutnews.co.kr/js/logger*.htm
+||node.aibeacon.jp^
 ||noflake-aggregator-http.narvar.com^
 ||nofraud.com/js/device.js
 ||nofraud.com^*/customer_code.js
@@ -38169,6 +38167,7 @@ znak.com##.relap
 ||rtbiq.com^$third-party
 ||rtc-logger-va.tiktokv.com^
 ||rtc.dymatrix.cloud^
+||rtg-adroute.focas.jp^
 ||rtl.hu/_stat/
 ||rtl.met.vgwort.de^
 ||rtl.nl/system/track/
@@ -44031,7 +44030,6 @@ znak.com##.relap
 ||static.iris.informa.com/widgets/*/iris-t.js
 ||static.iyzipay.com/buyer-protection/assets/js/analytics.js
 ||static.karte.io^$third-party
-||static.klaviyo.com/onsite/js/klaviyo.js
 ||static.krone.at/wcm/donau/extern/anti_adblocker/check.js
 ||static.me.me/static/versions/js/external/google_analytics-*.js
 ||static.metro.co.uk/rta2/
@@ -46302,6 +46300,7 @@ znak.com##.relap
 ||targetab.t-mobile.com^
 ||targetfuel.com^$third-party
 ||targeting.*.arcpublishing.com^
+||targeting.focas.jp^
 ||targeting.tbt.arcpublishing.com^
 ||targeting.voxus.tv^
 ||targeting.washpost.nile.works^
@@ -50969,8 +50968,6 @@ znak.com##.relap
 ||w-api.baomoi.com/api/*/log/
 ||w-profiling.cibc.com^$script
 ||w-profiling.simplii.com^
-||w.ahalogy.com/e?v=
-||w.ahalogy.com/widget/frame?&client=
 ||w.oix.net^
 ||w.smobile.wotif.com^
 ||w020.newmilfordspectrum.com^
@@ -52882,8 +52879,6 @@ znak.com##.relap
 ||yskins.staticsvcgateway.controllerbackender.net.zooplus.com^
 ||ysrrzgku6tar.us.themoneytizer.com^
 ||yst4.torviajes.com^
-||ytn.co.kr/_comm/asplog.php
-||ytn.co.kr/_comm/ylog.php
 ||ytn.co.kr/_comm/ylog.php?
 ||yu987.com^$third-party
 ||yunit.org^$third-party

@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302170254
+! Version: 202302180214
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25988
+! Lenth = 26003
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -7893,6 +7893,7 @@ huya.com###ggcomment
 huya.com###huya-ab
 huya.com###huya-ab-fixed
 huya.com##.J_ad
+huya.com##.end-ab-banner
 huya.com##.j_posterItem[href^="http"]:not([href*=".huya."])
 huya.com##.nav-expand-list #J_tt_hd_category_ad
 huya.com##.room-business-game
@@ -9309,7 +9310,6 @@ motobuy.com.tw##.adbig
 motocity.com.tw###rotator
 movieclassic.net###billboard-modal
 movieclassic.net##.modal-backdrop
-movieffm.net#%#//scriptlet('abort-on-property-write', '__aaZoneid')
 moxing.net##.pic_txt_list
 moxing.net##a[marked][href*=".taobao.com"]
 moyu16.com##.nav-banner
@@ -14797,6 +14797,7 @@ zzzyk.com###Tinfo
 ||bhaoea.cn^
 ||bharalhallahs.com^
 ||bhcwr.cn^
+||bhduan.xyz^
 ||bhicxb.cn^
 ||bhj691.com^
 ||bhj699.com^
@@ -15543,6 +15544,7 @@ zzzyk.com###Tinfo
 ||cmyx.xyz^
 ||cn.bidushe.com^
 ||cn.ntdtv.com/assets/themes/ntd/js/article_ads.js
+||cn3k5.com/images/*.js
 ||cn3k5.com^*_*_
 ||cn6x.com^
 ||cna24.site^
@@ -16345,6 +16347,7 @@ zzzyk.com###Tinfo
 ||drrzzl.cn^
 ||drvsky.com/js/jolimark.gif
 ||ds9e.top^
+||dsfd67.com^
 ||dsfhr.xyz^
 ||dsfsdft4324.xyz^
 ||dshangyan.com/pc/advertising/
@@ -16815,6 +16818,7 @@ zzzyk.com###Tinfo
 ||fangfeng002.xyz^
 ||fangfeng005.xyz^
 ||fangfeng007.xyz^
+||fangfeng009.xyz^
 ||fanghua2.cn^
 ||fanghuzhao.co^
 ||fangshan.us^
@@ -18149,6 +18153,7 @@ zzzyk.com###Tinfo
 ||huhumh.com/js/
 ||huibaihe.net/js/dddd.js
 ||huibaihe.net/static/730-580.
+||huicpu.com^
 ||huidaiqing.com^
 ||huifuhuo.com^
 ||huigun.top^
@@ -18981,6 +18986,7 @@ zzzyk.com###Tinfo
 ||jingyue.co^
 ||jinhonghao.cn^
 ||jinhua.com.cn/ad_pic/
+||jinkens.fun^
 ||jinlubaojie.cn^
 ||jinriguanzhu.cc^$domain=cgfdjz.net
 ||jinrongwang.net^
@@ -19514,6 +19520,7 @@ zzzyk.com###Tinfo
 ||kkkkdm.com/js/comic-
 ||kkkkdm.com/mg/show
 ||kkpgv2.xunlei.com^
+||kkqeqk.cn^
 ||kkuuu.top^
 ||kl-toys.com^
 ||kl87n.xyz^
@@ -20036,6 +20043,7 @@ zzzyk.com###Tinfo
 ||log.music.baidu.com^
 ||log.vdisk.cn^
 ||log2.mtime.cn^
+||loganfeels.com^
 ||logoquan.com/upload/prd/
 ||loispp.com^
 ||loldyttw.com/blr.js
@@ -20399,6 +20407,7 @@ zzzyk.com###Tinfo
 ||medsci.cn/images/wyg.jpg
 ||meibiisheng.com^
 ||meidd.cyou^
+||meiguixsw.com/images/*.js
 ||meihaoxiangwang.com^
 ||meiju22.com/new/Public/gg.js
 ||meiju8.cc/js/jquery.p.min.js
@@ -20852,6 +20861,7 @@ zzzyk.com###Tinfo
 ||nbhotpo.com^
 ||nchte.com^
 ||ncoeqz.today^
+||ncrkff.xyz^
 ||ncvkzz.cn^
 ||nczsks.com/SCWB/WebResource.axd
 ||ndfqoqo.cn^
@@ -21203,6 +21213,7 @@ zzzyk.com###Tinfo
 ||op7s.top^
 ||opalaix.cn^
 ||opapxq.com^
+||opeci.cyou^
 ||opeem.cyou^
 ||open8.cn^$third-party
 ||opengam.com^
@@ -21310,6 +21321,7 @@ zzzyk.com###Tinfo
 ||p1.chinakaoyan.com^
 ||p1.qxzsw.com^
 ||p1.zhongyoo.com^
+||p23jac.top^
 ||p2p.v.yyclouds.com/crossdomain.xml
 ||p2peye.com/ajax.php?mod=ad&
 ||p2peye.com/ajax.php?mod=advertisement&
@@ -21863,6 +21875,7 @@ zzzyk.com###Tinfo
 ||qisafniy.space^
 ||qishenga.com^*.gif$domain=meiju11.com
 ||qishuk.com/css/wap.
+||qitou20230204.live^
 ||qiutian.buzz^
 ||qiuw.com/static/xin-ad.js
 ||qiuyi.cn/Baojian/
@@ -23679,6 +23692,7 @@ zzzyk.com###Tinfo
 ||txmsw.mobi^
 ||txnnhz.cn^
 ||txnwq.xyz^
+||txtcw.cn^
 ||txtxr.com^
 ||txzlc.cn^
 ||txzqw.*/js/float.js
@@ -23868,6 +23882,7 @@ zzzyk.com###Tinfo
 ||uoowu.com/a/zh*.js
 ||uooyoo.com/hz/*str.js
 ||uorlsblg.cyou^
+||uowfag.xyz^
 ||uoyrsd.com^
 ||up.hiao.com^
 ||up.qingdaonews.com/up/$object,script
