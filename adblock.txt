@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302180214
+! Version: 202302190210
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26003
+! Lenth = 26024
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1268,6 +1268,8 @@
 ##a[href*="/x5092.com"]
 ##a[href*="/x5123.cc"]
 ##a[href*="/x7458.cc"]
+##a[href*="/x7673.cc"]
+##a[href*="/x8345.cc"]
 ##a[href*="/x9658.cc"]
 ##a[href*="/xapps5.xyz"]
 ##a[href*="/xchina.fun/redirect/ad"]
@@ -9669,6 +9671,7 @@ ooopic.com##.fix-newUser
 ooopn.com###ab-left
 ooopn.com##a[href*="/jump.html"]
 oops.udn.com#?##wrapper > #mainbar > .area:not(#story):not(#comments):-abp-has(> h3 > a[href]:contains(商品推薦))
+opdown.com##.cq-recom
 opdown.com##.gxxz-btn
 opdown.com##.listaddrs
 opticsky.cn###head > .tac
@@ -13114,6 +13117,7 @@ zzzyk.com###Tinfo
 ||682891.com^
 ||6868edu.com^
 ||68710266.com^
+||6888i.top^
 ||693836.com^$popup
 ||69688qp.com^
 ||69adu.com/bootstrap.
@@ -13908,6 +13912,7 @@ zzzyk.com###Tinfo
 ||aiedduop.cyou^
 ||aiedwhb.cn^
 ||aifei0755.net/123/
+||aifwjekfe.xyz^
 ||aiggkj.cn^
 ||aigzk.com^
 ||aihkjz.cn^
@@ -13954,6 +13959,7 @@ zzzyk.com###Tinfo
 ||aizhan.com/images/img/ios-sign.png
 ||aizhan.com/imagesa/
 ||aj4j.icu^
+||ajfkwwpo.xyz^
 ||ajiez.com^
 ||ajkcdpm.cn^
 ||ajwssds.com^
@@ -14607,6 +14613,7 @@ zzzyk.com###Tinfo
 ||bcc878.com/js/abc/
 ||bccnsoft.com/aac/
 ||bceapp.com/jj/1716mid.js
+||bcebos.com/725c659194eeebb8c6b970e52e2dc8aa.
 ||bcebos.com/ad/
 ||bcebos.com/contentAdSecend_
 ||bchina-1.xsfaya.com^
@@ -14657,6 +14664,7 @@ zzzyk.com###Tinfo
 ||bdcode.youke.com^
 ||bdcpro*.techweb.com.cn^
 ||bdcse.xyz^
+||bddwm.com^
 ||bdgg.qjy168.com^
 ||bdhcpll.cn^
 ||bdimg.com/brands/yxtg/source/juhe-v2.js
@@ -17426,6 +17434,7 @@ zzzyk.com###Tinfo
 ||googlesyndication.com/safeframe/$third-party
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=ani.gamer.com.tw
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=gamer.com.tw,important
+||gooooogle.xyz^
 ||goopi.cyou^
 ||goproxy.cc/api.php
 ||gotadd.cn^
@@ -17542,6 +17551,7 @@ zzzyk.com###Tinfo
 ||guang.sdsgwy.com^
 ||guang1.zhakao.cn/common/ni_h/common/ffx_f/ek.js
 ||guang1.zhakao.cn^
+||guangdongtaiji.com^
 ||guanggao1257.com^
 ||guanggaolianmeng.net/plushuan/ad_js.php?aid=
 ||guangweixinxi345.cn^
@@ -17689,6 +17699,8 @@ zzzyk.com###Tinfo
 ||haiyunx.com^$third-party
 ||haizirv.cn^
 ||handanxinkai.com^
+||handukeji.top^
+||handuwl.top^
 ||hangchen.icu^
 ||hangoutairbags.com^
 ||hanjutv2020.com/index.php?c=dudu_
@@ -18351,6 +18363,7 @@ zzzyk.com###Tinfo
 ||idy666.com^
 ||ieatlu.xyz^
 ||iecetun.cn^
+||ieda.live^
 ||ieeod0.com^$popup
 ||ieeod0.com^$third-party
 ||ieforex.com/r/cms/www/red/red2/images/*0.
@@ -20999,6 +21012,7 @@ zzzyk.com###Tinfo
 ||nmidhnz.cn^
 ||nmrlx.cn^
 ||nmsl.ink^
+||nmtibv.xyz^
 ||nmtlgbv.cn^
 ||nmwbank.cn^
 ||nngzfd.cn^
@@ -21221,6 +21235,7 @@ zzzyk.com###Tinfo
 ||openxt.cn^
 ||opgge.xyz^
 ||ophwrh.cn^
+||opikervop.xyz^
 ||opiwb.com^
 ||oppu778.top^
 ||oprmewb.cn^
@@ -21243,6 +21258,7 @@ zzzyk.com###Tinfo
 ||orzx.im/Document/recommend/flashpoint.html
 ||orzx.im/Document/union/
 ||orzx.im/js/*pop
+||osalwqv.cn^
 ||oschina.net/promotion/
 ||oschina.net/uploads/ad/
 ||oschina.net/uploads/cooperation/
@@ -21584,6 +21600,7 @@ zzzyk.com###Tinfo
 ||poke88.com^
 ||pokeryun.site^
 ||polflq.cn^
+||polkmerty.xyz^
 ||polkmnhytgb.com^
 ||pongsone.uno^
 ||ponymi.xyz^
@@ -21719,6 +21736,7 @@ zzzyk.com###Tinfo
 ||qanduan.com^
 ||qaolyke.cn^
 ||qaops.jgwsmqx.com^$third-party
+||qaou.top^
 ||qapsmny.cyou^
 ||qarsza.cn^$third-party
 ||qasqs.com^
@@ -23949,6 +23967,7 @@ zzzyk.com###Tinfo
 ||uxxux.com/js/zd.js
 ||uyjhbawd.xyz^
 ||uyueread.com^
+||uyydww.xyz^
 ||uyzdcun.cn^
 ||uz4cb.cn^
 ||uzerzn.cn^
@@ -24790,6 +24809,7 @@ zzzyk.com###Tinfo
 ||xingyou64.xyz^
 ||xingyou65.xyz^
 ||xingyou69.asia^
+||xingyou70.asia^
 ||xingyou71.asia^
 ||xingyuanaigaowei.love^
 ||xingzhu.top^
@@ -25326,6 +25346,7 @@ zzzyk.com###Tinfo
 ||youdao.com/rlog.php
 ||youdao.com/tl?
 ||youdao.com/www/banner.html
+||youed.cyou^
 ||youhuixia1210.cn^
 ||youhuotiyu.asia^
 ||youivr.com/image/*-960x80
@@ -25389,7 +25410,7 @@ zzzyk.com###Tinfo
 ||ysapp20.xyz/slf120.
 ||ysapp20.xyz^*.gif
 ||ysclub.top^
-||ysdm.ys137.com.cn^
+||ysdm*.ys137.com.cn^
 ||ysgekq.xyz^
 ||ysjkbk.com^
 ||ysjwj.com^

@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302180214
+! Version: 202302190210
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53121
+! Lenth = 53124
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -4116,6 +4116,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /mystats2.px?
 /nLoggerJB_
 /nStat/*
+/naLogImpressions?
 /nano.wasm
 /natero_analytics.
 /native-tag.
@@ -23137,6 +23138,7 @@ znak.com##.relap
 ||docomo.ne.jp/js/beacon.js
 ||docomo.ne.jp/scripts/retargeting/retargeting.js
 ||docs.github.com/events
+||docs.google.com/forms/*/naLogImpressions^
 ||docyjy.ryderwear.com^
 ||dodsdexonline.dexknows.com^
 ||dog.christinamoore.us^
@@ -38241,6 +38243,7 @@ znak.com##.relap
 ||run.app/metrics/
 ||run.crtx.info/track.min.js
 ||rup5.destinia.ru^
+||ruralrobin.com^
 ||rushlane.com/*/ga-*.js
 ||rushmemorial.hrm.healthgrades.com^
 ||ruslab.net/a/p.js
