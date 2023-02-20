@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302190210
+! Version: 202302200245
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53124
+! Lenth = 53128
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7002,6 +7002,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||canada.com/js/ooyala/comscore.js
 @@||canadiantire.ca^*/analytics.sitecatalyst.js
 @@||care2.com/assets/scripts/cookies/care2/NitroCookies.js
+@@||caritas-international.de^*/analyticsmediator.js$domain=caritas-international.de
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
@@ -9167,6 +9168,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||tag.aticdn.net/*/smarttag.js$domain=rte.ie
 @@||tag.aticdn.net/*/smarttag.js$domain=uktvplay.uktv.co.uk
 @@||tag.aticdn.net/583901/at.js$script,domain=tv5monde.com
+@@||tag.aticdn.net/piano-analytics.js$domain=yourstory.com
 @@||tag.aticdn.net^*/smarttag.js$domain=gouv.fr|mon.compteczam.fr
 @@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk
 @@||tag.md-nx.com^$script,domain=weather.us
@@ -16037,6 +16039,7 @@ znak.com##.relap
 ||athenainstitute.biz^$third-party
 ||athl.lsusports.net^
 ||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
+||ati-host.net/event?
 ||ati-host.net/hit.xiti?s=
 ||ati.sazka.cz^
 ||atinternet.com^
@@ -17714,6 +17717,7 @@ znak.com##.relap
 ||carte.fleet-page.total.fr^
 ||carts.guru^$third-party
 ||cartstack.com^$third-party
+||carvecakes.com^
 ||carvecakes.com^$third-party
 ||carview.co.jp/include_api/log/
 ||carzbz.braincandy.net^
