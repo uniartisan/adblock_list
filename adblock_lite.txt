@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202302210230
+! Version: 202302220238
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23420
+! Lenth = 23434
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -1993,6 +1993,7 @@
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
 @@||koyi.pub/wp-content/plugins/fuzqing-ad-plus/assets/js/*.js
+@@||ksapisrv.com/rest/wd/common/log/collect/
 @@||l.qq.com/lview?$domain=888.sports.qq.com
 @@||lager.com.tw/images/layer6_adbanner/
 @@||lancdn.com/landian/public/js/ads.js
@@ -11339,6 +11340,7 @@ zzzyk.com###Tinfo
 ||akabebe.com/jgg/*.gif
 ||akamaihd.net^*/gsd.html?d=
 ||akamaihd.net^*/sid.html?p=
+||akdashang.vip^
 ||akfdpto.cn^
 ||akfhe.xyz^
 ||akk1556.com^
@@ -12375,6 +12377,7 @@ zzzyk.com###Tinfo
 ||brysogsiv.uno^
 ||bs.baidu.com/app-ads%
 ||bs777.net^$third-party
+||bs7li.cn^
 ||bsaq5.cn^
 ||bsfishing.cn^
 ||bshare.cn/bshare_view?Callback=
@@ -12832,6 +12835,7 @@ zzzyk.com###Tinfo
 ||chubun.com/uploads/pic/img
 ||chucity.com^
 ||chudongcaiwu.xyz^
+||chumeng.link^
 ||chunmiaosh.com^
 ||chuntian.buzz^
 ||chunyuqiufeng.com^
@@ -13715,6 +13719,7 @@ zzzyk.com###Tinfo
 ||dqh.ink^
 ||dqhxczj.cn^
 ||dqruhue.cn^
+||dqzirj.xyz^
 ||dqzsteel.com/Website/Image/Index/ytgg.gif
 ||dr.atwoodubre.com^$third-party
 ||dr.mlcuzee.cn^
@@ -14366,6 +14371,7 @@ zzzyk.com###Tinfo
 ||fmhua.com/template/*/images/g_js/*.html
 ||fmzcdvx.cn^
 ||fmzxing.pw^
+||fn9u.fun^
 ||fnkio.cyou^
 ||fo.iphonevip.cn^$third-party
 ||fobshanghai.com/bbsad/
@@ -15052,6 +15058,7 @@ zzzyk.com###Tinfo
 ||hackhw.com/ckjs/
 ||hackp.com/im/
 ||hades.qyer.com^
+||haejkmm.cn^
 ||hahamx.cn/images/banner/
 ||hahamx.cn/images/float-ad/
 ||hahamx.cn/images/market/
@@ -16421,6 +16428,7 @@ zzzyk.com###Tinfo
 ||jiulela.ltd^
 ||jiulingdl.cn^
 ||jiutiao20221212.xyz^
+||jiutou20230210.live^
 ||jiuyuntian3.cn/vs.php?id=
 ||jiuzhilan.com^$third-party
 ||jiwekawe.top^
@@ -16625,6 +16633,7 @@ zzzyk.com###Tinfo
 ||juapp5.com/geek_image/chaopai.jpeg
 ||jubudayu.com^
 ||jueditt.top^
+||juejin.cn/content_api/v1/advert/query_adverts?
 ||jufengputao.com^
 ||jugboja.cn^
 ||juhn.cn^
@@ -16794,6 +16803,7 @@ zzzyk.com###Tinfo
 ||kbneks00.online^
 ||kc.gouchezj.com^
 ||kccdk.com/Content/img/*.gif
+||kcedmk.xyz^
 ||kcfuzhj.cn^
 ||kcgkxha.cn^
 ||kcmomkn.cn^
@@ -17798,6 +17808,7 @@ zzzyk.com###Tinfo
 ||me360.com/swt/swt.js
 ||me511.win^
 ||me680.com/js/*.js
+||mecop.cyou^
 ||med66.com/lamu/
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
 ||medsci.cn/aimgs/$script
@@ -18225,6 +18236,7 @@ zzzyk.com###Tinfo
 ||n0611.com^
 ||n0622.com^
 ||n0633.com^
+||n0644.com^
 ||n1hf.cn^
 ||n2.hk/apps/car_feed/tb/*/banner.html
 ||n2.hk/promo/
@@ -19639,6 +19651,7 @@ zzzyk.com###Tinfo
 ||rijutv.*/statics/js/tb.js
 ||rijutv.*/statics/skin/hjtv-wap/js/plus.js
 ||rijutv.*/uploadfile/8c96dc2f564c1b56.png
+||rikqo.cc^
 ||rinc.ink^
 ||rinn.love^
 ||ripplestika.site^
@@ -21570,6 +21583,7 @@ zzzyk.com###Tinfo
 ||vvsbwny.cn^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
+||vw66i.top^
 ||vwocvgr.cn^
 ||vwvjzd.xyz^
 ||vx2e.top^
