@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302220238
+! Version: 202302230223
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26049
+! Lenth = 26065
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -5746,8 +5746,8 @@ bmlink.com##.fixedBg
 bmlink.com##.tg
 bmvc2020-conference.com#@#div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 bnext.com.tw##div[id^="sponsor-"]
-boce.com##.money_box
 boce.com##.page10Box1 > a[href^="http"]:not([href*="boce."])
+boce.com##div[class^="money"]
 bodu365.co###iside
 bog.ac##.sidebar-url
 boke112.com###linkdh
@@ -8611,8 +8611,8 @@ jrj.com.cn##.bd.pa10.bgn
 jrj.com.cn##.jrj-ad
 jrj.com.cn##.piboxtwo
 jrj.com.cn##.wbyy
-jrlt1.xyz###hd + .wp
-jrlt1.xyz##a[href^="ad."]
+jrlt.cc###hd + .wp
+jrlt.cc##a[href^="ad."]
 jrzj.com##a[href^="http"]:not([href*=".jrzj."]) > img[src^="https://img."]
 js0573.com###adv1
 js0573.com###adv2
@@ -12043,6 +12043,7 @@ zzzyk.com###Tinfo
 ||115img.com/static/115tj.js
 ||115img.com/static/pc/d_
 ||115mm.com/js/
+||1170555.com^
 ||118114.cn^$third-party
 ||1188.com^$third-party
 ||119.29.207.87^
@@ -12321,6 +12322,7 @@ zzzyk.com###Tinfo
 ||222.186.12.235^
 ||222xs.com/js/greentea.js
 ||22588888.com^$popup
+||228tuchuang.com^
 ||22fssv.com^
 ||22pixx.xyz/l/
 ||23.224.89.2^$third-party
@@ -13481,6 +13483,7 @@ zzzyk.com###Tinfo
 ||9ead.com^$third-party
 ||9eu7c.top^
 ||9ez.me/embd.php?type=
+||9f11.win^
 ||9f1i3az.cn^
 ||9go.mobi^
 ||9h5qq.cn^$third-party
@@ -13832,6 +13835,7 @@ zzzyk.com###Tinfo
 ||afrazanna.com^
 ||afryxia.cn^
 ||afvmusm.cn^
+||afx001.pw^
 ||afzhan.com/JavaScript/ad_Couplet.js
 ||ag1.zuszw.com^
 ||agathazanna.com^
@@ -14801,6 +14805,7 @@ zzzyk.com###Tinfo
 ||bhpprfk.cn^
 ||bhsvlym.cn^
 ||bhujiwwb.top^
+||bhulgot.com^
 ||bhxgvvk.cn^
 ||bhyddc.com^
 ||bian-min.com/javascript/a/detail.js
@@ -15547,6 +15552,7 @@ zzzyk.com###Tinfo
 ||cn.bidushe.com^
 ||cn.ntdtv.com/assets/themes/ntd/js/article_ads.js
 ||cn3k5.com/images/*.js
+||cn3k5.com/requestData.
 ||cn3k5.com^*_*_
 ||cn6x.com^
 ||cna24.site^
@@ -16080,6 +16086,7 @@ zzzyk.com###Tinfo
 ||dfes68.com^
 ||dfggq.com^
 ||dfghaqea.xyz^
+||dfhdsi.cc^
 ||dfkd.xyz^
 ||dfncojkle.xyz^
 ||dfpdz.top^
@@ -18482,6 +18489,7 @@ zzzyk.com###Tinfo
 ||ikimhg.xyz^
 ||ikjnwd.xyz^
 ||ikjocef.cn^
+||iknwqdpo.xyz^
 ||ikoplvp.cn^
 ||ikrweb.cn^
 ||ikstatic.cn^*.gif
@@ -18906,6 +18914,7 @@ zzzyk.com###Tinfo
 ||jgcyjx.cn^
 ||jghmrie.cn^
 ||jgnlaiga.fun^
+||jgqub.cn^
 ||jgstny.com^$third-party
 ||jh3pin.com^
 ||jhgtf.com^
@@ -19744,6 +19753,7 @@ zzzyk.com###Tinfo
 ||l7kuyg.site^
 ||l90.xyz^
 ||laafrce.cn^
+||labgpz.xyz^
 ||labuladong.github.io/algo/pictures/ad/
 ||lacerate.club^
 ||lady177.com^$popup
@@ -19816,6 +19826,7 @@ zzzyk.com###Tinfo
 ||lbazhaheil.top^
 ||lbbyft.cn^
 ||lbjc.xyz^
+||lbk7p.cn^
 ||lbx777.*/css/300.js
 ||lbx777.*/css/lbxgg02
 ||lbzx.xyz^
@@ -20679,6 +20690,7 @@ zzzyk.com###Tinfo
 ||mps.wenkuzu.com^
 ||mpymea.xyz^
 ||mq.d6s3mov.cn^$third-party
+||mq65.top^
 ||mqjeut5.com^
 ||mql5.com/rq?
 ||mqnggnsx.fun^
@@ -22883,6 +22895,7 @@ zzzyk.com###Tinfo
 ||smartmuchang.com^
 ||smfierf.xyz^
 ||smfjfgie.xyz^
+||smgbka.xyz^
 ||smgjupy.cn^
 ||smhossi.cn^
 ||smilk.cc^
@@ -23185,6 +23198,7 @@ zzzyk.com###Tinfo
 ||svm6ryo.cn^
 ||svnfgib.cn^
 ||swadakesb.cyou^
+||swill.icu^
 ||swlmd.com^
 ||swml.xyz^
 ||swogldb.top^
@@ -23789,6 +23803,7 @@ zzzyk.com###Tinfo
 ||u22066.com^
 ||u22077.com^
 ||u22088.com^
+||u22099.com^
 ||u23011.com^
 ||u23022.com^
 ||u23033.com^
@@ -25559,6 +25574,7 @@ zzzyk.com###Tinfo
 ||yyo876.com^*.php
 ||yyp17.com^
 ||yypd.top^
+||yyrgz.cn^
 ||yyrrw.top^
 ||yystzl.cn^
 ||yyttc.top^

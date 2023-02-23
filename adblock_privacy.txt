@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302220238
+! Version: 202302230223
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53742
+! Lenth = 53746
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -9850,6 +9850,7 @@ reelrundown.com#%#//scriptlet('prevent-fetch', 'uid.mavencoalition.io')
 returnpath.net/pixel.gif$image
 reuters.com###taboola-recirc
 reuters.com#%#//scriptlet('set-local-storage-item', 'ajs_anonymous_id', 'null')
+reverso.net#%#//scriptlet('set-constant', 'rumjs.business.setManualConsent', 'noopFunc')
 revv.co.in#%#(()=>{window.google_optimize={get(){}}})();
 russianbeauties.jp###secondary-column > div.text-recommend
 salesforceiq.com/t.png$image
@@ -33817,6 +33818,7 @@ znak.com##.relap
 ||mixedreading.com^
 ||mixedreading.com^$third-party
 ||mixi.mn^$third-party
+||mixi.net/static/js/build/mixi-analysis.production.js
 ||mixnews.lv/wp-content/uploads/perfmatters/gtagv*.js
 ||mixomniture.rbs.com^
 ||mixpanel-proxy.ted.com^
@@ -40581,6 +40583,7 @@ znak.com##.relap
 ||simply.lucanet.com^
 ||simplycast.us^$third-party
 ||simplymeasured.com^$third-party
+||sina.cn^$cookie=recent_visited
 ||sina.com.cn/view?
 ||sinajs.cn/open/analytics/
 ||sinajs.cn/open/analytics/$third-party
@@ -45949,6 +45952,7 @@ znak.com##.relap
 ||surfertracker.com^$third-party
 ||surfingbird.ru/api/similar_pages.js$third-party
 ||surfingbird.ru/js/b2b.min.js$third-party
+||surfsnow.jp/common/js/analytics_
 ||survey.interquest.com^
 ||survey.io/log?
 ||surveymonkey.com/collect/$third-party
