@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302230223
+! Version: 202302240255
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26065
+! Lenth = 26083
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1165,6 +1165,8 @@
 ##a[href*="/3kmg.top"]
 ##a[href*="/445.ee/"]
 ##a[href*="/51236.cc"]
+##a[href*="/55915v.com:"]
+##a[href*="/595tz483.cc"]
 ##a[href*="/602034.com"]
 ##a[href*="/6298crsyzh.com:"]
 ##a[href*="/682kg.com"]
@@ -3779,8 +3781,8 @@ $websocket,domain=5nj.com|cechi8.com
 91lai.com##.showimgs
 91porn.com##.preroll-blocker
 91porn.com##iframe[src$="/fans/ad.php"]
-91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz##.container-fluid.p-0[class*="mb-"]
-91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz##.jsv-g1
+91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.container-fluid.p-0[class*="mb-"]
+91porny.com,9s102.xyz,jiuse205.com,jiuse390.xyz,jiuse970.com##.jsv-g1
 91rb99.com##.top
 91wenmi.com###xiezuo
 91wenmi.com###xzsp
@@ -4418,6 +4420,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||edgesuite.net^*/ad.css?
 @@||edmondpoon.com^$generichide
 @@||edu.cn^*/ad.css?$stylesheet
+@@||ekamus.info^$generichide
 @@||elife-cloud.blogspot.com^$generichide
 @@||em.hk/wp-content/uploads/*_300_250.
 @@||emome.net/files/advertising/
@@ -4711,7 +4714,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|myqqjd.com|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=m.twfanti.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
@@ -11256,6 +11259,7 @@ weibo.com##.tag_showTopicL[href^="https://shop.sc.weibo.com/"]
 weibo.com##div[ad-data]
 weibo.com##div[class^="HotTopic_doticon_"] + div[class^="HotTopic_tit_"]
 weibo.com##div[feedtype="ad"]
+weibo.com#$?#.card-wrap:-abp-has(> .card-top > .s-fr:contains(广告)) { remove: true; }
 weibo.com#?#.card-content > ul > li:-abp-has(> p > .icon-txt-recommend)
 weibo.com#?#.card-content > ul > li:-abp-has(>a[action-type="realtimehot_ad"])
 weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
@@ -15917,6 +15921,7 @@ zzzyk.com###Tinfo
 ||dadilan2.online^
 ||dadjia.com^
 ||daf-rs.com/imageViewer/wpAd
+||dagamemisdeed.com^
 ||dagou2018.com/js/item
 ||dagumanhua.com/style/mdagu.js
 ||dahaifa.com^
@@ -16109,6 +16114,7 @@ zzzyk.com###Tinfo
 ||dhgxl8qk9zgzr.cloudfront.net/js/log.js
 ||dhhpm.cn^
 ||dhl.135320.com^
+||dhl4.xyz^
 ||dhlmy.com^
 ||dhm1.top^
 ||dhrfnyw.xyz^
@@ -17586,6 +17592,7 @@ zzzyk.com###Tinfo
 ||gumgo.cn^$third-party
 ||gunmi.cn^$third-party
 ||guntang.me^
+||guode.cyou^
 ||guojinfeng123.top^
 ||guojitv.com/m/ad/
 ||guojitv.com/m/js/ad_
@@ -20023,6 +20030,7 @@ zzzyk.com###Tinfo
 ||ljth.hk^
 ||ljwckj.love^
 ||lk.4jzl.cn^$third-party
+||lkdhlp.xyz^
 ||lkjrx.xyz^
 ||lknmnnr.xyz^
 ||lksdj.com^
@@ -20859,6 +20867,7 @@ zzzyk.com###Tinfo
 ||n0399.com^
 ||n0488.com^
 ||n0499.com^
+||n0544.com^
 ||n0566.com^
 ||n0611.com^
 ||n0622.com^
@@ -20896,6 +20905,7 @@ zzzyk.com###Tinfo
 ||nbgsintl.com^
 ||nbheopi.cn^
 ||nbhotpo.com^
+||nccaer.xyz^
 ||nchte.com^
 ||ncoeqz.today^
 ||ncrkff.xyz^
@@ -20947,6 +20957,7 @@ zzzyk.com###Tinfo
 ||newume.com/v1/data/ume-
 ||newyx.net^*/down_yd.js
 ||nex.163.com/q?
+||nexyzh.com^
 ||nfmovies.com/pic/tu/*_863x59.
 ||nfmovies.com/pic/tu/*_banner
 ||nfmovies.com/pic/tu/a191124002.
@@ -21142,6 +21153,7 @@ zzzyk.com###Tinfo
 ||o.phb123.com^
 ||o06.xyz^
 ||o0dn.icu^
+||o0pvw.cn^
 ||o1.jyjyj.cn^
 ||o2vcb5uw.site^
 ||o6rc.xyz^
@@ -21734,6 +21746,7 @@ zzzyk.com###Tinfo
 ||pvzdrx.cn^
 ||pw321.com/bulu/
 ||pw321.com^*.gif
+||pwcuu.cn^
 ||pwjmzqx.cn^
 ||pwoqauh.cn^
 ||pwqtkap.cn^
@@ -22112,6 +22125,7 @@ zzzyk.com###Tinfo
 ||qunar.com/render/googlesem.jsp
 ||qunar.com/vata?chan=
 ||qunar.com/vataframe/b.html?
+||qunaw.cyou^
 ||qunlove.com^*.gif
 ||quxiangkeji.cn^$third-party
 ||qvbwras.cn^
@@ -22646,6 +22660,7 @@ zzzyk.com###Tinfo
 ||shcd.me^
 ||shcy3.com^
 ||shcylxl.com^
+||sheena.ltd^
 ||shejiben.com/common/libs/layer.js
 ||shejiben.com/common/widgets/ui/*zb.js
 ||shen4club.com/style/*.js?v=
@@ -23198,6 +23213,7 @@ zzzyk.com###Tinfo
 ||svm6ryo.cn^
 ||svnfgib.cn^
 ||swadakesb.cyou^
+||swicgq.xyz^
 ||swill.icu^
 ||swlmd.com^
 ||swml.xyz^
@@ -25617,8 +25633,8 @@ zzzyk.com###Tinfo
 ||z1.pclady.com.cn^
 ||z1hihu.xmcimg.com^
 ||z2x5c8.com^$image,domain=hihbt.com
-||z4a.net^
 ||z4a.net^$domain=aotu43.com
+||z4a.net^*/960x
 ||z66ggsh.top^
 ||z82v0.icu^
 ||zacao.wang^
@@ -25649,8 +25665,10 @@ zzzyk.com###Tinfo
 ||zbzbzzz.top^
 ||zc173.com/173fee/
 ||zcaijing.com/images/
+||zcck60eqyw.world^
 ||zcfhi.cn.com^
 ||zchange.xyz^
+||zchkz.cn^
 ||zcmnffq.cn^
 ||zcrui.com^
 ||zczcvx.com^
