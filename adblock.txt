@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302240255
+! Version: 202302250223
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26083
+! Lenth = 26097
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1962,6 +1962,7 @@ $websocket,domain=5nj.com|cechi8.com
 /aipai/player/game_video/videoAdvert_
 /ajax/ad/*
 /ajds/*
+/ajjsjfsk/*
 /ajs.php?
 /alljs/alldl.js
 /alljs/allfoot.js
@@ -12261,6 +12262,7 @@ zzzyk.com###Tinfo
 ||1fzw.com/content/templates/zjbnew/yxj.js
 ||1haosuo.com^
 ||1jsskipuf8sd.com^
+||1kanz.cn^
 ||1kcx.hk^
 ||1ketang.com/Runtime/js/play
 ||1kmb.cn^
@@ -13844,6 +13846,7 @@ zzzyk.com###Tinfo
 ||ag1.zuszw.com^
 ||agathazanna.com^
 ||agjy6.com^
+||agkacg.xyz^
 ||agnezanna.com^
 ||agogo.tv/images//uploads/ad/
 ||agrantsem.com/js/ag.js
@@ -13966,6 +13969,7 @@ zzzyk.com###Tinfo
 ||akdashang.vip^
 ||akfdpto.cn^
 ||akfhe.xyz^
+||akh2o.cn^
 ||akk1556.com^
 ||akmh001.vip^
 ||akmh043.vip^
@@ -15899,6 +15903,7 @@ zzzyk.com###Tinfo
 ||d6262.com^$popup
 ||d67p.com/love/
 ||d768p7cn.cn^
+||d7i.cn^
 ||d7y5grtl.site^
 ||d86.xyz^
 ||d8962a.xyz^
@@ -17929,6 +17934,7 @@ zzzyk.com###Tinfo
 ||hgbvtax.cn^
 ||hggtt.top^
 ||hgibbei.cyou^
+||hgsly.buzz^
 ||hguas.com^
 ||hgyouxi.com/data/hgyouxiad/
 ||hgyouxi.net/source/plugin/hgyouxiad/
@@ -21007,6 +21013,7 @@ zzzyk.com###Tinfo
 ||niuguwang.net.cn^
 ||niuhe.xyz^
 ||niulai0323166.space^
+||niumeng.xyz^
 ||niunai.buzz^
 ||niuspykmn.bar^
 ||niuxgame77.com^
@@ -21230,6 +21237,7 @@ zzzyk.com###Tinfo
 ||okokw.com^$third-party
 ||okooo.com/I/?method=system.data.ad&
 ||okwan.cn^
+||okwg.top^
 ||ol-img.com/channel/tuku/js/tukuPopup.js
 ||oladyip.cn^
 ||oldart.shop^
@@ -21691,6 +21699,7 @@ zzzyk.com###Tinfo
 ||programmer-club.com.tw/images/uuu/
 ||property.hk/js/adside.js
 ||propsad.com^
+||prplads.com^
 ||prssifu.cn^
 ||prtgurh.cn^
 ||prudence.love^
@@ -22561,6 +22570,7 @@ zzzyk.com###Tinfo
 ||sdbeta.com/statics/mystyle/js/1
 ||sdd.hi1718.com^
 ||sdfafds6.com^
+||sdfg68.com^
 ||sdfjtwp.com^
 ||sdfv66.com^
 ||sdfxv57.com^
@@ -22616,6 +22626,7 @@ zzzyk.com###Tinfo
 ||sfnmt.com/dq/
 ||sfsft.com/ckplayer/1config.js
 ||sfstfiz.cn^
+||sfsxl.xyz^
 ||sfzztox.cn^
 ||sganilglb.cyou^
 ||sgdgh15.com^
@@ -23695,6 +23706,7 @@ zzzyk.com###Tinfo
 ||tuangou.pro^
 ||tuape.xyz^
 ||tucao.cam/uploadfile/*/300-86.
+||tuffhf.xyz^
 ||tufsjnk.cn^
 ||tugflmw.cn^
 ||tui.cnzz.net^$third-party
@@ -24834,6 +24846,7 @@ zzzyk.com###Tinfo
 ||xiazaizhijia.com/w2/js/wxzzj.js
 ||xibpbov.cn^
 ||xibqq.xyz^
+||xiehao.me^
 ||xiexingcun.com/tongji.js
 ||xiexingcun.com/tyong.js
 ||xiezhong.club^
@@ -24978,6 +24991,7 @@ zzzyk.com###Tinfo
 ||xoimg.com^$domain=18board.com|18p2p.com
 ||xonlines.com/upload/gg/
 ||xonlines.com/yyh_qp_200_200.png
+||xopew.cyou^
 ||xorlsblw.cyou^
 ||xox8829.com^
 ||xox8863.com^

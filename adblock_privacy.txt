@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302240255
+! Version: 202302250223
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53751
+! Lenth = 53760
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -1530,7 +1530,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /analytics.google.js
 /analytics.html?
 /analytics.init.js
-/analytics.js$domain=freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp
+/analytics.js$domain=freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -9655,6 +9655,7 @@ cyber.dabamos.de#@#img[width="88"][height="31"]
 dealdoktor.de##img[src*="//vg09.met.vgwort.de/"]
 demae-can.com#%#//scriptlet('remove-attr', 'data-trm-action|data-trm-category|data-trm-label', '.trm_event')
 diamond.jp###main-column > article > div.main-special
+digi.no##img[src^="https://ish.tumedia.no/ish_tracker.gif"]
 directtrack.*.js
 dizibey.com##.sidebar > #text-19
 dokonline.com###Counters
@@ -19045,6 +19046,7 @@ znak.com##.relap
 ||collector-hpn.ghostery.net^
 ||collector-medium.lightstep.com^
 ||collector-px0py5pczn.octopart.com^
+||collector-videoplayer.5centscdn.net^
 ||collector.apester.com^
 ||collector.api.video^
 ||collector.appconsent.io^
@@ -27319,6 +27321,7 @@ znak.com##.relap
 ||halibut.codehooks.io^
 ||halibut.phytype.com^
 ||halifax-online.co.uk/scripts/16c9d93d/
+||halktv.com.tr/stats/
 ||halldata.com^$third-party
 ||haloscan.com^$third-party
 ||halsa.tns-gallup.dk^
@@ -28518,6 +28521,7 @@ znak.com##.relap
 ||impress.vcita.com^
 ||impression.appsflyer.com^
 ||impression.link^$third-party
+||impressionmedia.cz/statistics/
 ||improvely.com^$third-party
 ||improving.duckduckgo.com^
 ||improving.wuzhuiso.com^
@@ -29673,6 +29677,7 @@ znak.com##.relap
 ||jtracking.lulusoft.com^
 ||jtxrou.saucony.com^
 ||jtyutq.chaussures.fr^
+||jubbie.de^
 ||jubii.tns-gallup.dk^
 ||jubiitag.dk^$third-party
 ||jufhxk.audienhearing.com^
@@ -34560,6 +34565,7 @@ znak.com##.relap
 ||nedstatpro.net^$third-party
 ||needle.com/pageload?
 ||needle.com/pageupdate?
+||needlessnorth.com^
 ||neeva.com/logql/Log
 ||neeva.com/logql/log
 ||neg.by/include/ajax/counters.php
@@ -34629,6 +34635,7 @@ znak.com##.relap
 ||netscape.com/c.cgi?
 ||netstats.dk^$third-party
 ||netupdater.info^$third-party
+||netuplayer.top/cdn-cgi/trace
 ||netvigie.com^$third-party
 ||network.armycadets.com^
 ||network.screen13.com^
@@ -35849,6 +35856,7 @@ znak.com##.relap
 ||pahtgq.tech^$third-party
 ||paidstats.com^$third-party
 ||pailcrime.com^
+||painstakingpickle.com^
 ||paintplantation.com^
 ||paintplantation.com^$third-party
 ||pair.com/itero/tracker_ftc/
@@ -50180,6 +50188,7 @@ znak.com##.relap
 ||trjs.mediafin.be/loader/trmfn-loader.js
 ||trk*.vidible.tv^
 ||trk-egestas.com^$third-party
+||trk-maiorum.com^
 ||trk.10ru.pt^
 ||trk.acukwik.com^
 ||trk.adbutter.net^
