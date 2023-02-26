@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302250223
+! Version: 202302260210
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53760
+! Lenth = 53761
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7901,7 +7901,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aeromexico.com
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -8611,6 +8611,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
 @@||netcoresmartech.com/smartechclient.js$domain=cgv.vn
+@@||netcoresmartech.com/smartechclient.js$domain=hdfcfund.com
 @@||netd.com/js/piwik-plugin.js
 @@||netdna-ssl.com/lib/jquery-google-analytics/jquery.google-analytics.js$domain=homepath.com
 @@||netinsight.travelers.com/scripts/ntpagetaghttps.js
