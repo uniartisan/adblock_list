@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302260210
+! Version: 202302270248
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53761
+! Lenth = 53766
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -1089,6 +1089,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /T/OFC4/*$image
 /TagAuditBeacon.
 /TagSvc/*
+/TargetAnalyticsAPI-
 /TeaLeaf.js
 /TeaLeafCfg.js
 /TealeafSDK.js
@@ -8708,9 +8709,10 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||opensubtitles.org/cdn-cgi/pe/bag2?r[]=*google-analytics.com
 @@||optimize.webtrends.com^$domain=peterboroughtoday.co.uk
 @@||optimizely.addmilk.nl^$image,domain=simyo.nl
-@@||optimizely.com/datafiles/$domain=hm.com|nike.com|talktalk.co.uk|tommy.com|wallapop.com
+@@||optimizely.com/datafiles/$domain=guildeducation.com|hm.com|nike.com|talktalk.co.uk|tommy.com|wallapop.com
 @@||optimizely.com/js/geo2.js$domain=cbs.com
 @@||optimizely.com^$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+@@||optimizely.guildeducation.com^$~third-party
 @@||optimost.com/counter/*/event.js?$domain=bebo.com
 @@||optimost.com^*/FT_live.js$domain=ft.com
 @@||optimost.com^*/content.js?$domain=bebo.com
@@ -31151,6 +31153,8 @@ znak.com##.relap
 ||lqpzdi.coppel.com^
 ||lqvfkk.sosyopix.com^
 ||lqxjrk.fbs.com^
+||lr-in-prod.com^$third-party
+||lr-in.com^$third-party
 ||lr-ingest.io/logger.min.js
 ||lr-ingest.io^$third-party
 ||lr-port.de/tracker/
@@ -47368,6 +47372,7 @@ znak.com##.relap
 ||tintup.com/app/dist/tintAnalyticsProxy-bundle.js
 ||tinyclues.com^$third-party
 ||tinycounter.com^$third-party
+||tinypass.com/checkout/offer/trackShow
 ||tinypass.com^*/track?
 ||tinystat.ir^$third-party
 ||tinytendency.com^
