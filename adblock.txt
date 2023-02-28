@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302270248
+! Version: 202302280210
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26141
+! Lenth = 26160
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1242,6 +1242,7 @@
 ##a[href*="/kyky199.com"]
 ##a[href*="/l1y5.com"]
 ##a[href*="/l1y9.com"]
+##a[href*="/l76fh.com"]
 ##a[href*="/leyu178.ee"]
 ##a[href*="/lm63m.vip"]
 ##a[href*="/mda1.site/"]
@@ -1661,6 +1662,7 @@ $websocket,domain=5nj.com|cechi8.com
 .k618.cn/zbggw/
 .la/style/vue.js?v=
 .life/ads/
+.live/o.js
 .lu/ads/
 .lu/js/wap_billing.js
 .m.boluoxs.com^
@@ -3711,7 +3713,7 @@ $websocket,domain=5nj.com|cechi8.com
 78dm.net##.aside-add
 78dm.net##.container-fluid > a[href*=".taobao.com"]
 78dm.net##div[class^="couple-"]
-7b2.com,thh521.com,zhujib.com#@#.social-top:not(html):not(body)
+7b2.com,thh521.com,vikacg.com,zhujib.com#@#.social-top:not(html):not(body)
 7hcn.com##.pr > a[href^="http"]:not([href^="http://www.7hcn."])
 7hcn.com##.rCont
 7junshi.com##.breaknovel-ave
@@ -11899,6 +11901,7 @@ zzzyk.com###Tinfo
 ||080644.com^
 ||085cczz.com^
 ||0885.net^$third-party
+||0941.org^
 ||096iokj.com^
 ||0f4l.xyz^
 ||0ftyz.top^
@@ -13500,6 +13503,7 @@ zzzyk.com###Tinfo
 ||9ez.me/embd.php?type=
 ||9f11.win^
 ||9f1i3az.cn^
+||9fh6m.cn^
 ||9go.mobi^
 ||9h5qq.cn^$third-party
 ||9ihome.com/info/ADTopvnet/
@@ -14293,6 +14297,7 @@ zzzyk.com###Tinfo
 ||atljkcq.cn^
 ||atm.youku.com^
 ||atmcdn.com/www/*.js
+||atnnf.xyz^
 ||atool.org/res/ads/
 ||atpanel.com^$image
 ||att.ydss.cn/attachments/portal/
@@ -14909,6 +14914,7 @@ zzzyk.com###Tinfo
 ||bkjia.com/bkjia/js/banner
 ||bkjia.com/bkjia/js/subnavtop.js
 ||bku3.com/js/cctv-bf.js
+||bkvps.com^$third-party
 ||bla01.com^
 ||blackbar.cn^
 ||blddnwt.cn^
@@ -15560,6 +15566,7 @@ zzzyk.com###Tinfo
 ||clw99.mobi^
 ||clzw.cyou^
 ||cm.baidu.com^
+||cm.luyouwang.com^
 ||cmblom.cn^
 ||cmbpdk.cn^
 ||cmci5cape.icu^
@@ -18931,6 +18938,7 @@ zzzyk.com###Tinfo
 ||jdexcgb.cn^
 ||jdgsgl.com^
 ||jdiaveu.cn^
+||jdnlynb.cn^
 ||jdwx.info/api.php?mod=ad&
 ||jdyz3.cn^
 ||jeanrace.com^
@@ -19115,6 +19123,7 @@ zzzyk.com###Tinfo
 ||jkxvvv.xyz^
 ||jl1130.com^
 ||jlhygy.com^
+||jllfxt.xyz^
 ||jlmhk.com/images/data/
 ||jlosuiq.cn^
 ||jlpcn.net/img/300p-
@@ -21260,6 +21269,7 @@ zzzyk.com###Tinfo
 ||ok.432kkk.com^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
+||okew.top^
 ||okfzopj.cn^
 ||okkkk.com^
 ||okmjd.com^
@@ -21514,6 +21524,7 @@ zzzyk.com###Tinfo
 ||pdsvrtb.cn^
 ||pdtqjd.cn^
 ||pdxubxc.cn^
+||pe5a.top^
 ||pedailyu.com^
 ||pehlvl.xyz^
 ||peigbv.cn^
@@ -21598,6 +21609,7 @@ zzzyk.com###Tinfo
 ||picsuperfast.xyz/imageUpload/images/*AD_
 ||picuphost.com^$domain=mmload.info
 ||picyq.com/index.php/Home/run/get_ad/
+||pigwin.net^
 ||piilvhtu.cn^
 ||piimg.com/508806/d53a8d13a40f814d.gif
 ||piimg.com^$domain=kisssub.org|lsjsoso.me
@@ -21672,6 +21684,7 @@ zzzyk.com###Tinfo
 ||poco.cn/v1_1/rank/get_floating_layer_ad
 ||poco.cn^*_info_banner
 ||podaaec.cyou^
+||poeid.cyou^
 ||poereawer.top^
 ||poewage.top^
 ||pofang.com^
@@ -21866,6 +21879,7 @@ zzzyk.com###Tinfo
 ||qdxsodq.cn^
 ||qdzyspjx.com^
 ||qectme.xyz^
+||qehaxkl.cn^
 ||qeptzff.cn^
 ||qerbert78.xyz^
 ||qf1d.top^
@@ -22022,6 +22036,7 @@ zzzyk.com###Tinfo
 ||qkkgish.cn^
 ||qkobbgs.cyou^
 ||qkoio.cyou^
+||qkqasu.xyz^
 ||qksapp.net/gif/
 ||ql.uzuzuz.com^
 ||qliiom.xyz^
@@ -23880,6 +23895,7 @@ zzzyk.com###Tinfo
 ||u5fsqf.com^
 ||u5ree6.com^
 ||u644.fun^
+||u66099.com^
 ||u756fvjp.cn^
 ||u88.cn^$third-party
 ||u8hdqyug.co^
@@ -24343,6 +24359,7 @@ zzzyk.com###Tinfo
 ||wangqing7.top^
 ||wangxuan.pw^
 ||wangyao.pro^
+||wangyc.club^
 ||wangye.icu^
 ||wangyuekun.xyz^
 ||wangzezhong.top^
@@ -24639,6 +24656,7 @@ zzzyk.com###Tinfo
 ||wru795e.cn^
 ||ws.wenshenxiu.com^
 ||wschao.xyz^
+||wsdd11.com^
 ||wsdof.xyz^
 ||wsgblw.com^
 ||wshufa.com^$third-party
@@ -25347,6 +25365,7 @@ zzzyk.com###Tinfo
 ||yijuxie.com^
 ||yijuxie.com^$third-party
 ||yikeyz.com/pm.js
+||yimao20230217.live^
 ||yimg.com/cv/ae/default/*_STATIC-JPEG_
 ||yimg.com/cv/api/hk/fp_czy_ad/
 ||yimg.com/no/$domain=~yahoo.com
