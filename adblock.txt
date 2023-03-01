@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202302280210
+! Version: 202303010232
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26160
+! Lenth = 26170
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1255,6 +1255,7 @@
 ##a[href*="/register/?i_code="] > img
 ##a[href*="/shishangta.cn"]
 ##a[href*="/sm003r.tv"]
+##a[href*="/sm010k.xyz"]
 ##a[href*="/sm033v.tv"]
 ##a[href*="/sm27z.net"]
 ##a[href*="/smch7.com"]
@@ -1287,6 +1288,7 @@
 ##a[href*=":7888/?register="]
 ##a[href*=":8701/?register="]
 ##a[href*="?channelCode="] > img[src*=".com"]
+##a[href*="?channelCode="] > img[src*=".xyz"]
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="?register="] > img[src*=".douyinpic.com"]
 ##a[href*="?register="] > img[width="100%"]
@@ -5566,8 +5568,7 @@ bbs.my0511.com##div[style="margin-left:auto;margin-right:auto;text-align:center;
 bbs.my0511.com##embed[width="970"][height="70"]
 bbs.my0511.com##span.smalltxt
 bbs.pcbeta.com###diynavtop + style + div[class]
-bbs.pcbeta.com#?##toptb ~ #wp > div[class] > ul ~ div[class]:-abp-has(> div[class] > div > .adsbygoogle)
-bbs.pcbeta.com#?##toptb ~ #wp > div[class]:matches-css(height : /170px/)
+bbs.pcbeta.com#?##toptb ~ #wp > *:not(div):not(style):not(ul):not(script) + div[class][id]:-abp-has(div[style="display:none"])
 bbs.xmfish.com##.cmp_v
 bcbay.com##.ad_txt_box
 bcbay.com##.discuss + table
@@ -12485,7 +12486,6 @@ zzzyk.com###Tinfo
 ||32258228.com^
 ||325szdv.cn^
 ||32851897.com^
-||328888.xyz^
 ||32xp.com/upimg/
 ||3324.cn^$third-party
 ||3331909.com^
@@ -13527,6 +13527,7 @@ zzzyk.com###Tinfo
 ||9ye.com/Files/Editor/ad/
 ||9zvip.net/hi5asd/
 ||a*.chajiaotong.com^
+||a-ads.com^
 ||a-m-s.adnonstop.com^
 ||a.10tianqi.com^
 ||a.4aqq.com^
@@ -16825,6 +16826,7 @@ zzzyk.com###Tinfo
 ||ezprice.com.tw/ezysm/
 ||ezprice.com.tw/js/*_ysm_
 ||ezqmrd9tl9.cn^
+||ezwxia.xyz^
 ||ezxws.cyou^
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~hao123.com|~haokan.com|~yoojia.com
 ||f.zgbmw.com.cn^$third-party
@@ -16841,6 +16843,7 @@ zzzyk.com###Tinfo
 ||f8272.com^$third-party
 ||f8dy.tv/template/m1938/js/b
 ||f8dy.tv/template/m1938/js/foot.js
+||f9s6.top^
 ||faachen.cn^
 ||fabuye.vip/zhuanfa/
 ||facai1588.xyz^
@@ -19078,6 +19081,7 @@ zzzyk.com###Tinfo
 ||jishiben.info^
 ||jishulink.com/images/activity/invite_
 ||jishulink.com/images/content/visitor-footer-
+||jishulink.com/jishulink/searching/ad/get?
 ||jishuqq.com/images/haodian.gif
 ||jishuqq.com/wadsb.gif
 ||jishuyl.com/_skins/*/ad_
@@ -20540,6 +20544,7 @@ zzzyk.com###Tinfo
 ||mergedeep.xyz^
 ||meritiny.top^
 ||merrrrrry.top^
+||mestrip.com/widgets/
 ||meteor.today/ad/
 ||metvb.com/js/bofangwei.js
 ||meueeq.xyz^
@@ -21274,6 +21279,7 @@ zzzyk.com###Tinfo
 ||okkkk.com^
 ||okmjd.com^
 ||okmwfq.xyz^
+||okod.top^
 ||okokw.com^$third-party
 ||okooo.com/I/?method=system.data.ad&
 ||okoy.top^
@@ -21924,6 +21930,7 @@ zzzyk.com###Tinfo
 ||qhres.com^*/baidu_
 ||qhrixol.cn^
 ||qhyy8.com/template/default_wap/html/public/img/*.gif
+||qianbaobbs.net^
 ||qianchengwenhua.xyz^
 ||qianduoduo.fit^
 ||qianggou8.top^
@@ -23348,6 +23355,7 @@ zzzyk.com###Tinfo
 ||szpgzn.com^
 ||szpl0.com^
 ||szqifu.com^
+||szsxy.vip^
 ||szwjzl.cn^$third-party
 ||szwyyl.com^
 ||szxljdsb.com/tl
@@ -23494,6 +23502,7 @@ zzzyk.com###Tinfo
 ||tfptlgrw.live^
 ||tfzozf.xyz^
 ||tg0qu.top^
+||tgktw.xyz^
 ||tgnlaigi.fun^
 ||tgryfh.xyz^
 ||tgvtlpi.cn^
@@ -25045,6 +25054,7 @@ zzzyk.com###Tinfo
 ||xnklgas.cn/common/getBannerList
 ||xnnews.com.cn/adgl/
 ||xnnews.com.cn/tpl/material/
+||xnrcnz.xyz^
 ||xntk.org^*.html
 ||xnxonbf.cn^
 ||xoimg.com^$domain=18board.com|18p2p.com

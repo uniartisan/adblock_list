@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202302280210
+! Version: 202303010232
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53714
+! Lenth = 53728
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -167,6 +167,7 @@ $cookie=_parsely_session
 $cookie=_parsely_visitor
 $cookie=_pbjs_userid_consent_data,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetomania.pl|fotoblogia.pl|autokult.pl|abczdrowie.pl|parenting.pl|videostar.pl|autocentrum.pl|benchmark.pl
 $cookie=_pcid
+$cookie=_pctx
 $cookie=_pubcid
 $cookie=_tb_sess_r
 $cookie=_tb_t_ppg
@@ -243,6 +244,7 @@ $cookie=kampyle_userid
 $cookie=khaos
 $cookie=ki_r
 $cookie=ki_t
+$cookie=kn_cs_visitor_id
 $cookie=li_sugr
 $cookie=lms_ads
 $cookie=lms_analytics
@@ -7904,7 +7906,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|acornonline.com|ads.spotify.com|aeromexico.com|aliexpress.com|atptour.com|axeptio.eu|backcountry.com|bsa-whitelabel.com|bybit.com|bybitglobal.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|coolermaster.com|crello.com|cyclingnews.com|cypress.io|dmv.ca.gov|doodle.com|dropps.com|easternbank.com|edwardjones.com|elnuevodia.com|ergotron.com|expressvpn.com|festoolusa.com|flytap.com|formula1.com|fortune.com|gorillamind.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|herculesstands.com|independent.co.uk|jn.pt|kedronparkhotel.com.au|konami.com|lecker.de|level.travel|mcgeeandco.com|mercell.com|mysmartprice.com|nflgamepass.com|nielsendodgechryslerjeepram.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pgatoursuperstore.com|pioneer.eu|plaion.com|plantsome.ca|primeoak.co.uk|prisonfellowship.org|prizehometickets.com.au|qrcode-monkey.com|royalbank.com|runescape.com|scotsman.com|soranews24.com|soundguys.com|stressless.com|support.creative.com|swarajyamag.com|trademe.co.nz|tumi.com|uniqlo.com|upwork.com|uqr.to|zennioptical.com|zinio.com
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aeromexico.com
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -8326,7 +8328,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||jianshu.com/asimov/ab_test/info
 @@||jolie.de/sites/default/files/google_tag/google_tag_manager/google_tag.script.js
 @@||js-agent.newrelic.com/nr-*.min.js$domain=copy.com
-@@||js-agent.newrelic.com^$domain=alliantcreditunion.com|kapwing.com
+@@||js-agent.newrelic.com^$domain=alliantcreditunion.com|giftcards.com|kapwing.com
 @@||js-sec.indexww.com^$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||js.agkn.com/prod/v0/tag.js$domain=netd.com
 @@||js.appboycdn.com/web-sdk/*/appboy.min.js$domain=equinox.com
@@ -10377,6 +10379,7 @@ znak.com##.relap
 ||85st.com/static/js/logging.js
 ||88688.ru/api/geoip/
 ||8ag8k205ppci.app.alpacafinance.org^
+||8digits.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||8ezc.sfr.fr^
 ||8p0kiyq5mq1d.flex.team^
@@ -17297,6 +17300,8 @@ znak.com##.relap
 ||bouncyfront.com^
 ||bouncyproperty.com^
 ||bouncyproperty.com^$third-party
+||boundlessbrake.com^
+||boundlessbrake.com^$third-party
 ||bournemouthecho-gb.bournemouthecho.co.uk^
 ||boutique.ricoh.fr^
 ||bovid.arshaw.com^
@@ -17848,7 +17853,6 @@ znak.com##.relap
 ||capablecup.com^
 ||capablecup.com^$third-party
 ||caphyon-analytics.com^$third-party
-||capi.connatix.com/tr/
 ||capitalone.com/collector/
 ||capping.sirius.press^
 ||capriciouscorn.com^$third-party
@@ -17917,6 +17921,7 @@ znak.com##.relap
 ||carscannon.com^$third-party
 ||cart.matsuzaka-steak.com^$badfilter
 ||carte.fleet-page.total.fr^
+||carters.com/0F3091f3/init.js
 ||carts.guru^$third-party
 ||cartstack.com^$third-party
 ||carvecakes.com^
@@ -19380,6 +19385,7 @@ znak.com##.relap
 ||conimicutlighthouse.viessmann-us.com^
 ||connatix.com/rtb/
 ||connatix.com/tr/
+||connatix.com^*/pixel?
 ||connect-qa.netapp.com^
 ||connect.abm.netapp.com^
 ||connect.acams.org^
@@ -27275,6 +27281,7 @@ znak.com##.relap
 ||gridsumdissector.com^$third-party
 ||gripcorn.com^
 ||grmtech.net^$third-party
+||groove.so/unlocker.js
 ||grouchypush.com^
 ||group-ib.ru^$third-party
 ||groupon.com/analytic/
@@ -27630,6 +27637,7 @@ znak.com##.relap
 ||helloextend.com/tracking
 ||helloretail.com/serve/collect/
 ||hellosherpa.com^$third-party
+||hellosmpl.com^$third-party
 ||helpcollar.com^
 ||helpgrid1.ksmobile.com^
 ||helpshift.com/api/lib/2/events/
@@ -27730,7 +27738,6 @@ znak.com##.relap
 ||hit-counts.com^$third-party
 ||hit-parade.com^$third-party
 ||hit-pool.upscore.io^
-||hit.8digits.com^
 ||hit.acstat.com^
 ||hit.c97.org^
 ||hit.copesa.cl^
@@ -29990,6 +29997,8 @@ znak.com##.relap
 ||kjdazx.buecher.de^
 ||kjdfho.eidaihouse.com^
 ||kk-resources.com/ks.js
+||kkuriren.se^$cookie=adksid
+||kkuriren.se^$cookie=adkvid
 ||kkzpde.aboutyou.lt^
 ||klamm-counter.de^$third-party
 ||klangoo.com^$third-party
@@ -30022,6 +30031,7 @@ znak.com##.relap
 ||knopnf.asambeauty.com^
 ||knorex.com^$third-party
 ||knorzj.wearfigs.com^
+||knotch-cdn.com/ktag/
 ||knotkettle.com^
 ||knotkettle.com^$third-party
 ||knottysticks.com^
@@ -31039,6 +31049,7 @@ znak.com##.relap
 ||logger.danawa.com/tracker
 ||logger.eigene.io^
 ||logger.goeuro.com^
+||logger.growstarry.com^
 ||logger.kataweb.it^
 ||logger.nerdwallet.com^
 ||logger.ntracecloud.com^
@@ -32596,7 +32607,7 @@ znak.com##.relap
 ||mercadoclics.com^$third-party
 ||mercadolibre.com/tracks^
 ||mercent.com^$third-party
-||mercury.coupang.com/e.gif?
+||mercury.coupang.com^
 ||mercy.ga^$third-party
 ||meremark.com^
 ||meremark.com^$third-party
@@ -33152,6 +33163,7 @@ znak.com##.relap
 ||metrics.greendot.com^
 ||metrics.greenflag.com^
 ||metrics.grundfos.com^
+||metrics.gs-chat.com^
 ||metrics.haband.com^
 ||metrics.hackerrank.com^
 ||metrics.handmark.com^
@@ -35686,6 +35698,7 @@ znak.com##.relap
 ||ovk.xceler8.io^
 ||ovrsso.gemo.fr^
 ||owa.carhartt.com^
+||owata-net.com/js/ga.js
 ||owayfamily.ecoorganicbeauty.cz^
 ||owl.gregwolanski.com^
 ||owl.heidipay.com^
@@ -40410,6 +40423,8 @@ znak.com##.relap
 ||sgikrg.3dcart.com^
 ||sgqcvfjvr.onet.pl/build/dlApi/dl.aureus.min.js
 ||sgqcvfjvr.onet.pl/build/dlApi/dl.clickmap.min.js
+||sgstats.com^
+||sgtm.fashionunited.
 ||sgtm.fashionunited.de/gtm.js
 ||sgtm.sefamerve.com^
 ||sgtm.simoahava.com^
@@ -49553,7 +49568,6 @@ znak.com##.relap
 ||tracking.insperity.com^
 ||tracking.intentsify.io^
 ||tracking.interweave.com^$third-party
-||tracking.intl.miui.com^
 ||tracking.janssenmedicalcloud.co.il^
 ||tracking.janssenmedicalcloud.com^
 ||tracking.janssenmedicalcloud.de^
