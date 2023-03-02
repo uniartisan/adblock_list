@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202303010232
+! Version: 202303020201
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53728
+! Lenth = 53741
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -1168,6 +1168,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /\/js\/[a-z]{3}\d\.js$/$script,~third-party,domain=eegg.fun
 /^https:\/\/[0-9a-z]{7,25}\.com\/v2(?:\/0\/)?(?=[0-9a-z_-]{0,84}[A-Z])(?=[a-zA-Z_-]{0,84}[0-9])[0-9a-zA-Z_-]{54,85}(#\?v=[0-9a-f]{32})?$/$ping,script,xmlhttprequest,third-party,match-case
 /^https:\/\/cdn\.jsdelivr\.net\/npm\/([a-z]|-|_){4,22}@latest\/dist\/script\.min\.js$/$domain=mathbang.net|ujnews.co.kr|mediatoday.co.kr|hankyung.com|tgd.kr|loawa.com|ygosu.com|inven.co.kr|ppss.kr|dailymagazine.co.kr|dailian.co.kr|socialvalue.kr|usjournal.kr|basketkorea.com|jumpball.co.kr|joynews24.com|inews24.com|hobbyen.co.kr|thespike.co.kr|siminilbo.co.kr|mdtoday.co.kr|clien.net|ujeil.com|starnnews.com|sportsw.kr|enewstoday.co.kr|readersnews.com|algumon.com|1412.rest|twicenest.com|feedclick.net|tistory.com|sportalkorea.com|minelist.kr|donga.com
+/^https:\/\/cs\d{3}\.\w+\.com\/cscript\/\d{3}\/[\w\d]+\.js$/$script,third-party,match-case
 /^https?:\/\/fdts\.ebay-kleinanzeigen\.de\/[a-z0-9]{13,18}\.js\?/$script,domain=ebay-kleinanzeigen.de
 /^https?:\/\/nav\.sciencedirect\.com\/[a-zA-Z0-9]{14,}\.js/$script,domain=sciencedirect.com
 /^https?:\/\/pov\.spectrum\.net\/[a-zA-Z0-9]{14,}\.js/$script,domain=spectrum.net
@@ -23071,6 +23072,8 @@ znak.com##.relap
 ||diariodonordeste.verdesmares.com.br/static/assets/scripts/p_googletag.js
 ||diarioregistrado.com/api/v*/analytics
 ||diboji.class101.net^
+||dickssportinggoods.com^$cookie=BVBRANDID
+||dickssportinggoods.com^$cookie=RES_TRACKINGID
 ||did-it.com^$third-party
 ||didit.com^$third-party
 ||didna.io^$third-party
@@ -24028,6 +24031,7 @@ znak.com##.relap
 ||ebistoppan1.kyowahakko-bio-campaign-1.com^
 ||ebookers.com/cl/2x2.gif?
 ||ebreid.garneroarredamenti.com^
+||ebs.co.kr/js/weblogs/nethru/wlo.js
 ||ebs.viosalon.com^
 ||ebtrk1.com^$third-party
 ||ec-concier.com^$third-party
@@ -29120,6 +29124,7 @@ znak.com##.relap
 ||inrd.ru^$third-party
 ||inrecsys.popin.cc^
 ||inrjrj.cafepress.com^
+||ins.connatix.com^
 ||ins.wolterskluwerfs.com^
 ||insbergs.lv/ins_statistics/
 ||insene.de/tag/$third-party
@@ -29850,6 +29855,7 @@ znak.com##.relap
 ||k5a.io^
 ||k5ygj3bivnrp.uae.revent.store^
 ||ka.ilius.net^
+||kaan.kakao.com^
 ||kabokc.webuy.com^
 ||kaden.netoff.co.jp^
 ||kaggle.com/api/i/diagnostics.MetricsService
@@ -30028,6 +30034,7 @@ znak.com##.relap
 ||kn007.net/snmp.php
 ||kn81kivjwwc7.www.logology.co^
 ||knapia.weightwatchers.com^
+||knitstamp.com^$third-party
 ||knopnf.asambeauty.com^
 ||knorex.com^$third-party
 ||knorzj.wearfigs.com^
@@ -30731,6 +30738,7 @@ znak.com##.relap
 ||lists-tracking.komando.com^
 ||lists.ccmbg.com^
 ||listtop.ru^$third-party
+||lit.connatix.com^
 ||lite-cdn.com^
 ||literally-analytics.appspot.com^
 ||literatelight.com^
@@ -30830,6 +30838,7 @@ znak.com##.relap
 ||lndata.com^$third-party
 ||lngtd.com^$third-party
 ||lnk2.patpat.com^
+||lnkd.in/li/track
 ||lnntnt.hsastore.com^
 ||lntvby.banggood.com^
 ||lnvmxk.familyset.jp^
@@ -36807,6 +36816,7 @@ znak.com##.relap
 ||pl.astro-akatemia.fi^
 ||pl.astro.fi^
 ||pl.codetheweb.blog^
+||pl.connatix.com^
 ||pl.ethan.link^
 ||pl.fashmoms.com^
 ||pl.getfamealy.com^
@@ -37285,6 +37295,7 @@ znak.com##.relap
 ||primedia.co.za/analytics/
 ||primer.typekit.net^$xmlhttprequest
 ||princetonreview.com/logging/
+||print24.com/api/*/analytics/
 ||printerplasma.com^
 ||printerplasma.com^$third-party
 ||prisjakt.nu/js.php?p=trafikfonden
@@ -37477,6 +37488,7 @@ znak.com##.relap
 ||psi.lbesecapi.com^
 ||psprices.com/staticfiles/build/frontend_psprices_js_analytics_ts.*.js
 ||psqsjg.coach.com^
+||psr.staticbg.com/rum/monitor.min.js
 ||pstat.akathists.com^
 ||pstatic.net/adimg3.search/adpost/
 ||pstatp.com^*/raven.js
@@ -38135,6 +38147,7 @@ znak.com##.relap
 ||reauthenticator.com^
 ||rebelsubway.com^
 ||rebelsubway.com^$third-party
+||rec.banggood.com^
 ||rec.detik.com^
 ||recapture.io^$third-party
 ||recart.com/tracking/

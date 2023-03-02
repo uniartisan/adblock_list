@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202303010232
+! Version: 202303020201
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26170
+! Lenth = 26195
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -3882,6 +3882,7 @@ $websocket,domain=5nj.com|cechi8.com
 ://s.htkk*.top:$script,third-party
 ://seai*/ads/float.js
 ://www.*.js|$script,third-party,domain=159i.com|r3sub.com|thisav.com
+://xingkong6688s.oss-
 :1010/openV5.js
 :10443/$script,subdocument,third-party
 :11211/t.js?MAC=
@@ -3987,6 +3988,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
+@@/adview_*_ads_300x250.js$domain=yaociyuan.bid
 @@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|laimanhua.net|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|reh.tw|silisili.in|sssam.com|yanyue.cn|zgpingshu.com
 @@/adview_pic_$domain=doutula.com|fastadmin.net|toolfk.com|xclient.info
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
@@ -7151,6 +7153,7 @@ fpdisplay.com##table[width="960"][height="110"]
 fqlook.cn###rtj1009_iho3
 fqlook.cn###rtj1009_ren_imme1
 fqsousou.com,kengso.com#@#.user-share
+fqzww.net##a[onclick="qinlintes11t2()"]
 frdic.com,godic.net##a[onclick*="/ads/"]
 free.com.tw###custom_html-11
 free.com.tw###custom_html-5
@@ -11539,6 +11542,10 @@ yahoo.com#?#.stream-item:-abp-has(>div>div>div>span:-abp-contains(即日熱搜))
 yam.com##.axdBox
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
 yantuchina.com##div[style="width:618px;height:150px;margin: 0 auto; display:block;"]
+yaociyuan.bid##.board a[target="_blank"] > img
+yaociyuan.bid##.content a[target="_blank"] > img
+yaociyuan.bid##.w-ad
+yaociyuan.bid#%#//scriptlet('set-constant', 'killads', 'true')
 yaofangwang.com##.bad
 yaoshe67.com##.container > .top
 yaseg2.com,yaseg3.com##.player > div[id][style^="width: 100%; height: 100%; background:"][style*="position: absolute; z-index:"]
@@ -13464,6 +13471,7 @@ zzzyk.com###Tinfo
 ||99496.com/static/
 ||99496.com/v9/head.js
 ||99520.xyz^
+||996000996.xyz/ga/$image,domain=yaociyuan.bid
 ||99885aaa.com^
 ||99886aaa.com^
 ||99888aaa.com^
@@ -13705,6 +13713,7 @@ zzzyk.com###Tinfo
 ||acaox.com^
 ||acaoz.com^
 ||accentneglectporter.com^
+||accommodatingremindauntie.com^
 ||acfun.cn/appSpreadContents/danmuad/
 ||acgbase.com^$third-party
 ||acgbenzi.com^$image
@@ -14754,6 +14763,7 @@ zzzyk.com###Tinfo
 ||beareyes.com.cn^*/ad/
 ||bearsg.cn^
 ||beatbase.live^
+||beatricecathy.com^
 ||becode.xiao84.com^
 ||beephone.com.tw/ad-middle.php
 ||beephone.com.tw/ad-yahoo.php
@@ -16190,6 +16200,7 @@ zzzyk.com###Tinfo
 ||dioimg.net^$domain=88files.net
 ||dioimg.net^$domain=t66y.com
 ||diopic.net^$domain=18board.com|18p2p.com
+||diqizu.xyz^
 ||discuss.com.hk/dfp_forum.php?au=Discuss_Web_
 ||discuss.com.hk/oath/
 ||discuss.com.hk^*_prod.html
@@ -16669,6 +16680,7 @@ zzzyk.com###Tinfo
 ||ejktj.com^
 ||ejnjapw.cn^
 ||ejunshi.com^
+||ejyvgq.xyz^
 ||ekcsqzo.cn^
 ||ekdbfu.cn^
 ||ekhnbwe.cn^
@@ -17623,6 +17635,7 @@ zzzyk.com###Tinfo
 ||gumgo.cn^$third-party
 ||gunmi.cn^$third-party
 ||guntang.me^
+||guoandong.ltd^
 ||guode.cyou^
 ||guojinfeng123.top^
 ||guojitv.com/m/ad/
@@ -18014,6 +18027,7 @@ zzzyk.com###Tinfo
 ||hk9600.com^
 ||hkb123.com/plus/show.php
 ||hkbmsb.fun^
+||hkbzl.hk^
 ||hkcoding.com/chequeconvert/img/grammarly-
 ||hkcoding.com/img/
 ||hkdm688.*/js/68/
@@ -18376,6 +18390,7 @@ zzzyk.com###Tinfo
 ||ibiquge.la/base
 ||ibjkafefertt.xyz^
 ||iblimq.xyz^
+||ibqswjdkpo.com^
 ||ibzgcrusher.com^
 ||icaile.com/z.php?id=
 ||icao4.com/uploads/pic/2.jpg
@@ -19004,6 +19019,7 @@ zzzyk.com###Tinfo
 ||jiaohezhen.com^
 ||jiaoyou8.com^$domain=mitbbs.ca|mitbbs.com
 ||jiaoyu.baidu.com/tieba/
+||jiape.cyou^
 ||jiasheng-china.cn^
 ||jiasule.com/static/js/http_error.js
 ||jiatang.club^
@@ -21261,6 +21277,7 @@ zzzyk.com###Tinfo
 ||oicode.com^
 ||oicvvnm.cn^
 ||oioiio.top^
+||oiqdjksgpo.com^
 ||oisafnik.space^
 ||oiuqwppcsdf.com^
 ||oivgqnt.cn^
@@ -21279,6 +21296,7 @@ zzzyk.com###Tinfo
 ||okkkk.com^
 ||okmjd.com^
 ||okmwfq.xyz^
+||okoc.top^
 ||okod.top^
 ||okokw.com^$third-party
 ||okooo.com/I/?method=system.data.ad&
@@ -21564,6 +21582,7 @@ zzzyk.com###Tinfo
 ||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||pgl7.cn^
 ||pgpkrrk.cn^
+||pgrjxpd.cn^
 ||pharmnet.com.cn/cnbanner/
 ||pharmnet.com.cn/js/float_div.js
 ||phb123.com/skin/js/tongji.js
@@ -22825,6 +22844,7 @@ zzzyk.com###Tinfo
 ||si9377.com^
 ||sicentlife.com^
 ||siduohua.top^
+||siejp.cyou^
 ||sifang.info^
 ||sige20221230.xyz^
 ||sihbb.com/yang/
@@ -24009,6 +24029,7 @@ zzzyk.com###Tinfo
 ||unionbig.com^$third-party
 ||unionli.com^$third-party
 ||unionsky.cn^$third-party
+||uniway.cn.com^
 ||uniworldgroup.asia^
 ||unmnkkq.cn^
 ||unnqyqq.cn^
@@ -24452,6 +24473,7 @@ zzzyk.com###Tinfo
 ||weieo.cyou^
 ||weifengi.xyz^
 ||weige666.asia^
+||weighcb.com^
 ||weiguanwang888.com^
 ||weihaojiaju.com/tu888/
 ||weiiii.com^
@@ -24505,6 +24527,7 @@ zzzyk.com###Tinfo
 ||wfhuzaj.cn^
 ||wfiles.hcomic.net/indexSwiper/*_*x*_*_TC_gif.gif
 ||wfkspcs.cn^
+||wfndponfd.com^
 ||wfpersonal.site^
 ||wfyqc.com^
 ||wganilgle.cyou^
@@ -25170,6 +25193,7 @@ zzzyk.com###Tinfo
 ||xxp123.live^
 ||xxrsxs.cn^
 ||xxsmcps.com^
+||xxtalp.xyz^
 ||xxvkwuk.cn^
 ||xxwd.ltd^
 ||xxzj.pro^
@@ -26129,6 +26153,7 @@ zzzyk.com###Tinfo
 ||zzpzero.com^
 ||zzqqhb.com^
 ||zzsky.com/images/a_d_
+||zztongyun.com/static/js/sh.min.js
 ||zzwzsic.cn^
 ||zzxedr.xyz^
 ||zzxxli.club^
