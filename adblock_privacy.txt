@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202303020201
+! Version: 202303030357
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53741
+! Lenth = 53751
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -7558,6 +7558,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||friendbuy.com^$domain=butcherbox.com
 @@||frosmo.com/messageApi$xmlhttprequest,domain=hobbyhall.fi
 @@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
+@@||frosmo.com^$image,xmlhttprequest,domain=karkkainen.com
 @@||fussball.de/fbed/js/xtcore.js
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||gaanacdn.com/*_social_tracking.js$domain=gaana.com
@@ -9692,8 +9693,9 @@ espreso.tv##.wrap-footer .counter
 europcar.com###wt_overlay
 exct.net/open.aspx$image
 extrahop.com#%#//scriptlet('prevent-setTimeout', 'ad blocker')
-facebook.com,facebookcorewwi.onion#%#new MutationObserver(function(){var t=["?fbclid","%3Ffbclid","&fbclid","%26fbclid","&__tn__","%__26tn__","%3Futm","?utm","&fbc=","%26fbc%3D","?share=","%3Fshare%3D","%3F__twitter_impression%3D","?__twitter_impression=","?wtmc=","%3Fwtmc%3D","?originalReferrer=","%3ForiginalReferrer%3D","?wtrid=","%3Fwtrid%3D","?trbo=","%3Ftrbo%3D","?GEPC=","%3FGEPC%3D","?whatsapp=","%3Fwhatsapp%3D","?fbc=","%3Ffbc%3D","?dmcid=","%3Fdmcid%3D"];document.querySelectorAll('a[target="_blank"]').forEach(function(e){for(i=0;i<t.length;i++){var r;e.href.includes(t[i])&&(r=(r=(r=e.href.split("#!")[1])||e.href.split("%23%21")[1])||"",e.href.includes("#!")&&(r="#!"+r),e.href.includes("%23%21")&&(r="%23%21"+r),r=(r=(r=e.href.split("&feature=share&")[1])||e.href.split("%26feature%3Dshare%26")[1])||"",e.href.includes("&feature=share&")&&(r="?"+r),e.href.includes("%26feature%3Dshare%26")&&(r="%3F"+r),r=(r=(r=e.href.split("&h=")[1])||e.href.split("%26h%3D")[1])||"",e.href.includes("&h=")&&(r="&h="+r),e.href.includes("%26h%3D")&&(r="%26h%3D"+r),e.setAttribute("href",e.href.split(t[i])[0]+r))}})}).observe(document,{childList:!0,subtree:!0});
+facebook.com#%#new MutationObserver(function(){var t=["?fbclid","%3Ffbclid","&fbclid","%26fbclid","&__tn__","%__26tn__","%3Futm","?utm","&fbc=","%26fbc%3D","?share=","%3Fshare%3D","%3F__twitter_impression%3D","?__twitter_impression=","?wtmc=","%3Fwtmc%3D","?originalReferrer=","%3ForiginalReferrer%3D","?wtrid=","%3Fwtrid%3D","?trbo=","%3Ftrbo%3D","?GEPC=","%3FGEPC%3D","?whatsapp=","%3Fwhatsapp%3D","?fbc=","%3Ffbc%3D","?dmcid=","%3Fdmcid%3D"];document.querySelectorAll('a[target="_blank"]').forEach(function(e){for(i=0;i<t.length;i++){var r;e.href.includes(t[i])&&(r=(r=(r=e.href.split("#!")[1])||e.href.split("%23%21")[1])||"",e.href.includes("#!")&&(r="#!"+r),e.href.includes("%23%21")&&(r="%23%21"+r),r=(r=(r=e.href.split("&feature=share&")[1])||e.href.split("%26feature%3Dshare%26")[1])||"",e.href.includes("&feature=share&")&&(r="?"+r),e.href.includes("%26feature%3Dshare%26")&&(r="%3F"+r),r=(r=(r=e.href.split("&h=")[1])||e.href.split("%26h%3D")[1])||"",e.href.includes("&h=")&&(r="&h="+r),e.href.includes("%26h%3D")&&(r="%26h%3D"+r),e.setAttribute("href",e.href.split(t[i])[0]+r))}})}).observe(document,{childList:!0,subtree:!0});
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion#%#new MutationObserver(function(){var t=["&eid=","%26eid%3D","?eid=","%3Feid%3D","?__tn__=","%3F%5F%5Ftn%5F%5F%3D","&__tn__=","%26%5F%5Ftn%5F%5F%3D","?source=","%3Fsource%3D","?__xts__","%3F%5F%5Fxts%5F%5F","&__xts__","%26%5F%5Fxts%5F%5F","&amp;__xts__%5B","?ref=","%3Fref%3D","?fref=","%3Ffref%3D","?epa=","%3Fepa%3D","&ifg=","%26ifg%3D","?comment_tracking=","%3Fcomment_tracking%3D","?av=","%3Fav%3D","&av=","%26av%3D","?acontext=","%3Facontext%3D","&session_id=","%26session_id%3D","&amp;session_id=","?hc_location=","%3Fhc_location%3D","&fref=","%26fref%3D","?__cft","%3f__cft"];document.querySelectorAll('a:not([target="_blank"]):not([href*="2fac/"])').forEach(function(e){for(i=0;i<t.length;i++)e.href.includes(t[i])&&e.setAttribute("href",e.href.split(t[i])[0])})}).observe(document,{childList:!0,subtree:!0});
+facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion#%#new MutationObserver(function(){var t=["?fbclid","%3Ffbclid","&fbclid","%26fbclid","&__tn__","%__26tn__","%3Futm","?utm","&fbc=","%26fbc%3D","?share=","%3Fshare%3D","%3F__twitter_impression%3D","?__twitter_impression=","?wtmc=","%3Fwtmc%3D","?originalReferrer=","%3ForiginalReferrer%3D","?wtrid=","%3Fwtrid%3D","?trbo=","%3Ftrbo%3D","?GEPC=","%3FGEPC%3D","?whatsapp=","%3Fwhatsapp%3D","?fbc=","%3Ffbc%3D","?dmcid=","%3Fdmcid%3D"];document.querySelectorAll('a[target="_blank"]').forEach(function(e){for(i=0;i<t.length;i++){var r;e.href.includes(t[i])&&(r=(r=(r=e.href.split("#!")[1])||e.href.split("%23%21")[1])||"",e.href.includes("#!")&&(r="#!"+r),e.href.includes("%23%21")&&(r="%23%21"+r),r=(r=(r=e.href.split("&feature=share&")[1])||e.href.split("%26feature%3Dshare%26")[1])||"",e.href.includes("&feature=share&")&&(r="?"+r),e.href.includes("%26feature%3Dshare%26")&&(r="%3F"+r),r=(r=(r=e.href.split("&h=")[1])||e.href.split("%26h%3D")[1])||"",e.href.includes("&h=")&&(r="&h="+r),e.href.includes("%26h%3D")&&(r="%26h%3D"+r),e.setAttribute("href",e.href.split(t[i])[0]+r))}})}).observe(document,{childList:!0,subtree:!0});
 fatcatslim.ru#?#.sidebar > div.widget:-abp-has(> div > a[href$="liveinternet.ru/click"])
 fategrandorder.info##.sidebar_acr.side_inline
 ferra.ru##div[data-widget="plista_widget_belowArticle_desktop_nocss"]+div[class^="_"] > svg
@@ -9859,7 +9861,7 @@ qiita.com#?#div[class^="css"] > div > div[id^="logly-"]:upward(2)
 radioprofusion.com##.revolvermaps
 radioprofusion.com##footer > div.counter
 radiotimes.com#%#(function(){window.DD_LOGS={onReady:function(){},logger:{log:function(){}}}})();
-reddit.com##a[href="#pixel"]
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##a[href="#pixel"]
 reelrundown.com#%#//scriptlet('prevent-fetch', 'uid.mavencoalition.io')
 returnpath.net/pixel.gif$image
 reuters.com###taboola-recirc
@@ -13022,6 +13024,7 @@ znak.com##.relap
 ||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
+||adblocktape.online/stat/
 ||adblocktape.store/stat/
 ||adblocktape.wiki/stat/
 ||adbmetrics.abc.es^
@@ -14081,6 +14084,7 @@ znak.com##.relap
 ||airbnb.*/tracking/
 ||airbrake.io^$third-party
 ||aircuity.actonservice.com^
+||airlytics-web.airlock.twcmobile.weather.com/eventproxy/track
 ||airlytics.airlock.twcmobile.weather.com^
 ||airportinfo.live^$cookie=adblocker
 ||airportinfo.live^$cookie=adsplit
@@ -14499,6 +14503,7 @@ znak.com##.relap
 ||analytics-api.samsunghealthcn.com^
 ||analytics-api.smzdm.com^
 ||analytics-api.statvoo.com^
+||analytics-cdiscount.com^
 ||analytics-cdiscount.com^$third-party
 ||analytics-cms.whitebeard.me/js/
 ||analytics-cms.whitebeard.me^
@@ -14684,6 +14689,7 @@ znak.com##.relap
 ||analytics.data.lloydsbankinggroup.com^
 ||analytics.datahc.com^
 ||analytics.datasavannah.com^
+||analytics.dealer.com^
 ||analytics.dephibank.com^
 ||analytics.designspiration.com^
 ||analytics.deutscher-apotheker-verlag.de^
@@ -18391,7 +18397,6 @@ znak.com##.relap
 ||ci.quickbooks.com^
 ||cicada.escapethecorporatecult.com^
 ||cicero-mit.com^
-||cifraclub.com.br^$third-party
 ||cihnqp6p65.koinly.io^
 ||cijfers.tweakers.nl^
 ||cikbea.john-taylor.com^
@@ -31566,6 +31571,7 @@ znak.com##.relap
 ||marcomms.maistro.com^
 ||mariesideer.tns-gallup.dk^
 ||marinsm.com^$third-party
+||mark.isbank.com.tr/cdn/automation.js
 ||mark.isbank.com.tr^
 ||markedcrayon.com^
 ||markedcrayon.com^$third-party
@@ -34128,6 +34134,7 @@ znak.com##.relap
 ||mp3king.club^$third-party
 ||mp3vizor.com^$third-party
 ||mparticle.com^$third-party
+||mparticle.weather.com/webevents/
 ||mpc.nicequest.com^
 ||mpglie.apartmentguide.com^
 ||mphlrt.snipes.at^
@@ -37190,6 +37197,7 @@ znak.com##.relap
 ||posthog.com^$third-party
 ||posthog.tarnkappe.info^
 ||posty.kr/api/tr|
+||potatoinvention.com^
 ||potsdamer-stadtplan.com/t.gif
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
 ||powderprofit.com^
@@ -39213,6 +39221,7 @@ znak.com##.relap
 ||sadbmetrics.worldcanic.com^
 ||sadbmetrics.xlsemanal.com^
 ||sadbmetrics.zendalibros.com^
+||sadloaf.com^
 ||sadobe.autoscout24.de^
 ||sadobe.autoscout24.fr^
 ||sadobe.autoscout24.it^
@@ -43386,6 +43395,7 @@ znak.com##.relap
 ||spinnaker-js.com^
 ||spirebaboon.com^
 ||spirebaboon.com^$third-party
+||spirit.com/kp4CLSb5/init.js
 ||spisbedre.tns-gallup.dk^
 ||spitefulstop.com^
 ||spixel.socy.es^
