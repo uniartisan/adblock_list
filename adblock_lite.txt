@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202303030357
+! Version: 202303040245
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23600
+! Lenth = 23613
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -2589,7 +2589,7 @@ apowersoft.cn##.activity-poster
 appchina.com###yyh-bottom
 appinn.com###ranshownow
 appinn.com###sidebar > .widget:first-child
-appinn.com###sidebar A[rel*="sponsored"]
+appinn.com###sidebar a[rel*="sponsored"]
 appinn.com##.ads-m
 appinn.com,hexieshe.cn###media_image-2
 apple.com.cn##.adv-wrapper
@@ -10327,6 +10327,7 @@ zzzyk.com###Tinfo
 ||5nj.com/js/cnzz
 ||5pe6.fun^
 ||5pub.com^
+||5py1.xyz^
 ||5r562.cn^
 ||5s34y422.cn^
 ||5s98.com/img/
@@ -10734,6 +10735,7 @@ zzzyk.com###Tinfo
 ||8feichai.com^
 ||8hdp.cn^
 ||8hpay.cn^
+||8i3158.cn^
 ||8jkx.com^
 ||8jrc564wtf.cn^
 ||8jrc564wtf.cn^$third-party
@@ -11161,6 +11163,7 @@ zzzyk.com###Tinfo
 ||adccoo.cn^
 ||adconfer.com^$third-party
 ||addihj.cn^
+||additionsmiracle.com^
 ||address9.com^
 ||adelazanna.com^
 ||adf.dahe.cn^
@@ -12497,6 +12500,7 @@ zzzyk.com###Tinfo
 ||by4d.com/dh/
 ||by4d.com/love/
 ||byfft.top^
+||byj123.cn^
 ||byqiu.xyz^
 ||byrprsi.cn^
 ||byscy.cn^$third-party
@@ -14103,6 +14107,7 @@ zzzyk.com###Tinfo
 ||enews10.yxlady.net^
 ||eng24.com/js_new/copyright_float.
 ||engpeng.cn^
+||ennde.cyou^
 ||enohb.com^
 ||enread.com/img/185-50.gif
 ||enrosr.cn^
@@ -14480,6 +14485,7 @@ zzzyk.com###Tinfo
 ||friend17.net^
 ||frontendjs.com/api/ad
 ||frpns.com^
+||frxcdn.xyz^
 ||fs0523.com^
 ||fsclzs.com/Ad_User/
 ||fsdnp.cyou^
@@ -14866,6 +14872,7 @@ zzzyk.com###Tinfo
 ||gongshe99.com/d/js/gongshe/gsw
 ||gongwuyuan.name^
 ||gongxifc.com^
+||gonpc.com^
 ||good8866.com/js/*.js
 ||goodcome.com.tw/block/ad/rndtopad.php
 ||goodday21.top^
@@ -16265,6 +16272,7 @@ zzzyk.com###Tinfo
 ||j.imdb.cn^
 ||j.sdqoi2d.com^$third-party
 ||j.zlszw.com^$third-party
+||j00x.top^
 ||j04.xyz^
 ||j04r.top^
 ||j05.xyz^
@@ -17883,6 +17891,7 @@ zzzyk.com###Tinfo
 ||mcncc.com/yeyou/*.htm
 ||mcxsw.xyz^
 ||md.tvzhe.com^
+||mdcxyo.xyz^
 ||mddcloud.*/oweApi/ad/
 ||mdfiaub.cn^
 ||mdfsbn.com^$third-party
@@ -19713,6 +19722,7 @@ zzzyk.com###Tinfo
 ||redshu.com/js/pcAdv.js
 ||redshu.com/js/www/jquerygg.js
 ||reebbwi.cyou^
+||regrfg33.com^
 ||relating.wang^
 ||relliun.cn^
 ||remehealth.net^$third-party
@@ -20113,6 +20123,7 @@ zzzyk.com###Tinfo
 ||shackapple.com^
 ||shamodesha.com^
 ||shandian.biz/wp-content/themes/inove/js/comment.js
+||shandiankuaixi.in^
 ||shandongaosen.cn^
 ||shang.hlgnet.com/code/
 ||shangc.net/ipquery.ashx
@@ -21512,6 +21523,7 @@ zzzyk.com###Tinfo
 ||uxpolqk.cn^
 ||uxszams.cn^
 ||uxxux.com/js/zd.js
+||uygckiy.cn^
 ||uyjhbawd.xyz^
 ||uyueread.com^
 ||uyydww.xyz^
@@ -21761,6 +21773,7 @@ zzzyk.com###Tinfo
 ||wa.kuwo.cn/lyrics/img/kwgg/
 ||wacowla.com/wp-content/plugins/popover/js/
 ||wadqfaj.cn^
+||wagepulsate.com^
 ||wai69.com/js/baidu/
 ||waikuai.vip^
 ||waipian*.com/statics/recommend/
