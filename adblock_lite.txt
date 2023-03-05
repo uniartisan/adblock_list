@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202303040245
+! Version: 202303050211
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 23613
+! Lenth = 23624
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -10902,6 +10902,7 @@ zzzyk.com###Tinfo
 ||9ihome.com/info/ADTopvnet/
 ||9ist.com/others/ad/
 ||9j1y.cn^
+||9j5e.top^
 ||9js6.icu^
 ||9jsp.com/pay.png
 ||9k9k.com/jscode/js/
@@ -10909,6 +10910,7 @@ zzzyk.com###Tinfo
 ||9kld.com/ad*.html
 ||9kp.cc/js/bbk/
 ||9ku.com/aaa/
+||9odes.ltd^
 ||9tata.com/js/Rand.js
 ||9tata.com/js/pbanner.js
 ||9tata.com/js/topxia.js
@@ -13340,6 +13342,7 @@ zzzyk.com###Tinfo
 ||dabin69.com/data/attachment/portal/
 ||dabizi.net/images/pcad.png
 ||dacfusm.cn^
+||dacyh.cyou^
 ||dada8828.com/js/aaa/
 ||dadawm.cc^
 ||daddychess.online^
@@ -14633,6 +14636,7 @@ zzzyk.com###Tinfo
 ||ganjistatic1.com^*/adm/
 ||ganjituiguang.ganji.com^
 ||gansudaily.com.cn/2017zt/images/*gg
+||gaoai.wang^
 ||gaofen.com/source/plugin/gaofen_ad/
 ||gaofuwu.org/js/dd.js
 ||gaofuwu.org/js/dd2.js
@@ -18377,6 +18381,7 @@ zzzyk.com###Tinfo
 ||nbgsintl.com^
 ||nbheopi.cn^
 ||nbhotpo.com^
+||nbzabd.xyz^
 ||nccaer.xyz^
 ||nchte.com^
 ||ncoeqz.today^
@@ -18523,6 +18528,7 @@ zzzyk.com###Tinfo
 ||nmtibv.xyz^
 ||nmtlgbv.cn^
 ||nmwbank.cn^
+||nnfeibao.cn^
 ||nngzfd.cn^
 ||nnllupyu.top^
 ||nnocsin.cn^
@@ -18722,6 +18728,7 @@ zzzyk.com###Tinfo
 ||olsyuulk.cam^
 ||olwsx.com^
 ||om.cn/api/ad-om/
+||omegabest.cn^
 ||omhoa.com^
 ||omtend.com^
 ||one.fsylr.com^
@@ -19300,6 +19307,7 @@ zzzyk.com###Tinfo
 ||qdchunyu.com^
 ||qdglzx.com^
 ||qdhhdsw.cn^
+||qdiwbhjpo.com^
 ||qdjimo.com/html/js/
 ||qdp.qidian.com^
 ||qdross.com/vip/
@@ -19333,6 +19341,7 @@ zzzyk.com###Tinfo
 ||qgjapp.com^
 ||qgss8.com^
 ||qguwoq.cn^$third-party
+||qhapp.top^
 ||qhdbfjx.com^
 ||qhdlz.net/ssyyss/m.js
 ||qhdlz.net/uploads/glxs/980x120.jpg
@@ -21430,6 +21439,7 @@ zzzyk.com###Tinfo
 ||undm.qibulo.com^
 ||unecne.com/wp-content/uploads/*ad-
 ||uneede.com^
+||unevwe.xyz^
 ||unikoshardware.com/wp-content/uploads/*/*/WPointer_Ad_440x250.jpg
 ||unilife.top^
 ||unimr0k7em.cn^
@@ -23394,6 +23404,7 @@ zzzyk.com###Tinfo
 ||zkqfrti.cn^
 ||zktqzyz.cn^
 ||zkwsdf.com^
+||zlclgzs.cn^
 ||zlfthh.xyz^
 ||zlgame.top^
 ||zli.wang^
