@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202303050211
+! Version: 202303060232
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53720
+! Lenth = 53725
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -1524,6 +1524,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /analytics.ashx
 /analytics.asmx
 /analytics.bundled.js
+/analytics.collect.
 /analytics.compressed.js
 /analytics.config.js
 /analytics.do
@@ -6280,6 +6281,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /weblog.js?
 /weblog.php?
 /webmetricstracking.
+/webmnr.min.js
 /webmonitor/collect/*
 /webmr.js
 /webservices/remoteModulesTracker.php
@@ -7440,7 +7442,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||dw.de/js/xtcore.js
 @@||dygassets.dygdigital.com/player-new/
 @@||dynamicyield.com/st$script,domain=gigasport.at|gigasport.ch|gigasport.de
-@@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|fendi.com|harborfreight.com|luisaviaroma.com|noelleeming.co.nz|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
+@@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|dreamcloudsleep.com|fendi.com|harborfreight.com|luisaviaroma.com|noelleeming.co.nz|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
 @@||e.cquotient.com/recs/*?callback=$domain=karstadt.de
@@ -19898,6 +19900,7 @@ znak.com##.relap
 ||counter.webmart.de^
 ||counter.websiteout.net^$third-party
 ||counter.websitevoice.com^
+||counter.wikiwiki.jp^
 ||counter.yadro.ru^
 ||counter.yandro.ru^
 ||counter.zerohedge.com^
@@ -25715,6 +25718,7 @@ znak.com##.relap
 ||flurry.agentportal.*.yahoodns.net^
 ||flurry.com^$third-party
 ||flux-cdn.com/*/analytics/
+||flux-cdn.com/client/ukiuki/flux_wikiwiki_AS_TM_AT.min.js
 ||flux-cdn.com/plugin/common/analytics/
 ||flux.com/geo.html?
 ||flx1.com^$third-party
@@ -50324,6 +50328,7 @@ znak.com##.relap
 ||trustedform.com/trustedform.js?provide_referrer
 ||trustev.com/trustev.min.js$third-party
 ||trustiseverything.de^$third-party
+||trustisimportant.fun^
 ||trustmeiamapro.de^$third-party
 ||trustpilot.com/stats/
 ||trv.upperbooking.com^$third-party
