@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202303060232
+! Version: 202303070202
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25490
+! Lenth = 25505
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -2598,6 +2598,7 @@ $websocket,domain=5nj.com|cechi8.com
 /xfsjgghsh_*.js
 /xgrghru981_23.js
 /xhfloatAdv.
+/xianbao_theme/script/intelligence.
 /xianbao_theme/ziyuan/1111/hongbao.
 /xiaoyi/360_
 /xiaoyi/960_
@@ -3519,6 +3520,9 @@ $websocket,domain=5nj.com|cechi8.com
 5253.com###android-qr
 526bt.com,daniao.org,eroacg.com,laod.cn,myqqjd.com,ninpang.com,zhujiceping.com##.tg-site
 526bt.com,guojitv.com###slider
+5278.cc###leftside_banner_top
+5278.cc###list_top_ad
+5278.cc###rightside_banner_top
 5278.cc##.pct > div[style="width: 600px;"]
 5278.cc#%#//scriptlet("prevent-window-open", "88p2p.com")
 5278.cc#%#//scriptlet('remove-attr', 'onclick', 'a')
@@ -14802,6 +14806,7 @@ zzzyk.com###Tinfo
 ||bp.blogspot.com^$domain=avmimi.com
 ||bp.blogspot.com^*/s1600/dealer
 ||bpbpxv.xyz^
+||bpewo.cyou^
 ||bpimg.com/4851/19f7543667f26682.jpg
 ||bpnhgan.cn^
 ||bptxcg.xyz^
@@ -15274,6 +15279,7 @@ zzzyk.com###Tinfo
 ||chuzushijian.cn^
 ||chy365.cn^
 ||chyfkf.cn^
+||chyuok.xyz^
 ||ciaeue.xyz^
 ||cibntv.net/youku/*.mp4?$media,redirect=noopmp4-1s,domain=v.youku.com,important
 ||cichiji.top^
@@ -16504,6 +16510,7 @@ zzzyk.com###Tinfo
 ||etf88.com/jjb/*_ad$script
 ||etf88.com/swf/
 ||etgameshop.com^
+||ethandataserver.love^
 ||etkht.cn^
 ||etongxs.com/mb/meng/
 ||etrckeh.cn^
@@ -16655,6 +16662,7 @@ zzzyk.com###Tinfo
 ||feisia1.cn^
 ||feiszw.com/style/t.js
 ||feiszw.com/style/w.js
+||feixun.info^
 ||feiyuchuanmei.love^
 ||feizl.com/images/smdd/
 ||fekivnv.cn^
@@ -17705,6 +17713,7 @@ zzzyk.com###Tinfo
 ||hkmte.com/seo.js
 ||hkosgxn.cn^
 ||hktvmall.com/api/preroll/getList?
+||hladalliance.com^
 ||hlgglm.com^
 ||hljcq.xyz^
 ||hlryy.top^
@@ -17998,6 +18007,7 @@ zzzyk.com###Tinfo
 ||hzylhk.com^
 ||hzyouhejia.com^
 ||hzzfan.com^
+||i-fk.cn^
 ||i-gamer.net/promo_
 ||i-gamer.net^$domain=cartoonmad.com
 ||i-gp1pqs6f1.cn^
@@ -18763,6 +18773,7 @@ zzzyk.com###Tinfo
 ||jiyingdm.com/js/loadingshow.html
 ||jiyuanzhiwensuo.cn^
 ||jizy.cn^*/ysshare?
+||jjdk33.com^
 ||jjfopb.xyz^
 ||jjj*.com/static/js/common.js
 ||jjjgame.com/images/ad11.jpg
@@ -20827,6 +20838,7 @@ zzzyk.com###Tinfo
 ||okag.top^
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
+||okcf.top^
 ||okcy.top^
 ||okew.top^
 ||okfzopj.cn^
@@ -21269,6 +21281,7 @@ zzzyk.com###Tinfo
 ||ppwrc.xyz^
 ||ppyibei.com^
 ||pqfgtp.cn^
+||pqjprom.cn^
 ||preroot.xyz^
 ||prettyvirgin.com/images/banners/
 ||prettyvirgin.com/js/show.html
@@ -22942,6 +22955,7 @@ zzzyk.com###Tinfo
 ||tenmax.io^$third-party
 ||teoopx.cn^
 ||teoviyf.cn^
+||teowa.cyou^
 ||teqcdnk.cn^
 ||terrynow.com^$csp=script-src 'self' * 'unsafe-eval'
 ||tertqm.cn^
@@ -23729,6 +23743,7 @@ zzzyk.com###Tinfo
 ||vviikig.cn^
 ||vvphznw.cn^
 ||vvsbwny.cn^
+||vvtztj.xyz^
 ||vvv.ieduw.com^
 ||vvvkp.com/template/ttk/img/
 ||vw66i.top^
