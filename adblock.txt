@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202303070202
+! Version: 202303080255
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25505
+! Lenth = 25523
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1190,6 +1190,7 @@
 ##a[href*="/ayx600.com/"]
 ##a[href*="/ayxbet846.vip"]
 ##a[href*="/b6314.com:"]
+##a[href*="/bgm9z.com"]
 ##a[href*="/blfanss.com"]
 ##a[href*="/bli2a.com/"]
 ##a[href*="/bucd.icu/"]
@@ -1289,6 +1290,7 @@
 ##a[href="/e/member/register/index.php?tobind=0&groupid=1"]
 ##a[href="/gghtml/tyc.html"]
 ##a[href="/goto.php?url=hth"]
+##a[href="/jump.php"] > img[src*=".bcebos.com"]
 ##a[href="/static/xzgg/index.html"]
 ##a[href="http://hqbet2191.com"]
 ##a[href="http://www.tw787.com/"]
@@ -3676,7 +3678,7 @@ $websocket,domain=5nj.com|cechi8.com
 69story.com###main > div[style="margin-top: 15px;"]
 69story.com##aside#secondary > section[id="text-2"]
 69vj.com###nta
-69xx.one,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
+69xx.one,69xx487.xyz,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
 6park.com##a[href*=".php?key="]
 6park.com##img[width="980"][height="90"]
 6park.com##table[width="89%"][height="60"]
@@ -5840,6 +5842,7 @@ bxwx888.org###addiv3
 bxwx888.org###bdstatic
 byxx.com##.byzwPC-banner-ADscroll
 byxx.com##.cataAD
+c.biancheng.net##.ggxc-box > a[target="_blank"] > img
 c114.com.cn###ad_r1
 c114.com.cn###barrage_ad
 c114.com.cn###barrage_bg
@@ -14101,6 +14104,7 @@ zzzyk.com###Tinfo
 ||as-oss2.com^
 ||as1.m.hao123.com^
 ||as1.wenku.baidu.com^
+||ascloud.tech^
 ||asd8900.oss-*.aliyuncs.com^
 ||asdffe22.com^
 ||asdqwe.ltd^
@@ -15682,6 +15686,7 @@ zzzyk.com###Tinfo
 ||d2robot.com.cn^
 ||d3.sina.com.cn^$object,script
 ||d32bug9eb0g0bh.cloudfront.net^
+||d3f3.xyz^
 ||d3iih5w7xp5hdg.cloudfront.net^
 ||d3t3z4teexdk2r.cloudfront.net^
 ||d4.sina.com.cn^$object,script
@@ -15890,6 +15895,7 @@ zzzyk.com###Tinfo
 ||dftoutiao.com/dfpcitv/pcitv?type=
 ||dftoutiao.com/jrdftt/static/javascript/ad/
 ||dftoutiao.com/ssp/
+||dfvarz.xyz^
 ||dfvvx58.com^
 ||dfwskw7.com^
 ||dfzv25.com^
@@ -15963,6 +15969,7 @@ zzzyk.com###Tinfo
 ||ditiezu.com/banner/badatu.png
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
+||diwok.cyou^
 ||diygnmo.cn^
 ||diyifanwen.com/siteimages/jiqiren
 ||diyiguanggao.xyz^
@@ -16679,6 +16686,7 @@ zzzyk.com###Tinfo
 ||fenxi.com^$third-party
 ||fenxiangdashi.com/Res/js/detail_
 ||fenxiangdashi.com/img/banner/
+||fernandou.online^
 ||fetm.xin^
 ||fewsvuh.cn^
 ||ff.guidaye.com^
@@ -19307,6 +19315,7 @@ zzzyk.com###Tinfo
 ||kqnggnsd.fun^
 ||kqvkvc3.com^
 ||kqwip.cyou^
+||kravma.xyz^
 ||krkcryk.cn^
 ||krp3g.top^
 ||krqole.xyz^
@@ -19523,6 +19532,7 @@ zzzyk.com###Tinfo
 ||ldd62n.top^
 ||lddpgn.cn^
 ||ldmnq.com^$third-party
+||ldmnq.com^$third-party,badfilter
 ||ldpsfa.com^
 ||le123.cn^$third-party
 ||le258.cn^
@@ -20731,6 +20741,7 @@ zzzyk.com###Tinfo
 ||nvqhbij.cn^
 ||nvsheng.com/js/gg.js
 ||nvswnur.cn^
+||nvwanyyds.com^
 ||nvzffl.cn^
 ||nwadakesc.cyou^
 ||nwdjlx.xyz^
@@ -20840,6 +20851,7 @@ zzzyk.com###Tinfo
 ||okbmf.com^*950_120
 ||okcf.top^
 ||okcy.top^
+||okdi.top^
 ||okew.top^
 ||okfzopj.cn^
 ||okkkk.com^
@@ -21095,6 +21107,7 @@ zzzyk.com###Tinfo
 ||peise.net/Skin/js/global.
 ||pejrq.xyz^
 ||pekingpk10.com^
+||penglangyyds.com^
 ||pengtu.cc^*.png
 ||pengwei168.com/addons/321.gif
 ||pengwei168.com/template/stui_tpl/html/vod/f.js
@@ -21291,6 +21304,7 @@ zzzyk.com###Tinfo
 ||price.com.hk/scripts/ysm.js
 ||price.com.hk^$domain=discuss.com.hk
 ||princesses.asia^
+||printsmull.com^
 ||priry.com^
 ||prju.top^
 ||prjwqs.xyz^
@@ -21911,6 +21925,7 @@ zzzyk.com###Tinfo
 ||rkanr.com/data/cpcache/cp*.js
 ||rkcdmve.cn^
 ||rkkhuwl.cn^
+||rkv9.top^
 ||rkxy.com.cn/js/text_
 ||rl-mb90b39t.cn^
 ||rljjt.cn^
@@ -22452,6 +22467,7 @@ zzzyk.com###Tinfo
 ||slashlook.com/_resource/html/_bloggerAdsBottom.html
 ||slashlook.com/_resource/html/_bloggerAdsInline1.html
 ||slcgngo.cn^
+||slfindmarket.live^
 ||slfj564.xyz^
 ||slibindy.top^
 ||slieindy.top^
@@ -24125,6 +24141,7 @@ zzzyk.com###Tinfo
 ||wuliao.epro.sogou.com^
 ||wuliao.juqingba.cn^
 ||wuliglsg.space^
+||wumao20230301.live^
 ||wumei91.cc^
 ||wumii.cn/ext/relatedItemsWidget
 ||wumnxwvg.ink^
@@ -24701,6 +24718,7 @@ zzzyk.com###Tinfo
 ||yezi.cn/_ad/
 ||yffjqvq.cn^
 ||yfkgnqu.cn^
+||yflog.me^
 ||yfmhik.xyz^
 ||yfot.com.cn^
 ||yfue99.xyz^

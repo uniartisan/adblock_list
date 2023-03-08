@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202303070202
+! Version: 202303080255
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53190
+! Lenth = 53205
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -6351,6 +6351,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /wp-content/plugins/stat-dfp/*
 /wp-content/plugins/woocommerce-google-adwords-conversion-tracking-tag/js/*
 /wp-content/plugins/wp-google-analytics-events/*
+/wp-content/plugins/yyi-rinker/js/event-tracking.js
 /wp-content/themes/vip/pmc-plugins/pmc-global-functions/js/geoPosition.js
 /wp-content/tracker.
 /wp-counter.php
@@ -6959,6 +6960,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||blocket.se^*/xtcore.js
 @@||bloctel.gouv.fr/assets/scripts/smarttag.js
 @@||bluecare.express/js/tracking/$script,~third-party
+@@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
 @@||bluesky-soft.com/common/script/ga.js$script,~third-party
 @@||bnc.lt/a/key_live$domain=pinterest.co.kr|pinterest.com|pinterest.de|pinterest.com.au|pinterest.com.mx|pinterest.es|pinterest.jp|pinterest.it|pinterest.ca|pinterest.co.uk|pinterest.ru|pinterest.ch|pinterest.fr|pinterest.cl|pinterest.at|pinterest.pt|pinterest.nz|pinterest.dk|pinterest.se|pinterest.ie|pinterest.ph|pinterest.info
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
@@ -7441,7 +7443,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||dw.de/js/xtcore.js
 @@||dygassets.dygdigital.com/player-new/
 @@||dynamicyield.com/st$script,domain=gigasport.at|gigasport.ch|gigasport.de
-@@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|dreamcloudsleep.com|fendi.com|harborfreight.com|luisaviaroma.com|noelleeming.co.nz|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
+@@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|dreamcloudsleep.com|fendi.com|harborfreight.com|luisaviaroma.com|nectarsleep.com|noelleeming.co.nz|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
 @@||e.cquotient.com/recs/*?callback=$domain=karstadt.de
@@ -7854,6 +7856,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||googleadservices.com/pagead/conversion_async.js$domain=knowledgecity.com
 @@||googleadservices.com/pagead/conversion_async.js$domain=ulmart.ru
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
+@@||googleoptimize.com/optimize.js$domain=bookmyshow.com
 @@||googleoptimize.com/optimize.js$domain=inquirer.com
 @@||googleoptimize.com/optimize.js$domain=lacomer.com.mx
 @@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
@@ -8900,6 +8903,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||rudaw.net/images/pixel.gif$~third-party
 @@||rules.atgsvcs.com/EERules/view/$domain=lenovo.com
 @@||rum.perfops.net/rum.min.js$script,domain=cdnperf.com
+@@||ruralking.com^*/Creatuity_GoogleTagManager/$script,~third-party
 @@||rv.treehousei.com/prm/js/*/public.min.js$domain=partnerportal.fortinet.com
 @@||s-microsoft.com/mscc/statics/$script,domain=microsoft.com
 @@||s-sfr.fr/stats/header.js$script,domain=red-by-sfr.fr|sfr.fr
@@ -9794,6 +9798,7 @@ megatorrents.kg##a[href^="http://www.net.kg/stat.php"]
 member.neofinancial.com#%#//scriptlet('set-constant', '__fpjs_p_l_b', 'emptyObj')
 member.neofinancial.com#%#//scriptlet('set-constant', '__fpjs_p_l_b.load', 'noopFunc')
 mesyuu.com#?#div[class$="_outline"] > div > div.plugin-freearea > div.ninja-recommend-block:upward(3)
+minnyuu.jp#?#div[class$="BlockBase"] > div > div > div.plugin-freearea > div.ninja-recommend-block:upward(4)
 mirrormedia.mg#%#//scriptlet("set-constant", "dataLayer", "emptyArr")
 mltrk.io/pixel$image
 moeimg.net###pickup-header_frame
@@ -9937,6 +9942,7 @@ via.intercom.io/o$image
 vidaextra.com##div[style="width:100%; height:160px"]
 vidak.icu,pb.wtf,piratbit.*##a[href="//www.liveinternet.ru/click"]
 viva.ua##.footer-counters
+voici.fr,gala.fr#%#//scriptlet('set-constant', 'DD_RUM.addTiming', 'noopFunc')
 vse42.ru##.ya-metrika
 vulture.com##div[data-uri="www.vulture.com/_components/clay-space/instances/taboola@published"]
 w-kino.ru,kinotochka.club,legend.az##.counts
@@ -16141,6 +16147,7 @@ znak.com##.relap
 ||assets.mikeroulston.com^
 ||assets.modeathletics.com^
 ||assets.pixlee.com/assets/fp.js
+||assets.rpglogs.com/js/global/googleAnalytics.*.js
 ||assets.shop.hisense.com/ta.js
 ||assets.sky.com/js/thirdparty/sessioncam5-5.js
 ||assets.spectrumhealthlakeland.org^
@@ -16893,6 +16900,7 @@ znak.com##.relap
 ||berliner-stadtplan.com/t.gif
 ||berliner-zeitung.met.vgwort.de^
 ||berlingske.tns-gallup.dk^
+||bershka.com/integration/zenit/events/hit
 ||besstahete.info^$third-party
 ||best-top.de^$third-party
 ||best-top.ro^$third-party
@@ -23645,6 +23653,7 @@ znak.com##.relap
 ||durationmedia.net^$third-party
 ||durst-group.actonservice.com^
 ||dus.trivago.com/tracking
+||dustyhammer.com^
 ||dustyhammer.com^$third-party
 ||dustyrabbits.com^
 ||dustyrabbits.com^$third-party
@@ -25076,6 +25085,7 @@ znak.com##.relap
 ||evrget.nikkan-gendai.com^
 ||evri.com/analytics/
 ||evs.data.ciceksepeti.com^
+||evs.proxy.analytics.shutterstock.com^
 ||evs.sgmt.loom.com^$script
 ||evt.collarity.com^$image
 ||evt.houzz.com^
@@ -26992,7 +27002,6 @@ znak.com##.relap
 ||googleapis.com^*/gen_204?
 ||googleapis.com^*/gen_204?$domain=tellows.de
 ||googlecode.com^*/tracker.js
-||googleoptimize.com/optimize.js$script,redirect=noopjs,domain=bookmyshow.com
 ||googleoptimize.com/optimize.js$third-party
 ||googleoptimize.com^
 ||googlerank.info^$third-party
@@ -27016,7 +27025,6 @@ znak.com##.relap
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=asics.com.tr
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=avast.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=beymen.com
-||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=bookmyshow.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=carrefoursa.com,important
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=carsmile.pl
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=chip.com.tr
@@ -29526,6 +29534,7 @@ znak.com##.relap
 ||jill.fc.yahoo.com^
 ||jimdo.com/app/tracking/common/index/
 ||jimmyjohns.com/Abo2Yc8X/init.js
+||jimny.pro^
 ||jinair.nsc.jinair.com^
 ||jinair.sc.jinair.com^
 ||jirafe.com^$third-party
@@ -36932,6 +36941,7 @@ znak.com##.relap
 ||predicta.net^$third-party
 ||predictivedna.com^$third-party
 ||predictiveresponse.net^$third-party
+||predictplate.com^
 ||preference.motorolasolutions.com^
 ||preferences.deloitte.ca^
 ||preferences.la-lakers.com^
@@ -38485,6 +38495,7 @@ znak.com##.relap
 ||rumpelstiltskinhead.com^$third-party
 ||rumstat.cdnvideo.ru^
 ||run.app/data.log
+||run.app/events
 ||run.app/metrics/
 ||run.crtx.info/track.min.js
 ||rup5.destinia.ru^
@@ -46216,6 +46227,7 @@ znak.com##.relap
 ||talentedsteel.com^$third-party
 ||talenteq.intuit.com^
 ||talkingdata.com^*/sdk_release.js
+||talltouch.com^$third-party
 ||tam.volkswagen.com^
 ||tamgrt.com^$third-party
 ||tamgrt.com^*&pixel_version=
@@ -46739,6 +46751,7 @@ znak.com##.relap
 ||thesearchagency.net^$third-party
 ||thesmilingpencils.com^$third-party
 ||thespecialsearch.com^$third-party
+||thesportsrush.com/_axiom/web-vitals
 ||thestat.net^$third-party
 ||thestreet.com^$cookie=BCSessionID
 ||thestreet.com^$cookie=last_visit_bc
@@ -46861,6 +46874,7 @@ znak.com##.relap
 ||timinternet.it/timmobilestatic/img/*.gif?
 ||timinternet.it/timmobilestatic/jsPrivacy/gdl_function_cookie.js
 ||tinb.net^$third-party
+||tingz.co/analytics/mp/track
 ||tintup.com/app/dist/tintAnalyticsProxy-bundle.js
 ||tinyclues.com^$third-party
 ||tinycounter.com^$third-party
@@ -49500,6 +49514,7 @@ znak.com##.relap
 ||trackmyweb.net^$third-party
 ||trackonomics.net^$third-party
 ||trackpm.shop2market.com^
+||trackr.vivenu.com^
 ||tracks.arubamediamarketing.it^
 ||tracks.davidkingsbury.co.uk^
 ||tracks3.ferrari.com^
