@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202303080255
+! Version: 202303090249
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53205
+! Lenth = 53215
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -809,6 +809,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /AdBlockDetection/scriptForGA.
 /AdCookies.js
 /AdCount/*
+/AdmitadTagTag.js
 /AdobeAnalyticsAndTargetOverwrites.
 /AdobeAnalyticsBundle.
 /AdobeAnalyticsEvent.
@@ -3512,6 +3513,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /insights-emitter.
 /insights-emitter/*
 /insitemetrics/*
+/instantpage.js
 /instart.js
 /intellitracker.js
 /intercept.js
@@ -6866,6 +6868,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||api64.ipify.org^$domain=rbfa.be
 @@||app-sjf.marketo.com^$domain=live.altium.com
 @@||app.clarity.so^$~third-party
+@@||app.pangolin.exchange/assets/analytics-$~third-party
 @@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
 @@||appapi.inspsearchapi.com^$domain=search.pch.com
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
@@ -9186,7 +9189,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||tag.aticdn.net/583901/at.js$script,domain=tv5monde.com
 @@||tag.aticdn.net/piano-analytics.js$domain=yourstory.com
 @@||tag.aticdn.net^*/smarttag.js$domain=gouv.fr|mon.compteczam.fr
-@@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk
+@@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk|visaconcierge.eu
 @@||tag.md-nx.com^$script,domain=weather.us
 @@||tag.perfectaudience.com/serve/*.js$domain=asana.com
 @@||tag.search.sensefuel.live/search/$domain=bricomart.es
@@ -9769,11 +9772,11 @@ laprovence.com#%#//scriptlet("set-constant", "refresh_xiti", "noopFunc")
 laprovence.com#%#//scriptlet("set-constant", "xt_click", "noopFunc")
 launchbit.com/taz-pixel$image
 lcwaikiki.com#%#//scriptlet("set-constant", "dataLayer", "emptyArr")
-ldblog.jp#?#.plugin-memo > div.side > a[href$="ziyu.net/"]:upward(2)
 levashove.ru##.footer-four > section#custom_html-5
 life.ru##.read-next
 link.gmapp*.net$image
 list-manage.com/track$image
+livedoor.biz,ldblog.jp#?#.plugin-memo > div.side > a[href$="ziyu.net/"]:upward(2)
 lurkmore.to###p-counters
 luxhard.com#?##sidebar-primary > .widget-container:-abp-has(a[href^="https://metrika.yandex.ru/stat/"])
 m.card-gorilla.com,pindirectshop.com,dongbanmall.com#%#//scriptlet("set-constant", "kakaoPixel", "undefined")
@@ -14713,6 +14716,7 @@ znak.com##.relap
 ||analytics.dap-networks.de^
 ||analytics.dashboard.fingerprint.com^
 ||analytics.data.lloydsbankinggroup.com^
+||analytics.data.visenze.com^
 ||analytics.datahc.com^
 ||analytics.datasavannah.com^
 ||analytics.dealer.com^
@@ -35436,8 +35440,10 @@ znak.com##.relap
 ||p.ejs.dev^
 ||p.fairspot.host^
 ||p.flipp.com/beacons
+||p.fusevideo.net^
 ||p.gazeta.pl^
 ||p.gm99.com^
+||p.hentaiforce.net^
 ||p.ianmjones.com^
 ||p.ifvictr.com^
 ||p.imgur.com^
@@ -37045,6 +37051,7 @@ znak.com##.relap
 ||prod-plague-bacon.miniclippt.com^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^$third-party
 ||prod.ew.srp.navigacloud.com^
+||prod.fennec.atp.fox^
 ||prod.nitrosniffer.ottogroup.io^
 ||prod.tracking.refinitiv.com^
 ||proditor.sparda.de^
@@ -45764,6 +45771,7 @@ znak.com##.relap
 ||t.10er-tagesticket.de^
 ||t.12thman.com^
 ||t.360.audion.fm^
+||t.3hentai.net^
 ||t.451.io^
 ||t.91syun.com^
 ||t.91syun.com^$third-party
@@ -49008,6 +49016,7 @@ znak.com##.relap
 ||tracking-explore-ft.agilent.com^
 ||tracking-explore-uat.agilent.com^
 ||tracking-explore.agilent.com^
+||tracking-live.kr3m.com^
 ||tracking-opi.fonpit.de/tracking/
 ||tracking-qa.te.com^
 ||tracking-rce.veeseo.com^
@@ -49686,6 +49695,7 @@ znak.com##.relap
 ||tripadvisor.*/wm/record
 ||tripadvisor.TAUnique
 ||tripadvisor.activate.ensighten.com^
+||tripadvisor.com.tr/MetricsAjax
 ||triplewhale-pixel.web.app^
 ||triptease.io^$third-party
 ||triptease.net^$third-party

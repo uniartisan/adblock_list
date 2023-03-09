@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202303080255
+! Version: 202303090249
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25523
+! Lenth = 25538
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -4143,6 +4143,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||a.alimama.cn/tkapi$domain=ieeee.com
 @@||a1.itc.cn/pv/js/spv.
 @@||abchina.com^*ad
+@@||aboluowang.com^$generichide
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
 @@||ad.10010.com^
@@ -4721,7 +4722,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||ozabc.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aboluowang.com|chaojizhibo.net|chtoen.com|daxiaamu.com|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|monnsutogatya.com|mpyit.com|numberempire.com|ozabc.com|patch.ali213.net|pc3mag.com|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|liout.com|moneysave.info|myqqjd.com|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=m.twfanti.com
 @@||pagead2.googlesyndication.com/pagead/js/google_top_exp.js$domain=ebb.io
@@ -5017,6 +5018,8 @@ _vmind.qqvideo.tc.qq.com^
 _yad_jsonp_
 a-i-l-s-a.com,buscodepto.com##div[style^="position: fixed;"]
 a9vg.com###guide-download
+a9vg.com###qrcode
+a9vg.com##.a9-back-top_qrcode
 aa25.cn###content_head
 aa25.cn,kafan.cn###content_top
 aaaweb.cn##a[href$=".yhzu.cn"]
@@ -6343,6 +6346,7 @@ csdn.net##.banner-ad-box
 csdn.net##.blog-column-pay
 csdn.net##.blog_star_enter
 csdn.net##.box.hot
+csdn.net##.csdn-common-logo-advert
 csdn.net##.csdn-tracking-statistics[style$="250px;"]
 csdn.net##.edu-promotion
 csdn.net##.el-dialog__wrapper + .activity
@@ -11905,6 +11909,7 @@ zzzyk.com###Tinfo
 ||0798ls.com^
 ||07xm.fun^
 ||080644.com^
+||08088.top^
 ||085cczz.com^
 ||0885.net^$third-party
 ||0941.org^
@@ -13521,6 +13526,7 @@ zzzyk.com###Tinfo
 ||aaread.space/images/*0.gif
 ||aassy4.com/dm/
 ||aasyy.com^
+||aaudaob.cn^
 ||aawcky.xyz^
 ||ab.cnbanbao.com^
 ||ab.rejushe.com^
@@ -14049,6 +14055,7 @@ zzzyk.com###Tinfo
 ||aoshi.com/rbc.jpg
 ||aotu43.com/templates/defboot/js/duilian.js
 ||aovpnal.cn^
+||aowdk.cyou^
 ||aoxiang.fun^
 ||aoyou2.top^
 ||aoyuegc.cn^
@@ -14605,6 +14612,7 @@ zzzyk.com###Tinfo
 ||beiyicc.cn^
 ||beiyz.com^
 ||bejson.com/static/ydxyt/
+||believer.ltd^
 ||bendan.shop^
 ||bendibao.com*/tuangou.gif
 ||bendibao.com/js/count.js
@@ -15309,6 +15317,7 @@ zzzyk.com###Tinfo
 ||citysbs.com^*/800x90-
 ||citysbs.com^*swf
 ||cj-cy.com^
+||cj-sys.club^
 ||cj7g.top^
 ||cja-1223.cc^
 ||cjdby.net/Public/home/images/advImg/
@@ -16128,6 +16137,7 @@ zzzyk.com###Tinfo
 ||dpjszs.com^
 ||dpncnct.cn^
 ||dpqtdkf.cn^
+||dpxynh.xyz^
 ||dq3e.top^
 ||dq8c.top^
 ||dqcztxmu.com^
@@ -19130,6 +19140,7 @@ zzzyk.com###Tinfo
 ||kb5ke.xyz^
 ||kba8i.icu^
 ||kbbqwhf.cn^
+||kbctii.xyz^
 ||kbkilog.cn^
 ||kc.gouchezj.com^
 ||kccdk.com/Content/img/*.gif
@@ -19874,6 +19885,7 @@ zzzyk.com###Tinfo
 ||lwpxhr.xyz^
 ||lwtlock.cn^
 ||lwxqaq.club^
+||lwz.hk^
 ||lxanimation.cn^
 ||lxapk.com/wp-content/uploads/*.gif
 ||lxbjs.baidu.com^$third-party
@@ -21506,6 +21518,7 @@ zzzyk.com###Tinfo
 ||qiaohuailong.work^
 ||qiaopiguniang.com^
 ||qiaoxiaomiao.com^
+||qiapuyyds.com^
 ||qibmrq.xyz^
 ||qicaihong.xyz^
 ||qicewar.cn^
@@ -23714,6 +23727,7 @@ zzzyk.com###Tinfo
 ||vnet.cn^*.html?$popup,third-party
 ||vnfjsus.xyz^
 ||vnghuw.xyz^
+||vnq3.top^
 ||vns86.oss-*.aliyuncs.com^
 ||vnvmif.cn^
 ||voc.com.cn/adsClick/
@@ -24296,6 +24310,7 @@ zzzyk.com###Tinfo
 ||xh33g.net^
 ||xhd.cn/topic/leyu-piaofu/
 ||xhflovezyy.asia^
+||xhi8.xyz^
 ||xhiteam.club^
 ||xhjxkgc.cn^
 ||xhkvff.cn^
