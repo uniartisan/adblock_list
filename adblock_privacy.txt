@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202303100210
+! Version: 202303101633
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53222
+! Lenth = 53214
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -444,6 +444,8 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 -spiky.clevertap-prod.com^$third-party
 -stat/collect/
 -stat?callback=
+-telemetry.officeapps.live.com.mcas.ms^
+-telemetry.officeapps.live.com^
 -track-email-open?
 -track-inview.
 -tracker-geoip.
@@ -24846,12 +24848,6 @@ znak.com##.relap
 ||eu.groupondata.com^$third-party
 ||eu.sharpmarketing.eu^
 ||eu.spgo.io^
-||euc-excel-telemetry.officeapps.live.com.mcas.ms^
-||euc-excel-telemetry.officeapps.live.com^
-||euc-powerpoint-telemetry.officeapps.live.com.mcas.ms^
-||euc-powerpoint-telemetry.officeapps.live.com^
-||euc-word-telemetry.officeapps.live.com.mcas.ms^
-||euc-word-telemetry.officeapps.live.com^
 ||euclid.kuula.co^
 ||eucsoft.com^$third-party
 ||eue.d-teknoloji.com.tr^$third-party
@@ -25118,8 +25114,6 @@ znak.com##.relap
 ||exapxl.de^$third-party
 ||exbujk.glamood.com^
 ||exc.ns.nl^
-||excel-telemetry.officeapps.live.com.mcas.ms^
-||excel-telemetry.officeapps.live.com^
 ||exchangedetail.com^
 ||exchangedetail.com^$third-party
 ||excite.ie/?click_in=
@@ -31150,6 +31144,7 @@ znak.com##.relap
 ||lsv5.belambra.fr^
 ||lt*.tritondigital.com^
 ||lt.logly.co.jp^$third-party
+||ltbjeans.com/*/analyticsmediator.js
 ||ltcmak.alodokter.com^
 ||ltecrf.dhgate.com^
 ||lthbdc.become.co.jp^
@@ -34149,6 +34144,7 @@ znak.com##.relap
 ||myfreecams.com/mfc2/lib/o-mfccore.js
 ||mygtmn.com^$third-party
 ||myhg.healthgrades.com^
+||myhome.nifty.com/column/js/tracking.js
 ||myhome.usg.com^
 ||mymarketing.co.il/Include/tracker.js
 ||mymed.su/counter/
@@ -36892,15 +36888,10 @@ znak.com##.relap
 ||powerbiz.co^$third-party
 ||powercount.com^$third-party
 ||poweredbyeden.com/widget/tracker/
-||powerpoint-telemetry.officeapps.live.com.mcas.ms^
-||powerpoint-telemetry.officeapps.live.com^
 ||poznamka.ru/ametrix.js
 ||pp-serve.newsinc.com^
 ||pp.promocionesfarma.com^
 ||pp8.com^$third-party
-||ppc-onenote-telemetry.officeapps.live.com^
-||ppc-powerpoint-telemetry.officeapps.live.com^
-||ppc-word-telemetry.officeapps.live.com^
 ||ppc.silkroadtracker.com^
 ||ppcdn.it/iol/tracklib.3.js
 ||ppcprotect.com^$third-party
@@ -40014,6 +40005,7 @@ znak.com##.relap
 ||sensorsdata*.read.duokan.com^
 ||sensorsdata.cn^$third-party
 ||sentifi.com^$third-party
+||sentinel.defacto.com.tr/api/Tracking/
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry.arc.io^
 ||sentry.io^$third-party
@@ -46812,6 +46804,7 @@ znak.com##.relap
 ||thongke.24h.com.vn^
 ||thongke.vui.vn^$third-party
 ||thor.pureelectric.se^
+||thoth.utyug.media^
 ||thoughtmetric.io^$third-party
 ||thqjrh.elly.vn^
 ||threadloom.com/ga/
@@ -50299,6 +50292,7 @@ znak.com##.relap
 ||uninterestedquarter.com^$third-party
 ||union.360.cn/1899.js
 ||uniqodo.com^$third-party
+||unite.nike.com/auth/unite_session_cookies/
 ||united-infos.net/event?
 ||united-infos.net^$third-party
 ||united.activate.ensighten.com^
@@ -51848,8 +51842,6 @@ znak.com##.relap
 ||woopra.com^$third-party
 ||wootric.com^$third-party
 ||woowjy.desa.com.tr^
-||word-telemetry.officeapps.live.com.mcas.ms^
-||word-telemetry.officeapps.live.com^
 ||wordkeyhelper.com^$third-party
 ||wordmonetize.com^$third-party
 ||wordpress.com/geo/
