@@ -40,16 +40,17 @@
 - [iQDNS](https://www.v2ex.com/t/785666) - iQDNS 是 一个纯净的像少女一般的 DNS 服务。
 - [jsDelivr](https://www.jsdelivr.com/) - A free, fast, and reliable CDN for open source
 ## 参与贡献
-本项目分为上游列表和补充列表，如果您想要参与我们，您可以Fork、Pull request。
+本项目分为上游列表和补充列表，如果您想要参与我们，您可以 Fork、Pull request。
 1. **如何参与贡献？**
 
-项目的dev文件夹中分别有黑名单和白名单，您可以修改他们并提交，提交要注明广告的复现流程。
+项目的 dev 文件夹中分别有黑名单和白名单，您可以修改他们并提交，提交要注明广告的复现流程。
 
 2. **上游列表有误**
 
 反馈英文网站或 EasyLis t或 EasyPrivacy 或 Fanboy's Social Blocking List的问题：请将网址发到  easylist.subscription@gmail.com 并英文描述
 
 反馈非中英文网站的问题：请查看对应的语言列表
+
 https://adblockplus.org/zh_CN/subscriptions
 
 3. **如何提问？**
@@ -57,3 +58,8 @@ https://adblockplus.org/zh_CN/subscriptions
 [提问的艺术（中文版）](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 **请注意，提供此翻译的个人及组织不对本项目负责**
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=uniartisan/adblock_list&type=Timeline)](https://star-history.com/#uniartisan/adblock_list&Timeline)
