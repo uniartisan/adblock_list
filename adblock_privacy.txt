@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202303090249
+! Version: 202303100210
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 53215
+! Lenth = 53222
 ###cxense-recs-in-article
 ###qoo-counter
 ###ramblerCounter
@@ -1532,7 +1532,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 /analytics.google.js
 /analytics.html?
 /analytics.init.js
-/analytics.js$domain=freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr
+/analytics.js$domain=kopeda.com|freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp|imore.com|city.kushiro.lg.jp|emeraldbridal.com.au|emarat-news.ae|imobie.jp|tikla.com.tr
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -7404,6 +7404,7 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||dfdbz2tdq3k01.cloudfront.net/js/2.1.0/ortc.js$domain=social.economico.pt
 @@||diablo3.com/assets/js/jquery.google-analytics.js
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
+@@||dictionary.com/assets/standalone-analytics$~third-party
 @@||diginetica.net^$domain=reg.megabitcomp.ru
 @@||digitalgov.gov/Universal-Federated-Analytics-Min.js?$script,domain=travel.state.gov
 @@||directline.com/touchclarity/$script
@@ -8642,7 +8643,6 @@ $xmlhttprequest,domain=flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.c
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
 @@||nike.com/checkout/analytics/js/analyticFunctions.js$domain=nike.com
 @@||nike.com^*/optimizely.browser.umd.min.js$~third-party
-@@||ninja.data.olxcdn.com/ninja-cee.js$domain=olx.pl
 @@||ninja.onap.io/ninja-*.js$domain=olx.kz|olx.ua|olx.pl
 @@||ninja.onap.io/ninja-cee.js$domain=olx.pl
 @@||ninja.onap.io/ninja-cee.js$script,domain=olx.ua
@@ -15624,6 +15624,7 @@ znak.com##.relap
 ||app.12thmanfoundation.com^
 ||app.3d.ultimaker.com^
 ||app.accelerate.zoominfo.com^
+||app.adjust.com^$third-party
 ||app.adjust.io^
 ||app.adjust.net.in^
 ||app.adjust.world^
@@ -18879,6 +18880,7 @@ znak.com##.relap
 ||cltgtstor001.blob.core.windows.net^
 ||cltxxq.cruises.united.com^
 ||clubcollector.com^$third-party
+||clubjt.jp/js/ga_event.js
 ||clumsyrock.com^
 ||clustrmaps.com/counter/$third-party
 ||clustrmaps.com^$image,redirect=1x1-transparent.gif,third-party
@@ -26255,6 +26257,7 @@ znak.com##.relap
 ||gammachug.com^$third-party
 ||gammamaximum.com^$third-party
 ||gamona.de/*package/smbanalyticstracking
+||ganalytics.live^$third-party
 ||gannettdigital.com/capture_logger/
 ||ganon.yahoo.com^
 ||gapp1.com^
@@ -34545,7 +34548,6 @@ znak.com##.relap
 ||nimpool.io^$third-party
 ||ninestats.com^$third-party
 ||ninja.akamaized.net^
-||ninja.data.olxcdn.com^
 ||ninja.onap.io^
 ||ninjacat.io^$third-party
 ||nirdjz.revolveclothing.com.au^
@@ -34584,6 +34586,7 @@ znak.com##.relap
 ||nocowanie.pl/plugin/tracking/
 ||nocutnews.co.kr/js/logger*.htm
 ||node.aibeacon.jp^
+||noeyeon.com^
 ||noflake-aggregator-http.narvar.com^
 ||nofraud.com/js/device.js
 ||nofraud.com^*/customer_code.js
@@ -37240,6 +37243,7 @@ znak.com##.relap
 ||puffypurpose.com^$third-party
 ||puhutv-static.akamaized.net/scripts/segmentify.$script
 ||puiwrs.misterspex.de^
+||pullandbear.com/integration/zenit/events/hit
 ||pulleymarketing.com^$third-party
 ||puls.lv^$third-party
 ||pulsar.ebay.com^
@@ -46235,6 +46239,7 @@ znak.com##.relap
 ||talentedsteel.com^$third-party
 ||talenteq.intuit.com^
 ||talkingdata.com^*/sdk_release.js
+||talltouch.com^
 ||talltouch.com^$third-party
 ||tam.volkswagen.com^
 ||tamgrt.com^$third-party
@@ -47074,6 +47079,7 @@ znak.com##.relap
 ||tms.nab.com.au^
 ||tms.oracle.com^
 ||tms.virginatlantic.com^
+||tmserverside.mango.com/g/collect
 ||tmsgi.lv.com^
 ||tmvtp.com^$third-party
 ||tmx.td.com^
@@ -53029,6 +53035,7 @@ znak.com##.relap
 ||zapcdn.space/zapret.js
 ||zappos.com/err.cgi?
 ||zappos.com/karakoram/js/main.
+||zara.com/integration/zenit/events/hit
 ||zara.media01.eu/tm_js.aspx?trackid
 ||zarget.com^$third-party
 ||zatodr.trenbe.com^

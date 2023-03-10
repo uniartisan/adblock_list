@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202303090249
+! Version: 202303100210
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25538
+! Lenth = 25570
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -925,6 +925,7 @@
 ##.zhedangceng_ggg
 ##.zone_wap_banner2
 ##A[href*=".com/?Agent="]
+##A[href*="/k849.top"]
 ##A[href="http://t.cn/A6hQCVsv"]
 ##A[href^="/e/public/ClickAd?adid="]
 ##[class][onclick*=".ununxsxs.top"]
@@ -1611,6 +1612,8 @@ $websocket,domain=5nj.com|cechi8.com
 .com/tonglan2.js
 .com/topjs/
 .com/uploads/*-860x250.gif
+.com/vh1/$script,third-party
+.com/vj1/$script,third-party
 .com/vodad.js
 .com/zz/*2.txt$xmlhttprequest
 .com/zz/tcc2.js
@@ -1722,10 +1725,12 @@ $websocket,domain=5nj.com|cechi8.com
 .xn--fiqs8s:7385/
 .xyz/*.sdk?$script,third-party
 .xyz/99x/
+.xyz/?channelCode=$csp=script-src
 .xyz/ad/
 .xyz/js/ads/
 .xyz/o.js
 .xyz/upload/ad/
+.xyz/vh1/$script,third-party
 .zone/ads/
 //*.emgrt.com^$third-party
 //m.manhua123.net/js/com2.js
@@ -2311,6 +2316,7 @@ $websocket,domain=5nj.com|cechi8.com
 /k960g90.
 /kan/ads/dl.js
 /kan/js/dian.js
+/kg2.oss-
 /koukoku/*.gif
 /koukoku/list?positions=
 /ksks_*_*_*.js?$script,third-party
@@ -2402,6 +2408,8 @@ $websocket,domain=5nj.com|cechi8.com
 /pic.jsp?uid=$script,third-party
 /pic/ad/*
 /picad/*$domain=~ychr.com
+/pj5303.oss-
+/pj545.oss-
 /pjk/mdk/*$subdocument,third-party
 /pjk/static/tp.php
 /pjk/xjk/*.php
@@ -11960,6 +11968,7 @@ zzzyk.com###Tinfo
 ||1.idc100.com^
 ||1.isanxia.com^
 ||1.jeasyui.net^
+||1.jiaopei.com^
 ||1.jiqie.cn^
 ||1.jushtong.com^
 ||1.kuaidiwo.cn^
@@ -12447,6 +12456,7 @@ zzzyk.com###Tinfo
 ||2i0da8u7.cn^
 ||2i1m.xyz^
 ||2kandy.com/js/123/
+||2kxs.org/6ADyQNkC/
 ||2lian.com^$third-party
 ||2m2n.com^
 ||2mfx.cn^
@@ -12834,6 +12844,7 @@ zzzyk.com###Tinfo
 ||54new.com*/da/
 ||550tg.com^
 ||551vip.xyz^
+||552aaa.us^
 ||553aaa.us^
 ||5555nt.com^
 ||5588.tv/js/piaofuImg.js
@@ -12970,6 +12981,7 @@ zzzyk.com###Tinfo
 ||65tgh.com^
 ||66.fmx.cn/js/
 ||6604.org^$third-party
+||6617398ccc.com^
 ||6665432.com^*.gif
 ||66668aaa.com^
 ||66669aaa.com^
@@ -13002,6 +13014,7 @@ zzzyk.com###Tinfo
 ||6868edu.com^
 ||68710266.com^
 ||6888i.top^
+||688aaa.us^
 ||693836.com^$popup
 ||69688qp.com^
 ||69adu.com/bootstrap.
@@ -14666,6 +14679,7 @@ zzzyk.com###Tinfo
 ||bhyddc.com^
 ||bian-min.com/javascript/a/detail.js
 ||biancheng.net/templets/new/images/index_pc/fudaoban_
+||biancheng.net/uploads/ggxc/
 ||biandaosheng.com^
 ||bianxianmao.com^$third-party
 ||bianzhirensheng.com/img/banner.jpg
@@ -14863,6 +14877,7 @@ zzzyk.com###Tinfo
 ||btbtdy.*/templets/btdy/js/ad
 ||btbuluo.com/uploads/*.gif
 ||btc.com/v1/poster/production/explorer-banner.
+||btc440.top^
 ||btcbto.com^
 ||btcfans.com/template/comiis_lssy/ad/
 ||btdb.in/beacon.html
@@ -15440,6 +15455,7 @@ zzzyk.com###Tinfo
 ||cnprint.org/bbs/images/gg/
 ||cnr.cn/cnrxwph/iframe/tpdy/
 ||cnr.cn/s?z=
+||cnredg.xyz^
 ||cnscdj.com^
 ||cnscg.com/api.php?mod=ad&
 ||cnscg.com/template/default/style/*960x
@@ -15540,6 +15556,7 @@ zzzyk.com###Tinfo
 ||cpro.zol.com.cn^
 ||cpt.9136.com/img/b_special/
 ||cpu.baidu.com^$third-party
+||cqcimec.xyz^
 ||cqcvjzf.cn^
 ||cqdjhj.cn^
 ||cqdzjc.com^
@@ -16849,6 +16866,7 @@ zzzyk.com###Tinfo
 ||fujbjb.xyz^
 ||fujifood.hk^
 ||fujincenter.com^
+||fujoe.cyou^
 ||fuli.us/ad.js
 ||fulibac.com/images/upload/ad/
 ||fulibl.com/wp-content/uploads/2016/06/320-230.jpg
@@ -18071,6 +18089,7 @@ zzzyk.com###Tinfo
 ||ibiquge.la/base
 ||ibjkafefertt.xyz^
 ||ibjkdwsdko.com^
+||ibjknmqw.com^
 ||iblimq.xyz^
 ||ibqswjdkpo.com^
 ||ibzgcrusher.com^
@@ -18250,6 +18269,7 @@ zzzyk.com###Tinfo
 ||images.sohu.com/cs/
 ||images.sohu.com/ytv/*.jpg
 ||images8.gaotie.cn^
+||imageshh.com^
 ||imagespublic.tk/clothes/comeliness.php
 ||imall.cctv.com^
 ||imall.cntv.cn^
@@ -18777,6 +18797,7 @@ zzzyk.com###Tinfo
 ||jitapu.com/inc/adv
 ||jitashe.org/template/jitashe/image/bc/3
 ||jiu9.shop^
+||jiudashi.shop^
 ||jiudiandyw.com^
 ||jiuku.pw^
 ||jiulela.ltd^
@@ -19092,6 +19113,7 @@ zzzyk.com###Tinfo
 ||kakadm.*/js/loadjs/jquery
 ||kakam.info^
 ||kakuxs.com/js/23qb.js
+||kalongyyds.com^
 ||kalvin.cn/page/img/
 ||kan-ju.net/cr.gif
 ||kan.cc/statics/abs/scripts/abs.
@@ -19542,7 +19564,7 @@ zzzyk.com###Tinfo
 ||ldb.cc/js/top.js
 ||ldd62n.top^
 ||lddpgn.cn^
-||ldmnq.com^$third-party
+||ldmnq.com/bbs/$third-party
 ||ldmnq.com^$third-party,badfilter
 ||ldpsfa.com^
 ||le123.cn^$third-party
@@ -19922,6 +19944,7 @@ zzzyk.com###Tinfo
 ||lzwdq.xyz^
 ||lzxnhul.cn^
 ||lzyysw.com/upload/
+||lzzzjx.xyz^
 ||m.20mao.com/*/BOT.js
 ||m.20mao.com/*/Head.js
 ||m.20mao.com/*/TOP.JS
@@ -20874,6 +20897,7 @@ zzzyk.com###Tinfo
 ||okokw.com^$third-party
 ||okooo.com/I/?method=system.data.ad&
 ||okoy.top^
+||okpoiione.com^
 ||okwa.top^
 ||okwan.cn^
 ||okwg.top^
@@ -20932,6 +20956,7 @@ zzzyk.com###Tinfo
 ||opxnwz.shop^
 ||opymgaj.cn^
 ||oq68.com^
+||oqeohuc.cn^
 ||oqfdan.cn^
 ||oqnggnsk.fun^
 ||oqshoyd.cn^
@@ -21275,12 +21300,14 @@ zzzyk.com###Tinfo
 ||poke88.com^
 ||pokeryun.site^
 ||polflq.cn^
+||polkkqm.com^
 ||polkmerty.xyz^
 ||polkmnhytgb.com^
 ||pongsone.uno^
 ||ponymi.xyz^
 ||pop.wioau.com^$third-party
 ||pop800.com^$third-party
+||poqoiwn.com^
 ||porjjhu.cn^
 ||porlsbll.cyou^
 ||porn87.com/static/stream_ads/
@@ -21567,6 +21594,7 @@ zzzyk.com###Tinfo
 ||qisafniy.space^
 ||qishenga.com^*.gif$domain=meiju11.com
 ||qishuk.com/css/wap.
+||qist.me^
 ||qitou20230204.live^
 ||qiutian.buzz^
 ||qiuw.com/static/xin-ad.js
@@ -22480,6 +22508,7 @@ zzzyk.com###Tinfo
 ||slashlook.com/_resource/html/_bloggerAdsBottom.html
 ||slashlook.com/_resource/html/_bloggerAdsInline1.html
 ||slcgngo.cn^
+||sleuey.xyz^
 ||slfindmarket.live^
 ||slfj564.xyz^
 ||slibindy.top^
@@ -22599,6 +22628,7 @@ zzzyk.com###Tinfo
 ||soso.ws^
 ||sosodo.xyz^
 ||sosrom.cn^
+||souche.com^$third-party
 ||soufunimg.com/common_m/m_public/js/wa
 ||soufunimg.com/homepage/new/*/buttomLayer.js
 ||soufunimg.com/imgd/viewimage/*/640x210
@@ -23449,6 +23479,7 @@ zzzyk.com###Tinfo
 ||ugnlaigt.fun^
 ||uhmtlzd.cn^
 ||uhyhdrh.cn^
+||uibjhqwkl.com^
 ||uibqwl.xyz^
 ||uibtxv.cn^
 ||uisafnit.space^
@@ -25499,6 +25530,7 @@ zzzyk.com###Tinfo
 ||zztongyun.com/static/js/sh.min.js
 ||zzwzsic.cn^
 ||zzxedr.xyz^
+||zzxmcp.com^
 ||zzxxli.club^
 ||zzycj.com^
 ||zzyl.mobi^
