@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202303110241
+! Version: 202303111651
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25591
+! Lenth = 25602
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -13205,6 +13205,7 @@ zzzyk.com###Tinfo
 ||88448.com/images/appkai980x100.gif
 ||885741.com^
 ||885842.com^
+||8861202.com^
 ||8861203.com^
 ||8881img.com^
 ||8886i.top^
@@ -13523,6 +13524,7 @@ zzzyk.com###Tinfo
 ||a3vy69.cn^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
+||a666.one^
 ||a6vv9o.online^
 ||a78wt.top^
 ||a8cd.com^
@@ -14809,6 +14811,7 @@ zzzyk.com###Tinfo
 ||bocvb.xyz^
 ||bodu365.co/t/
 ||bojebd.xyz^
+||bole.kim^
 ||bole8dns.com^
 ||bolecdn.com/button/txt.js
 ||boleimg.com^
@@ -18099,6 +18102,7 @@ zzzyk.com###Tinfo
 ||ibgdd67.top^
 ||ibgksw.xyz^
 ||ibiquge.la/base
+||ibjaknom.com^
 ||ibjkafefertt.xyz^
 ||ibjkdwsdko.com^
 ||ibjknmqw.com^
@@ -19554,6 +19558,7 @@ zzzyk.com###Tinfo
 ||larbcc.xyz^
 ||laura.fun^
 ||law-lib.com/wstyle/images/gffirm.jpg
+||lawtech.vip^
 ||lawtv.com.cn/jd_ceshi.html
 ||lawtv.com.cn/skin/newplayer/ads_dianshi.php
 ||laxnlqn.cn^
@@ -19609,6 +19614,7 @@ zzzyk.com###Tinfo
 ||lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
 ||lenovo.com.cn/lenovo/bid?clientType=
 ||lensdump.com/i/*.gif
+||leopold37.xyz^
 ||lepjrh.xyz^
 ||letaojuan68.com^
 ||letong.xyz^
@@ -20306,6 +20312,8 @@ zzzyk.com###Tinfo
 ||mm786.com^$popup,third-party
 ||mm7920.com:8888/upload/*.gif
 ||mmalrek.cn^
+||mmeimh.xyz/static/100.
+||mmeimh.xyz/static/images/
 ||mmfusheng.com^
 ||mmlala.com^
 ||mmmyhkl.cn^
@@ -21992,6 +22000,7 @@ zzzyk.com###Tinfo
 ||rltdxt.com/files/h5/
 ||rm4b.top^
 ||rmbsmxz.cn^
+||rmccajg.cn^
 ||rmgmggg.cn^
 ||rmipoz.com/dp.js
 ||rmirha.cn^
@@ -23432,6 +23441,7 @@ zzzyk.com###Tinfo
 ||u2676.com^
 ||u26u.com^$popup,third-party
 ||u33011.com^
+||u33022.com^
 ||u5fsqf.com^
 ||u5ree6.com^
 ||u644.fun^
@@ -24297,6 +24307,7 @@ zzzyk.com###Tinfo
 ||xbhxgcj.cn^
 ||xbiqu5.com/12345678.
 ||xbiqugecc.com/bcc/
+||xbiqugela.com/js/basisc.
 ||xbiqugexx.com/js/jamq.
 ||xbiqugexx.com/static/js/wap.js
 ||xbptvaq.cn^

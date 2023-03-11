@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202303110241
+! Version: 202303111651
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 22962
+! Lenth = 22973
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -10576,6 +10576,7 @@ zzzyk.com###Tinfo
 ||88448.com/images/appkai980x100.gif
 ||885741.com^
 ||885842.com^
+||8861202.com^
 ||8861203.com^
 ||8881img.com^
 ||8886i.top^
@@ -10894,6 +10895,7 @@ zzzyk.com###Tinfo
 ||a3vy69.cn^
 ||a5xiazai.com/z/
 ||a6.hujiang.com^$domain=~class.hujiang.com
+||a666.one^
 ||a6vv9o.online^
 ||a78wt.top^
 ||a8cd.com^
@@ -12180,6 +12182,7 @@ zzzyk.com###Tinfo
 ||bocvb.xyz^
 ||bodu365.co/t/
 ||bojebd.xyz^
+||bole.kim^
 ||bole8dns.com^
 ||bolecdn.com/button/txt.js
 ||boleimg.com^
@@ -15470,6 +15473,7 @@ zzzyk.com###Tinfo
 ||ibgdd67.top^
 ||ibgksw.xyz^
 ||ibiquge.la/base
+||ibjaknom.com^
 ||ibjkafefertt.xyz^
 ||ibjkdwsdko.com^
 ||ibjknmqw.com^
@@ -16925,6 +16929,7 @@ zzzyk.com###Tinfo
 ||larbcc.xyz^
 ||laura.fun^
 ||law-lib.com/wstyle/images/gffirm.jpg
+||lawtech.vip^
 ||lawtv.com.cn/jd_ceshi.html
 ||lawtv.com.cn/skin/newplayer/ads_dianshi.php
 ||laxnlqn.cn^
@@ -16980,6 +16985,7 @@ zzzyk.com###Tinfo
 ||lenovo.com.cn/cms/2018-07-20/201807201014498251793.png
 ||lenovo.com.cn/lenovo/bid?clientType=
 ||lensdump.com/i/*.gif
+||leopold37.xyz^
 ||lepjrh.xyz^
 ||letaojuan68.com^
 ||letong.xyz^
@@ -17677,6 +17683,8 @@ zzzyk.com###Tinfo
 ||mm786.com^$popup,third-party
 ||mm7920.com:8888/upload/*.gif
 ||mmalrek.cn^
+||mmeimh.xyz/static/100.
+||mmeimh.xyz/static/images/
 ||mmfusheng.com^
 ||mmlala.com^
 ||mmmyhkl.cn^
@@ -19363,6 +19371,7 @@ zzzyk.com###Tinfo
 ||rltdxt.com/files/h5/
 ||rm4b.top^
 ||rmbsmxz.cn^
+||rmccajg.cn^
 ||rmgmggg.cn^
 ||rmipoz.com/dp.js
 ||rmirha.cn^
@@ -20803,6 +20812,7 @@ zzzyk.com###Tinfo
 ||u2676.com^
 ||u26u.com^$popup,third-party
 ||u33011.com^
+||u33022.com^
 ||u5fsqf.com^
 ||u5ree6.com^
 ||u644.fun^
@@ -21668,6 +21678,7 @@ zzzyk.com###Tinfo
 ||xbhxgcj.cn^
 ||xbiqu5.com/12345678.
 ||xbiqugecc.com/bcc/
+||xbiqugela.com/js/basisc.
 ||xbiqugexx.com/js/jamq.
 ||xbiqugexx.com/static/js/wap.js
 ||xbptvaq.cn^
