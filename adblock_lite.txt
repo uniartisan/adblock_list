@@ -1,9 +1,9 @@
 [uniartisan's Adblock List Lite]
-! Version: 202303101633
+! Version: 202303110241
 ! Title:  uniartisan's Adblock List Lite
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 22954
+! Lenth = 22962
 #%#var AG_abortInlineScript=function(g,b,c){var d=function(){if("currentScript"in document)return document.currentScript;var a=document.getElementsByTagName("script");return a[a.length-1]},e=Math.random().toString(36).substr(2,8),h=d();AG_defineProperty(b,{beforeGet:function(){var a=d();if(a instanceof HTMLScriptElement&&a!==h&&""===a.src&&g.test(a.textContent))throw c&&console.warn("AdGuard aborted execution of an inline script"),new ReferenceError(e);}});var f=window.onerror;window.onerror=function(a){if("string"===typeof a&&-1!==a.indexOf(e))return c&&console.warn("AdGuard has caught window.onerror: "+b),!0;if(f instanceof Function)return f.apply(this,arguments)}};
 #%#var AG_abortOnPropertyRead=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeGet:function(){b&&console.warn("AdGuard aborted property read: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
 #%#var AG_abortOnPropertyWrite=function(a,b){var c=Math.random().toString(36).substr(2,8);AG_defineProperty(a,{beforeSet:function(){b&&console.warn("AdGuard aborted property write: "+a);throw new ReferenceError(c);}});var d=window.onerror;window.onerror=function(e){if("string"===typeof e&&-1!==e.indexOf(c))return b&&console.warn("AdGuard has caught window.onerror: "+a),!0;if(d instanceof Function)return d.apply(this,arguments)}};
@@ -9652,6 +9652,7 @@ zzzyk.com###Tinfo
 ||1990tu.com/i/*.gif
 ||1990tu.com/i/*.png
 ||1990tu.com^$third-party
+||1996faka.cn^
 ||1999019.com^
 ||199aaa.us^
 ||19kan.com/static/js/hf.js
@@ -11578,6 +11579,7 @@ zzzyk.com###Tinfo
 ||avdao.pw/dist/js/sc_check
 ||avdb.me/ad/
 ||avgle.topgirlsdating.com^$domain=avgle.com
+||avgsco.xyz^
 ||avjd014.com/*ad^
 ||avjj26.com/api/?d=pc&c=advert&
 ||avple.video/asset/bann.js
@@ -13226,6 +13228,7 @@ zzzyk.com###Tinfo
 ||dchxxvk.cn^
 ||dcmh.xyz^
 ||dcs.conac.cn/js/
+||dcvbnzss.xyz^
 ||dczqjfo.cn^
 ||dd-lightingshow.com^
 ||dd1.diymianmo.com^
@@ -14119,6 +14122,7 @@ zzzyk.com###Tinfo
 ||fhvbhx.xyz^
 ||files.jb51.net/image/
 ||files.zmzjstu.com/g3^
+||fioem.cyou^
 ||firefoxchina.cn/2014/*_foxphone.png
 ||firefoxchina.cn/chome_*.html
 ||firefoxchina.cn/chome_pmt_
@@ -16051,6 +16055,7 @@ zzzyk.com###Tinfo
 ||jgnlaiga.fun^
 ||jgqub.cn^
 ||jgstny.com^$third-party
+||jh001.cc^
 ||jh3pin.com^
 ||jhgtf.com^
 ||jhkj.work^
@@ -18912,6 +18917,7 @@ zzzyk.com###Tinfo
 ||qhres.com^*/baidu_
 ||qhrixol.cn^
 ||qhyy8.com/template/default_wap/html/public/img/*.gif
+||qiabayyds.com^
 ||qianbaobbs.net^
 ||qianchengwenhua.xyz^
 ||qianduoduo.fit^
@@ -19412,6 +19418,7 @@ zzzyk.com###Tinfo
 ||rtmtgf.xyz^
 ||rtnigaz.cyou^
 ||rtrete.store^
+||rtsdfw44.com^
 ||rtycgmz.cn^
 ||rtzhao.site^
 ||ruanyifeng.com/9he/
@@ -20523,6 +20530,7 @@ zzzyk.com###Tinfo
 ||tixnd.xyz^
 ||tizf7.top^
 ||tj.21ic.com^
+||tjbxhn.xyz^
 ||tjhhr.com^
 ||tjiaa.com^
 ||tjj.com^

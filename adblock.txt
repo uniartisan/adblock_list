@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202303101633
+! Version: 202303110241
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 25582
+! Lenth = 25591
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###J_sideFooter.side_footer
@@ -1760,6 +1760,7 @@ $websocket,domain=5nj.com|cechi8.com
 /404.safedog.cn/sitedog_stat_new.html
 /468_60.
 /500ad/*
+/527ldy.oss-
 /555hsdsj/*
 /555hsdsjTT/*
 /58pic/index.php?m=adManageSystem&
@@ -12280,6 +12281,7 @@ zzzyk.com###Tinfo
 ||1990tu.com/i/*.gif
 ||1990tu.com/i/*.png
 ||1990tu.com^$third-party
+||1996faka.cn^
 ||1999019.com^
 ||199aaa.us^
 ||19kan.com/static/js/hf.js
@@ -14206,6 +14208,7 @@ zzzyk.com###Tinfo
 ||avdao.pw/dist/js/sc_check
 ||avdb.me/ad/
 ||avgle.topgirlsdating.com^$domain=avgle.com
+||avgsco.xyz^
 ||avjd014.com/*ad^
 ||avjj26.com/api/?d=pc&c=advert&
 ||avple.video/asset/bann.js
@@ -15854,6 +15857,7 @@ zzzyk.com###Tinfo
 ||dchxxvk.cn^
 ||dcmh.xyz^
 ||dcs.conac.cn/js/
+||dcvbnzss.xyz^
 ||dczqjfo.cn^
 ||dd-lightingshow.com^
 ||dd1.diymianmo.com^
@@ -16747,6 +16751,7 @@ zzzyk.com###Tinfo
 ||fhvbhx.xyz^
 ||files.jb51.net/image/
 ||files.zmzjstu.com/g3^
+||fioem.cyou^
 ||firefoxchina.cn/2014/*_foxphone.png
 ||firefoxchina.cn/chome_*.html
 ||firefoxchina.cn/chome_pmt_
@@ -18679,6 +18684,7 @@ zzzyk.com###Tinfo
 ||jgnlaiga.fun^
 ||jgqub.cn^
 ||jgstny.com^$third-party
+||jh001.cc^
 ||jh3pin.com^
 ||jhgtf.com^
 ||jhkj.work^
@@ -21540,6 +21546,7 @@ zzzyk.com###Tinfo
 ||qhres.com^*/baidu_
 ||qhrixol.cn^
 ||qhyy8.com/template/default_wap/html/public/img/*.gif
+||qiabayyds.com^
 ||qianbaobbs.net^
 ||qianchengwenhua.xyz^
 ||qianduoduo.fit^
@@ -22040,6 +22047,7 @@ zzzyk.com###Tinfo
 ||rtmtgf.xyz^
 ||rtnigaz.cyou^
 ||rtrete.store^
+||rtsdfw44.com^
 ||rtycgmz.cn^
 ||rtzhao.site^
 ||ruanyifeng.com/9he/
@@ -23151,6 +23159,7 @@ zzzyk.com###Tinfo
 ||tixnd.xyz^
 ||tizf7.top^
 ||tj.21ic.com^
+||tjbxhn.xyz^
 ||tjhhr.com^
 ||tjiaa.com^
 ||tjj.com^
