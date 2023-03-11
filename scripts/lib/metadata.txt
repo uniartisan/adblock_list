@@ -11,6 +11,7 @@ cjx-annoyance.txt
 
 ! Adgurad 规则
 [+]2.txt
+[+]filter.txt
 
 ! Privacy 规则
 [P]easyprivacy.txt

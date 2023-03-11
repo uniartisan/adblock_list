@@ -6,3 +6,4 @@ https://filters.adtidy.org/extension/chromium/filters/2.txt
 https://filters.adtidy.org/extension/chromium/filters/224.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
 https://filters.adtidy.org/extension/chromium/filters/3.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
