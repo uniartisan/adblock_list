@@ -1,0 +1,8 @@
+! baidu 热榜，皮肤提示
+baidu.com###s-hotsearch-wrapper
+baidu.com###u1 > div.guide-info:last-child
+baidu.com##.FYB_RD
+
+! 无追搜索热榜和应用推荐
+wuzhuiso.com###mohe-hotnews_right
+wuzhuiso.com###side > div.download-browser:last-child
