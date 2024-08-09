@@ -1,0 +1,20 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.PRIVATE_TOKEN }}
+      
+        pr-message: |
+            Hello @${{ github.actor }}, thank you for submitting a PR! To allow your work to be integrated as seamlessly as possible, we advise you to:
+            - Verify your PR is **up-to-date with origin/master.
+            - Please check out our contributing guidelines.
+              
+              
+        issue-message: |
+            Hello @${{ github.actor }}, thank you for your interest in our work! It’s people like you who make our work better!
