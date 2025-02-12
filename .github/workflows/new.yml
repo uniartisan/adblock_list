@@ -1,0 +1,59 @@
+name: Automatic Commit
+
+on:
+  # push推送时触发
+  push:
+    branches:
+        - master
+  # 定时任务触发
+  schedule:
+    # 每天北京时间1点运行
+    - cron:  '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - run: pip install requests wget 
+
+      - name: Clear old files
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout --orphan new_branch
+          git commit -m "Initial commit on new_branch"
+          git branch -D master
+          git branch -m new_branch master
+          git push --set-upstream origin master -f
+
+
+      - name: Update
+        run: python ./scripts/tools/adblock.py
+
+      - name: Commit
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          git add -A
+          git commit -m \
+          ":pencil: Update at \
+          $(date +"%Y-%m-%d %H:%M") \
+          "
+
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PRIVATE_TOKEN }}
