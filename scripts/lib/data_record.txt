@@ -1,0 +1,10 @@
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://filters.adtidy.org/extension/chromium/filters/2.txt
+https://filters.adtidy.org/extension/chromium/filters/224.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://filters.adtidy.org/extension/chromium/filters/3.txt
+https://filters.adtidy.org/extension/chromium/filters/14.txt
+https://filters.adtidy.org/extension/chromium/filters/17.txt
